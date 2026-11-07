@@ -1,6 +1,6 @@
 using LearningBuddy.Core;
 
-namespace CertifLearningBuddyBuddy.Infrastructure;
+namespace LearningLearningBuddyBuddy.Infrastructure;
 
 public sealed class PackageImportFileReader
 {

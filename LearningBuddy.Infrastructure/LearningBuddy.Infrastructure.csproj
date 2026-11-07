@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <ItemGroup>
-        <ProjectReference Include="..\CertifBuddy.Core\CertifBuddy.Core.csproj"/>
+        <ProjectReference Include="..\LearningBuddy.Core\LearningBuddy.Core.csproj"/>
     </ItemGroup>
 
     <ItemGroup>

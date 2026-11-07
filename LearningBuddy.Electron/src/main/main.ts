@@ -54,8 +54,8 @@ const ASSISTANT_TICK_MS = 1000;
 const APP_TITLE = 'LearningBuddy';
 
 // Lets tests and side-by-side runs use an isolated profile; must be set before the single-instance lock.
-if (process.env.LEARNING_BUDDY_USER_DATA) {
-  app.setPath('userData', process.env.LEANRING_BUDDY_USER_DATA);
+if (process.env.CERTIF_BUDDY_USER_DATA) {
+  app.setPath('userData', process.env.CERTIF_BUDDY_USER_DATA); app.setPath('userData', process.env.CERTIF_BUDDY_USER_DATA);
 }
 
 let store: LocalStore;
