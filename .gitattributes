@@ -1,0 +1,6 @@
+# Scripts et recettes d'auteur exécutés sous WSL : LF obligatoire (un .sh en CRLF échoue sous sh).
+*.sh text eol=lf
+*.recipe text eol=lf
+*.png binary
+# Manifestes d'avatar : UTF-8 LF imposé par le contrat v1.0.0.
+assets/**/manifest.json text eol=lf

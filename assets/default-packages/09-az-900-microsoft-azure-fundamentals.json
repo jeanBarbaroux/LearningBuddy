@@ -1,0 +1,2203 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "AZ-900 Microsoft Azure Fundamentals",
+  "cards": [
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Cloud computing mean?",
+      "answer": "Delivery of computing services over a network with on-demand access to resources.",
+      "explanation": "Cloud computing provides services such as compute, storage, and networking over the internet or other networks.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "cloud-computing",
+        "definition"
+      ]
+    },
+    {
+      "question": "An organization wants to provision computing capacity without buying its own servers. Which computing model fits?",
+      "answer": "Cloud computing. Delivery of computing services over a network with on-demand access to resources.",
+      "explanation": "Cloud computing provides services such as compute, storage, and networking over the internet or other networks.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "cloud-computing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Shared responsibility model mean?",
+      "answer": "A division of security and operational duties between the cloud provider and customer.",
+      "explanation": "The provider secures underlying infrastructure, while customer duties depend on whether the service is IaaS, PaaS, or SaaS.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "shared-responsibility-model",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team asks whether the provider handles every security task after migrating. Which model clarifies the duties?",
+      "answer": "Shared responsibility model. A division of security and operational duties between the cloud provider and customer.",
+      "explanation": "The provider secures underlying infrastructure, while customer duties depend on whether the service is IaaS, PaaS, or SaaS.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "shared-responsibility-model",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Public cloud mean?",
+      "answer": "Cloud infrastructure owned and operated by a provider and made available to multiple customers.",
+      "explanation": "Public-cloud resources are provider managed, and tenants are logically separated.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "public-cloud",
+        "definition"
+      ]
+    },
+    {
+      "question": "A startup needs provider-hosted infrastructure without operating its own datacenter. Which cloud model is appropriate?",
+      "answer": "Public cloud. Cloud infrastructure owned and operated by a provider and made available to multiple customers.",
+      "explanation": "Public-cloud resources are provider managed, and tenants are logically separated.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "public-cloud",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Private cloud mean?",
+      "answer": "Cloud infrastructure dedicated to a single organization.",
+      "explanation": "Private cloud can be hosted on-premises or by a third party; it is not necessarily cheaper than public cloud.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "private-cloud",
+        "definition"
+      ]
+    },
+    {
+      "question": "A company requires a cloud environment dedicated exclusively to its organization. Which model is it?",
+      "answer": "Private cloud. Cloud infrastructure dedicated to a single organization.",
+      "explanation": "Private cloud can be hosted on-premises or by a third party; it is not necessarily cheaper than public cloud.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "private-cloud",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Hybrid cloud mean?",
+      "answer": "An environment that combines private or on-premises systems with public cloud resources.",
+      "explanation": "Hybrid cloud enables workloads and data to span on-premises and public-cloud environments.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "hybrid-cloud",
+        "definition"
+      ]
+    },
+    {
+      "question": "A company keeps sensitive workloads on-premises but runs web applications in Azure. Which model does it use?",
+      "answer": "Hybrid cloud. An environment that combines private or on-premises systems with public cloud resources.",
+      "explanation": "Hybrid cloud enables workloads and data to span on-premises and public-cloud environments.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "hybrid-cloud",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Consumption-based pricing mean?",
+      "answer": "A pricing approach in which charges generally reflect actual resource consumption.",
+      "explanation": "Consumption-based billing can reduce upfront capital costs, but unmonitored consumption can still create high bills.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "consumption-based-pricing",
+        "definition"
+      ]
+    },
+    {
+      "question": "An app has variable usage and wants costs to follow usage. Which pricing approach supports this?",
+      "answer": "Consumption-based pricing. A pricing approach in which charges generally reflect actual resource consumption.",
+      "explanation": "Consumption-based billing can reduce upfront capital costs, but unmonitored consumption can still create high bills.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "consumption-based-pricing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Capital expenditure (CapEx) mean?",
+      "answer": "Upfront spending to purchase or improve long-term assets such as physical servers.",
+      "explanation": "CapEx differs from operating expenses that recur to consume services.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "capital-expenditure-(capex)",
+        "definition"
+      ]
+    },
+    {
+      "question": "A business buys a datacenter server outright. Which expenditure category applies?",
+      "answer": "Capital expenditure (CapEx). Upfront spending to purchase or improve long-term assets such as physical servers.",
+      "explanation": "CapEx differs from operating expenses that recur to consume services.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "capital-expenditure-(capex)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Operating expenditure (OpEx) mean?",
+      "answer": "Ongoing spending for services or operations, such as cloud resource usage.",
+      "explanation": "Cloud subscriptions commonly shift some infrastructure spending from CapEx to OpEx.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "operating-expenditure-(opex)",
+        "definition"
+      ]
+    },
+    {
+      "question": "A business pays monthly for consumed Azure compute resources. Which expenditure category applies?",
+      "answer": "Operating expenditure (OpEx). Ongoing spending for services or operations, such as cloud resource usage.",
+      "explanation": "Cloud subscriptions commonly shift some infrastructure spending from CapEx to OpEx.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "operating-expenditure-(opex)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Serverless computing mean?",
+      "answer": "A cloud model in which the provider manages underlying servers and resources can scale with events or demand.",
+      "explanation": "Serverless does not mean no servers exist; it means developers do not manage those servers.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "serverless-computing",
+        "definition"
+      ]
+    },
+    {
+      "question": "Developers want code triggered by incoming events without administering VMs. Which computing approach fits?",
+      "answer": "Serverless computing. A cloud model in which the provider manages underlying servers and resources can scale with events or demand.",
+      "explanation": "Serverless does not mean no servers exist; it means developers do not manage those servers.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "serverless-computing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does High availability mean?",
+      "answer": "Designing systems to remain operational despite individual component failures.",
+      "explanation": "Redundancy across instances or zones can reduce downtime.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "high-availability",
+        "definition"
+      ]
+    },
+    {
+      "question": "A service must continue operating if one instance fails. Which quality is the team improving?",
+      "answer": "High availability. Designing systems to remain operational despite individual component failures.",
+      "explanation": "Redundancy across instances or zones can reduce downtime.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "high-availability",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Scalability mean?",
+      "answer": "The ability to increase or decrease resources to meet workload needs.",
+      "explanation": "Scaling can be vertical (larger instances) or horizontal (more instances).",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "scalability",
+        "definition"
+      ]
+    },
+    {
+      "question": "An online store needs additional compute capacity for a seasonal traffic spike. Which capability matters?",
+      "answer": "Scalability. The ability to increase or decrease resources to meet workload needs.",
+      "explanation": "Scaling can be vertical (larger instances) or horizontal (more instances).",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "scalability",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Elasticity mean?",
+      "answer": "The capability to adjust capacity rapidly, often automatically, as demand changes.",
+      "explanation": "Elastic systems respond to demand changes without keeping peak capacity running continuously.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "elasticity",
+        "definition"
+      ]
+    },
+    {
+      "question": "Traffic spikes unexpectedly and resources should expand and contract automatically. Which cloud benefit fits?",
+      "answer": "Elasticity. The capability to adjust capacity rapidly, often automatically, as demand changes.",
+      "explanation": "Elastic systems respond to demand changes without keeping peak capacity running continuously.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "elasticity",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Reliability mean?",
+      "answer": "The ability of a system to recover from failures and continue functioning as intended.",
+      "explanation": "Reliability involves resilient design, recovery, and minimizing the effect of faults.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "reliability",
+        "definition"
+      ]
+    },
+    {
+      "question": "A critical service must withstand component failures and resume normal operations. Which quality matters?",
+      "answer": "Reliability. The ability of a system to recover from failures and continue functioning as intended.",
+      "explanation": "Reliability involves resilient design, recovery, and minimizing the effect of faults.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "reliability",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Predictability mean?",
+      "answer": "The ability to anticipate service performance and costs through planning, monitoring, and stable service characteristics.",
+      "explanation": "Cost estimates, monitoring, and consistent service configurations support predictability.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "predictability",
+        "definition"
+      ]
+    },
+    {
+      "question": "A finance team wants more predictable spending and performance baselines for cloud workloads. Which benefit matters?",
+      "answer": "Predictability. The ability to anticipate service performance and costs through planning, monitoring, and stable service characteristics.",
+      "explanation": "Cost estimates, monitoring, and consistent service configurations support predictability.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "predictability",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Cloud security benefits mean?",
+      "answer": "Provider capabilities and controls that help protect cloud workloads and data.",
+      "explanation": "Security still requires customer configuration and governance under shared responsibility.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "cloud-security-benefits",
+        "definition"
+      ]
+    },
+    {
+      "question": "An organization wants built-in encryption, identity controls, and security monitoring. Which cloud benefit applies?",
+      "answer": "Cloud security benefits. Provider capabilities and controls that help protect cloud workloads and data.",
+      "explanation": "Security still requires customer configuration and governance under shared responsibility.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "cloud-security-benefits",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Cloud governance mean?",
+      "answer": "Policies, standards, and controls that guide how cloud resources are deployed and used.",
+      "explanation": "Governance helps balance agility, compliance, and cost control.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "cloud-governance",
+        "definition"
+      ]
+    },
+    {
+      "question": "A company needs consistent rules for resource locations, ownership, and configurations. Which discipline helps?",
+      "answer": "Cloud governance. Policies, standards, and controls that guide how cloud resources are deployed and used.",
+      "explanation": "Governance helps balance agility, compliance, and cost control.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "cloud-governance",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Cloud manageability mean?",
+      "answer": "The ability to administer, automate, and monitor resources using cloud management tools.",
+      "explanation": "Azure provides portals, command-line tools, APIs, and templates for resource administration.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "cloud-manageability",
+        "definition"
+      ]
+    },
+    {
+      "question": "Operations wants centralized dashboards and repeatable deployment scripts. Which cloud benefit supports this?",
+      "answer": "Cloud manageability. The ability to administer, automate, and monitor resources using cloud management tools.",
+      "explanation": "Azure provides portals, command-line tools, APIs, and templates for resource administration.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "cloud-manageability",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Infrastructure as a service (IaaS) mean?",
+      "answer": "A cloud service model that provides virtualized compute, storage, and networking while customers manage operating systems and applications.",
+      "explanation": "IaaS offers flexibility but requires customers to patch and configure guest operating systems.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "infrastructure-as-a-service-(iaas)",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team needs control of a VM operating system without maintaining physical hardware. Which service model fits?",
+      "answer": "Infrastructure as a service (IaaS). A cloud service model that provides virtualized compute, storage, and networking while customers manage operating systems and applications.",
+      "explanation": "IaaS offers flexibility but requires customers to patch and configure guest operating systems.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "infrastructure-as-a-service-(iaas)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Platform as a service (PaaS) mean?",
+      "answer": "A model that provides managed application hosting platforms so customers focus on apps and data.",
+      "explanation": "With PaaS, customers typically manage code, identities, data, and application configuration.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "platform-as-a-service-(paas)",
+        "definition"
+      ]
+    },
+    {
+      "question": "Developers want to deploy code while the provider handles OS patching and the runtime platform. Which model fits?",
+      "answer": "Platform as a service (PaaS). A model that provides managed application hosting platforms so customers focus on apps and data.",
+      "explanation": "With PaaS, customers typically manage code, identities, data, and application configuration.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "platform-as-a-service-(paas)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Software as a service (SaaS) mean?",
+      "answer": "A model in which customers use provider-hosted applications without managing the application infrastructure.",
+      "explanation": "The SaaS provider manages most of the application stack, while the customer manages users and data policies.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "software-as-a-service-(saas)",
+        "definition"
+      ]
+    },
+    {
+      "question": "Employees need a complete cloud-hosted productivity application. Which service model fits?",
+      "answer": "Software as a service (SaaS). A model in which customers use provider-hosted applications without managing the application infrastructure.",
+      "explanation": "The SaaS provider manages most of the application stack, while the customer manages users and data policies.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "software-as-a-service-(saas)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does IaaS customer responsibility mean?",
+      "answer": "Managing guest operating systems, installed software, applications, data, and relevant configurations.",
+      "explanation": "Microsoft manages the physical infrastructure, but the VM customer normally maintains the guest OS.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "iaas-customer-responsibility",
+        "definition"
+      ]
+    },
+    {
+      "question": "An organization deploys an Azure VM. Who is responsible for patching its guest operating system?",
+      "answer": "IaaS customer responsibility. Managing guest operating systems, installed software, applications, data, and relevant configurations.",
+      "explanation": "Microsoft manages the physical infrastructure, but the VM customer normally maintains the guest OS.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "iaas-customer-responsibility",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does PaaS customer responsibility mean?",
+      "answer": "Managing application code, application settings, data, and access while the provider manages the underlying platform.",
+      "explanation": "PaaS reduces infrastructure administration but does not eliminate customer security responsibility.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "paas-customer-responsibility",
+        "definition"
+      ]
+    },
+    {
+      "question": "A developer hosts an app using a managed web platform. Who must secure the app code and data?",
+      "answer": "PaaS customer responsibility. Managing application code, application settings, data, and access while the provider manages the underlying platform.",
+      "explanation": "PaaS reduces infrastructure administration but does not eliminate customer security responsibility.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "paas-customer-responsibility",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does SaaS customer responsibility mean?",
+      "answer": "Managing identities, access, data, and tenant configuration according to the service.",
+      "explanation": "A SaaS provider runs the application; the customer still controls authorized usage and information.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "saas-customer-responsibility",
+        "definition"
+      ]
+    },
+    {
+      "question": "A firm adopts a hosted productivity suite. Who sets employee access policies?",
+      "answer": "SaaS customer responsibility. Managing identities, access, data, and tenant configuration according to the service.",
+      "explanation": "A SaaS provider runs the application; the customer still controls authorized usage and information.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "saas-customer-responsibility",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Vertical scaling mean?",
+      "answer": "Increasing the CPU, memory, or other capacity of an individual resource.",
+      "explanation": "Vertical scaling is also called scaling up and is constrained by available instance sizes.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "vertical-scaling",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team upgrades a VM from a small size to a larger size. Which scaling method is this?",
+      "answer": "Vertical scaling. Increasing the CPU, memory, or other capacity of an individual resource.",
+      "explanation": "Vertical scaling is also called scaling up and is constrained by available instance sizes.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "vertical-scaling",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Horizontal scaling mean?",
+      "answer": "Adding more instances to distribute a workload.",
+      "explanation": "Horizontal scaling is also called scaling out and can improve capacity and resilience.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "horizontal-scaling",
+        "definition"
+      ]
+    },
+    {
+      "question": "A website adds four identical app instances behind a load balancer. Which scaling method is this?",
+      "answer": "Horizontal scaling. Adding more instances to distribute a workload.",
+      "explanation": "Horizontal scaling is also called scaling out and can improve capacity and resilience.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "horizontal-scaling",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Fault tolerance mean?",
+      "answer": "The ability of a design to continue functioning when some components fail.",
+      "explanation": "Redundant components and failover mechanisms help achieve fault tolerance.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "fault-tolerance",
+        "definition"
+      ]
+    },
+    {
+      "question": "One server crashes but remaining nodes keep the application available. Which concept is illustrated?",
+      "answer": "Fault tolerance. The ability of a design to continue functioning when some components fail.",
+      "explanation": "Redundant components and failover mechanisms help achieve fault tolerance.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "fault-tolerance",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Disaster recovery mean?",
+      "answer": "Processes and technology used to restore services after a major disruption.",
+      "explanation": "Recovery targets often include recovery time objective and recovery point objective.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "disaster-recovery",
+        "definition"
+      ]
+    },
+    {
+      "question": "A company needs a plan to restore an application following a regional outage. What capability does it need?",
+      "answer": "Disaster recovery. Processes and technology used to restore services after a major disruption.",
+      "explanation": "Recovery targets often include recovery time objective and recovery point objective.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "disaster-recovery",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Service-level agreement (SLA) mean?",
+      "answer": "A provider commitment describing an agreed service level, often including availability.",
+      "explanation": "SLAs specify commitments and terms; designs must satisfy relevant conditions to qualify.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "service-level-agreement-(sla)",
+        "definition"
+      ]
+    },
+    {
+      "question": "A customer wants to understand the availability commitment for a cloud service. Which document should they check?",
+      "answer": "Service-level agreement (SLA). A provider commitment describing an agreed service level, often including availability.",
+      "explanation": "SLAs specify commitments and terms; designs must satisfy relevant conditions to qualify.",
+      "language": "en",
+      "tags": [
+        "cloud-concepts",
+        "service-level-agreement-(sla)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure region mean?",
+      "answer": "A geographic area containing one or more nearby datacenters connected by low-latency networking.",
+      "explanation": "Region selection affects data residency, latency, service availability, and costs.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-region",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team must choose where Azure resources will be deployed geographically. Which Azure concept applies?",
+      "answer": "Azure region. A geographic area containing one or more nearby datacenters connected by low-latency networking.",
+      "explanation": "Region selection affects data residency, latency, service availability, and costs.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-region",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure region pair mean?",
+      "answer": "An Azure regional pairing used for certain platform recovery and maintenance considerations.",
+      "explanation": "Not every Azure region has a pair, and pairing does not automatically replicate customer resources.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-region-pair",
+        "definition"
+      ]
+    },
+    {
+      "question": "An architect asks about Azure regions associated for some disaster recovery planning. What is this relationship called?",
+      "answer": "Azure region pair. An Azure regional pairing used for certain platform recovery and maintenance considerations.",
+      "explanation": "Not every Azure region has a pair, and pairing does not automatically replicate customer resources.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-region-pair",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Sovereign Azure region mean?",
+      "answer": "A region operated to meet specific government or regulatory requirements.",
+      "explanation": "Sovereign cloud offerings have distinct compliance and access characteristics.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "sovereign-azure-region",
+        "definition"
+      ]
+    },
+    {
+      "question": "A government workload requires a specialized jurisdictional cloud environment. Which region type may be relevant?",
+      "answer": "Sovereign Azure region. A region operated to meet specific government or regulatory requirements.",
+      "explanation": "Sovereign cloud offerings have distinct compliance and access characteristics.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "sovereign-azure-region",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Availability zone mean?",
+      "answer": "A physically separate datacenter grouping within an Azure region with independent power, cooling, and networking.",
+      "explanation": "Availability zones support resilience to datacenter-level failures within supported regions.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "availability-zone",
+        "definition"
+      ]
+    },
+    {
+      "question": "An app deploys instances into separate fault-isolated locations within one region. Which feature is it using?",
+      "answer": "Availability zone. A physically separate datacenter grouping within an Azure region with independent power, cooling, and networking.",
+      "explanation": "Availability zones support resilience to datacenter-level failures within supported regions.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "availability-zone",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure datacenter mean?",
+      "answer": "A physical facility that houses Azure computing, networking, and storage infrastructure.",
+      "explanation": "Regions contain datacenters; customers ordinarily manage logical services, not physical facilities.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-datacenter",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team asks what physical facilities host cloud servers. What are they called in Azure?",
+      "answer": "Azure datacenter. A physical facility that houses Azure computing, networking, and storage infrastructure.",
+      "explanation": "Regions contain datacenters; customers ordinarily manage logical services, not physical facilities.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-datacenter",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure resource mean?",
+      "answer": "A manageable Azure service instance such as a VM, virtual network, or storage account.",
+      "explanation": "Resources are managed through Azure Resource Manager.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-resource",
+        "definition"
+      ]
+    },
+    {
+      "question": "A developer creates an Azure storage account. What is that individual deployed object called?",
+      "answer": "Azure resource. A manageable Azure service instance such as a VM, virtual network, or storage account.",
+      "explanation": "Resources are managed through Azure Resource Manager.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-resource",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Resource group mean?",
+      "answer": "A logical container that holds related Azure resources for management.",
+      "explanation": "A resource belongs to one resource group at a time and can often be moved subject to restrictions.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "resource-group",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team wants to manage several application resources as one logical unit. What should it use?",
+      "answer": "Resource group. A logical container that holds related Azure resources for management.",
+      "explanation": "A resource belongs to one resource group at a time and can often be moved subject to restrictions.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "resource-group",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure subscription mean?",
+      "answer": "A billing and access-management boundary for Azure resources.",
+      "explanation": "Subscriptions contain resource groups and belong to a Microsoft Entra tenant.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-subscription",
+        "definition"
+      ]
+    },
+    {
+      "question": "A company wants a separate billing boundary for a business unit. Which Azure object is suitable?",
+      "answer": "Azure subscription. A billing and access-management boundary for Azure resources.",
+      "explanation": "Subscriptions contain resource groups and belong to a Microsoft Entra tenant.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-subscription",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Management group mean?",
+      "answer": "A scope above subscriptions used to organize and apply governance across multiple subscriptions.",
+      "explanation": "Management groups form a hierarchy for policy and access assignment inheritance.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "management-group",
+        "definition"
+      ]
+    },
+    {
+      "question": "An enterprise needs to apply governance consistently to dozens of subscriptions. What should it use?",
+      "answer": "Management group. A scope above subscriptions used to organize and apply governance across multiple subscriptions.",
+      "explanation": "Management groups form a hierarchy for policy and access assignment inheritance.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "management-group",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure hierarchy mean?",
+      "answer": "Management groups contain subscriptions; subscriptions contain resource groups; resource groups contain resources.",
+      "explanation": "Policies and RBAC assignments can be inherited down the relevant scope hierarchy.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-hierarchy",
+        "definition"
+      ]
+    },
+    {
+      "question": "An administrator needs the correct ordering of Azure management scopes. What is it?",
+      "answer": "Azure hierarchy. Management groups contain subscriptions; subscriptions contain resource groups; resource groups contain resources.",
+      "explanation": "Policies and RBAC assignments can be inherited down the relevant scope hierarchy.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-hierarchy",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Virtual Machines mean?",
+      "answer": "Azure IaaS compute instances that run a chosen guest operating system.",
+      "explanation": "Virtual machines provide OS control and require customer management of their guest environments.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-virtual-machines",
+        "definition"
+      ]
+    },
+    {
+      "question": "A legacy application requires administrator-level control of its Windows or Linux server. Which compute service fits?",
+      "answer": "Azure Virtual Machines. Azure IaaS compute instances that run a chosen guest operating system.",
+      "explanation": "Virtual machines provide OS control and require customer management of their guest environments.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-virtual-machines",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Virtual Machine Scale Sets mean?",
+      "answer": "A service that manages and scales a group of virtual machine instances.",
+      "explanation": "VM Scale Sets can integrate autoscaling and load balancing approaches.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "virtual-machine-scale-sets",
+        "definition"
+      ]
+    },
+    {
+      "question": "An application needs to scale out many similarly configured Azure VMs. Which service helps?",
+      "answer": "Virtual Machine Scale Sets. A service that manages and scales a group of virtual machine instances.",
+      "explanation": "VM Scale Sets can integrate autoscaling and load balancing approaches.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "virtual-machine-scale-sets",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Availability sets mean?",
+      "answer": "Logical groupings that distribute VMs across fault and update domains.",
+      "explanation": "Availability sets are distinct from availability zones and have different resilience characteristics.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "availability-sets",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team wants to reduce simultaneous maintenance and hardware-failure impact for VMs. Which VM grouping helps?",
+      "answer": "Availability sets. Logical groupings that distribute VMs across fault and update domains.",
+      "explanation": "Availability sets are distinct from availability zones and have different resilience characteristics.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "availability-sets",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Virtual Desktop mean?",
+      "answer": "A managed desktop and app virtualization service hosted in Azure.",
+      "explanation": "Azure Virtual Desktop can provide virtualized desktops and applications to authorized users.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-virtual-desktop",
+        "definition"
+      ]
+    },
+    {
+      "question": "Employees need remote Windows desktops delivered from Azure. Which service should be considered?",
+      "answer": "Azure Virtual Desktop. A managed desktop and app virtualization service hosted in Azure.",
+      "explanation": "Azure Virtual Desktop can provide virtualized desktops and applications to authorized users.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-virtual-desktop",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does VM disk mean?",
+      "answer": "Managed storage used to hold a virtual machine operating system or application data.",
+      "explanation": "VMs use OS disks and may have data disks; networking resources are also typically required.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "vm-disk",
+        "definition"
+      ]
+    },
+    {
+      "question": "An Azure VM needs persistent storage for its operating system. Which supporting resource is required?",
+      "answer": "VM disk. Managed storage used to hold a virtual machine operating system or application data.",
+      "explanation": "VMs use OS disks and may have data disks; networking resources are also typically required.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "vm-disk",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Container mean?",
+      "answer": "An isolated application package that includes software and dependencies while sharing a host kernel.",
+      "explanation": "Containers are lightweight relative to VMs and are often orchestrated at scale.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "container",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team wants portable app deployment without packaging a complete guest OS for every instance. What should it use?",
+      "answer": "Container. An isolated application package that includes software and dependencies while sharing a host kernel.",
+      "explanation": "Containers are lightweight relative to VMs and are often orchestrated at scale.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "container",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Kubernetes Service (AKS) mean?",
+      "answer": "A managed Kubernetes service for orchestrating containerized applications.",
+      "explanation": "AKS reduces some Kubernetes control-plane operational burden.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-kubernetes-service-(aks)",
+        "definition"
+      ]
+    },
+    {
+      "question": "A company needs Kubernetes-based deployment and orchestration of containers in Azure. Which service fits?",
+      "answer": "Azure Kubernetes Service (AKS). A managed Kubernetes service for orchestrating containerized applications.",
+      "explanation": "AKS reduces some Kubernetes control-plane operational burden.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-kubernetes-service-(aks)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Functions mean?",
+      "answer": "An event-driven serverless compute service for running code.",
+      "explanation": "Azure Functions supports triggers and bindings and several hosting plans.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-functions",
+        "definition"
+      ]
+    },
+    {
+      "question": "A small function should execute when an event occurs and scale with demand. Which Azure service fits?",
+      "answer": "Azure Functions. An event-driven serverless compute service for running code.",
+      "explanation": "Azure Functions supports triggers and bindings and several hosting plans.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-functions",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure App Service mean?",
+      "answer": "A managed platform for hosting web applications and APIs.",
+      "explanation": "App Service supports managed hosting, deployment slots, and application scaling.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-app-service",
+        "definition"
+      ]
+    },
+    {
+      "question": "Developers want to host a web app without administering a VM operating system. Which Azure service fits?",
+      "answer": "Azure App Service. A managed platform for hosting web applications and APIs.",
+      "explanation": "App Service supports managed hosting, deployment slots, and application scaling.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-app-service",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Virtual Network (VNet) mean?",
+      "answer": "A private logical network in Azure used to connect and isolate resources.",
+      "explanation": "VNets use address spaces and subnets to organize connectivity.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-virtual-network-(vnet)",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team needs its VMs to communicate on an isolated Azure network. Which service provides it?",
+      "answer": "Azure Virtual Network (VNet). A private logical network in Azure used to connect and isolate resources.",
+      "explanation": "VNets use address spaces and subnets to organize connectivity.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-virtual-network-(vnet)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Subnet mean?",
+      "answer": "A segment of an Azure virtual network IP address space.",
+      "explanation": "Subnets help organize resources and apply network controls.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "subnet",
+        "definition"
+      ]
+    },
+    {
+      "question": "An organization needs to split one VNet into separate address ranges. What should it create?",
+      "answer": "Subnet. A segment of an Azure virtual network IP address space.",
+      "explanation": "Subnets help organize resources and apply network controls.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "subnet",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Virtual network peering mean?",
+      "answer": "A connection that lets Azure virtual networks communicate over the Microsoft backbone.",
+      "explanation": "Peering can be regional or global and is not automatically transitive.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "virtual-network-peering",
+        "definition"
+      ]
+    },
+    {
+      "question": "Two Azure VNets need private connectivity without routing across the public internet. Which feature fits?",
+      "answer": "Virtual network peering. A connection that lets Azure virtual networks communicate over the Microsoft backbone.",
+      "explanation": "Peering can be regional or global and is not automatically transitive.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "virtual-network-peering",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure DNS mean?",
+      "answer": "A service for hosting and resolving DNS zones and records.",
+      "explanation": "Azure DNS handles name resolution; DNS does not itself host web content.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-dns",
+        "definition"
+      ]
+    },
+    {
+      "question": "An organization wants to host its public DNS zone in Azure. Which service helps?",
+      "answer": "Azure DNS. A service for hosting and resolving DNS zones and records.",
+      "explanation": "Azure DNS handles name resolution; DNS does not itself host web content.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-dns",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure VPN Gateway mean?",
+      "answer": "A gateway for encrypted VPN connectivity between Azure VNets and other networks or clients.",
+      "explanation": "VPN Gateway supports site-to-site and point-to-site connections.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-vpn-gateway",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure ExpressRoute mean?",
+      "answer": "A service providing private connectivity from on-premises networks to Microsoft cloud services through a connectivity provider.",
+      "explanation": "ExpressRoute can offer more consistent network characteristics, but encryption is not inherent to every circuit.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-expressroute",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Public endpoint mean?",
+      "answer": "A service access point reachable using a public IP address or public network path, subject to controls.",
+      "explanation": "Public endpoints can still enforce authentication and firewall rules.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "public-endpoint",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Private endpoint mean?",
+      "answer": "A private IP-based network interface that connects privately to a supported Azure service using Private Link.",
+      "explanation": "Private endpoints reduce exposure by enabling private access to supported services.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "private-endpoint",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Blob Storage mean?",
+      "answer": "Object storage for unstructured data such as images, videos, backups, and documents.",
+      "explanation": "Blob Storage provides object storage accessible via APIs and different access tiers.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-blob-storage",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Files mean?",
+      "answer": "Managed SMB and NFS file shares accessible by multiple clients.",
+      "explanation": "Azure Files provides cloud-hosted file shares; protocol support depends on configuration.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-files",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Queue Storage mean?",
+      "answer": "A service for storing messages to decouple application components.",
+      "explanation": "Queue Storage supports asynchronous application communication.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-queue-storage",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Table Storage mean?",
+      "answer": "A NoSQL key-value store for large amounts of structured, nonrelational data.",
+      "explanation": "Table Storage is not a traditional relational database.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-table-storage",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Blob access tiers mean?",
+      "answer": "Hot, cool, cold, and archive tier options with differing storage and retrieval trade-offs.",
+      "explanation": "Lower-access tiers tend to lower storage cost while increasing access or retrieval costs and restrictions.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "blob-access-tiers",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Locally redundant storage (LRS) mean?",
+      "answer": "Storage replication that keeps multiple copies within a single datacenter in the primary region.",
+      "explanation": "LRS protects against some local hardware failures but not loss of the entire datacenter.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "locally-redundant-storage-(lrs)",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Zone-redundant storage (ZRS) mean?",
+      "answer": "Storage replication across availability zones in the primary region.",
+      "explanation": "ZRS synchronously replicates data across zones where supported.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "zone-redundant-storage-(zrs)",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Geo-redundant storage (GRS) mean?",
+      "answer": "Storage replication to a secondary geographic region in addition to local redundancy.",
+      "explanation": "GRS uses asynchronous replication to a secondary region; failover behavior depends on configuration.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "geo-redundant-storage-(grs)",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Read-access geo-redundant storage (RA-GRS) mean?",
+      "answer": "GRS with read access to the secondary region under supported conditions.",
+      "explanation": "RA-GRS exposes a read-only secondary endpoint alongside asynchronous replication.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "read-access-geo-redundant-storage-(ra-grs)",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does AzCopy mean?",
+      "answer": "A command-line tool for transferring data to, from, or between Azure Storage locations.",
+      "explanation": "AzCopy supports efficient transfers for supported Azure Storage services.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azcopy",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Storage Explorer mean?",
+      "answer": "A graphical tool for browsing and managing data in Azure Storage.",
+      "explanation": "Storage Explorer complements command-line transfer and administrative tools.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-storage-explorer",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure File Sync mean?",
+      "answer": "A service that synchronizes Windows Server file shares with Azure Files.",
+      "explanation": "Azure File Sync can preserve familiar on-premises file access while synchronizing with Azure Files.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-file-sync",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Microsoft Entra ID mean?",
+      "answer": "A cloud identity and access management service for users, applications, and authentication.",
+      "explanation": "Microsoft Entra ID is the current name for Azure Active Directory.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "microsoft-entra-id",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Microsoft Entra Domain Services mean?",
+      "answer": "Managed domain services such as domain join, LDAP, Kerberos, and NTLM without customer-managed domain controllers.",
+      "explanation": "Entra Domain Services differs from cloud-native Entra ID authentication.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "microsoft-entra-domain-services",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Single sign-on (SSO) mean?",
+      "answer": "Authentication that lets a user access multiple applications after one sign-in session.",
+      "explanation": "SSO reduces repeated credential prompts without removing individual application permissions.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "single-sign-on-(sso)",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Multifactor authentication (MFA) mean?",
+      "answer": "Authentication that requires two or more distinct factors or verification methods.",
+      "explanation": "MFA reduces risk from password compromise.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "multifactor-authentication-(mfa)",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Passwordless authentication mean?",
+      "answer": "Sign-in approaches that avoid traditional passwords, such as passkeys or Windows Hello for Business.",
+      "explanation": "Passwordless methods can use cryptographic credentials and device-based verification.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "passwordless-authentication",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does External identities mean?",
+      "answer": "Microsoft Entra capabilities for secure collaboration with users outside an organization.",
+      "explanation": "External collaboration allows scoped access without necessarily creating a conventional employee account.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "external-identities",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Conditional Access mean?",
+      "answer": "Microsoft Entra policies that evaluate conditions and enforce access controls.",
+      "explanation": "Conditional Access can consider user, app, device, location, and sign-in risk signals.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "conditional-access",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure role-based access control (RBAC) mean?",
+      "answer": "Authorization that grants Azure resource permissions through role assignments at defined scopes.",
+      "explanation": "RBAC assignments associate security principals, roles, and scopes.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-role-based-access-control-(rbac)",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Least privilege mean?",
+      "answer": "Granting identities only the permissions required to perform their tasks.",
+      "explanation": "Least privilege limits blast radius from mistakes or compromise.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "least-privilege",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Zero Trust mean?",
+      "answer": "A security approach based on verifying explicitly, using least privilege, and assuming breach.",
+      "explanation": "Zero Trust continuously evaluates identity, device, and context.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "zero-trust",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Defense in depth mean?",
+      "answer": "Using multiple security layers so one failed control does not expose an entire system.",
+      "explanation": "Layered safeguards reduce dependence on a single security measure.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "defense-in-depth",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Microsoft Defender for Cloud mean?",
+      "answer": "A cloud security posture management and workload protection service.",
+      "explanation": "Defender for Cloud helps identify misconfigurations and protect supported workloads.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "microsoft-defender-for-cloud",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Migrate mean?",
+      "answer": "A service for discovering, assessing, and migrating on-premises workloads to Azure.",
+      "explanation": "Azure Migrate provides discovery, dependency assessment, and migration tooling.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-migrate",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Data Box mean?",
+      "answer": "A Microsoft-managed physical appliance service for transferring large datasets to Azure.",
+      "explanation": "Data Box supports offline bulk transfers using shipped hardware.",
+      "language": "en",
+      "tags": [
+        "azure-architecture-services",
+        "azure-data-box",
+        "definition"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure pricing calculator mean?",
+      "answer": "An estimator for anticipated Azure service charges based on planned configurations and usage.",
+      "explanation": "Pricing calculator estimates are not the same as actual billed consumption.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-pricing-calculator",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team wants to estimate the monthly cost of a future Azure architecture. Which tool should it use?",
+      "answer": "Azure pricing calculator. An estimator for anticipated Azure service charges based on planned configurations and usage.",
+      "explanation": "Pricing calculator estimates are not the same as actual billed consumption.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-pricing-calculator",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure pricing calculator when operating on Azure?",
+      "answer": "Pricing calculator estimates are not the same as actual billed consumption.",
+      "explanation": "Azure pricing calculator: An estimator for anticipated Azure service charges based on planned configurations and usage.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-pricing-calculator",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Cost Management + Billing mean?",
+      "answer": "Azure tools to inspect, allocate, budget, and analyze cloud spending.",
+      "explanation": "Cost analysis and budgets help control spend; a budget does not automatically stop all resources.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "cost-management-+-billing",
+        "definition"
+      ]
+    },
+    {
+      "question": "A finance lead wants dashboards for actual Azure expenditure and budgets. Which capability fits?",
+      "answer": "Cost Management + Billing. Azure tools to inspect, allocate, budget, and analyze cloud spending.",
+      "explanation": "Cost analysis and budgets help control spend; a budget does not automatically stop all resources.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "cost-management-+-billing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Cost Management + Billing when operating on Azure?",
+      "answer": "Cost analysis and budgets help control spend; a budget does not automatically stop all resources.",
+      "explanation": "Cost Management + Billing: Azure tools to inspect, allocate, budget, and analyze cloud spending.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "cost-management-+-billing",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure tags mean?",
+      "answer": "Key-value metadata attached to resources for organization and cost reporting.",
+      "explanation": "Tags support organization and reporting but are not an access-control boundary.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-tags",
+        "definition"
+      ]
+    },
+    {
+      "question": "Finance wants to group costs by department using metadata on resources. What should teams apply?",
+      "answer": "Azure tags. Key-value metadata attached to resources for organization and cost reporting.",
+      "explanation": "Tags support organization and reporting but are not an access-control boundary.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-tags",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure tags when operating on Azure?",
+      "answer": "Tags support organization and reporting but are not an access-control boundary.",
+      "explanation": "Azure tags: Key-value metadata attached to resources for organization and cost reporting.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-tags",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Policy mean?",
+      "answer": "A governance service for evaluating and enforcing rules on resource configurations.",
+      "explanation": "Azure Policy evaluates compliance and can audit, deny, or remediate depending on policy effects.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-policy",
+        "definition"
+      ]
+    },
+    {
+      "question": "A company wants to deny resources in disallowed regions. Which Azure governance tool fits?",
+      "answer": "Azure Policy. A governance service for evaluating and enforcing rules on resource configurations.",
+      "explanation": "Azure Policy evaluates compliance and can audit, deny, or remediate depending on policy effects.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-policy",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure Policy when operating on Azure?",
+      "answer": "Azure Policy evaluates compliance and can audit, deny, or remediate depending on policy effects.",
+      "explanation": "Azure Policy: A governance service for evaluating and enforcing rules on resource configurations.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-policy",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Resource lock mean?",
+      "answer": "An Azure management protection that restricts deletion or modification of resources.",
+      "explanation": "CanNotDelete and ReadOnly locks affect management-plane operations.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "resource-lock",
+        "definition"
+      ]
+    },
+    {
+      "question": "An administrator needs to prevent accidental deletion of a production resource. What should they apply?",
+      "answer": "Resource lock. An Azure management protection that restricts deletion or modification of resources.",
+      "explanation": "CanNotDelete and ReadOnly locks affect management-plane operations.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "resource-lock",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Resource lock when operating on Azure?",
+      "answer": "CanNotDelete and ReadOnly locks affect management-plane operations.",
+      "explanation": "Resource lock: An Azure management protection that restricts deletion or modification of resources.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "resource-lock",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Microsoft Purview mean?",
+      "answer": "A family of data governance, security, and compliance solutions for discovering and managing data risks.",
+      "explanation": "Purview addresses data governance, protection, and compliance scenarios.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "microsoft-purview",
+        "definition"
+      ]
+    },
+    {
+      "question": "A company wants to classify sensitive information and govern data across its estate. Which Microsoft solution family helps?",
+      "answer": "Microsoft Purview. A family of data governance, security, and compliance solutions for discovering and managing data risks.",
+      "explanation": "Purview addresses data governance, protection, and compliance scenarios.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "microsoft-purview",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Microsoft Purview when operating on Azure?",
+      "answer": "Purview addresses data governance, protection, and compliance scenarios.",
+      "explanation": "Microsoft Purview: A family of data governance, security, and compliance solutions for discovering and managing data risks.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "microsoft-purview",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure portal mean?",
+      "answer": "A browser-based graphical interface for creating and managing Azure resources.",
+      "explanation": "The portal offers resource management, monitoring, and configuration views.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-portal",
+        "definition"
+      ]
+    },
+    {
+      "question": "A new administrator prefers to deploy resources using a web GUI. Which management tool fits?",
+      "answer": "Azure portal. A browser-based graphical interface for creating and managing Azure resources.",
+      "explanation": "The portal offers resource management, monitoring, and configuration views.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-portal",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure portal when operating on Azure?",
+      "answer": "The portal offers resource management, monitoring, and configuration views.",
+      "explanation": "Azure portal: A browser-based graphical interface for creating and managing Azure resources.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-portal",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Cloud Shell mean?",
+      "answer": "A browser-accessible shell with Azure CLI and Azure PowerShell available.",
+      "explanation": "Cloud Shell provides managed command-line sessions with authenticated Azure access.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-cloud-shell",
+        "definition"
+      ]
+    },
+    {
+      "question": "An engineer wants a shell from the Azure portal without installing local tooling. Which service fits?",
+      "answer": "Azure Cloud Shell. A browser-accessible shell with Azure CLI and Azure PowerShell available.",
+      "explanation": "Cloud Shell provides managed command-line sessions with authenticated Azure access.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-cloud-shell",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure Cloud Shell when operating on Azure?",
+      "answer": "Cloud Shell provides managed command-line sessions with authenticated Azure access.",
+      "explanation": "Azure Cloud Shell: A browser-accessible shell with Azure CLI and Azure PowerShell available.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-cloud-shell",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure CLI mean?",
+      "answer": "A cross-platform command-line tool using az commands to manage Azure.",
+      "explanation": "Azure CLI can be used in scripts, terminals, and CI/CD pipelines.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-cli",
+        "definition"
+      ]
+    },
+    {
+      "question": "A developer wants to automate Azure deployments with az commands. Which tool fits?",
+      "answer": "Azure CLI. A cross-platform command-line tool using az commands to manage Azure.",
+      "explanation": "Azure CLI can be used in scripts, terminals, and CI/CD pipelines.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-cli",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure CLI when operating on Azure?",
+      "answer": "Azure CLI can be used in scripts, terminals, and CI/CD pipelines.",
+      "explanation": "Azure CLI: A cross-platform command-line tool using az commands to manage Azure.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-cli",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure PowerShell mean?",
+      "answer": "PowerShell modules and cmdlets for administering Azure resources.",
+      "explanation": "Azure PowerShell uses the Az module for resource management.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-powershell",
+        "definition"
+      ]
+    },
+    {
+      "question": "A Windows-oriented operations team wants to manage Azure with PowerShell cmdlets. Which tool fits?",
+      "answer": "Azure PowerShell. PowerShell modules and cmdlets for administering Azure resources.",
+      "explanation": "Azure PowerShell uses the Az module for resource management.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-powershell",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure PowerShell when operating on Azure?",
+      "answer": "Azure PowerShell uses the Az module for resource management.",
+      "explanation": "Azure PowerShell: PowerShell modules and cmdlets for administering Azure resources.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-powershell",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Arc mean?",
+      "answer": "A service for extending Azure management and governance to resources outside Azure.",
+      "explanation": "Azure Arc enables consistent management for supported hybrid and multicloud resources.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-arc",
+        "definition"
+      ]
+    },
+    {
+      "question": "A company wants to apply Azure management to servers running on-premises and in other clouds. Which service fits?",
+      "answer": "Azure Arc. A service for extending Azure management and governance to resources outside Azure.",
+      "explanation": "Azure Arc enables consistent management for supported hybrid and multicloud resources.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-arc",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure Arc when operating on Azure?",
+      "answer": "Azure Arc enables consistent management for supported hybrid and multicloud resources.",
+      "explanation": "Azure Arc: A service for extending Azure management and governance to resources outside Azure.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-arc",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Infrastructure as code (IaC) mean?",
+      "answer": "Defining and deploying infrastructure through version-controlled declarative or scripted files.",
+      "explanation": "IaC improves repeatability, auditability, and automation.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "infrastructure-as-code-(iac)",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team wants repeatable deployments reviewed alongside application code. Which practice fits?",
+      "answer": "Infrastructure as code (IaC). Defining and deploying infrastructure through version-controlled declarative or scripted files.",
+      "explanation": "IaC improves repeatability, auditability, and automation.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "infrastructure-as-code-(iac)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Infrastructure as code (IaC) when operating on Azure?",
+      "answer": "IaC improves repeatability, auditability, and automation.",
+      "explanation": "Infrastructure as code (IaC): Defining and deploying infrastructure through version-controlled declarative or scripted files.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "infrastructure-as-code-(iac)",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Resource Manager (ARM) mean?",
+      "answer": "The Azure deployment and management service used to create and manage resources consistently.",
+      "explanation": "ARM provides a consistent management layer for portal, API, and template operations.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-resource-manager-(arm)",
+        "definition"
+      ]
+    },
+    {
+      "question": "A deployment request needs to be processed through Azure control-plane management. Which service handles it?",
+      "answer": "Azure Resource Manager (ARM). The Azure deployment and management service used to create and manage resources consistently.",
+      "explanation": "ARM provides a consistent management layer for portal, API, and template operations.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-resource-manager-(arm)",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure Resource Manager (ARM) when operating on Azure?",
+      "answer": "ARM provides a consistent management layer for portal, API, and template operations.",
+      "explanation": "Azure Resource Manager (ARM): The Azure deployment and management service used to create and manage resources consistently.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-resource-manager-(arm)",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does ARM template mean?",
+      "answer": "A JSON declarative file defining Azure resources and configurations to deploy.",
+      "explanation": "ARM templates declare desired resource state and dependencies.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "arm-template",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team needs a repeatable declarative Azure deployment described in JSON. What file type fits?",
+      "answer": "ARM template. A JSON declarative file defining Azure resources and configurations to deploy.",
+      "explanation": "ARM templates declare desired resource state and dependencies.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "arm-template",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose ARM template when operating on Azure?",
+      "answer": "ARM templates declare desired resource state and dependencies.",
+      "explanation": "ARM template: A JSON declarative file defining Azure resources and configurations to deploy.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "arm-template",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Bicep mean?",
+      "answer": "A concise declarative language for deploying Azure resources through ARM.",
+      "explanation": "Bicep compiles to ARM templates and supports reusable infrastructure definitions.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-bicep",
+        "definition"
+      ]
+    },
+    {
+      "question": "A developer wants a simpler Azure-native declarative language than raw ARM JSON. Which option fits?",
+      "answer": "Azure Bicep. A concise declarative language for deploying Azure resources through ARM.",
+      "explanation": "Bicep compiles to ARM templates and supports reusable infrastructure definitions.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-bicep",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure Bicep when operating on Azure?",
+      "answer": "Bicep compiles to ARM templates and supports reusable infrastructure definitions.",
+      "explanation": "Azure Bicep: A concise declarative language for deploying Azure resources through ARM.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-bicep",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Advisor mean?",
+      "answer": "A service that provides personalized recommendations for Azure resources.",
+      "explanation": "Advisor analyzes resource configuration and usage to suggest improvements.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-advisor",
+        "definition"
+      ]
+    },
+    {
+      "question": "An operations team wants suggestions about reliability, security, performance, cost, and operational excellence. Which tool fits?",
+      "answer": "Azure Advisor. A service that provides personalized recommendations for Azure resources.",
+      "explanation": "Advisor analyzes resource configuration and usage to suggest improvements.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-advisor",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure Advisor when operating on Azure?",
+      "answer": "Advisor analyzes resource configuration and usage to suggest improvements.",
+      "explanation": "Azure Advisor: A service that provides personalized recommendations for Azure resources.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-advisor",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Service Health mean?",
+      "answer": "A service showing Azure issues, planned maintenance, and advisories relevant to subscriptions.",
+      "explanation": "Service Health helps distinguish platform incidents from application-specific problems.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-service-health",
+        "definition"
+      ]
+    },
+    {
+      "question": "A region experiences an Azure platform incident and a team needs personalized status updates. Which tool fits?",
+      "answer": "Azure Service Health. A service showing Azure issues, planned maintenance, and advisories relevant to subscriptions.",
+      "explanation": "Service Health helps distinguish platform incidents from application-specific problems.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-service-health",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure Service Health when operating on Azure?",
+      "answer": "Service Health helps distinguish platform incidents from application-specific problems.",
+      "explanation": "Azure Service Health: A service showing Azure issues, planned maintenance, and advisories relevant to subscriptions.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-service-health",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure status page mean?",
+      "answer": "A public high-level view of Azure service health across regions.",
+      "explanation": "For personalized incidents and communications, Azure Service Health is more targeted.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-status-page",
+        "definition"
+      ]
+    },
+    {
+      "question": "Before accessing a subscription, a user wants a broad public view of Azure outages. Which page helps?",
+      "answer": "Azure status page. A public high-level view of Azure service health across regions.",
+      "explanation": "For personalized incidents and communications, Azure Service Health is more targeted.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-status-page",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure status page when operating on Azure?",
+      "answer": "For personalized incidents and communications, Azure Service Health is more targeted.",
+      "explanation": "Azure status page: A public high-level view of Azure service health across regions.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-status-page",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Monitor mean?",
+      "answer": "A monitoring platform for collecting and analyzing telemetry across Azure and hybrid resources.",
+      "explanation": "Azure Monitor combines metrics, logs, alerts, and observability experiences.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-monitor",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team wants to track metrics and logs for its cloud workloads. Which platform fits?",
+      "answer": "Azure Monitor. A monitoring platform for collecting and analyzing telemetry across Azure and hybrid resources.",
+      "explanation": "Azure Monitor combines metrics, logs, alerts, and observability experiences.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-monitor",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Azure Monitor when operating on Azure?",
+      "answer": "Azure Monitor combines metrics, logs, alerts, and observability experiences.",
+      "explanation": "Azure Monitor: A monitoring platform for collecting and analyzing telemetry across Azure and hybrid resources.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-monitor",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Log Analytics workspace mean?",
+      "answer": "An Azure Monitor data store and query environment for log data.",
+      "explanation": "Log Analytics workspaces hold supported log data for analysis.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "log-analytics-workspace",
+        "definition"
+      ]
+    },
+    {
+      "question": "An analyst wants to run Kusto Query Language queries against collected telemetry. What should they use?",
+      "answer": "Log Analytics workspace. An Azure Monitor data store and query environment for log data.",
+      "explanation": "Log Analytics workspaces hold supported log data for analysis.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "log-analytics-workspace",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why might an organization choose Log Analytics workspace when operating on Azure?",
+      "answer": "Log Analytics workspaces hold supported log data for analysis.",
+      "explanation": "Log Analytics workspace: An Azure Monitor data store and query environment for log data.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "log-analytics-workspace",
+        "application"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Azure Monitor alerts mean?",
+      "answer": "Rules that notify or trigger actions when monitored conditions occur.",
+      "explanation": "Alert rules evaluate signals and can invoke action groups.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-monitor-alerts",
+        "definition"
+      ]
+    },
+    {
+      "question": "Operations wants a notification when CPU usage exceeds a threshold. Which feature fits?",
+      "answer": "Azure Monitor alerts. Rules that notify or trigger actions when monitored conditions occur.",
+      "explanation": "Alert rules evaluate signals and can invoke action groups.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "azure-monitor-alerts",
+        "scenario"
+      ]
+    },
+    {
+      "question": "In Microsoft Azure Fundamentals, what does Application Insights mean?",
+      "answer": "An Azure Monitor application performance monitoring feature for telemetry and distributed tracing.",
+      "explanation": "Application Insights helps diagnose application behavior and performance.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "application-insights",
+        "definition"
+      ]
+    },
+    {
+      "question": "Developers want request rates, failed dependencies, and performance traces for a web app. Which tool fits?",
+      "answer": "Application Insights. An Azure Monitor application performance monitoring feature for telemetry and distributed tracing.",
+      "explanation": "Application Insights helps diagnose application behavior and performance.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "application-insights",
+        "scenario"
+      ]
+    },
+    {
+      "question": "How is Azure Policy different from a resource lock?",
+      "answer": "Azure Policy evaluates or enforces configuration rules; a resource lock prevents specified management operations such as deletion or modification.",
+      "explanation": "They solve different governance problems: compliance versus accidental-change protection.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "comparison"
+      ]
+    },
+    {
+      "question": "How does the Azure pricing calculator differ from Cost Management?",
+      "answer": "The pricing calculator estimates future spending, while Cost Management analyzes and controls actual and forecast expenditure.",
+      "explanation": "Use the calculator for planning and Cost Management for ongoing billing oversight.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "comparison"
+      ]
+    },
+    {
+      "question": "How does Azure Advisor differ from Azure Service Health?",
+      "answer": "Azure Advisor recommends resource optimizations; Azure Service Health reports Azure platform incidents and maintenance relevant to you.",
+      "explanation": "Advisor focuses on optimization, whereas Service Health focuses on service-impacting events.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "comparison"
+      ]
+    },
+    {
+      "question": "What is the difference between Azure CLI and Azure PowerShell?",
+      "answer": "Azure CLI uses az commands in a cross-platform shell; Azure PowerShell uses PowerShell cmdlets from the Az module.",
+      "explanation": "Both manage Azure through scripting and automation, but their command syntax differs.",
+      "language": "en",
+      "tags": [
+        "azure-management-governance",
+        "comparison"
+      ]
+    }
+  ]
+}

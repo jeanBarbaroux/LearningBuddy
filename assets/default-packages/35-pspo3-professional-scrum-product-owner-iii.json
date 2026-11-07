@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "PSPO3 Professional Scrum Product Owner III",
+  "cards": [
+    {
+      "question": "What are Scrum's three empirical pillars?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "empiricism",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What are Scrum's three empirical pillars? Which answer would be most accurate?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "empiricism",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of empiricism, how should a practitioner answer the question: What are Scrum's three empirical pillars?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "empiricism",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of empiricism. What are Scrum's three empirical pillars?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "empiricism",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on empiricism, consider the following: What are Scrum's three empirical pillars?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "empiricism",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Why is an empirical approach appropriate for complex product work?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "complexity",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Why is an empirical approach appropriate for complex product work? Which answer would be most accurate?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "complexity",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of complexity, how should a practitioner answer the question: Why is an empirical approach appropriate for complex product work?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "complexity",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of complexity. Why is an empirical approach appropriate for complex product work?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "complexity",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on complexity, consider the following: Why is an empirical approach appropriate for complex product work?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "complexity",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Which five values underpin Scrum?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-values",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Which five values underpin Scrum? Which answer would be most accurate?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-values",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of scrum values, how should a practitioner answer the question: Which five values underpin Scrum?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-values",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of scrum values. Which five values underpin Scrum?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-values",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on scrum values, consider the following: Which five values underpin Scrum?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-values",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What are Scrum's three accountabilities?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "accountabilities",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What are Scrum's three accountabilities? Which answer would be most accurate?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "accountabilities",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of accountabilities, how should a practitioner answer the question: What are Scrum's three accountabilities?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "accountabilities",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of accountabilities. What are Scrum's three accountabilities?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "accountabilities",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on accountabilities, consider the following: What are Scrum's three accountabilities?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "accountabilities",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who determines how selected Product Backlog items are turned into an Increment?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "self-management",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who determines how selected Product Backlog items are turned into an Increment? Which answer would be most accurate?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "self-management",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of self management, how should a practitioner answer the question: Who determines how selected Product Backlog items are turned into an Increment?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "self-management",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of self management. Who determines how selected Product Backlog items are turned into an Increment?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "self-management",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on self management, consider the following: Who determines how selected Product Backlog items are turned into an Increment?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "self-management",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who is accountable for maximizing the value of the product?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who is accountable for maximizing the value of the product? Which answer would be most accurate?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product owner, how should a practitioner answer the question: Who is accountable for maximizing the value of the product?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product owner. Who is accountable for maximizing the value of the product?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product owner, consider the following: Who is accountable for maximizing the value of the product?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is a Scrum Master's core accountability?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-master",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is a Scrum Master's core accountability? Which answer would be most accurate?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-master",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of scrum master, how should a practitioner answer the question: What is a Scrum Master's core accountability?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-master",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of scrum master. What is a Scrum Master's core accountability?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-master",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on scrum master, consider the following: What is a Scrum Master's core accountability?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "scrum-master",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What purpose does a Product Goal serve?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What purpose does a Product Goal serve? Which answer would be most accurate?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product goal, how should a practitioner answer the question: What purpose does a Product Goal serve?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product goal. What purpose does a Product Goal serve?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product goal, consider the following: What purpose does a Product Goal serve?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is the purpose of a Sprint Goal?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-goal",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is the purpose of a Sprint Goal? Which answer would be most accurate?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-goal",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint goal, how should a practitioner answer the question: What is the purpose of a Sprint Goal?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-goal",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint goal. What is the purpose of a Sprint Goal?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-goal",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint goal, consider the following: What is the purpose of a Sprint Goal?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-goal",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How does the Definition of Done affect an Increment?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "definition-of-done",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How does the Definition of Done affect an Increment? Which answer would be most accurate?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "definition-of-done",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of definition of done, how should a practitioner answer the question: How does the Definition of Done affect an Increment?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "definition-of-done",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of definition of done. How does the Definition of Done affect an Increment?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "definition-of-done",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on definition of done, consider the following: How does the Definition of Done affect an Increment?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "definition-of-done",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What three topics are addressed in Sprint Planning?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-planning",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What three topics are addressed in Sprint Planning? Which answer would be most accurate?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-planning",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint planning, how should a practitioner answer the question: What three topics are addressed in Sprint Planning?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-planning",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint planning. What three topics are addressed in Sprint Planning?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-planning",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint planning, consider the following: What three topics are addressed in Sprint Planning?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-planning",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who is the Daily Scrum primarily for?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "daily-scrum",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who is the Daily Scrum primarily for? Which answer would be most accurate?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "daily-scrum",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of daily scrum, how should a practitioner answer the question: Who is the Daily Scrum primarily for?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "daily-scrum",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of daily scrum. Who is the Daily Scrum primarily for?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "daily-scrum",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on daily scrum, consider the following: Who is the Daily Scrum primarily for?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "daily-scrum",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is inspected during the Sprint Review?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-review",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is inspected during the Sprint Review? Which answer would be most accurate?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-review",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint review, how should a practitioner answer the question: What is inspected during the Sprint Review?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-review",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint review. What is inspected during the Sprint Review?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-review",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint review, consider the following: What is inspected during the Sprint Review?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-review",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is the purpose of the Sprint Retrospective?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "retrospective",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is the purpose of the Sprint Retrospective? Which answer would be most accurate?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "retrospective",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of retrospective, how should a practitioner answer the question: What is the purpose of the Sprint Retrospective?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "retrospective",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of retrospective. What is the purpose of the Sprint Retrospective?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "retrospective",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on retrospective, consider the following: What is the purpose of the Sprint Retrospective?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "retrospective",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Can multiple Increments be created during one Sprint?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "increment",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Can multiple Increments be created during one Sprint? Which answer would be most accurate?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "increment",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of increment, how should a practitioner answer the question: Can multiple Increments be created during one Sprint?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "increment",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of increment. Can multiple Increments be created during one Sprint?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "increment",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on increment, consider the following: Can multiple Increments be created during one Sprint?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "increment",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is the maximum length of a Sprint under the Scrum Guide?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-boundary",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is the maximum length of a Sprint under the Scrum Guide? Which answer would be most accurate?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-boundary",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint boundary, how should a practitioner answer the question: What is the maximum length of a Sprint under the Scrum Guide?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-boundary",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint boundary. What is the maximum length of a Sprint under the Scrum Guide?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-boundary",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint boundary, consider the following: What is the maximum length of a Sprint under the Scrum Guide?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-boundary",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is the Product Backlog?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-backlog",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is the Product Backlog? Which answer would be most accurate?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-backlog",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product backlog, how should a practitioner answer the question: What is the Product Backlog?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-backlog",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product backlog. What is the Product Backlog?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-backlog",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product backlog, consider the following: What is the Product Backlog?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-backlog",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is Product Backlog refinement?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "refinement",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is Product Backlog refinement? Which answer would be most accurate?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "refinement",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of refinement, how should a practitioner answer the question: What is Product Backlog refinement?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "refinement",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of refinement. What is Product Backlog refinement?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "refinement",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on refinement, consider the following: What is Product Backlog refinement?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "refinement",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who is accountable for the Sprint Backlog and updates it during the Sprint?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-backlog",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who is accountable for the Sprint Backlog and updates it during the Sprint? Which answer would be most accurate?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-backlog",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint backlog, how should a practitioner answer the question: Who is accountable for the Sprint Backlog and updates it during the Sprint?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-backlog",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint backlog. Who is accountable for the Sprint Backlog and updates it during the Sprint?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-backlog",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint backlog, consider the following: Who is accountable for the Sprint Backlog and updates it during the Sprint?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-backlog",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who has authority to cancel a Sprint when its goal becomes obsolete?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-cancellation",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who has authority to cancel a Sprint when its goal becomes obsolete? Which answer would be most accurate?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-cancellation",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint cancellation, how should a practitioner answer the question: Who has authority to cancel a Sprint when its goal becomes obsolete?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-cancellation",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint cancellation. Who has authority to cancel a Sprint when its goal becomes obsolete?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-cancellation",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint cancellation, consider the following: Who has authority to cancel a Sprint when its goal becomes obsolete?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "sprint-cancellation",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What connects a product vision to day-to-day Product Backlog ordering?",
+      "answer": "A product strategy with explicit outcomes, hypotheses, and measurable evidence.",
+      "explanation": "Strategy directs investment decisions while allowing adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-strategy",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What connects a product vision to day-to-day Product Backlog ordering? Which answer would be most accurate?",
+      "answer": "A product strategy with explicit outcomes, hypotheses, and measurable evidence.",
+      "explanation": "Strategy directs investment decisions while allowing adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-strategy",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product strategy, how should a practitioner answer the question: What connects a product vision to day-to-day Product Backlog ordering?",
+      "answer": "A product strategy with explicit outcomes, hypotheses, and measurable evidence.",
+      "explanation": "Strategy directs investment decisions while allowing adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-strategy",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product strategy. What connects a product vision to day-to-day Product Backlog ordering?",
+      "answer": "A product strategy with explicit outcomes, hypotheses, and measurable evidence.",
+      "explanation": "Strategy directs investment decisions while allowing adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-strategy",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product strategy, consider the following: What connects a product vision to day-to-day Product Backlog ordering?",
+      "answer": "A product strategy with explicit outcomes, hypotheses, and measurable evidence.",
+      "explanation": "Strategy directs investment decisions while allowing adaptation.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-strategy",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should a Product Owner handle two powerful stakeholders demanding incompatible priorities?",
+      "answer": "Use one transparent ordering based on product goals, evidence, value, risk, and trade-offs.",
+      "explanation": "Separating private priority lists destroys a coherent product direction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-conflict",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should a Product Owner handle two powerful stakeholders demanding incompatible priorities? Which answer would be most accurate?",
+      "answer": "Use one transparent ordering based on product goals, evidence, value, risk, and trade-offs.",
+      "explanation": "Separating private priority lists destroys a coherent product direction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-conflict",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of stakeholder conflict, how should a practitioner answer the question: How should a Product Owner handle two powerful stakeholders demanding incompatible priorities?",
+      "answer": "Use one transparent ordering based on product goals, evidence, value, risk, and trade-offs.",
+      "explanation": "Separating private priority lists destroys a coherent product direction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-conflict",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of stakeholder conflict. How should a Product Owner handle two powerful stakeholders demanding incompatible priorities?",
+      "answer": "Use one transparent ordering based on product goals, evidence, value, risk, and trade-offs.",
+      "explanation": "Separating private priority lists destroys a coherent product direction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-conflict",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on stakeholder conflict, consider the following: How should a Product Owner handle two powerful stakeholders demanding incompatible priorities?",
+      "answer": "Use one transparent ordering based on product goals, evidence, value, risk, and trade-offs.",
+      "explanation": "Separating private priority lists destroys a coherent product direction.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-conflict",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Why are feature counts inadequate as a measure of product value?",
+      "answer": "Output does not prove improved user or business outcomes.",
+      "explanation": "Measure benefits, behavior changes, and product impact rather than delivery volume alone.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "value-measurement",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Why are feature counts inadequate as a measure of product value? Which answer would be most accurate?",
+      "answer": "Output does not prove improved user or business outcomes.",
+      "explanation": "Measure benefits, behavior changes, and product impact rather than delivery volume alone.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "value-measurement",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of value measurement, how should a practitioner answer the question: Why are feature counts inadequate as a measure of product value?",
+      "answer": "Output does not prove improved user or business outcomes.",
+      "explanation": "Measure benefits, behavior changes, and product impact rather than delivery volume alone.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "value-measurement",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of value measurement. Why are feature counts inadequate as a measure of product value?",
+      "answer": "Output does not prove improved user or business outcomes.",
+      "explanation": "Measure benefits, behavior changes, and product impact rather than delivery volume alone.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "value-measurement",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on value measurement, consider the following: Why are feature counts inadequate as a measure of product value?",
+      "answer": "Output does not prove improved user or business outcomes.",
+      "explanation": "Measure benefits, behavior changes, and product impact rather than delivery volume alone.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "value-measurement",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should a Product Owner test an uncertain high-value assumption?",
+      "answer": "Run the smallest ethical experiment that can produce decision-quality evidence.",
+      "explanation": "Learning cheaply can prevent a large investment in a weak idea.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "experiment-design",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should a Product Owner test an uncertain high-value assumption? Which answer would be most accurate?",
+      "answer": "Run the smallest ethical experiment that can produce decision-quality evidence.",
+      "explanation": "Learning cheaply can prevent a large investment in a weak idea.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "experiment-design",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of experiment design, how should a practitioner answer the question: How should a Product Owner test an uncertain high-value assumption?",
+      "answer": "Run the smallest ethical experiment that can produce decision-quality evidence.",
+      "explanation": "Learning cheaply can prevent a large investment in a weak idea.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "experiment-design",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of experiment design. How should a Product Owner test an uncertain high-value assumption?",
+      "answer": "Run the smallest ethical experiment that can produce decision-quality evidence.",
+      "explanation": "Learning cheaply can prevent a large investment in a weak idea.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "experiment-design",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on experiment design, consider the following: How should a Product Owner test an uncertain high-value assumption?",
+      "answer": "Run the smallest ethical experiment that can produce decision-quality evidence.",
+      "explanation": "Learning cheaply can prevent a large investment in a weak idea.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "experiment-design",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should a Product Owner compare opportunities competing for limited product capacity?",
+      "answer": "Evaluate expected outcomes, opportunity cost, risk, and strategic alignment.",
+      "explanation": "Maximizing value requires saying no to plausible lower-value options.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "portfolio-tradeoffs",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should a Product Owner compare opportunities competing for limited product capacity? Which answer would be most accurate?",
+      "answer": "Evaluate expected outcomes, opportunity cost, risk, and strategic alignment.",
+      "explanation": "Maximizing value requires saying no to plausible lower-value options.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "portfolio-tradeoffs",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of portfolio tradeoffs, how should a practitioner answer the question: How should a Product Owner compare opportunities competing for limited product capacity?",
+      "answer": "Evaluate expected outcomes, opportunity cost, risk, and strategic alignment.",
+      "explanation": "Maximizing value requires saying no to plausible lower-value options.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "portfolio-tradeoffs",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of portfolio tradeoffs. How should a Product Owner compare opportunities competing for limited product capacity?",
+      "answer": "Evaluate expected outcomes, opportunity cost, risk, and strategic alignment.",
+      "explanation": "Maximizing value requires saying no to plausible lower-value options.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "portfolio-tradeoffs",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on portfolio tradeoffs, consider the following: How should a Product Owner compare opportunities competing for limited product capacity?",
+      "answer": "Evaluate expected outcomes, opportunity cost, risk, and strategic alignment.",
+      "explanation": "Maximizing value requires saying no to plausible lower-value options.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "portfolio-tradeoffs",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What should happen when a new opportunity conflicts with the current Product Goal?",
+      "answer": "Inspect evidence and deliberately adapt product direction if warranted.",
+      "explanation": "A Product Goal provides focus but is not an excuse to ignore new evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal-tradeoff",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What should happen when a new opportunity conflicts with the current Product Goal? Which answer would be most accurate?",
+      "answer": "Inspect evidence and deliberately adapt product direction if warranted.",
+      "explanation": "A Product Goal provides focus but is not an excuse to ignore new evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal-tradeoff",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product goal tradeoff, how should a practitioner answer the question: What should happen when a new opportunity conflicts with the current Product Goal?",
+      "answer": "Inspect evidence and deliberately adapt product direction if warranted.",
+      "explanation": "A Product Goal provides focus but is not an excuse to ignore new evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal-tradeoff",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product goal tradeoff. What should happen when a new opportunity conflicts with the current Product Goal?",
+      "answer": "Inspect evidence and deliberately adapt product direction if warranted.",
+      "explanation": "A Product Goal provides focus but is not an excuse to ignore new evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal-tradeoff",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product goal tradeoff, consider the following: What should happen when a new opportunity conflicts with the current Product Goal?",
+      "answer": "Inspect evidence and deliberately adapt product direction if warranted.",
+      "explanation": "A Product Goal provides focus but is not an excuse to ignore new evidence.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-goal-tradeoff",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What should guide a Product Owner after customers use a release differently than expected?",
+      "answer": "Observed customer behavior and validated learning, not the original assumption.",
+      "explanation": "Real usage can overturn plausible pre-release forecasts.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "market-feedback",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What should guide a Product Owner after customers use a release differently than expected? Which answer would be most accurate?",
+      "answer": "Observed customer behavior and validated learning, not the original assumption.",
+      "explanation": "Real usage can overturn plausible pre-release forecasts.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "market-feedback",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of market feedback, how should a practitioner answer the question: What should guide a Product Owner after customers use a release differently than expected?",
+      "answer": "Observed customer behavior and validated learning, not the original assumption.",
+      "explanation": "Real usage can overturn plausible pre-release forecasts.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "market-feedback",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of market feedback. What should guide a Product Owner after customers use a release differently than expected?",
+      "answer": "Observed customer behavior and validated learning, not the original assumption.",
+      "explanation": "Real usage can overturn plausible pre-release forecasts.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "market-feedback",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on market feedback, consider the following: What should guide a Product Owner after customers use a release differently than expected?",
+      "answer": "Observed customer behavior and validated learning, not the original assumption.",
+      "explanation": "Real usage can overturn plausible pre-release forecasts.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "market-feedback",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How can a Product Owner gain alignment without formal authority over stakeholders?",
+      "answer": "Make objectives and decision criteria transparent and use evidence-based negotiation.",
+      "explanation": "Accountability for Product Backlog ordering requires influence rather than command.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-influence",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How can a Product Owner gain alignment without formal authority over stakeholders? Which answer would be most accurate?",
+      "answer": "Make objectives and decision criteria transparent and use evidence-based negotiation.",
+      "explanation": "Accountability for Product Backlog ordering requires influence rather than command.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-influence",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of stakeholder influence, how should a practitioner answer the question: How can a Product Owner gain alignment without formal authority over stakeholders?",
+      "answer": "Make objectives and decision criteria transparent and use evidence-based negotiation.",
+      "explanation": "Accountability for Product Backlog ordering requires influence rather than command.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-influence",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of stakeholder influence. How can a Product Owner gain alignment without formal authority over stakeholders?",
+      "answer": "Make objectives and decision criteria transparent and use evidence-based negotiation.",
+      "explanation": "Accountability for Product Backlog ordering requires influence rather than command.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-influence",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on stakeholder influence, consider the following: How can a Product Owner gain alignment without formal authority over stakeholders?",
+      "answer": "Make objectives and decision criteria transparent and use evidence-based negotiation.",
+      "explanation": "Accountability for Product Backlog ordering requires influence rather than command.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "stakeholder-influence",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should a Product Owner approach uncertainty about willingness to pay?",
+      "answer": "Test pricing assumptions with ethical market experiments and relevant customer segments.",
+      "explanation": "Stated preferences do not always predict purchase behavior.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "pricing-hypothesis",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should a Product Owner approach uncertainty about willingness to pay? Which answer would be most accurate?",
+      "answer": "Test pricing assumptions with ethical market experiments and relevant customer segments.",
+      "explanation": "Stated preferences do not always predict purchase behavior.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "pricing-hypothesis",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of pricing hypothesis, how should a practitioner answer the question: How should a Product Owner approach uncertainty about willingness to pay?",
+      "answer": "Test pricing assumptions with ethical market experiments and relevant customer segments.",
+      "explanation": "Stated preferences do not always predict purchase behavior.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "pricing-hypothesis",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of pricing hypothesis. How should a Product Owner approach uncertainty about willingness to pay?",
+      "answer": "Test pricing assumptions with ethical market experiments and relevant customer segments.",
+      "explanation": "Stated preferences do not always predict purchase behavior.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "pricing-hypothesis",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on pricing hypothesis, consider the following: How should a Product Owner approach uncertainty about willingness to pay?",
+      "answer": "Test pricing assumptions with ethical market experiments and relevant customer segments.",
+      "explanation": "Stated preferences do not always predict purchase behavior.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "pricing-hypothesis",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should discovery and delivery relate in a Scrum product?",
+      "answer": "Discovery informs what is valuable while delivery generates usable outcomes and further learning.",
+      "explanation": "Discovery should not become a permanent handoff gate before development.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-discovery",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should discovery and delivery relate in a Scrum product? Which answer would be most accurate?",
+      "answer": "Discovery informs what is valuable while delivery generates usable outcomes and further learning.",
+      "explanation": "Discovery should not become a permanent handoff gate before development.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-discovery",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product discovery, how should a practitioner answer the question: How should discovery and delivery relate in a Scrum product?",
+      "answer": "Discovery informs what is valuable while delivery generates usable outcomes and further learning.",
+      "explanation": "Discovery should not become a permanent handoff gate before development.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-discovery",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product discovery. How should discovery and delivery relate in a Scrum product?",
+      "answer": "Discovery informs what is valuable while delivery generates usable outcomes and further learning.",
+      "explanation": "Discovery should not become a permanent handoff gate before development.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-discovery",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product discovery, consider the following: How should discovery and delivery relate in a Scrum product?",
+      "answer": "Discovery informs what is valuable while delivery generates usable outcomes and further learning.",
+      "explanation": "Discovery should not become a permanent handoff gate before development.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-discovery",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What makes a roadmap credible in a complex product environment?",
+      "answer": "Clear intent, assumptions, confidence levels, and frequent revision with evidence.",
+      "explanation": "A fixed feature-date promise can misrepresent uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "roadmap-uncertainty",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What makes a roadmap credible in a complex product environment? Which answer would be most accurate?",
+      "answer": "Clear intent, assumptions, confidence levels, and frequent revision with evidence.",
+      "explanation": "A fixed feature-date promise can misrepresent uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "roadmap-uncertainty",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of roadmap uncertainty, how should a practitioner answer the question: What makes a roadmap credible in a complex product environment?",
+      "answer": "Clear intent, assumptions, confidence levels, and frequent revision with evidence.",
+      "explanation": "A fixed feature-date promise can misrepresent uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "roadmap-uncertainty",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of roadmap uncertainty. What makes a roadmap credible in a complex product environment?",
+      "answer": "Clear intent, assumptions, confidence levels, and frequent revision with evidence.",
+      "explanation": "A fixed feature-date promise can misrepresent uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "roadmap-uncertainty",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on roadmap uncertainty, consider the following: What makes a roadmap credible in a complex product environment?",
+      "answer": "Clear intent, assumptions, confidence levels, and frequent revision with evidence.",
+      "explanation": "A fixed feature-date promise can misrepresent uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "roadmap-uncertainty",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Why distinguish customer segments when ordering a Product Backlog?",
+      "answer": "Different segments can experience different problems and value propositions.",
+      "explanation": "An average metric can hide important needs or trade-offs.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "customer-segmentation",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Why distinguish customer segments when ordering a Product Backlog? Which answer would be most accurate?",
+      "answer": "Different segments can experience different problems and value propositions.",
+      "explanation": "An average metric can hide important needs or trade-offs.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "customer-segmentation",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of customer segmentation, how should a practitioner answer the question: Why distinguish customer segments when ordering a Product Backlog?",
+      "answer": "Different segments can experience different problems and value propositions.",
+      "explanation": "An average metric can hide important needs or trade-offs.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "customer-segmentation",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of customer segmentation. Why distinguish customer segments when ordering a Product Backlog?",
+      "answer": "Different segments can experience different problems and value propositions.",
+      "explanation": "An average metric can hide important needs or trade-offs.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "customer-segmentation",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on customer segmentation, consider the following: Why distinguish customer segments when ordering a Product Backlog?",
+      "answer": "Different segments can experience different problems and value propositions.",
+      "explanation": "An average metric can hide important needs or trade-offs.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "customer-segmentation",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who decides when a Done Increment should be released?",
+      "answer": "Release decisions depend on product context; the Scrum Guide does not mandate release at Sprint Review.",
+      "explanation": "Done work may be released whenever it is appropriate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "release-decisions",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who decides when a Done Increment should be released? Which answer would be most accurate?",
+      "answer": "Release decisions depend on product context; the Scrum Guide does not mandate release at Sprint Review.",
+      "explanation": "Done work may be released whenever it is appropriate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "release-decisions",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of release decisions, how should a practitioner answer the question: Who decides when a Done Increment should be released?",
+      "answer": "Release decisions depend on product context; the Scrum Guide does not mandate release at Sprint Review.",
+      "explanation": "Done work may be released whenever it is appropriate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "release-decisions",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of release decisions. Who decides when a Done Increment should be released?",
+      "answer": "Release decisions depend on product context; the Scrum Guide does not mandate release at Sprint Review.",
+      "explanation": "Done work may be released whenever it is appropriate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "release-decisions",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on release decisions, consider the following: Who decides when a Done Increment should be released?",
+      "answer": "Release decisions depend on product context; the Scrum Guide does not mandate release at Sprint Review.",
+      "explanation": "Done work may be released whenever it is appropriate.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "release-decisions",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Can a Product Owner delegate Product Backlog refinement activities?",
+      "answer": "Yes, but the Product Owner remains accountable for effective Product Backlog management.",
+      "explanation": "Delegation distributes work without fragmenting accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner-delegation",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Can a Product Owner delegate Product Backlog refinement activities? Which answer would be most accurate?",
+      "answer": "Yes, but the Product Owner remains accountable for effective Product Backlog management.",
+      "explanation": "Delegation distributes work without fragmenting accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner-delegation",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product owner delegation, how should a practitioner answer the question: Can a Product Owner delegate Product Backlog refinement activities?",
+      "answer": "Yes, but the Product Owner remains accountable for effective Product Backlog management.",
+      "explanation": "Delegation distributes work without fragmenting accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner-delegation",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product owner delegation. Can a Product Owner delegate Product Backlog refinement activities?",
+      "answer": "Yes, but the Product Owner remains accountable for effective Product Backlog management.",
+      "explanation": "Delegation distributes work without fragmenting accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner-delegation",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product owner delegation, consider the following: Can a Product Owner delegate Product Backlog refinement activities?",
+      "answer": "Yes, but the Product Owner remains accountable for effective Product Backlog management.",
+      "explanation": "Delegation distributes work without fragmenting accountability.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-owner-delegation",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should a Product Owner weigh architecture work against visible features?",
+      "answer": "Evaluate long-term value, risk reduction, and delivery capability with Developers.",
+      "explanation": "Technical improvement can protect future value even if it is not immediately user-visible.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "technical-investment",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should a Product Owner weigh architecture work against visible features? Which answer would be most accurate?",
+      "answer": "Evaluate long-term value, risk reduction, and delivery capability with Developers.",
+      "explanation": "Technical improvement can protect future value even if it is not immediately user-visible.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "technical-investment",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of technical investment, how should a practitioner answer the question: How should a Product Owner weigh architecture work against visible features?",
+      "answer": "Evaluate long-term value, risk reduction, and delivery capability with Developers.",
+      "explanation": "Technical improvement can protect future value even if it is not immediately user-visible.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "technical-investment",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of technical investment. How should a Product Owner weigh architecture work against visible features?",
+      "answer": "Evaluate long-term value, risk reduction, and delivery capability with Developers.",
+      "explanation": "Technical improvement can protect future value even if it is not immediately user-visible.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "technical-investment",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on technical investment, consider the following: How should a Product Owner weigh architecture work against visible features?",
+      "answer": "Evaluate long-term value, risk reduction, and delivery capability with Developers.",
+      "explanation": "Technical improvement can protect future value even if it is not immediately user-visible.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "technical-investment",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should a Product Owner handle a new compliance obligation?",
+      "answer": "Make its constraints, deadlines, and risks transparent in product decisions.",
+      "explanation": "Compliance may affect ordering and acceptable product outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "regulatory-change",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should a Product Owner handle a new compliance obligation? Which answer would be most accurate?",
+      "answer": "Make its constraints, deadlines, and risks transparent in product decisions.",
+      "explanation": "Compliance may affect ordering and acceptable product outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "regulatory-change",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of regulatory change, how should a practitioner answer the question: How should a Product Owner handle a new compliance obligation?",
+      "answer": "Make its constraints, deadlines, and risks transparent in product decisions.",
+      "explanation": "Compliance may affect ordering and acceptable product outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "regulatory-change",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of regulatory change. How should a Product Owner handle a new compliance obligation?",
+      "answer": "Make its constraints, deadlines, and risks transparent in product decisions.",
+      "explanation": "Compliance may affect ordering and acceptable product outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "regulatory-change",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on regulatory change, consider the following: How should a Product Owner handle a new compliance obligation?",
+      "answer": "Make its constraints, deadlines, and risks transparent in product decisions.",
+      "explanation": "Compliance may affect ordering and acceptable product outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "regulatory-change",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What should a Product Owner do after a feature measurably harms a key outcome?",
+      "answer": "Inspect causal evidence, mitigate harm, and adapt the Product Backlog or product strategy.",
+      "explanation": "Shipping successfully is not the same as creating value.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "negative-outcomes",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What should a Product Owner do after a feature measurably harms a key outcome? Which answer would be most accurate?",
+      "answer": "Inspect causal evidence, mitigate harm, and adapt the Product Backlog or product strategy.",
+      "explanation": "Shipping successfully is not the same as creating value.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "negative-outcomes",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of negative outcomes, how should a practitioner answer the question: What should a Product Owner do after a feature measurably harms a key outcome?",
+      "answer": "Inspect causal evidence, mitigate harm, and adapt the Product Backlog or product strategy.",
+      "explanation": "Shipping successfully is not the same as creating value.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "negative-outcomes",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of negative outcomes. What should a Product Owner do after a feature measurably harms a key outcome?",
+      "answer": "Inspect causal evidence, mitigate harm, and adapt the Product Backlog or product strategy.",
+      "explanation": "Shipping successfully is not the same as creating value.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "negative-outcomes",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on negative outcomes, consider the following: What should a Product Owner do after a feature measurably harms a key outcome?",
+      "answer": "Inspect causal evidence, mitigate harm, and adapt the Product Backlog or product strategy.",
+      "explanation": "Shipping successfully is not the same as creating value.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "negative-outcomes",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is needed when several Scrum Teams work on one product?",
+      "answer": "One Product Goal, one Product Backlog, one Product Owner, and an integrated Increment.",
+      "explanation": "Fragmented product ownership introduces conflicting priorities.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "shared-product",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is needed when several Scrum Teams work on one product? Which answer would be most accurate?",
+      "answer": "One Product Goal, one Product Backlog, one Product Owner, and an integrated Increment.",
+      "explanation": "Fragmented product ownership introduces conflicting priorities.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "shared-product",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of shared product, how should a practitioner answer the question: What is needed when several Scrum Teams work on one product?",
+      "answer": "One Product Goal, one Product Backlog, one Product Owner, and an integrated Increment.",
+      "explanation": "Fragmented product ownership introduces conflicting priorities.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "shared-product",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of shared product. What is needed when several Scrum Teams work on one product?",
+      "answer": "One Product Goal, one Product Backlog, one Product Owner, and an integrated Increment.",
+      "explanation": "Fragmented product ownership introduces conflicting priorities.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "shared-product",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on shared product, consider the following: What is needed when several Scrum Teams work on one product?",
+      "answer": "One Product Goal, one Product Backlog, one Product Owner, and an integrated Increment.",
+      "explanation": "Fragmented product ownership introduces conflicting priorities.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "shared-product",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should a Product Owner communicate a forecast under uncertainty?",
+      "answer": "State assumptions, ranges, risks, and the evidence that would change the forecast.",
+      "explanation": "Transparent uncertainty is more useful than false precision.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "forecast-accuracy",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should a Product Owner communicate a forecast under uncertainty? Which answer would be most accurate?",
+      "answer": "State assumptions, ranges, risks, and the evidence that would change the forecast.",
+      "explanation": "Transparent uncertainty is more useful than false precision.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "forecast-accuracy",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of forecast accuracy, how should a practitioner answer the question: How should a Product Owner communicate a forecast under uncertainty?",
+      "answer": "State assumptions, ranges, risks, and the evidence that would change the forecast.",
+      "explanation": "Transparent uncertainty is more useful than false precision.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "forecast-accuracy",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of forecast accuracy. How should a Product Owner communicate a forecast under uncertainty?",
+      "answer": "State assumptions, ranges, risks, and the evidence that would change the forecast.",
+      "explanation": "Transparent uncertainty is more useful than false precision.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "forecast-accuracy",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on forecast accuracy, consider the following: How should a Product Owner communicate a forecast under uncertainty?",
+      "answer": "State assumptions, ranges, risks, and the evidence that would change the forecast.",
+      "explanation": "Transparent uncertainty is more useful than false precision.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "forecast-accuracy",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "When can discontinuing a product be a value-maximizing decision?",
+      "answer": "When continuing investment has lower expected value than alternatives after risks are considered.",
+      "explanation": "Product Ownership includes stopping unproductive work.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-sunset",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: When can discontinuing a product be a value-maximizing decision? Which answer would be most accurate?",
+      "answer": "When continuing investment has lower expected value than alternatives after risks are considered.",
+      "explanation": "Product Ownership includes stopping unproductive work.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-sunset",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product sunset, how should a practitioner answer the question: When can discontinuing a product be a value-maximizing decision?",
+      "answer": "When continuing investment has lower expected value than alternatives after risks are considered.",
+      "explanation": "Product Ownership includes stopping unproductive work.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-sunset",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product sunset. When can discontinuing a product be a value-maximizing decision?",
+      "answer": "When continuing investment has lower expected value than alternatives after risks are considered.",
+      "explanation": "Product Ownership includes stopping unproductive work.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-sunset",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product sunset, consider the following: When can discontinuing a product be a value-maximizing decision?",
+      "answer": "When continuing investment has lower expected value than alternatives after risks are considered.",
+      "explanation": "Product Ownership includes stopping unproductive work.",
+      "language": "en",
+      "tags": [
+        "pspo3",
+        "product-sunset",
+        "practice-5"
+      ]
+    }
+  ]
+}

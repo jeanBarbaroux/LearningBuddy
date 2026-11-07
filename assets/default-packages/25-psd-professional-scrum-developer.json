@@ -1,0 +1,2007 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "PSD Professional Scrum Developer",
+  "cards": [
+    {
+      "question": "What is the recommended approach to continuous integration in professional Scrum practice?",
+      "answer": "Integrate and validate changes frequently in a shared codebase.",
+      "explanation": "Small integration batches reveal failures earlier.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-integration"
+      ]
+    },
+    {
+      "question": "A team wants to improve continuous integration. What principle should guide its next action?",
+      "answer": "Integrate and validate changes frequently in a shared codebase.",
+      "explanation": "Small integration batches reveal failures earlier.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-integration"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about continuous integration, what should practitioners emphasize?",
+      "answer": "Integrate and validate changes frequently in a shared codebase.",
+      "explanation": "Small integration batches reveal failures earlier.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-integration"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding continuous integration?",
+      "answer": "Integrate and validate changes frequently in a shared codebase.",
+      "explanation": "Small integration batches reveal failures earlier.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-integration"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for continuous integration?",
+      "answer": "Integrate and validate changes frequently in a shared codebase.",
+      "explanation": "Small integration batches reveal failures earlier.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-integration"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to automated unit tests in professional Scrum practice?",
+      "answer": "Use fast isolated tests to protect behavior during development.",
+      "explanation": "Unit tests support rapid feedback but do not replace integration checks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "automated-unit-tests"
+      ]
+    },
+    {
+      "question": "A team wants to improve automated unit tests. What principle should guide its next action?",
+      "answer": "Use fast isolated tests to protect behavior during development.",
+      "explanation": "Unit tests support rapid feedback but do not replace integration checks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "automated-unit-tests"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about automated unit tests, what should practitioners emphasize?",
+      "answer": "Use fast isolated tests to protect behavior during development.",
+      "explanation": "Unit tests support rapid feedback but do not replace integration checks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "automated-unit-tests"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding automated unit tests?",
+      "answer": "Use fast isolated tests to protect behavior during development.",
+      "explanation": "Unit tests support rapid feedback but do not replace integration checks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "automated-unit-tests"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for automated unit tests?",
+      "answer": "Use fast isolated tests to protect behavior during development.",
+      "explanation": "Unit tests support rapid feedback but do not replace integration checks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "automated-unit-tests"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to test-driven development in professional Scrum practice?",
+      "answer": "Write a failing test, implement enough to pass, and refactor safely.",
+      "explanation": "TDD ties design feedback to executable examples.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-driven-development"
+      ]
+    },
+    {
+      "question": "A team wants to improve test-driven development. What principle should guide its next action?",
+      "answer": "Write a failing test, implement enough to pass, and refactor safely.",
+      "explanation": "TDD ties design feedback to executable examples.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-driven-development"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about test-driven development, what should practitioners emphasize?",
+      "answer": "Write a failing test, implement enough to pass, and refactor safely.",
+      "explanation": "TDD ties design feedback to executable examples.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-driven-development"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding test-driven development?",
+      "answer": "Write a failing test, implement enough to pass, and refactor safely.",
+      "explanation": "TDD ties design feedback to executable examples.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-driven-development"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for test-driven development?",
+      "answer": "Write a failing test, implement enough to pass, and refactor safely.",
+      "explanation": "TDD ties design feedback to executable examples.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-driven-development"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to definition of done automation in professional Scrum practice?",
+      "answer": "Automate repeatable build, quality, and security checks where appropriate.",
+      "explanation": "Automation makes quality standards reproducible.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-automation"
+      ]
+    },
+    {
+      "question": "A team wants to improve definition of done automation. What principle should guide its next action?",
+      "answer": "Automate repeatable build, quality, and security checks where appropriate.",
+      "explanation": "Automation makes quality standards reproducible.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-automation"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about definition of done automation, what should practitioners emphasize?",
+      "answer": "Automate repeatable build, quality, and security checks where appropriate.",
+      "explanation": "Automation makes quality standards reproducible.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-automation"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding definition of done automation?",
+      "answer": "Automate repeatable build, quality, and security checks where appropriate.",
+      "explanation": "Automation makes quality standards reproducible.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-automation"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for definition of done automation?",
+      "answer": "Automate repeatable build, quality, and security checks where appropriate.",
+      "explanation": "Automation makes quality standards reproducible.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-automation"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to continuous delivery in professional Scrum practice?",
+      "answer": "Keep software in a deployable state through automated delivery practices.",
+      "explanation": "Deployability enables release decisions based on value.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-delivery"
+      ]
+    },
+    {
+      "question": "A team wants to improve continuous delivery. What principle should guide its next action?",
+      "answer": "Keep software in a deployable state through automated delivery practices.",
+      "explanation": "Deployability enables release decisions based on value.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-delivery"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about continuous delivery, what should practitioners emphasize?",
+      "answer": "Keep software in a deployable state through automated delivery practices.",
+      "explanation": "Deployability enables release decisions based on value.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-delivery"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding continuous delivery?",
+      "answer": "Keep software in a deployable state through automated delivery practices.",
+      "explanation": "Deployability enables release decisions based on value.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-delivery"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for continuous delivery?",
+      "answer": "Keep software in a deployable state through automated delivery practices.",
+      "explanation": "Deployability enables release decisions based on value.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-delivery"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to continuous deployment in professional Scrum practice?",
+      "answer": "Automatically deploy each qualified change to production when the strategy permits.",
+      "explanation": "Continuous deployment differs from merely being release-ready.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-deployment"
+      ]
+    },
+    {
+      "question": "A team wants to improve continuous deployment. What principle should guide its next action?",
+      "answer": "Automatically deploy each qualified change to production when the strategy permits.",
+      "explanation": "Continuous deployment differs from merely being release-ready.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-deployment"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about continuous deployment, what should practitioners emphasize?",
+      "answer": "Automatically deploy each qualified change to production when the strategy permits.",
+      "explanation": "Continuous deployment differs from merely being release-ready.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-deployment"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding continuous deployment?",
+      "answer": "Automatically deploy each qualified change to production when the strategy permits.",
+      "explanation": "Continuous deployment differs from merely being release-ready.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-deployment"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for continuous deployment?",
+      "answer": "Automatically deploy each qualified change to production when the strategy permits.",
+      "explanation": "Continuous deployment differs from merely being release-ready.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-deployment"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to trunk-based development in professional Scrum practice?",
+      "answer": "Integrate small changes into a shared trunk frequently.",
+      "explanation": "Long-lived branches increase merge and integration risk.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "trunk-based-development"
+      ]
+    },
+    {
+      "question": "A team wants to improve trunk-based development. What principle should guide its next action?",
+      "answer": "Integrate small changes into a shared trunk frequently.",
+      "explanation": "Long-lived branches increase merge and integration risk.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "trunk-based-development"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about trunk-based development, what should practitioners emphasize?",
+      "answer": "Integrate small changes into a shared trunk frequently.",
+      "explanation": "Long-lived branches increase merge and integration risk.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "trunk-based-development"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding trunk-based development?",
+      "answer": "Integrate small changes into a shared trunk frequently.",
+      "explanation": "Long-lived branches increase merge and integration risk.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "trunk-based-development"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for trunk-based development?",
+      "answer": "Integrate small changes into a shared trunk frequently.",
+      "explanation": "Long-lived branches increase merge and integration risk.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "trunk-based-development"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to code review in professional Scrum practice?",
+      "answer": "Use collaborative review to improve correctness, maintainability, and shared knowledge.",
+      "explanation": "Reviews complement testing and pairing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-review"
+      ]
+    },
+    {
+      "question": "A team wants to improve code review. What principle should guide its next action?",
+      "answer": "Use collaborative review to improve correctness, maintainability, and shared knowledge.",
+      "explanation": "Reviews complement testing and pairing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-review"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about code review, what should practitioners emphasize?",
+      "answer": "Use collaborative review to improve correctness, maintainability, and shared knowledge.",
+      "explanation": "Reviews complement testing and pairing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-review"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding code review?",
+      "answer": "Use collaborative review to improve correctness, maintainability, and shared knowledge.",
+      "explanation": "Reviews complement testing and pairing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-review"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for code review?",
+      "answer": "Use collaborative review to improve correctness, maintainability, and shared knowledge.",
+      "explanation": "Reviews complement testing and pairing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-review"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to pair programming in professional Scrum practice?",
+      "answer": "Let two developers collaborate on one change to increase feedback and knowledge sharing.",
+      "explanation": "Pairing can reduce defects and skill silos.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "pair-programming"
+      ]
+    },
+    {
+      "question": "A team wants to improve pair programming. What principle should guide its next action?",
+      "answer": "Let two developers collaborate on one change to increase feedback and knowledge sharing.",
+      "explanation": "Pairing can reduce defects and skill silos.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "pair-programming"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about pair programming, what should practitioners emphasize?",
+      "answer": "Let two developers collaborate on one change to increase feedback and knowledge sharing.",
+      "explanation": "Pairing can reduce defects and skill silos.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "pair-programming"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding pair programming?",
+      "answer": "Let two developers collaborate on one change to increase feedback and knowledge sharing.",
+      "explanation": "Pairing can reduce defects and skill silos.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "pair-programming"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for pair programming?",
+      "answer": "Let two developers collaborate on one change to increase feedback and knowledge sharing.",
+      "explanation": "Pairing can reduce defects and skill silos.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "pair-programming"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to refactoring in professional Scrum practice?",
+      "answer": "Improve internal code structure while preserving external behavior.",
+      "explanation": "Refactoring reduces future change costs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "refactoring"
+      ]
+    },
+    {
+      "question": "A team wants to improve refactoring. What principle should guide its next action?",
+      "answer": "Improve internal code structure while preserving external behavior.",
+      "explanation": "Refactoring reduces future change costs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "refactoring"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about refactoring, what should practitioners emphasize?",
+      "answer": "Improve internal code structure while preserving external behavior.",
+      "explanation": "Refactoring reduces future change costs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "refactoring"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding refactoring?",
+      "answer": "Improve internal code structure while preserving external behavior.",
+      "explanation": "Refactoring reduces future change costs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "refactoring"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for refactoring?",
+      "answer": "Improve internal code structure while preserving external behavior.",
+      "explanation": "Refactoring reduces future change costs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "refactoring"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to technical debt visibility in professional Scrum practice?",
+      "answer": "Make debt impacts and remediation work transparent in product decisions.",
+      "explanation": "Hidden debt can impair the ability to deliver.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "technical-debt-visibility"
+      ]
+    },
+    {
+      "question": "A team wants to improve technical debt visibility. What principle should guide its next action?",
+      "answer": "Make debt impacts and remediation work transparent in product decisions.",
+      "explanation": "Hidden debt can impair the ability to deliver.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "technical-debt-visibility"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about technical debt visibility, what should practitioners emphasize?",
+      "answer": "Make debt impacts and remediation work transparent in product decisions.",
+      "explanation": "Hidden debt can impair the ability to deliver.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "technical-debt-visibility"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding technical debt visibility?",
+      "answer": "Make debt impacts and remediation work transparent in product decisions.",
+      "explanation": "Hidden debt can impair the ability to deliver.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "technical-debt-visibility"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for technical debt visibility?",
+      "answer": "Make debt impacts and remediation work transparent in product decisions.",
+      "explanation": "Hidden debt can impair the ability to deliver.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "technical-debt-visibility"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to design for testability in professional Scrum practice?",
+      "answer": "Separate concerns and manage dependencies so behavior can be verified reliably.",
+      "explanation": "Testability increases confidence in changes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "design-for-testability"
+      ]
+    },
+    {
+      "question": "A team wants to improve design for testability. What principle should guide its next action?",
+      "answer": "Separate concerns and manage dependencies so behavior can be verified reliably.",
+      "explanation": "Testability increases confidence in changes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "design-for-testability"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about design for testability, what should practitioners emphasize?",
+      "answer": "Separate concerns and manage dependencies so behavior can be verified reliably.",
+      "explanation": "Testability increases confidence in changes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "design-for-testability"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding design for testability?",
+      "answer": "Separate concerns and manage dependencies so behavior can be verified reliably.",
+      "explanation": "Testability increases confidence in changes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "design-for-testability"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for design for testability?",
+      "answer": "Separate concerns and manage dependencies so behavior can be verified reliably.",
+      "explanation": "Testability increases confidence in changes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "design-for-testability"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to integration testing in professional Scrum practice?",
+      "answer": "Verify interaction between components and services after isolated tests pass.",
+      "explanation": "Many failures occur at boundaries.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "integration-testing"
+      ]
+    },
+    {
+      "question": "A team wants to improve integration testing. What principle should guide its next action?",
+      "answer": "Verify interaction between components and services after isolated tests pass.",
+      "explanation": "Many failures occur at boundaries.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "integration-testing"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about integration testing, what should practitioners emphasize?",
+      "answer": "Verify interaction between components and services after isolated tests pass.",
+      "explanation": "Many failures occur at boundaries.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "integration-testing"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding integration testing?",
+      "answer": "Verify interaction between components and services after isolated tests pass.",
+      "explanation": "Many failures occur at boundaries.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "integration-testing"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for integration testing?",
+      "answer": "Verify interaction between components and services after isolated tests pass.",
+      "explanation": "Many failures occur at boundaries.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "integration-testing"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to end-to-end testing in professional Scrum practice?",
+      "answer": "Use a small reliable set of workflow checks across the integrated product.",
+      "explanation": "Too many brittle UI tests slow feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "end-to-end-testing"
+      ]
+    },
+    {
+      "question": "A team wants to improve end-to-end testing. What principle should guide its next action?",
+      "answer": "Use a small reliable set of workflow checks across the integrated product.",
+      "explanation": "Too many brittle UI tests slow feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "end-to-end-testing"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about end-to-end testing, what should practitioners emphasize?",
+      "answer": "Use a small reliable set of workflow checks across the integrated product.",
+      "explanation": "Too many brittle UI tests slow feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "end-to-end-testing"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding end-to-end testing?",
+      "answer": "Use a small reliable set of workflow checks across the integrated product.",
+      "explanation": "Too many brittle UI tests slow feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "end-to-end-testing"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for end-to-end testing?",
+      "answer": "Use a small reliable set of workflow checks across the integrated product.",
+      "explanation": "Too many brittle UI tests slow feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "end-to-end-testing"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to exploratory testing in professional Scrum practice?",
+      "answer": "Learn about the product through simultaneous test design and execution.",
+      "explanation": "Exploration can reveal risks automation misses.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "exploratory-testing"
+      ]
+    },
+    {
+      "question": "A team wants to improve exploratory testing. What principle should guide its next action?",
+      "answer": "Learn about the product through simultaneous test design and execution.",
+      "explanation": "Exploration can reveal risks automation misses.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "exploratory-testing"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about exploratory testing, what should practitioners emphasize?",
+      "answer": "Learn about the product through simultaneous test design and execution.",
+      "explanation": "Exploration can reveal risks automation misses.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "exploratory-testing"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding exploratory testing?",
+      "answer": "Learn about the product through simultaneous test design and execution.",
+      "explanation": "Exploration can reveal risks automation misses.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "exploratory-testing"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for exploratory testing?",
+      "answer": "Learn about the product through simultaneous test design and execution.",
+      "explanation": "Exploration can reveal risks automation misses.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "exploratory-testing"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to test pyramid in professional Scrum practice?",
+      "answer": "Favor numerous fast narrow tests with fewer expensive end-to-end checks.",
+      "explanation": "Balanced feedback reduces flaky regression suites.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-pyramid"
+      ]
+    },
+    {
+      "question": "A team wants to improve test pyramid. What principle should guide its next action?",
+      "answer": "Favor numerous fast narrow tests with fewer expensive end-to-end checks.",
+      "explanation": "Balanced feedback reduces flaky regression suites.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-pyramid"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about test pyramid, what should practitioners emphasize?",
+      "answer": "Favor numerous fast narrow tests with fewer expensive end-to-end checks.",
+      "explanation": "Balanced feedback reduces flaky regression suites.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-pyramid"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding test pyramid?",
+      "answer": "Favor numerous fast narrow tests with fewer expensive end-to-end checks.",
+      "explanation": "Balanced feedback reduces flaky regression suites.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-pyramid"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for test pyramid?",
+      "answer": "Favor numerous fast narrow tests with fewer expensive end-to-end checks.",
+      "explanation": "Balanced feedback reduces flaky regression suites.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "test-pyramid"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to collective ownership in professional Scrum practice?",
+      "answer": "Enable Developers to improve any relevant part of the product codebase.",
+      "explanation": "Specialist bottlenecks threaten a Done Increment.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "collective-ownership"
+      ]
+    },
+    {
+      "question": "A team wants to improve collective ownership. What principle should guide its next action?",
+      "answer": "Enable Developers to improve any relevant part of the product codebase.",
+      "explanation": "Specialist bottlenecks threaten a Done Increment.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "collective-ownership"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about collective ownership, what should practitioners emphasize?",
+      "answer": "Enable Developers to improve any relevant part of the product codebase.",
+      "explanation": "Specialist bottlenecks threaten a Done Increment.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "collective-ownership"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding collective ownership?",
+      "answer": "Enable Developers to improve any relevant part of the product codebase.",
+      "explanation": "Specialist bottlenecks threaten a Done Increment.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "collective-ownership"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for collective ownership?",
+      "answer": "Enable Developers to improve any relevant part of the product codebase.",
+      "explanation": "Specialist bottlenecks threaten a Done Increment.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "collective-ownership"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to cross-functional development in professional Scrum practice?",
+      "answer": "Collaborate across coding, testing, design, operations, and security skills.",
+      "explanation": "Scrum Developers collectively own usable outcomes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "cross-functional-development"
+      ]
+    },
+    {
+      "question": "A team wants to improve cross-functional development. What principle should guide its next action?",
+      "answer": "Collaborate across coding, testing, design, operations, and security skills.",
+      "explanation": "Scrum Developers collectively own usable outcomes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "cross-functional-development"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about cross-functional development, what should practitioners emphasize?",
+      "answer": "Collaborate across coding, testing, design, operations, and security skills.",
+      "explanation": "Scrum Developers collectively own usable outcomes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "cross-functional-development"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding cross-functional development?",
+      "answer": "Collaborate across coding, testing, design, operations, and security skills.",
+      "explanation": "Scrum Developers collectively own usable outcomes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "cross-functional-development"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for cross-functional development?",
+      "answer": "Collaborate across coding, testing, design, operations, and security skills.",
+      "explanation": "Scrum Developers collectively own usable outcomes.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "cross-functional-development"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to small vertical slices in professional Scrum practice?",
+      "answer": "Deliver end-to-end customer behavior in small increments.",
+      "explanation": "Component-only milestones may not be usable.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "small-vertical-slices"
+      ]
+    },
+    {
+      "question": "A team wants to improve small vertical slices. What principle should guide its next action?",
+      "answer": "Deliver end-to-end customer behavior in small increments.",
+      "explanation": "Component-only milestones may not be usable.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "small-vertical-slices"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about small vertical slices, what should practitioners emphasize?",
+      "answer": "Deliver end-to-end customer behavior in small increments.",
+      "explanation": "Component-only milestones may not be usable.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "small-vertical-slices"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding small vertical slices?",
+      "answer": "Deliver end-to-end customer behavior in small increments.",
+      "explanation": "Component-only milestones may not be usable.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "small-vertical-slices"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for small vertical slices?",
+      "answer": "Deliver end-to-end customer behavior in small increments.",
+      "explanation": "Component-only milestones may not be usable.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "small-vertical-slices"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to feature toggles in professional Scrum practice?",
+      "answer": "Separate deployment from feature exposure when safely managed.",
+      "explanation": "Toggles enable incremental delivery but create maintenance cost.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "feature-toggles"
+      ]
+    },
+    {
+      "question": "A team wants to improve feature toggles. What principle should guide its next action?",
+      "answer": "Separate deployment from feature exposure when safely managed.",
+      "explanation": "Toggles enable incremental delivery but create maintenance cost.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "feature-toggles"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about feature toggles, what should practitioners emphasize?",
+      "answer": "Separate deployment from feature exposure when safely managed.",
+      "explanation": "Toggles enable incremental delivery but create maintenance cost.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "feature-toggles"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding feature toggles?",
+      "answer": "Separate deployment from feature exposure when safely managed.",
+      "explanation": "Toggles enable incremental delivery but create maintenance cost.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "feature-toggles"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for feature toggles?",
+      "answer": "Separate deployment from feature exposure when safely managed.",
+      "explanation": "Toggles enable incremental delivery but create maintenance cost.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "feature-toggles"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to continuous security in professional Scrum practice?",
+      "answer": "Integrate threat awareness and automated security checks into delivery.",
+      "explanation": "Security cannot be postponed until after the Sprint.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-security"
+      ]
+    },
+    {
+      "question": "A team wants to improve continuous security. What principle should guide its next action?",
+      "answer": "Integrate threat awareness and automated security checks into delivery.",
+      "explanation": "Security cannot be postponed until after the Sprint.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-security"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about continuous security, what should practitioners emphasize?",
+      "answer": "Integrate threat awareness and automated security checks into delivery.",
+      "explanation": "Security cannot be postponed until after the Sprint.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-security"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding continuous security?",
+      "answer": "Integrate threat awareness and automated security checks into delivery.",
+      "explanation": "Security cannot be postponed until after the Sprint.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-security"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for continuous security?",
+      "answer": "Integrate threat awareness and automated security checks into delivery.",
+      "explanation": "Security cannot be postponed until after the Sprint.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "continuous-security"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to dependency management in professional Scrum practice?",
+      "answer": "Pin and update dependencies deliberately while checking vulnerabilities.",
+      "explanation": "Dependencies can introduce defects and supply-chain risks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "dependency-management"
+      ]
+    },
+    {
+      "question": "A team wants to improve dependency management. What principle should guide its next action?",
+      "answer": "Pin and update dependencies deliberately while checking vulnerabilities.",
+      "explanation": "Dependencies can introduce defects and supply-chain risks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "dependency-management"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about dependency management, what should practitioners emphasize?",
+      "answer": "Pin and update dependencies deliberately while checking vulnerabilities.",
+      "explanation": "Dependencies can introduce defects and supply-chain risks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "dependency-management"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding dependency management?",
+      "answer": "Pin and update dependencies deliberately while checking vulnerabilities.",
+      "explanation": "Dependencies can introduce defects and supply-chain risks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "dependency-management"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for dependency management?",
+      "answer": "Pin and update dependencies deliberately while checking vulnerabilities.",
+      "explanation": "Dependencies can introduce defects and supply-chain risks.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "dependency-management"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to infrastructure as code in professional Scrum practice?",
+      "answer": "Define infrastructure through versioned reproducible configuration.",
+      "explanation": "Repeatability reduces manual deployment drift.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "infrastructure-as-code"
+      ]
+    },
+    {
+      "question": "A team wants to improve infrastructure as code. What principle should guide its next action?",
+      "answer": "Define infrastructure through versioned reproducible configuration.",
+      "explanation": "Repeatability reduces manual deployment drift.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "infrastructure-as-code"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about infrastructure as code, what should practitioners emphasize?",
+      "answer": "Define infrastructure through versioned reproducible configuration.",
+      "explanation": "Repeatability reduces manual deployment drift.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "infrastructure-as-code"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding infrastructure as code?",
+      "answer": "Define infrastructure through versioned reproducible configuration.",
+      "explanation": "Repeatability reduces manual deployment drift.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "infrastructure-as-code"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for infrastructure as code?",
+      "answer": "Define infrastructure through versioned reproducible configuration.",
+      "explanation": "Repeatability reduces manual deployment drift.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "infrastructure-as-code"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to monitoring in professional Scrum practice?",
+      "answer": "Collect actionable production signals that connect behavior with user outcomes.",
+      "explanation": "Observability helps improve products after release.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "monitoring"
+      ]
+    },
+    {
+      "question": "A team wants to improve monitoring. What principle should guide its next action?",
+      "answer": "Collect actionable production signals that connect behavior with user outcomes.",
+      "explanation": "Observability helps improve products after release.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "monitoring"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about monitoring, what should practitioners emphasize?",
+      "answer": "Collect actionable production signals that connect behavior with user outcomes.",
+      "explanation": "Observability helps improve products after release.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "monitoring"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding monitoring?",
+      "answer": "Collect actionable production signals that connect behavior with user outcomes.",
+      "explanation": "Observability helps improve products after release.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "monitoring"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for monitoring?",
+      "answer": "Collect actionable production signals that connect behavior with user outcomes.",
+      "explanation": "Observability helps improve products after release.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "monitoring"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to logging privacy in professional Scrum practice?",
+      "answer": "Capture useful diagnostics without exposing secrets or personal data.",
+      "explanation": "Operational insight must respect security and privacy.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "logging-privacy"
+      ]
+    },
+    {
+      "question": "A team wants to improve logging privacy. What principle should guide its next action?",
+      "answer": "Capture useful diagnostics without exposing secrets or personal data.",
+      "explanation": "Operational insight must respect security and privacy.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "logging-privacy"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about logging privacy, what should practitioners emphasize?",
+      "answer": "Capture useful diagnostics without exposing secrets or personal data.",
+      "explanation": "Operational insight must respect security and privacy.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "logging-privacy"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding logging privacy?",
+      "answer": "Capture useful diagnostics without exposing secrets or personal data.",
+      "explanation": "Operational insight must respect security and privacy.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "logging-privacy"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for logging privacy?",
+      "answer": "Capture useful diagnostics without exposing secrets or personal data.",
+      "explanation": "Operational insight must respect security and privacy.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "logging-privacy"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to static analysis in professional Scrum practice?",
+      "answer": "Use automated examination of code without running it to detect potential issues.",
+      "explanation": "Static analysis complements runtime testing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "static-analysis"
+      ]
+    },
+    {
+      "question": "A team wants to improve static analysis. What principle should guide its next action?",
+      "answer": "Use automated examination of code without running it to detect potential issues.",
+      "explanation": "Static analysis complements runtime testing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "static-analysis"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about static analysis, what should practitioners emphasize?",
+      "answer": "Use automated examination of code without running it to detect potential issues.",
+      "explanation": "Static analysis complements runtime testing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "static-analysis"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding static analysis?",
+      "answer": "Use automated examination of code without running it to detect potential issues.",
+      "explanation": "Static analysis complements runtime testing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "static-analysis"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for static analysis?",
+      "answer": "Use automated examination of code without running it to detect potential issues.",
+      "explanation": "Static analysis complements runtime testing.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "static-analysis"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to mutation testing in professional Scrum practice?",
+      "answer": "Use controlled code mutations to evaluate whether tests detect meaningful faults.",
+      "explanation": "Coverage percentage alone cannot prove good assertions.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "mutation-testing"
+      ]
+    },
+    {
+      "question": "A team wants to improve mutation testing. What principle should guide its next action?",
+      "answer": "Use controlled code mutations to evaluate whether tests detect meaningful faults.",
+      "explanation": "Coverage percentage alone cannot prove good assertions.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "mutation-testing"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about mutation testing, what should practitioners emphasize?",
+      "answer": "Use controlled code mutations to evaluate whether tests detect meaningful faults.",
+      "explanation": "Coverage percentage alone cannot prove good assertions.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "mutation-testing"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding mutation testing?",
+      "answer": "Use controlled code mutations to evaluate whether tests detect meaningful faults.",
+      "explanation": "Coverage percentage alone cannot prove good assertions.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "mutation-testing"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for mutation testing?",
+      "answer": "Use controlled code mutations to evaluate whether tests detect meaningful faults.",
+      "explanation": "Coverage percentage alone cannot prove good assertions.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "mutation-testing"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to build pipeline reliability in professional Scrum practice?",
+      "answer": "Treat flaky builds as impediments requiring investigation.",
+      "explanation": "A nontrustworthy pipeline undermines fast feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "build-pipeline-reliability"
+      ]
+    },
+    {
+      "question": "A team wants to improve build pipeline reliability. What principle should guide its next action?",
+      "answer": "Treat flaky builds as impediments requiring investigation.",
+      "explanation": "A nontrustworthy pipeline undermines fast feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "build-pipeline-reliability"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about build pipeline reliability, what should practitioners emphasize?",
+      "answer": "Treat flaky builds as impediments requiring investigation.",
+      "explanation": "A nontrustworthy pipeline undermines fast feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "build-pipeline-reliability"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding build pipeline reliability?",
+      "answer": "Treat flaky builds as impediments requiring investigation.",
+      "explanation": "A nontrustworthy pipeline undermines fast feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "build-pipeline-reliability"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for build pipeline reliability?",
+      "answer": "Treat flaky builds as impediments requiring investigation.",
+      "explanation": "A nontrustworthy pipeline undermines fast feedback.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "build-pipeline-reliability"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to rollback strategy in professional Scrum practice?",
+      "answer": "Plan ways to limit harm when deployed changes fail.",
+      "explanation": "Recovery capability supports safe frequent releases.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "rollback-strategy"
+      ]
+    },
+    {
+      "question": "A team wants to improve rollback strategy. What principle should guide its next action?",
+      "answer": "Plan ways to limit harm when deployed changes fail.",
+      "explanation": "Recovery capability supports safe frequent releases.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "rollback-strategy"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about rollback strategy, what should practitioners emphasize?",
+      "answer": "Plan ways to limit harm when deployed changes fail.",
+      "explanation": "Recovery capability supports safe frequent releases.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "rollback-strategy"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding rollback strategy?",
+      "answer": "Plan ways to limit harm when deployed changes fail.",
+      "explanation": "Recovery capability supports safe frequent releases.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "rollback-strategy"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for rollback strategy?",
+      "answer": "Plan ways to limit harm when deployed changes fail.",
+      "explanation": "Recovery capability supports safe frequent releases.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "rollback-strategy"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to branching strategy in professional Scrum practice?",
+      "answer": "Minimize divergence and integration delay in source-control workflows.",
+      "explanation": "Frequent integration helps find conflicts early.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "branching-strategy"
+      ]
+    },
+    {
+      "question": "A team wants to improve branching strategy. What principle should guide its next action?",
+      "answer": "Minimize divergence and integration delay in source-control workflows.",
+      "explanation": "Frequent integration helps find conflicts early.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "branching-strategy"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about branching strategy, what should practitioners emphasize?",
+      "answer": "Minimize divergence and integration delay in source-control workflows.",
+      "explanation": "Frequent integration helps find conflicts early.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "branching-strategy"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding branching strategy?",
+      "answer": "Minimize divergence and integration delay in source-control workflows.",
+      "explanation": "Frequent integration helps find conflicts early.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "branching-strategy"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for branching strategy?",
+      "answer": "Minimize divergence and integration delay in source-control workflows.",
+      "explanation": "Frequent integration helps find conflicts early.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "branching-strategy"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to architecture evolution in professional Scrum practice?",
+      "answer": "Make incremental architectural choices informed by actual product needs.",
+      "explanation": "Premature design can slow learning.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "architecture-evolution"
+      ]
+    },
+    {
+      "question": "A team wants to improve architecture evolution. What principle should guide its next action?",
+      "answer": "Make incremental architectural choices informed by actual product needs.",
+      "explanation": "Premature design can slow learning.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "architecture-evolution"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about architecture evolution, what should practitioners emphasize?",
+      "answer": "Make incremental architectural choices informed by actual product needs.",
+      "explanation": "Premature design can slow learning.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "architecture-evolution"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding architecture evolution?",
+      "answer": "Make incremental architectural choices informed by actual product needs.",
+      "explanation": "Premature design can slow learning.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "architecture-evolution"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for architecture evolution?",
+      "answer": "Make incremental architectural choices informed by actual product needs.",
+      "explanation": "Premature design can slow learning.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "architecture-evolution"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to api contract testing in professional Scrum practice?",
+      "answer": "Verify agreed interfaces between independently changing components.",
+      "explanation": "Contract checks reduce integration surprises.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "api-contract-testing"
+      ]
+    },
+    {
+      "question": "A team wants to improve api contract testing. What principle should guide its next action?",
+      "answer": "Verify agreed interfaces between independently changing components.",
+      "explanation": "Contract checks reduce integration surprises.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "api-contract-testing"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about api contract testing, what should practitioners emphasize?",
+      "answer": "Verify agreed interfaces between independently changing components.",
+      "explanation": "Contract checks reduce integration surprises.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "api-contract-testing"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding api contract testing?",
+      "answer": "Verify agreed interfaces between independently changing components.",
+      "explanation": "Contract checks reduce integration surprises.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "api-contract-testing"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for api contract testing?",
+      "answer": "Verify agreed interfaces between independently changing components.",
+      "explanation": "Contract checks reduce integration surprises.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "api-contract-testing"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to code quality metrics in professional Scrum practice?",
+      "answer": "Use complexity and defect trends as conversation starters rather than individual scores.",
+      "explanation": "Metrics should inform improvement, not gaming.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-quality-metrics"
+      ]
+    },
+    {
+      "question": "A team wants to improve code quality metrics. What principle should guide its next action?",
+      "answer": "Use complexity and defect trends as conversation starters rather than individual scores.",
+      "explanation": "Metrics should inform improvement, not gaming.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-quality-metrics"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about code quality metrics, what should practitioners emphasize?",
+      "answer": "Use complexity and defect trends as conversation starters rather than individual scores.",
+      "explanation": "Metrics should inform improvement, not gaming.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-quality-metrics"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding code quality metrics?",
+      "answer": "Use complexity and defect trends as conversation starters rather than individual scores.",
+      "explanation": "Metrics should inform improvement, not gaming.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-quality-metrics"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for code quality metrics?",
+      "answer": "Use complexity and defect trends as conversation starters rather than individual scores.",
+      "explanation": "Metrics should inform improvement, not gaming.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "code-quality-metrics"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to definition of done shared quality in professional Scrum practice?",
+      "answer": "Apply shared quality requirements to every Increment across Scrum Teams on one product.",
+      "explanation": "Separate lax standards obstruct integration.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-shared-quality"
+      ]
+    },
+    {
+      "question": "A team wants to improve definition of done shared quality. What principle should guide its next action?",
+      "answer": "Apply shared quality requirements to every Increment across Scrum Teams on one product.",
+      "explanation": "Separate lax standards obstruct integration.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-shared-quality"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about definition of done shared quality, what should practitioners emphasize?",
+      "answer": "Apply shared quality requirements to every Increment across Scrum Teams on one product.",
+      "explanation": "Separate lax standards obstruct integration.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-shared-quality"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding definition of done shared quality?",
+      "answer": "Apply shared quality requirements to every Increment across Scrum Teams on one product.",
+      "explanation": "Separate lax standards obstruct integration.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-shared-quality"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for definition of done shared quality?",
+      "answer": "Apply shared quality requirements to every Increment across Scrum Teams on one product.",
+      "explanation": "Separate lax standards obstruct integration.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "definition-of-done-shared-quality"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to acceptance examples in professional Scrum practice?",
+      "answer": "Collaborate on concrete examples of desired behavior before implementation.",
+      "explanation": "Examples reduce ambiguity and support tests.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "acceptance-examples"
+      ]
+    },
+    {
+      "question": "A team wants to improve acceptance examples. What principle should guide its next action?",
+      "answer": "Collaborate on concrete examples of desired behavior before implementation.",
+      "explanation": "Examples reduce ambiguity and support tests.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "acceptance-examples"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about acceptance examples, what should practitioners emphasize?",
+      "answer": "Collaborate on concrete examples of desired behavior before implementation.",
+      "explanation": "Examples reduce ambiguity and support tests.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "acceptance-examples"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding acceptance examples?",
+      "answer": "Collaborate on concrete examples of desired behavior before implementation.",
+      "explanation": "Examples reduce ambiguity and support tests.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "acceptance-examples"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for acceptance examples?",
+      "answer": "Collaborate on concrete examples of desired behavior before implementation.",
+      "explanation": "Examples reduce ambiguity and support tests.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "acceptance-examples"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to deployment versus release in professional Scrum practice?",
+      "answer": "Distinguish putting code in production from enabling it for users.",
+      "explanation": "Deployment and business release can happen at different times.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "deployment-versus-release"
+      ]
+    },
+    {
+      "question": "A team wants to improve deployment versus release. What principle should guide its next action?",
+      "answer": "Distinguish putting code in production from enabling it for users.",
+      "explanation": "Deployment and business release can happen at different times.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "deployment-versus-release"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about deployment versus release, what should practitioners emphasize?",
+      "answer": "Distinguish putting code in production from enabling it for users.",
+      "explanation": "Deployment and business release can happen at different times.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "deployment-versus-release"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding deployment versus release?",
+      "answer": "Distinguish putting code in production from enabling it for users.",
+      "explanation": "Deployment and business release can happen at different times.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "deployment-versus-release"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for deployment versus release?",
+      "answer": "Distinguish putting code in production from enabling it for users.",
+      "explanation": "Deployment and business release can happen at different times.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "deployment-versus-release"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to performance testing in professional Scrum practice?",
+      "answer": "Assess response time and resource behavior under representative load.",
+      "explanation": "Functional correctness alone may not meet user needs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "performance-testing"
+      ]
+    },
+    {
+      "question": "A team wants to improve performance testing. What principle should guide its next action?",
+      "answer": "Assess response time and resource behavior under representative load.",
+      "explanation": "Functional correctness alone may not meet user needs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "performance-testing"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about performance testing, what should practitioners emphasize?",
+      "answer": "Assess response time and resource behavior under representative load.",
+      "explanation": "Functional correctness alone may not meet user needs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "performance-testing"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding performance testing?",
+      "answer": "Assess response time and resource behavior under representative load.",
+      "explanation": "Functional correctness alone may not meet user needs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "performance-testing"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for performance testing?",
+      "answer": "Assess response time and resource behavior under representative load.",
+      "explanation": "Functional correctness alone may not meet user needs.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "performance-testing"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to accessibility testing in professional Scrum practice?",
+      "answer": "Include accessibility considerations in product design and verification.",
+      "explanation": "Usability extends to people with disabilities.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "accessibility-testing"
+      ]
+    },
+    {
+      "question": "A team wants to improve accessibility testing. What principle should guide its next action?",
+      "answer": "Include accessibility considerations in product design and verification.",
+      "explanation": "Usability extends to people with disabilities.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "accessibility-testing"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about accessibility testing, what should practitioners emphasize?",
+      "answer": "Include accessibility considerations in product design and verification.",
+      "explanation": "Usability extends to people with disabilities.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "accessibility-testing"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding accessibility testing?",
+      "answer": "Include accessibility considerations in product design and verification.",
+      "explanation": "Usability extends to people with disabilities.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "accessibility-testing"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for accessibility testing?",
+      "answer": "Include accessibility considerations in product design and verification.",
+      "explanation": "Usability extends to people with disabilities.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "accessibility-testing"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to database migration safety in professional Scrum practice?",
+      "answer": "Design schema changes to coexist safely with running application versions.",
+      "explanation": "Unsafe migrations can make releases brittle.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "database-migration-safety"
+      ]
+    },
+    {
+      "question": "A team wants to improve database migration safety. What principle should guide its next action?",
+      "answer": "Design schema changes to coexist safely with running application versions.",
+      "explanation": "Unsafe migrations can make releases brittle.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "database-migration-safety"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about database migration safety, what should practitioners emphasize?",
+      "answer": "Design schema changes to coexist safely with running application versions.",
+      "explanation": "Unsafe migrations can make releases brittle.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "database-migration-safety"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding database migration safety?",
+      "answer": "Design schema changes to coexist safely with running application versions.",
+      "explanation": "Unsafe migrations can make releases brittle.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "database-migration-safety"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for database migration safety?",
+      "answer": "Design schema changes to coexist safely with running application versions.",
+      "explanation": "Unsafe migrations can make releases brittle.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "database-migration-safety"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to shared ownership of quality in professional Scrum practice?",
+      "answer": "Treat testing and quality as Developers' collective responsibility.",
+      "explanation": "A separate QA sign-off phase is not required by Scrum.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "shared-ownership-of-quality"
+      ]
+    },
+    {
+      "question": "A team wants to improve shared ownership of quality. What principle should guide its next action?",
+      "answer": "Treat testing and quality as Developers' collective responsibility.",
+      "explanation": "A separate QA sign-off phase is not required by Scrum.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "shared-ownership-of-quality"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about shared ownership of quality, what should practitioners emphasize?",
+      "answer": "Treat testing and quality as Developers' collective responsibility.",
+      "explanation": "A separate QA sign-off phase is not required by Scrum.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "shared-ownership-of-quality"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding shared ownership of quality?",
+      "answer": "Treat testing and quality as Developers' collective responsibility.",
+      "explanation": "A separate QA sign-off phase is not required by Scrum.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "shared-ownership-of-quality"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for shared ownership of quality?",
+      "answer": "Treat testing and quality as Developers' collective responsibility.",
+      "explanation": "A separate QA sign-off phase is not required by Scrum.",
+      "language": "en",
+      "tags": [
+        "psd",
+        "shared-ownership-of-quality"
+      ]
+    }
+  ]
+}

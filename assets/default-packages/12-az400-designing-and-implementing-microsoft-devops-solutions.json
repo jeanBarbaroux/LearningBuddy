@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "AZ400 Designing and Implementing Microsoft DevOps Solutions",
+  "cards": [
+    {
+      "question": "What does lead time for changes measure?",
+      "answer": "The time from a code change being committed to that change running successfully in production.",
+      "explanation": "The time from a code change being committed to that change running successfully in production. This is a core concept within flow metrics.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "flow-metrics",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing flow metrics. What does lead time for changes measure?",
+      "answer": "The time from a code change being committed to that change running successfully in production.",
+      "explanation": "The correct consideration is: The time from a code change being committed to that change running successfully in production. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "flow-metrics",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about flow metrics: What does lead time for changes measure?",
+      "answer": "The time from a code change being committed to that change running successfully in production.",
+      "explanation": "The time from a code change being committed to that change running successfully in production. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "flow-metrics",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on flow metrics, answer the following: What does lead time for changes measure?",
+      "answer": "The time from a code change being committed to that change running successfully in production.",
+      "explanation": "The time from a code change being committed to that change running successfully in production. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "flow-metrics",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does mean time to restore service measure?",
+      "answer": "The average time required to restore service after a production failure.",
+      "explanation": "The average time required to restore service after a production failure. This is a core concept within recovery metric.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "recovery-metric",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing recovery metric. What does mean time to restore service measure?",
+      "answer": "The average time required to restore service after a production failure.",
+      "explanation": "The correct consideration is: The average time required to restore service after a production failure. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "recovery-metric",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about recovery metric: What does mean time to restore service measure?",
+      "answer": "The average time required to restore service after a production failure.",
+      "explanation": "The average time required to restore service after a production failure. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "recovery-metric",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on recovery metric, answer the following: What does mean time to restore service measure?",
+      "answer": "The average time required to restore service after a production failure.",
+      "explanation": "The average time required to restore service after a production failure. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "recovery-metric",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does deployment frequency indicate?",
+      "answer": "How often an organization successfully deploys changes to production.",
+      "explanation": "How often an organization successfully deploys changes to production. This is a core concept within deployment frequency.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "deployment-frequency",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing deployment frequency. What does deployment frequency indicate?",
+      "answer": "How often an organization successfully deploys changes to production.",
+      "explanation": "The correct consideration is: How often an organization successfully deploys changes to production. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "deployment-frequency",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about deployment frequency: What does deployment frequency indicate?",
+      "answer": "How often an organization successfully deploys changes to production.",
+      "explanation": "How often an organization successfully deploys changes to production. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "deployment-frequency",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on deployment frequency, answer the following: What does deployment frequency indicate?",
+      "answer": "How often an organization successfully deploys changes to production.",
+      "explanation": "How often an organization successfully deploys changes to production. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "deployment-frequency",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does change failure rate represent?",
+      "answer": "The percentage of deployments that cause a failure requiring remediation.",
+      "explanation": "The percentage of deployments that cause a failure requiring remediation. This is a core concept within change failure rate.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "change-failure-rate",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing change failure rate. What does change failure rate represent?",
+      "answer": "The percentage of deployments that cause a failure requiring remediation.",
+      "explanation": "The correct consideration is: The percentage of deployments that cause a failure requiring remediation. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "change-failure-rate",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about change failure rate: What does change failure rate represent?",
+      "answer": "The percentage of deployments that cause a failure requiring remediation.",
+      "explanation": "The percentage of deployments that cause a failure requiring remediation. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "change-failure-rate",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on change failure rate, answer the following: What does change failure rate represent?",
+      "answer": "The percentage of deployments that cause a failure requiring remediation.",
+      "explanation": "The percentage of deployments that cause a failure requiring remediation. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "change-failure-rate",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is the core branching pattern of GitHub Flow?",
+      "answer": "Create a short-lived branch, open a pull request, review it, and merge to the main branch.",
+      "explanation": "Create a short-lived branch, open a pull request, review it, and merge to the main branch. This is a core concept within github flow.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "github-flow",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing github flow. What is the core branching pattern of GitHub Flow?",
+      "answer": "Create a short-lived branch, open a pull request, review it, and merge to the main branch.",
+      "explanation": "The correct consideration is: Create a short-lived branch, open a pull request, review it, and merge to the main branch. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "github-flow",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about github flow: What is the core branching pattern of GitHub Flow?",
+      "answer": "Create a short-lived branch, open a pull request, review it, and merge to the main branch.",
+      "explanation": "Create a short-lived branch, open a pull request, review it, and merge to the main branch. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "github-flow",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on github flow, answer the following: What is the core branching pattern of GitHub Flow?",
+      "answer": "Create a short-lived branch, open a pull request, review it, and merge to the main branch.",
+      "explanation": "Create a short-lived branch, open a pull request, review it, and merge to the main branch. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "github-flow",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why require pull request reviews before merging?",
+      "answer": "To introduce peer evaluation and catch defects before changes enter a protected branch.",
+      "explanation": "To introduce peer evaluation and catch defects before changes enter a protected branch. This is a core concept within pull request review.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pull-request-review",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing pull request review. Why require pull request reviews before merging?",
+      "answer": "To introduce peer evaluation and catch defects before changes enter a protected branch.",
+      "explanation": "The correct consideration is: To introduce peer evaluation and catch defects before changes enter a protected branch. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pull-request-review",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about pull request review: Why require pull request reviews before merging?",
+      "answer": "To introduce peer evaluation and catch defects before changes enter a protected branch.",
+      "explanation": "To introduce peer evaluation and catch defects before changes enter a protected branch. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pull-request-review",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on pull request review, answer the following: Why require pull request reviews before merging?",
+      "answer": "To introduce peer evaluation and catch defects before changes enter a protected branch.",
+      "explanation": "To introduce peer evaluation and catch defects before changes enter a protected branch. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pull-request-review",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do GitHub branch protection rules enforce?",
+      "answer": "Controls such as required reviews, passing status checks, and restrictions on force pushes.",
+      "explanation": "Controls such as required reviews, passing status checks, and restrictions on force pushes. This is a core concept within branch protection.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "branch-protection",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing branch protection. What do GitHub branch protection rules enforce?",
+      "answer": "Controls such as required reviews, passing status checks, and restrictions on force pushes.",
+      "explanation": "The correct consideration is: Controls such as required reviews, passing status checks, and restrictions on force pushes. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "branch-protection",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about branch protection: What do GitHub branch protection rules enforce?",
+      "answer": "Controls such as required reviews, passing status checks, and restrictions on force pushes.",
+      "explanation": "Controls such as required reviews, passing status checks, and restrictions on force pushes. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "branch-protection",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on branch protection, answer the following: What do GitHub branch protection rules enforce?",
+      "answer": "Controls such as required reviews, passing status checks, and restrictions on force pushes.",
+      "explanation": "Controls such as required reviews, passing status checks, and restrictions on force pushes. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "branch-protection",
+        "practice"
+      ]
+    },
+    {
+      "question": "When should Git Large File Storage be considered?",
+      "answer": "When a repository contains large binary assets that would otherwise bloat Git history.",
+      "explanation": "When a repository contains large binary assets that would otherwise bloat Git history. This is a core concept within git lfs.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "git-lfs",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing git lfs. When should Git Large File Storage be considered?",
+      "answer": "When a repository contains large binary assets that would otherwise bloat Git history.",
+      "explanation": "The correct consideration is: When a repository contains large binary assets that would otherwise bloat Git history. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "git-lfs",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about git lfs: When should Git Large File Storage be considered?",
+      "answer": "When a repository contains large binary assets that would otherwise bloat Git history.",
+      "explanation": "When a repository contains large binary assets that would otherwise bloat Git history. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "git-lfs",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on git lfs, answer the following: When should Git Large File Storage be considered?",
+      "answer": "When a repository contains large binary assets that would otherwise bloat Git history.",
+      "explanation": "When a repository contains large binary assets that would otherwise bloat Git history. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "git-lfs",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does git revert do?",
+      "answer": "It creates a new commit that undoes changes introduced by an earlier commit without rewriting published history.",
+      "explanation": "It creates a new commit that undoes changes introduced by an earlier commit without rewriting published history. This is a core concept within git revert.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "git-revert",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing git revert. What does git revert do?",
+      "answer": "It creates a new commit that undoes changes introduced by an earlier commit without rewriting published history.",
+      "explanation": "The correct consideration is: It creates a new commit that undoes changes introduced by an earlier commit without rewriting published history. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "git-revert",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about git revert: What does git revert do?",
+      "answer": "It creates a new commit that undoes changes introduced by an earlier commit without rewriting published history.",
+      "explanation": "It creates a new commit that undoes changes introduced by an earlier commit without rewriting published history. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "git-revert",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on git revert, answer the following: What does git revert do?",
+      "answer": "It creates a new commit that undoes changes introduced by an earlier commit without rewriting published history.",
+      "explanation": "It creates a new commit that undoes changes introduced by an earlier commit without rewriting published history. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "git-revert",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does Azure Boards primarily manage?",
+      "answer": "Work items, backlogs, sprint planning, and traceability of development work.",
+      "explanation": "Work items, backlogs, sprint planning, and traceability of development work. This is a core concept within azure boards.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-boards",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing azure boards. What does Azure Boards primarily manage?",
+      "answer": "Work items, backlogs, sprint planning, and traceability of development work.",
+      "explanation": "The correct consideration is: Work items, backlogs, sprint planning, and traceability of development work. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-boards",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about azure boards: What does Azure Boards primarily manage?",
+      "answer": "Work items, backlogs, sprint planning, and traceability of development work.",
+      "explanation": "Work items, backlogs, sprint planning, and traceability of development work. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-boards",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on azure boards, answer the following: What does Azure Boards primarily manage?",
+      "answer": "Work items, backlogs, sprint planning, and traceability of development work.",
+      "explanation": "Work items, backlogs, sprint planning, and traceability of development work. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-boards",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is Azure Artifacts used for?",
+      "answer": "Hosting and sharing versioned packages and managing package feeds.",
+      "explanation": "Hosting and sharing versioned packages and managing package feeds. This is a core concept within azure artifacts.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-artifacts",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing azure artifacts. What is Azure Artifacts used for?",
+      "answer": "Hosting and sharing versioned packages and managing package feeds.",
+      "explanation": "The correct consideration is: Hosting and sharing versioned packages and managing package feeds. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-artifacts",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about azure artifacts: What is Azure Artifacts used for?",
+      "answer": "Hosting and sharing versioned packages and managing package feeds.",
+      "explanation": "Hosting and sharing versioned packages and managing package feeds. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-artifacts",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on azure artifacts, answer the following: What is Azure Artifacts used for?",
+      "answer": "Hosting and sharing versioned packages and managing package feeds.",
+      "explanation": "Hosting and sharing versioned packages and managing package feeds. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-artifacts",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do major, minor, and patch versions signal in SemVer?",
+      "answer": "Major is breaking changes, minor is backward-compatible features, and patch is backward-compatible fixes.",
+      "explanation": "Major is breaking changes, minor is backward-compatible features, and patch is backward-compatible fixes. This is a core concept within semantic versioning.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "semantic-versioning",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing semantic versioning. What do major, minor, and patch versions signal in SemVer?",
+      "answer": "Major is breaking changes, minor is backward-compatible features, and patch is backward-compatible fixes.",
+      "explanation": "The correct consideration is: Major is breaking changes, minor is backward-compatible features, and patch is backward-compatible fixes. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "semantic-versioning",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about semantic versioning: What do major, minor, and patch versions signal in SemVer?",
+      "answer": "Major is breaking changes, minor is backward-compatible features, and patch is backward-compatible fixes.",
+      "explanation": "Major is breaking changes, minor is backward-compatible features, and patch is backward-compatible fixes. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "semantic-versioning",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on semantic versioning, answer the following: What do major, minor, and patch versions signal in SemVer?",
+      "answer": "Major is breaking changes, minor is backward-compatible features, and patch is backward-compatible fixes.",
+      "explanation": "Major is breaking changes, minor is backward-compatible features, and patch is backward-compatible fixes. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "semantic-versioning",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a key advantage of defining pipelines in YAML?",
+      "answer": "Pipeline definitions can be version-controlled and reviewed alongside application code.",
+      "explanation": "Pipeline definitions can be version-controlled and reviewed alongside application code. This is a core concept within yaml pipelines.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "yaml-pipelines",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing yaml pipelines. What is a key advantage of defining pipelines in YAML?",
+      "answer": "Pipeline definitions can be version-controlled and reviewed alongside application code.",
+      "explanation": "The correct consideration is: Pipeline definitions can be version-controlled and reviewed alongside application code. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "yaml-pipelines",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about yaml pipelines: What is a key advantage of defining pipelines in YAML?",
+      "answer": "Pipeline definitions can be version-controlled and reviewed alongside application code.",
+      "explanation": "Pipeline definitions can be version-controlled and reviewed alongside application code. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "yaml-pipelines",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on yaml pipelines, answer the following: What is a key advantage of defining pipelines in YAML?",
+      "answer": "Pipeline definitions can be version-controlled and reviewed alongside application code.",
+      "explanation": "Pipeline definitions can be version-controlled and reviewed alongside application code. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "yaml-pipelines",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do CI triggers do in an automated pipeline?",
+      "answer": "Start a pipeline when specified repository changes occur.",
+      "explanation": "Start a pipeline when specified repository changes occur. This is a core concept within pipeline triggers.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-triggers",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing pipeline triggers. What do CI triggers do in an automated pipeline?",
+      "answer": "Start a pipeline when specified repository changes occur.",
+      "explanation": "The correct consideration is: Start a pipeline when specified repository changes occur. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-triggers",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about pipeline triggers: What do CI triggers do in an automated pipeline?",
+      "answer": "Start a pipeline when specified repository changes occur.",
+      "explanation": "Start a pipeline when specified repository changes occur. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-triggers",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on pipeline triggers, answer the following: What do CI triggers do in an automated pipeline?",
+      "answer": "Start a pipeline when specified repository changes occur.",
+      "explanation": "Start a pipeline when specified repository changes occur. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-triggers",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why use stages in deployment pipelines?",
+      "answer": "To separate build, test, validation, and deployment with clear dependencies and controls.",
+      "explanation": "To separate build, test, validation, and deployment with clear dependencies and controls. This is a core concept within pipeline stages.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-stages",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing pipeline stages. Why use stages in deployment pipelines?",
+      "answer": "To separate build, test, validation, and deployment with clear dependencies and controls.",
+      "explanation": "The correct consideration is: To separate build, test, validation, and deployment with clear dependencies and controls. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-stages",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about pipeline stages: Why use stages in deployment pipelines?",
+      "answer": "To separate build, test, validation, and deployment with clear dependencies and controls.",
+      "explanation": "To separate build, test, validation, and deployment with clear dependencies and controls. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-stages",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on pipeline stages, answer the following: Why use stages in deployment pipelines?",
+      "answer": "To separate build, test, validation, and deployment with clear dependencies and controls.",
+      "explanation": "To separate build, test, validation, and deployment with clear dependencies and controls. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-stages",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why introduce reusable YAML templates?",
+      "answer": "To apply consistent steps and reduce duplication across many pipelines.",
+      "explanation": "To apply consistent steps and reduce duplication across many pipelines. This is a core concept within pipeline templates.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-templates",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing pipeline templates. Why introduce reusable YAML templates?",
+      "answer": "To apply consistent steps and reduce duplication across many pipelines.",
+      "explanation": "The correct consideration is: To apply consistent steps and reduce duplication across many pipelines. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-templates",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about pipeline templates: Why introduce reusable YAML templates?",
+      "answer": "To apply consistent steps and reduce duplication across many pipelines.",
+      "explanation": "To apply consistent steps and reduce duplication across many pipelines. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-templates",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on pipeline templates, answer the following: Why introduce reusable YAML templates?",
+      "answer": "To apply consistent steps and reduce duplication across many pipelines.",
+      "explanation": "To apply consistent steps and reduce duplication across many pipelines. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-templates",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is a self-hosted pipeline agent useful?",
+      "answer": "When builds need private network access, custom tools, or specialized hardware.",
+      "explanation": "When builds need private network access, custom tools, or specialized hardware. This is a core concept within self-hosted agents.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "self-hosted-agents",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing self-hosted agents. When is a self-hosted pipeline agent useful?",
+      "answer": "When builds need private network access, custom tools, or specialized hardware.",
+      "explanation": "The correct consideration is: When builds need private network access, custom tools, or specialized hardware. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "self-hosted-agents",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about self-hosted agents: When is a self-hosted pipeline agent useful?",
+      "answer": "When builds need private network access, custom tools, or specialized hardware.",
+      "explanation": "When builds need private network access, custom tools, or specialized hardware. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "self-hosted-agents",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on self-hosted agents, answer the following: When is a self-hosted pipeline agent useful?",
+      "answer": "When builds need private network access, custom tools, or specialized hardware.",
+      "explanation": "When builds need private network access, custom tools, or specialized hardware. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "self-hosted-agents",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why choose Microsoft- or GitHub-hosted build runners?",
+      "answer": "They simplify infrastructure management for jobs that can run in standard hosted environments.",
+      "explanation": "They simplify infrastructure management for jobs that can run in standard hosted environments. This is a core concept within hosted runners.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "hosted-runners",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing hosted runners. Why choose Microsoft- or GitHub-hosted build runners?",
+      "answer": "They simplify infrastructure management for jobs that can run in standard hosted environments.",
+      "explanation": "The correct consideration is: They simplify infrastructure management for jobs that can run in standard hosted environments. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "hosted-runners",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about hosted runners: Why choose Microsoft- or GitHub-hosted build runners?",
+      "answer": "They simplify infrastructure management for jobs that can run in standard hosted environments.",
+      "explanation": "They simplify infrastructure management for jobs that can run in standard hosted environments. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "hosted-runners",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on hosted runners, answer the following: Why choose Microsoft- or GitHub-hosted build runners?",
+      "answer": "They simplify infrastructure management for jobs that can run in standard hosted environments.",
+      "explanation": "They simplify infrastructure management for jobs that can run in standard hosted environments. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "hosted-runners",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does parallel pipeline execution improve?",
+      "answer": "It can shorten delivery time by executing independent jobs concurrently.",
+      "explanation": "It can shorten delivery time by executing independent jobs concurrently. This is a core concept within parallel jobs.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "parallel-jobs",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing parallel jobs. What does parallel pipeline execution improve?",
+      "answer": "It can shorten delivery time by executing independent jobs concurrently.",
+      "explanation": "The correct consideration is: It can shorten delivery time by executing independent jobs concurrently. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "parallel-jobs",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about parallel jobs: What does parallel pipeline execution improve?",
+      "answer": "It can shorten delivery time by executing independent jobs concurrently.",
+      "explanation": "It can shorten delivery time by executing independent jobs concurrently. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "parallel-jobs",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on parallel jobs, answer the following: What does parallel pipeline execution improve?",
+      "answer": "It can shorten delivery time by executing independent jobs concurrently.",
+      "explanation": "It can shorten delivery time by executing independent jobs concurrently. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "parallel-jobs",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a pipeline artifact?",
+      "answer": "A versioned output of a build or pipeline stage that downstream stages can consume.",
+      "explanation": "A versioned output of a build or pipeline stage that downstream stages can consume. This is a core concept within artifacts.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "artifacts",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing artifacts. What is a pipeline artifact?",
+      "answer": "A versioned output of a build or pipeline stage that downstream stages can consume.",
+      "explanation": "The correct consideration is: A versioned output of a build or pipeline stage that downstream stages can consume. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "artifacts",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about artifacts: What is a pipeline artifact?",
+      "answer": "A versioned output of a build or pipeline stage that downstream stages can consume.",
+      "explanation": "A versioned output of a build or pipeline stage that downstream stages can consume. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "artifacts",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on artifacts, answer the following: What is a pipeline artifact?",
+      "answer": "A versioned output of a build or pipeline stage that downstream stages can consume.",
+      "explanation": "A versioned output of a build or pipeline stage that downstream stages can consume. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "artifacts",
+        "practice"
+      ]
+    },
+    {
+      "question": "Where do unit tests belong in CI?",
+      "answer": "Run them early on each relevant change to catch small regressions quickly.",
+      "explanation": "Run them early on each relevant change to catch small regressions quickly. This is a core concept within unit tests.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "unit-tests",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing unit tests. Where do unit tests belong in CI?",
+      "answer": "Run them early on each relevant change to catch small regressions quickly.",
+      "explanation": "The correct consideration is: Run them early on each relevant change to catch small regressions quickly. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "unit-tests",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about unit tests: Where do unit tests belong in CI?",
+      "answer": "Run them early on each relevant change to catch small regressions quickly.",
+      "explanation": "Run them early on each relevant change to catch small regressions quickly. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "unit-tests",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on unit tests, answer the following: Where do unit tests belong in CI?",
+      "answer": "Run them early on each relevant change to catch small regressions quickly.",
+      "explanation": "Run them early on each relevant change to catch small regressions quickly. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "unit-tests",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do integration tests validate in a pipeline?",
+      "answer": "Interactions between components, services, or external dependencies.",
+      "explanation": "Interactions between components, services, or external dependencies. This is a core concept within integration tests.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "integration-tests",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing integration tests. What do integration tests validate in a pipeline?",
+      "answer": "Interactions between components, services, or external dependencies.",
+      "explanation": "The correct consideration is: Interactions between components, services, or external dependencies. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "integration-tests",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about integration tests: What do integration tests validate in a pipeline?",
+      "answer": "Interactions between components, services, or external dependencies.",
+      "explanation": "Interactions between components, services, or external dependencies. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "integration-tests",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on integration tests, answer the following: What do integration tests validate in a pipeline?",
+      "answer": "Interactions between components, services, or external dependencies.",
+      "explanation": "Interactions between components, services, or external dependencies. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "integration-tests",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why run load testing before a significant release?",
+      "answer": "To evaluate response times, capacity, and reliability under expected or peak demand.",
+      "explanation": "To evaluate response times, capacity, and reliability under expected or peak demand. This is a core concept within load tests.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "load-tests",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing load tests. Why run load testing before a significant release?",
+      "answer": "To evaluate response times, capacity, and reliability under expected or peak demand.",
+      "explanation": "The correct consideration is: To evaluate response times, capacity, and reliability under expected or peak demand. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "load-tests",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about load tests: Why run load testing before a significant release?",
+      "answer": "To evaluate response times, capacity, and reliability under expected or peak demand.",
+      "explanation": "To evaluate response times, capacity, and reliability under expected or peak demand. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "load-tests",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on load tests, answer the following: Why run load testing before a significant release?",
+      "answer": "To evaluate response times, capacity, and reliability under expected or peak demand.",
+      "explanation": "To evaluate response times, capacity, and reliability under expected or peak demand. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "load-tests",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does code coverage show?",
+      "answer": "Which code paths or lines execute during tests; it does not prove the tests are effective.",
+      "explanation": "Which code paths or lines execute during tests; it does not prove the tests are effective. This is a core concept within code coverage.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "code-coverage",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing code coverage. What does code coverage show?",
+      "answer": "Which code paths or lines execute during tests; it does not prove the tests are effective.",
+      "explanation": "The correct consideration is: Which code paths or lines execute during tests; it does not prove the tests are effective. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "code-coverage",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about code coverage: What does code coverage show?",
+      "answer": "Which code paths or lines execute during tests; it does not prove the tests are effective.",
+      "explanation": "Which code paths or lines execute during tests; it does not prove the tests are effective. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "code-coverage",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on code coverage, answer the following: What does code coverage show?",
+      "answer": "Which code paths or lines execute during tests; it does not prove the tests are effective.",
+      "explanation": "Which code paths or lines execute during tests; it does not prove the tests are effective. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "code-coverage",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a release quality gate?",
+      "answer": "A policy-based check that must pass before a release can proceed.",
+      "explanation": "A policy-based check that must pass before a release can proceed. This is a core concept within quality gates.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "quality-gates",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing quality gates. What is a release quality gate?",
+      "answer": "A policy-based check that must pass before a release can proceed.",
+      "explanation": "The correct consideration is: A policy-based check that must pass before a release can proceed. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "quality-gates",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about quality gates: What is a release quality gate?",
+      "answer": "A policy-based check that must pass before a release can proceed.",
+      "explanation": "A policy-based check that must pass before a release can proceed. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "quality-gates",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on quality gates, answer the following: What is a release quality gate?",
+      "answer": "A policy-based check that must pass before a release can proceed.",
+      "explanation": "A policy-based check that must pass before a release can proceed. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "quality-gates",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why configure environment approvals?",
+      "answer": "To require authorized review before deploying to sensitive environments.",
+      "explanation": "To require authorized review before deploying to sensitive environments. This is a core concept within approval checks.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "approval-checks",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing approval checks. Why configure environment approvals?",
+      "answer": "To require authorized review before deploying to sensitive environments.",
+      "explanation": "The correct consideration is: To require authorized review before deploying to sensitive environments. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "approval-checks",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about approval checks: Why configure environment approvals?",
+      "answer": "To require authorized review before deploying to sensitive environments.",
+      "explanation": "To require authorized review before deploying to sensitive environments. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "approval-checks",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on approval checks, answer the following: Why configure environment approvals?",
+      "answer": "To require authorized review before deploying to sensitive environments.",
+      "explanation": "To require authorized review before deploying to sensitive environments. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "approval-checks",
+        "practice"
+      ]
+    },
+    {
+      "question": "How does blue-green deployment reduce release risk?",
+      "answer": "It switches traffic between two provisioned environments, allowing a rapid rollback.",
+      "explanation": "It switches traffic between two provisioned environments, allowing a rapid rollback. This is a core concept within blue-green deployment.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "blue-green-deployment",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing blue-green deployment. How does blue-green deployment reduce release risk?",
+      "answer": "It switches traffic between two provisioned environments, allowing a rapid rollback.",
+      "explanation": "The correct consideration is: It switches traffic between two provisioned environments, allowing a rapid rollback. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "blue-green-deployment",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about blue-green deployment: How does blue-green deployment reduce release risk?",
+      "answer": "It switches traffic between two provisioned environments, allowing a rapid rollback.",
+      "explanation": "It switches traffic between two provisioned environments, allowing a rapid rollback. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "blue-green-deployment",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on blue-green deployment, answer the following: How does blue-green deployment reduce release risk?",
+      "answer": "It switches traffic between two provisioned environments, allowing a rapid rollback.",
+      "explanation": "It switches traffic between two provisioned environments, allowing a rapid rollback. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "blue-green-deployment",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is the idea behind a canary release?",
+      "answer": "Expose a new version to a small share of users, observe it, then expand exposure.",
+      "explanation": "Expose a new version to a small share of users, observe it, then expand exposure. This is a core concept within canary deployment.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "canary-deployment",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing canary deployment. What is the idea behind a canary release?",
+      "answer": "Expose a new version to a small share of users, observe it, then expand exposure.",
+      "explanation": "The correct consideration is: Expose a new version to a small share of users, observe it, then expand exposure. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "canary-deployment",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about canary deployment: What is the idea behind a canary release?",
+      "answer": "Expose a new version to a small share of users, observe it, then expand exposure.",
+      "explanation": "Expose a new version to a small share of users, observe it, then expand exposure. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "canary-deployment",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on canary deployment, answer the following: What is the idea behind a canary release?",
+      "answer": "Expose a new version to a small share of users, observe it, then expand exposure.",
+      "explanation": "Expose a new version to a small share of users, observe it, then expand exposure. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "canary-deployment",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do feature flags enable?",
+      "answer": "Separating feature activation from deployment and controlling exposure without redeploying.",
+      "explanation": "Separating feature activation from deployment and controlling exposure without redeploying. This is a core concept within feature flags.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "feature-flags",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing feature flags. What do feature flags enable?",
+      "answer": "Separating feature activation from deployment and controlling exposure without redeploying.",
+      "explanation": "The correct consideration is: Separating feature activation from deployment and controlling exposure without redeploying. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "feature-flags",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about feature flags: What do feature flags enable?",
+      "answer": "Separating feature activation from deployment and controlling exposure without redeploying.",
+      "explanation": "Separating feature activation from deployment and controlling exposure without redeploying. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "feature-flags",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on feature flags, answer the following: What do feature flags enable?",
+      "answer": "Separating feature activation from deployment and controlling exposure without redeploying.",
+      "explanation": "Separating feature activation from deployment and controlling exposure without redeploying. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "feature-flags",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a hotfix release path?",
+      "answer": "An expedited, controlled process to deliver urgent production corrections.",
+      "explanation": "An expedited, controlled process to deliver urgent production corrections. This is a core concept within hotfix strategy.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "hotfix-strategy",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing hotfix strategy. What is a hotfix release path?",
+      "answer": "An expedited, controlled process to deliver urgent production corrections.",
+      "explanation": "The correct consideration is: An expedited, controlled process to deliver urgent production corrections. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "hotfix-strategy",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about hotfix strategy: What is a hotfix release path?",
+      "answer": "An expedited, controlled process to deliver urgent production corrections.",
+      "explanation": "An expedited, controlled process to deliver urgent production corrections. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "hotfix-strategy",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on hotfix strategy, answer the following: What is a hotfix release path?",
+      "answer": "An expedited, controlled process to deliver urgent production corrections.",
+      "explanation": "An expedited, controlled process to deliver urgent production corrections. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "hotfix-strategy",
+        "practice"
+      ]
+    },
+    {
+      "question": "How can Azure App Service deployment slots support safer releases?",
+      "answer": "Deploy and validate an application in a nonproduction slot, then swap it into production.",
+      "explanation": "Deploy and validate an application in a nonproduction slot, then swap it into production. This is a core concept within deployment slots.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "deployment-slots",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing deployment slots. How can Azure App Service deployment slots support safer releases?",
+      "answer": "Deploy and validate an application in a nonproduction slot, then swap it into production.",
+      "explanation": "The correct consideration is: Deploy and validate an application in a nonproduction slot, then swap it into production. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "deployment-slots",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about deployment slots: How can Azure App Service deployment slots support safer releases?",
+      "answer": "Deploy and validate an application in a nonproduction slot, then swap it into production.",
+      "explanation": "Deploy and validate an application in a nonproduction slot, then swap it into production. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "deployment-slots",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on deployment slots, answer the following: How can Azure App Service deployment slots support safer releases?",
+      "answer": "Deploy and validate an application in a nonproduction slot, then swap it into production.",
+      "explanation": "Deploy and validate an application in a nonproduction slot, then swap it into production. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "deployment-slots",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is Bicep used for in Azure DevOps?",
+      "answer": "Declaring and deploying Azure infrastructure as code.",
+      "explanation": "Declaring and deploying Azure infrastructure as code. This is a core concept within bicep.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "bicep",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing bicep. What is Bicep used for in Azure DevOps?",
+      "answer": "Declaring and deploying Azure infrastructure as code.",
+      "explanation": "The correct consideration is: Declaring and deploying Azure infrastructure as code. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "bicep",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about bicep: What is Bicep used for in Azure DevOps?",
+      "answer": "Declaring and deploying Azure infrastructure as code.",
+      "explanation": "Declaring and deploying Azure infrastructure as code. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "bicep",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on bicep, answer the following: What is Bicep used for in Azure DevOps?",
+      "answer": "Declaring and deploying Azure infrastructure as code.",
+      "explanation": "Declaring and deploying Azure infrastructure as code. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "bicep",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is infrastructure configuration drift?",
+      "answer": "When actual deployed configuration diverges from the declared desired state.",
+      "explanation": "When actual deployed configuration diverges from the declared desired state. This is a core concept within infrastructure drift.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "infrastructure-drift",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing infrastructure drift. What is infrastructure configuration drift?",
+      "answer": "When actual deployed configuration diverges from the declared desired state.",
+      "explanation": "The correct consideration is: When actual deployed configuration diverges from the declared desired state. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "infrastructure-drift",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about infrastructure drift: What is infrastructure configuration drift?",
+      "answer": "When actual deployed configuration diverges from the declared desired state.",
+      "explanation": "When actual deployed configuration diverges from the declared desired state. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "infrastructure-drift",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on infrastructure drift, answer the following: What is infrastructure configuration drift?",
+      "answer": "When actual deployed configuration diverges from the declared desired state.",
+      "explanation": "When actual deployed configuration diverges from the declared desired state. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "infrastructure-drift",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why use workload identity federation in deployment pipelines?",
+      "answer": "It exchanges trusted identity tokens for cloud access without storing long-lived client secrets.",
+      "explanation": "It exchanges trusted identity tokens for cloud access without storing long-lived client secrets. This is a core concept within secretless auth.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "secretless-auth",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing secretless auth. Why use workload identity federation in deployment pipelines?",
+      "answer": "It exchanges trusted identity tokens for cloud access without storing long-lived client secrets.",
+      "explanation": "The correct consideration is: It exchanges trusted identity tokens for cloud access without storing long-lived client secrets. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "secretless-auth",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about secretless auth: Why use workload identity federation in deployment pipelines?",
+      "answer": "It exchanges trusted identity tokens for cloud access without storing long-lived client secrets.",
+      "explanation": "It exchanges trusted identity tokens for cloud access without storing long-lived client secrets. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "secretless-auth",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on secretless auth, answer the following: Why use workload identity federation in deployment pipelines?",
+      "answer": "It exchanges trusted identity tokens for cloud access without storing long-lived client secrets.",
+      "explanation": "It exchanges trusted identity tokens for cloud access without storing long-lived client secrets. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "secretless-auth",
+        "practice"
+      ]
+    },
+    {
+      "question": "What should Azure Key Vault store for automation?",
+      "answer": "Sensitive keys, secrets, and certificates rather than embedding them in repository code.",
+      "explanation": "Sensitive keys, secrets, and certificates rather than embedding them in repository code. This is a core concept within key vault.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "key-vault",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing key vault. What should Azure Key Vault store for automation?",
+      "answer": "Sensitive keys, secrets, and certificates rather than embedding them in repository code.",
+      "explanation": "The correct consideration is: Sensitive keys, secrets, and certificates rather than embedding them in repository code. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "key-vault",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about key vault: What should Azure Key Vault store for automation?",
+      "answer": "Sensitive keys, secrets, and certificates rather than embedding them in repository code.",
+      "explanation": "Sensitive keys, secrets, and certificates rather than embedding them in repository code. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "key-vault",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on key vault, answer the following: What should Azure Key Vault store for automation?",
+      "answer": "Sensitive keys, secrets, and certificates rather than embedding them in repository code.",
+      "explanation": "Sensitive keys, secrets, and certificates rather than embedding them in repository code. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "key-vault",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is an Azure DevOps service connection?",
+      "answer": "A configured authentication link that lets pipelines access an external resource or service.",
+      "explanation": "A configured authentication link that lets pipelines access an external resource or service. This is a core concept within service connections.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "service-connections",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing service connections. What is an Azure DevOps service connection?",
+      "answer": "A configured authentication link that lets pipelines access an external resource or service.",
+      "explanation": "The correct consideration is: A configured authentication link that lets pipelines access an external resource or service. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "service-connections",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about service connections: What is an Azure DevOps service connection?",
+      "answer": "A configured authentication link that lets pipelines access an external resource or service.",
+      "explanation": "A configured authentication link that lets pipelines access an external resource or service. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "service-connections",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on service connections, answer the following: What is an Azure DevOps service connection?",
+      "answer": "A configured authentication link that lets pipelines access an external resource or service.",
+      "explanation": "A configured authentication link that lets pipelines access an external resource or service. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "service-connections",
+        "practice"
+      ]
+    },
+    {
+      "question": "How should pipeline deployment permissions be scoped?",
+      "answer": "Grant only the minimum required access to the intended environments and actions.",
+      "explanation": "Grant only the minimum required access to the intended environments and actions. This is a core concept within least privilege.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "least-privilege",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing least privilege. How should pipeline deployment permissions be scoped?",
+      "answer": "Grant only the minimum required access to the intended environments and actions.",
+      "explanation": "The correct consideration is: Grant only the minimum required access to the intended environments and actions. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "least-privilege",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about least privilege: How should pipeline deployment permissions be scoped?",
+      "answer": "Grant only the minimum required access to the intended environments and actions.",
+      "explanation": "Grant only the minimum required access to the intended environments and actions. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "least-privilege",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on least privilege, answer the following: How should pipeline deployment permissions be scoped?",
+      "answer": "Grant only the minimum required access to the intended environments and actions.",
+      "explanation": "Grant only the minimum required access to the intended environments and actions. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "least-privilege",
+        "practice"
+      ]
+    },
+    {
+      "question": "What security problem can Dependabot alerts highlight?",
+      "answer": "Known vulnerabilities in declared third-party software dependencies.",
+      "explanation": "Known vulnerabilities in declared third-party software dependencies. This is a core concept within dependabot.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "dependabot",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing dependabot. What security problem can Dependabot alerts highlight?",
+      "answer": "Known vulnerabilities in declared third-party software dependencies.",
+      "explanation": "The correct consideration is: Known vulnerabilities in declared third-party software dependencies. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "dependabot",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about dependabot: What security problem can Dependabot alerts highlight?",
+      "answer": "Known vulnerabilities in declared third-party software dependencies.",
+      "explanation": "Known vulnerabilities in declared third-party software dependencies. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "dependabot",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on dependabot, answer the following: What security problem can Dependabot alerts highlight?",
+      "answer": "Known vulnerabilities in declared third-party software dependencies.",
+      "explanation": "Known vulnerabilities in declared third-party software dependencies. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "dependabot",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why enable repository secret scanning?",
+      "answer": "To detect accidentally committed credentials and reduce credential exposure.",
+      "explanation": "To detect accidentally committed credentials and reduce credential exposure. This is a core concept within secret scanning.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "secret-scanning",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing secret scanning. Why enable repository secret scanning?",
+      "answer": "To detect accidentally committed credentials and reduce credential exposure.",
+      "explanation": "The correct consideration is: To detect accidentally committed credentials and reduce credential exposure. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "secret-scanning",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about secret scanning: Why enable repository secret scanning?",
+      "answer": "To detect accidentally committed credentials and reduce credential exposure.",
+      "explanation": "To detect accidentally committed credentials and reduce credential exposure. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "secret-scanning",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on secret scanning, answer the following: Why enable repository secret scanning?",
+      "answer": "To detect accidentally committed credentials and reduce credential exposure.",
+      "explanation": "To detect accidentally committed credentials and reduce credential exposure. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "secret-scanning",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does CodeQL contribute to a secure pipeline?",
+      "answer": "Static analysis of source code to identify certain classes of security vulnerabilities.",
+      "explanation": "Static analysis of source code to identify certain classes of security vulnerabilities. This is a core concept within codeql.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "codeql",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing codeql. What does CodeQL contribute to a secure pipeline?",
+      "answer": "Static analysis of source code to identify certain classes of security vulnerabilities.",
+      "explanation": "The correct consideration is: Static analysis of source code to identify certain classes of security vulnerabilities. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "codeql",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about codeql: What does CodeQL contribute to a secure pipeline?",
+      "answer": "Static analysis of source code to identify certain classes of security vulnerabilities.",
+      "explanation": "Static analysis of source code to identify certain classes of security vulnerabilities. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "codeql",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on codeql, answer the following: What does CodeQL contribute to a secure pipeline?",
+      "answer": "Static analysis of source code to identify certain classes of security vulnerabilities.",
+      "explanation": "Static analysis of source code to identify certain classes of security vulnerabilities. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "codeql",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why scan container images in CI/CD?",
+      "answer": "To find vulnerable packages and misconfigurations before deployment.",
+      "explanation": "To find vulnerable packages and misconfigurations before deployment. This is a core concept within container scans.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "container-scans",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing container scans. Why scan container images in CI/CD?",
+      "answer": "To find vulnerable packages and misconfigurations before deployment.",
+      "explanation": "The correct consideration is: To find vulnerable packages and misconfigurations before deployment. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "container-scans",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about container scans: Why scan container images in CI/CD?",
+      "answer": "To find vulnerable packages and misconfigurations before deployment.",
+      "explanation": "To find vulnerable packages and misconfigurations before deployment. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "container-scans",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on container scans, answer the following: Why scan container images in CI/CD?",
+      "answer": "To find vulnerable packages and misconfigurations before deployment.",
+      "explanation": "To find vulnerable packages and misconfigurations before deployment. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "container-scans",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does Application Insights help observe?",
+      "answer": "Application requests, failures, dependencies, latency, and distributed traces.",
+      "explanation": "Application requests, failures, dependencies, latency, and distributed traces. This is a core concept within application insights.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "application-insights",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing application insights. What does Application Insights help observe?",
+      "answer": "Application requests, failures, dependencies, latency, and distributed traces.",
+      "explanation": "The correct consideration is: Application requests, failures, dependencies, latency, and distributed traces. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "application-insights",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about application insights: What does Application Insights help observe?",
+      "answer": "Application requests, failures, dependencies, latency, and distributed traces.",
+      "explanation": "Application requests, failures, dependencies, latency, and distributed traces. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "application-insights",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on application insights, answer the following: What does Application Insights help observe?",
+      "answer": "Application requests, failures, dependencies, latency, and distributed traces.",
+      "explanation": "Application requests, failures, dependencies, latency, and distributed traces. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "application-insights",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why use Kusto Query Language in operational monitoring?",
+      "answer": "To query and analyze log and telemetry data efficiently.",
+      "explanation": "To query and analyze log and telemetry data efficiently. This is a core concept within kql.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "kql",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing kql. Why use Kusto Query Language in operational monitoring?",
+      "answer": "To query and analyze log and telemetry data efficiently.",
+      "explanation": "The correct consideration is: To query and analyze log and telemetry data efficiently. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "kql",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about kql: Why use Kusto Query Language in operational monitoring?",
+      "answer": "To query and analyze log and telemetry data efficiently.",
+      "explanation": "To query and analyze log and telemetry data efficiently. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "kql",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on kql, answer the following: Why use Kusto Query Language in operational monitoring?",
+      "answer": "To query and analyze log and telemetry data efficiently.",
+      "explanation": "To query and analyze log and telemetry data efficiently. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "kql",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a flaky automated test?",
+      "answer": "A test that passes and fails intermittently without a meaningful product change.",
+      "explanation": "A test that passes and fails intermittently without a meaningful product change. This is a core concept within flaky tests.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "flaky-tests",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing flaky tests. What is a flaky automated test?",
+      "answer": "A test that passes and fails intermittently without a meaningful product change.",
+      "explanation": "The correct consideration is: A test that passes and fails intermittently without a meaningful product change. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "flaky-tests",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about flaky tests: What is a flaky automated test?",
+      "answer": "A test that passes and fails intermittently without a meaningful product change.",
+      "explanation": "A test that passes and fails intermittently without a meaningful product change. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "flaky-tests",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on flaky tests, answer the following: What is a flaky automated test?",
+      "answer": "A test that passes and fails intermittently without a meaningful product change.",
+      "explanation": "A test that passes and fails intermittently without a meaningful product change. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "flaky-tests",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why configure artifact retention policies?",
+      "answer": "To control storage costs while preserving artifacts needed for audit and rollback.",
+      "explanation": "To control storage costs while preserving artifacts needed for audit and rollback. This is a core concept within pipeline retention.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-retention",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing pipeline retention. Why configure artifact retention policies?",
+      "answer": "To control storage costs while preserving artifacts needed for audit and rollback.",
+      "explanation": "The correct consideration is: To control storage costs while preserving artifacts needed for audit and rollback. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-retention",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about pipeline retention: Why configure artifact retention policies?",
+      "answer": "To control storage costs while preserving artifacts needed for audit and rollback.",
+      "explanation": "To control storage costs while preserving artifacts needed for audit and rollback. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-retention",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on pipeline retention, answer the following: Why configure artifact retention policies?",
+      "answer": "To control storage costs while preserving artifacts needed for audit and rollback.",
+      "explanation": "To control storage costs while preserving artifacts needed for audit and rollback. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "pipeline-retention",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does a GitHub Actions workflow automate?",
+      "answer": "Repository-driven jobs such as build, test, security scanning, and deployment.",
+      "explanation": "Repository-driven jobs such as build, test, security scanning, and deployment. This is a core concept within github actions.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "github-actions",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing github actions. What does a GitHub Actions workflow automate?",
+      "answer": "Repository-driven jobs such as build, test, security scanning, and deployment.",
+      "explanation": "The correct consideration is: Repository-driven jobs such as build, test, security scanning, and deployment. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "github-actions",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about github actions: What does a GitHub Actions workflow automate?",
+      "answer": "Repository-driven jobs such as build, test, security scanning, and deployment.",
+      "explanation": "Repository-driven jobs such as build, test, security scanning, and deployment. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "github-actions",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on github actions, answer the following: What does a GitHub Actions workflow automate?",
+      "answer": "Repository-driven jobs such as build, test, security scanning, and deployment.",
+      "explanation": "Repository-driven jobs such as build, test, security scanning, and deployment. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "github-actions",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is the primary role of Azure Pipelines?",
+      "answer": "Automating continuous integration, testing, and delivery across applications and platforms.",
+      "explanation": "Automating continuous integration, testing, and delivery across applications and platforms. This is a core concept within azure pipelines.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-pipelines",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing azure pipelines. What is the primary role of Azure Pipelines?",
+      "answer": "Automating continuous integration, testing, and delivery across applications and platforms.",
+      "explanation": "The correct consideration is: Automating continuous integration, testing, and delivery across applications and platforms. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-pipelines",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about azure pipelines: What is the primary role of Azure Pipelines?",
+      "answer": "Automating continuous integration, testing, and delivery across applications and platforms.",
+      "explanation": "Automating continuous integration, testing, and delivery across applications and platforms. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-pipelines",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on azure pipelines, answer the following: What is the primary role of Azure Pipelines?",
+      "answer": "Automating continuous integration, testing, and delivery across applications and platforms.",
+      "explanation": "Automating continuous integration, testing, and delivery across applications and platforms. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "azure-pipelines",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why link commits and pull requests to work items?",
+      "answer": "To connect requirements and defects to the code changes and builds addressing them.",
+      "explanation": "To connect requirements and defects to the code changes and builds addressing them. This is a core concept within work item traceability.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "work-item-traceability",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing work item traceability. Why link commits and pull requests to work items?",
+      "answer": "To connect requirements and defects to the code changes and builds addressing them.",
+      "explanation": "The correct consideration is: To connect requirements and defects to the code changes and builds addressing them. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "work-item-traceability",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about work item traceability: Why link commits and pull requests to work items?",
+      "answer": "To connect requirements and defects to the code changes and builds addressing them.",
+      "explanation": "To connect requirements and defects to the code changes and builds addressing them. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "work-item-traceability",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on work item traceability, answer the following: Why link commits and pull requests to work items?",
+      "answer": "To connect requirements and defects to the code changes and builds addressing them.",
+      "explanation": "To connect requirements and defects to the code changes and builds addressing them. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "work-item-traceability",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why plan a rollback mechanism before a release?",
+      "answer": "To restore a known-good version quickly if production validation detects a severe issue.",
+      "explanation": "To restore a known-good version quickly if production validation detects a severe issue. This is a core concept within rollbacks.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "rollbacks",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing rollbacks. Why plan a rollback mechanism before a release?",
+      "answer": "To restore a known-good version quickly if production validation detects a severe issue.",
+      "explanation": "The correct consideration is: To restore a known-good version quickly if production validation detects a severe issue. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "rollbacks",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about rollbacks: Why plan a rollback mechanism before a release?",
+      "answer": "To restore a known-good version quickly if production validation detects a severe issue.",
+      "explanation": "To restore a known-good version quickly if production validation detects a severe issue. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "rollbacks",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on rollbacks, answer the following: Why plan a rollback mechanism before a release?",
+      "answer": "To restore a known-good version quickly if production validation detects a severe issue.",
+      "explanation": "To restore a known-good version quickly if production validation detects a severe issue. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "rollbacks",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do branch policies provide in Azure Repos?",
+      "answer": "They enforce checks such as required reviews and successful builds before pull requests complete.",
+      "explanation": "They enforce checks such as required reviews and successful builds before pull requests complete. This is a core concept within branch policies.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "branch-policies",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing branch policies. What do branch policies provide in Azure Repos?",
+      "answer": "They enforce checks such as required reviews and successful builds before pull requests complete.",
+      "explanation": "The correct consideration is: They enforce checks such as required reviews and successful builds before pull requests complete. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "branch-policies",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about branch policies: What do branch policies provide in Azure Repos?",
+      "answer": "They enforce checks such as required reviews and successful builds before pull requests complete.",
+      "explanation": "They enforce checks such as required reviews and successful builds before pull requests complete. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "branch-policies",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on branch policies, answer the following: What do branch policies provide in Azure Repos?",
+      "answer": "They enforce checks such as required reviews and successful builds before pull requests complete.",
+      "explanation": "They enforce checks such as required reviews and successful builds before pull requests complete. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az400",
+        "branch-policies",
+        "practice"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "DP-900 Azure Data Fundamentals",
+  "cards": [
+    {
+      "question": "What does Structured data mean in the context of DP900?",
+      "answer": "Structured data follows a defined schema such as rows and columns.",
+      "explanation": "This is a foundational concept assessed in DP900. Store customer accounts in a relational table.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "structured-data",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Store customer accounts in a relational table.",
+      "answer": "Structured data",
+      "explanation": "Structured data follows a defined schema such as rows and columns. This is why structured data fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "structured-data",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is structured data important when designing or operating a Microsoft solution?",
+      "answer": "Structured data follows a defined schema such as rows and columns. Store customer accounts in a relational table.",
+      "explanation": "Applying structured data helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "structured-data",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing structured data. Give one concrete use case and explain the underlying idea.",
+      "answer": "Store customer accounts in a relational table. Structured data follows a defined schema such as rows and columns.",
+      "explanation": "The use case demonstrates structured data; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "structured-data",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Semi-structured data mean in the context of DP900?",
+      "answer": "Semi-structured data has flexible organization with markers such as JSON properties.",
+      "explanation": "This is a foundational concept assessed in DP900. Persist event payloads whose fields may differ by record.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "semi-structured-data",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Persist event payloads whose fields may differ by record.",
+      "answer": "Semi-structured data",
+      "explanation": "Semi-structured data has flexible organization with markers such as JSON properties. This is why semi-structured data fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "semi-structured-data",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is semi-structured data important when designing or operating a Microsoft solution?",
+      "answer": "Semi-structured data has flexible organization with markers such as JSON properties. Persist event payloads whose fields may differ by record.",
+      "explanation": "Applying semi-structured data helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "semi-structured-data",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing semi-structured data. Give one concrete use case and explain the underlying idea.",
+      "answer": "Persist event payloads whose fields may differ by record. Semi-structured data has flexible organization with markers such as JSON properties.",
+      "explanation": "The use case demonstrates semi-structured data; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "semi-structured-data",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Unstructured data mean in the context of DP900?",
+      "answer": "Unstructured data does not use a fixed tabular schema.",
+      "explanation": "This is a foundational concept assessed in DP900. Store images, PDFs, and audio files in object storage.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "unstructured-data",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Store images, PDFs, and audio files in object storage.",
+      "answer": "Unstructured data",
+      "explanation": "Unstructured data does not use a fixed tabular schema. This is why unstructured data fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "unstructured-data",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is unstructured data important when designing or operating a Microsoft solution?",
+      "answer": "Unstructured data does not use a fixed tabular schema. Store images, PDFs, and audio files in object storage.",
+      "explanation": "Applying unstructured data helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "unstructured-data",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing unstructured data. Give one concrete use case and explain the underlying idea.",
+      "answer": "Store images, PDFs, and audio files in object storage. Unstructured data does not use a fixed tabular schema.",
+      "explanation": "The use case demonstrates unstructured data; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "unstructured-data",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Relational database mean in the context of DP900?",
+      "answer": "A relational database organizes data into related tables with keys and schema.",
+      "explanation": "This is a foundational concept assessed in DP900. Store orders and customers in linked tables.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "relational-database",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Store orders and customers in linked tables.",
+      "answer": "Relational database",
+      "explanation": "A relational database organizes data into related tables with keys and schema. This is why relational database fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "relational-database",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is relational database important when designing or operating a Microsoft solution?",
+      "answer": "A relational database organizes data into related tables with keys and schema. Store orders and customers in linked tables.",
+      "explanation": "Applying relational database helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "relational-database",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing relational database. Give one concrete use case and explain the underlying idea.",
+      "answer": "Store orders and customers in linked tables. A relational database organizes data into related tables with keys and schema.",
+      "explanation": "The use case demonstrates relational database; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "relational-database",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Primary key mean in the context of DP900?",
+      "answer": "A primary key uniquely identifies a row in a relational table.",
+      "explanation": "This is a foundational concept assessed in DP900. Assign each customer a stable unique identifier.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "primary-key",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Assign each customer a stable unique identifier.",
+      "answer": "Primary key",
+      "explanation": "A primary key uniquely identifies a row in a relational table. This is why primary key fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "primary-key",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is primary key important when designing or operating a Microsoft solution?",
+      "answer": "A primary key uniquely identifies a row in a relational table. Assign each customer a stable unique identifier.",
+      "explanation": "Applying primary key helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "primary-key",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing primary key. Give one concrete use case and explain the underlying idea.",
+      "answer": "Assign each customer a stable unique identifier. A primary key uniquely identifies a row in a relational table.",
+      "explanation": "The use case demonstrates primary key; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "primary-key",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Foreign key mean in the context of DP900?",
+      "answer": "A foreign key links a row to a key in another table and supports referential integrity.",
+      "explanation": "This is a foundational concept assessed in DP900. Link an order to the customer who placed it.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "foreign-key",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Link an order to the customer who placed it.",
+      "answer": "Foreign key",
+      "explanation": "A foreign key links a row to a key in another table and supports referential integrity. This is why foreign key fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "foreign-key",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is foreign key important when designing or operating a Microsoft solution?",
+      "answer": "A foreign key links a row to a key in another table and supports referential integrity. Link an order to the customer who placed it.",
+      "explanation": "Applying foreign key helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "foreign-key",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing foreign key. Give one concrete use case and explain the underlying idea.",
+      "answer": "Link an order to the customer who placed it. A foreign key links a row to a key in another table and supports referential integrity.",
+      "explanation": "The use case demonstrates foreign key; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "foreign-key",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Normalization mean in the context of DP900?",
+      "answer": "Normalization organizes relational tables to reduce unnecessary duplication and update anomalies.",
+      "explanation": "This is a foundational concept assessed in DP900. Separate customer details from repeated order lines.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "normalization",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Separate customer details from repeated order lines.",
+      "answer": "Normalization",
+      "explanation": "Normalization organizes relational tables to reduce unnecessary duplication and update anomalies. This is why normalization fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "normalization",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is normalization important when designing or operating a Microsoft solution?",
+      "answer": "Normalization organizes relational tables to reduce unnecessary duplication and update anomalies. Separate customer details from repeated order lines.",
+      "explanation": "Applying normalization helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "normalization",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing normalization. Give one concrete use case and explain the underlying idea.",
+      "answer": "Separate customer details from repeated order lines. Normalization organizes relational tables to reduce unnecessary duplication and update anomalies.",
+      "explanation": "The use case demonstrates normalization; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "normalization",
+        "application"
+      ]
+    },
+    {
+      "question": "What does SQL SELECT mean in the context of DP900?",
+      "answer": "SELECT retrieves selected data from database tables or views.",
+      "explanation": "This is a foundational concept assessed in DP900. Query customer names from a database.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-select",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Query customer names from a database.",
+      "answer": "SQL SELECT",
+      "explanation": "SELECT retrieves selected data from database tables or views. This is why sQL SELECT fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-select",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is sQL SELECT important when designing or operating a Microsoft solution?",
+      "answer": "SELECT retrieves selected data from database tables or views. Query customer names from a database.",
+      "explanation": "Applying sQL SELECT helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-select",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing sQL SELECT. Give one concrete use case and explain the underlying idea.",
+      "answer": "Query customer names from a database. SELECT retrieves selected data from database tables or views.",
+      "explanation": "The use case demonstrates sQL SELECT; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-select",
+        "application"
+      ]
+    },
+    {
+      "question": "What does SQL JOIN mean in the context of DP900?",
+      "answer": "JOIN combines related rows from multiple tables according to a condition.",
+      "explanation": "This is a foundational concept assessed in DP900. Combine orders with customer records in a report.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-join",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Combine orders with customer records in a report.",
+      "answer": "SQL JOIN",
+      "explanation": "JOIN combines related rows from multiple tables according to a condition. This is why sQL JOIN fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-join",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is sQL JOIN important when designing or operating a Microsoft solution?",
+      "answer": "JOIN combines related rows from multiple tables according to a condition. Combine orders with customer records in a report.",
+      "explanation": "Applying sQL JOIN helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-join",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing sQL JOIN. Give one concrete use case and explain the underlying idea.",
+      "answer": "Combine orders with customer records in a report. JOIN combines related rows from multiple tables according to a condition.",
+      "explanation": "The use case demonstrates sQL JOIN; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-join",
+        "application"
+      ]
+    },
+    {
+      "question": "What does SQL GROUP BY mean in the context of DP900?",
+      "answer": "GROUP BY aggregates rows according to one or more grouping columns.",
+      "explanation": "This is a foundational concept assessed in DP900. Calculate sales totals by region.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-group-by",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Calculate sales totals by region.",
+      "answer": "SQL GROUP BY",
+      "explanation": "GROUP BY aggregates rows according to one or more grouping columns. This is why sQL GROUP BY fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-group-by",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is sQL GROUP BY important when designing or operating a Microsoft solution?",
+      "answer": "GROUP BY aggregates rows according to one or more grouping columns. Calculate sales totals by region.",
+      "explanation": "Applying sQL GROUP BY helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-group-by",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing sQL GROUP BY. Give one concrete use case and explain the underlying idea.",
+      "answer": "Calculate sales totals by region. GROUP BY aggregates rows according to one or more grouping columns.",
+      "explanation": "The use case demonstrates sQL GROUP BY; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-group-by",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Indexes mean in the context of DP900?",
+      "answer": "An index can improve lookup performance at a storage and write overhead.",
+      "explanation": "This is a foundational concept assessed in DP900. Create an index for frequently filtered customer IDs.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "indexes",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Create an index for frequently filtered customer IDs.",
+      "answer": "Indexes",
+      "explanation": "An index can improve lookup performance at a storage and write overhead. This is why indexes fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "indexes",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is indexes important when designing or operating a Microsoft solution?",
+      "answer": "An index can improve lookup performance at a storage and write overhead. Create an index for frequently filtered customer IDs.",
+      "explanation": "Applying indexes helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "indexes",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing indexes. Give one concrete use case and explain the underlying idea.",
+      "answer": "Create an index for frequently filtered customer IDs. An index can improve lookup performance at a storage and write overhead.",
+      "explanation": "The use case demonstrates indexes; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "indexes",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Database transactions mean in the context of DP900?",
+      "answer": "Transactions group changes into a unit that succeeds or rolls back.",
+      "explanation": "This is a foundational concept assessed in DP900. Update account balances as a single all-or-nothing operation.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "database-transactions",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Update account balances as a single all-or-nothing operation.",
+      "answer": "Database transactions",
+      "explanation": "Transactions group changes into a unit that succeeds or rolls back. This is why database transactions fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "database-transactions",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is database transactions important when designing or operating a Microsoft solution?",
+      "answer": "Transactions group changes into a unit that succeeds or rolls back. Update account balances as a single all-or-nothing operation.",
+      "explanation": "Applying database transactions helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "database-transactions",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing database transactions. Give one concrete use case and explain the underlying idea.",
+      "answer": "Update account balances as a single all-or-nothing operation. Transactions group changes into a unit that succeeds or rolls back.",
+      "explanation": "The use case demonstrates database transactions; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "database-transactions",
+        "application"
+      ]
+    },
+    {
+      "question": "What does ACID mean in the context of DP900?",
+      "answer": "ACID stands for atomicity, consistency, isolation, and durability in transactional processing.",
+      "explanation": "This is a foundational concept assessed in DP900. Choose transactional guarantees for financial records.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "acid",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Choose transactional guarantees for financial records.",
+      "answer": "ACID",
+      "explanation": "ACID stands for atomicity, consistency, isolation, and durability in transactional processing. This is why aCID fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "acid",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is aCID important when designing or operating a Microsoft solution?",
+      "answer": "ACID stands for atomicity, consistency, isolation, and durability in transactional processing. Choose transactional guarantees for financial records.",
+      "explanation": "Applying aCID helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "acid",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing aCID. Give one concrete use case and explain the underlying idea.",
+      "answer": "Choose transactional guarantees for financial records. ACID stands for atomicity, consistency, isolation, and durability in transactional processing.",
+      "explanation": "The use case demonstrates aCID; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "acid",
+        "application"
+      ]
+    },
+    {
+      "question": "What does OLTP mean in the context of DP900?",
+      "answer": "Online transaction processing handles frequent short business transactions.",
+      "explanation": "This is a foundational concept assessed in DP900. Process individual retail purchases.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "oltp",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Process individual retail purchases.",
+      "answer": "OLTP",
+      "explanation": "Online transaction processing handles frequent short business transactions. This is why oLTP fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "oltp",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is oLTP important when designing or operating a Microsoft solution?",
+      "answer": "Online transaction processing handles frequent short business transactions. Process individual retail purchases.",
+      "explanation": "Applying oLTP helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "oltp",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing oLTP. Give one concrete use case and explain the underlying idea.",
+      "answer": "Process individual retail purchases. Online transaction processing handles frequent short business transactions.",
+      "explanation": "The use case demonstrates oLTP; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "oltp",
+        "application"
+      ]
+    },
+    {
+      "question": "What does OLAP mean in the context of DP900?",
+      "answer": "Online analytical processing supports aggregations and complex analysis over larger datasets.",
+      "explanation": "This is a foundational concept assessed in DP900. Analyze year-over-year revenue trends.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "olap",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Analyze year-over-year revenue trends.",
+      "answer": "OLAP",
+      "explanation": "Online analytical processing supports aggregations and complex analysis over larger datasets. This is why oLAP fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "olap",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is oLAP important when designing or operating a Microsoft solution?",
+      "answer": "Online analytical processing supports aggregations and complex analysis over larger datasets. Analyze year-over-year revenue trends.",
+      "explanation": "Applying oLAP helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "olap",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing oLAP. Give one concrete use case and explain the underlying idea.",
+      "answer": "Analyze year-over-year revenue trends. Online analytical processing supports aggregations and complex analysis over larger datasets.",
+      "explanation": "The use case demonstrates oLAP; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "olap",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Batch processing mean in the context of DP900?",
+      "answer": "Batch processing handles accumulated data at scheduled or discrete intervals.",
+      "explanation": "This is a foundational concept assessed in DP900. Calculate nightly sales summaries.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "batch-processing",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Calculate nightly sales summaries.",
+      "answer": "Batch processing",
+      "explanation": "Batch processing handles accumulated data at scheduled or discrete intervals. This is why batch processing fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "batch-processing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is batch processing important when designing or operating a Microsoft solution?",
+      "answer": "Batch processing handles accumulated data at scheduled or discrete intervals. Calculate nightly sales summaries.",
+      "explanation": "Applying batch processing helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "batch-processing",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing batch processing. Give one concrete use case and explain the underlying idea.",
+      "answer": "Calculate nightly sales summaries. Batch processing handles accumulated data at scheduled or discrete intervals.",
+      "explanation": "The use case demonstrates batch processing; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "batch-processing",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Stream processing mean in the context of DP900?",
+      "answer": "Stream processing analyzes incoming events continuously or with low latency.",
+      "explanation": "This is a foundational concept assessed in DP900. Flag anomalous sensor readings shortly after arrival.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "stream-processing",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Flag anomalous sensor readings shortly after arrival.",
+      "answer": "Stream processing",
+      "explanation": "Stream processing analyzes incoming events continuously or with low latency. This is why stream processing fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "stream-processing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is stream processing important when designing or operating a Microsoft solution?",
+      "answer": "Stream processing analyzes incoming events continuously or with low latency. Flag anomalous sensor readings shortly after arrival.",
+      "explanation": "Applying stream processing helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "stream-processing",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing stream processing. Give one concrete use case and explain the underlying idea.",
+      "answer": "Flag anomalous sensor readings shortly after arrival. Stream processing analyzes incoming events continuously or with low latency.",
+      "explanation": "The use case demonstrates stream processing; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "stream-processing",
+        "application"
+      ]
+    },
+    {
+      "question": "What does ETL mean in the context of DP900?",
+      "answer": "Extract, transform, load transforms data before loading it into the target destination.",
+      "explanation": "This is a foundational concept assessed in DP900. Clean incoming fields before inserting them into a warehouse.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "etl",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Clean incoming fields before inserting them into a warehouse.",
+      "answer": "ETL",
+      "explanation": "Extract, transform, load transforms data before loading it into the target destination. This is why eTL fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "etl",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is eTL important when designing or operating a Microsoft solution?",
+      "answer": "Extract, transform, load transforms data before loading it into the target destination. Clean incoming fields before inserting them into a warehouse.",
+      "explanation": "Applying eTL helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "etl",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing eTL. Give one concrete use case and explain the underlying idea.",
+      "answer": "Clean incoming fields before inserting them into a warehouse. Extract, transform, load transforms data before loading it into the target destination.",
+      "explanation": "The use case demonstrates eTL; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "etl",
+        "application"
+      ]
+    },
+    {
+      "question": "What does ELT mean in the context of DP900?",
+      "answer": "Extract, load, transform loads raw data first and transforms it in the target system.",
+      "explanation": "This is a foundational concept assessed in DP900. Land raw data in a scalable warehouse before modeling it.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "elt",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Land raw data in a scalable warehouse before modeling it.",
+      "answer": "ELT",
+      "explanation": "Extract, load, transform loads raw data first and transforms it in the target system. This is why eLT fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "elt",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is eLT important when designing or operating a Microsoft solution?",
+      "answer": "Extract, load, transform loads raw data first and transforms it in the target system. Land raw data in a scalable warehouse before modeling it.",
+      "explanation": "Applying eLT helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "elt",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing eLT. Give one concrete use case and explain the underlying idea.",
+      "answer": "Land raw data in a scalable warehouse before modeling it. Extract, load, transform loads raw data first and transforms it in the target system.",
+      "explanation": "The use case demonstrates eLT; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "elt",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Data warehouse mean in the context of DP900?",
+      "answer": "A data warehouse stores curated data for cross-source analytical queries.",
+      "explanation": "This is a foundational concept assessed in DP900. Build enterprise reporting across sales and operations.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-warehouse",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Build enterprise reporting across sales and operations.",
+      "answer": "Data warehouse",
+      "explanation": "A data warehouse stores curated data for cross-source analytical queries. This is why data warehouse fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-warehouse",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is data warehouse important when designing or operating a Microsoft solution?",
+      "answer": "A data warehouse stores curated data for cross-source analytical queries. Build enterprise reporting across sales and operations.",
+      "explanation": "Applying data warehouse helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-warehouse",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing data warehouse. Give one concrete use case and explain the underlying idea.",
+      "answer": "Build enterprise reporting across sales and operations. A data warehouse stores curated data for cross-source analytical queries.",
+      "explanation": "The use case demonstrates data warehouse; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-warehouse",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Data lake mean in the context of DP900?",
+      "answer": "A data lake stores large volumes of raw structured and unstructured data.",
+      "explanation": "This is a foundational concept assessed in DP900. Land raw clickstream JSON and image files for later analysis.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-lake",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Land raw clickstream JSON and image files for later analysis.",
+      "answer": "Data lake",
+      "explanation": "A data lake stores large volumes of raw structured and unstructured data. This is why data lake fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-lake",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is data lake important when designing or operating a Microsoft solution?",
+      "answer": "A data lake stores large volumes of raw structured and unstructured data. Land raw clickstream JSON and image files for later analysis.",
+      "explanation": "Applying data lake helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-lake",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing data lake. Give one concrete use case and explain the underlying idea.",
+      "answer": "Land raw clickstream JSON and image files for later analysis. A data lake stores large volumes of raw structured and unstructured data.",
+      "explanation": "The use case demonstrates data lake; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-lake",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Lakehouse mean in the context of DP900?",
+      "answer": "A lakehouse combines lake-style storage with capabilities for analytics and structured tables.",
+      "explanation": "This is a foundational concept assessed in DP900. Run SQL analytics over managed lake files.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "lakehouse",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Run SQL analytics over managed lake files.",
+      "answer": "Lakehouse",
+      "explanation": "A lakehouse combines lake-style storage with capabilities for analytics and structured tables. This is why lakehouse fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "lakehouse",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is lakehouse important when designing or operating a Microsoft solution?",
+      "answer": "A lakehouse combines lake-style storage with capabilities for analytics and structured tables. Run SQL analytics over managed lake files.",
+      "explanation": "Applying lakehouse helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "lakehouse",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing lakehouse. Give one concrete use case and explain the underlying idea.",
+      "answer": "Run SQL analytics over managed lake files. A lakehouse combines lake-style storage with capabilities for analytics and structured tables.",
+      "explanation": "The use case demonstrates lakehouse; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "lakehouse",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Azure Blob Storage mean in the context of DP900?",
+      "answer": "Azure Blob Storage is object storage for large amounts of unstructured data.",
+      "explanation": "This is a foundational concept assessed in DP900. Store backups, logs, and documents.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-blob-storage",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Store backups, logs, and documents.",
+      "answer": "Azure Blob Storage",
+      "explanation": "Azure Blob Storage is object storage for large amounts of unstructured data. This is why azure Blob Storage fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-blob-storage",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is azure Blob Storage important when designing or operating a Microsoft solution?",
+      "answer": "Azure Blob Storage is object storage for large amounts of unstructured data. Store backups, logs, and documents.",
+      "explanation": "Applying azure Blob Storage helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-blob-storage",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing azure Blob Storage. Give one concrete use case and explain the underlying idea.",
+      "answer": "Store backups, logs, and documents. Azure Blob Storage is object storage for large amounts of unstructured data.",
+      "explanation": "The use case demonstrates azure Blob Storage; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-blob-storage",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Azure Files mean in the context of DP900?",
+      "answer": "Azure Files offers managed SMB and NFS file shares.",
+      "explanation": "This is a foundational concept assessed in DP900. Provide shared file storage to several virtual machines.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-files",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Provide shared file storage to several virtual machines.",
+      "answer": "Azure Files",
+      "explanation": "Azure Files offers managed SMB and NFS file shares. This is why azure Files fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-files",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is azure Files important when designing or operating a Microsoft solution?",
+      "answer": "Azure Files offers managed SMB and NFS file shares. Provide shared file storage to several virtual machines.",
+      "explanation": "Applying azure Files helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-files",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing azure Files. Give one concrete use case and explain the underlying idea.",
+      "answer": "Provide shared file storage to several virtual machines. Azure Files offers managed SMB and NFS file shares.",
+      "explanation": "The use case demonstrates azure Files; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-files",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Azure SQL Database mean in the context of DP900?",
+      "answer": "Azure SQL Database is a managed relational database service based on SQL Server.",
+      "explanation": "This is a foundational concept assessed in DP900. Run a cloud application database without managing the database host OS.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-sql-database",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Run a cloud application database without managing the database host OS.",
+      "answer": "Azure SQL Database",
+      "explanation": "Azure SQL Database is a managed relational database service based on SQL Server. This is why azure SQL Database fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-sql-database",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is azure SQL Database important when designing or operating a Microsoft solution?",
+      "answer": "Azure SQL Database is a managed relational database service based on SQL Server. Run a cloud application database without managing the database host OS.",
+      "explanation": "Applying azure SQL Database helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-sql-database",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing azure SQL Database. Give one concrete use case and explain the underlying idea.",
+      "answer": "Run a cloud application database without managing the database host OS. Azure SQL Database is a managed relational database service based on SQL Server.",
+      "explanation": "The use case demonstrates azure SQL Database; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-sql-database",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Azure SQL Managed Instance mean in the context of DP900?",
+      "answer": "Azure SQL Managed Instance provides managed SQL Server compatibility for many instance-level features.",
+      "explanation": "This is a foundational concept assessed in DP900. Migrate a SQL Server workload that requires instance-oriented capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-sql-managed-instance",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Migrate a SQL Server workload that requires instance-oriented capabilities.",
+      "answer": "Azure SQL Managed Instance",
+      "explanation": "Azure SQL Managed Instance provides managed SQL Server compatibility for many instance-level features. This is why azure SQL Managed Instance fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-sql-managed-instance",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is azure SQL Managed Instance important when designing or operating a Microsoft solution?",
+      "answer": "Azure SQL Managed Instance provides managed SQL Server compatibility for many instance-level features. Migrate a SQL Server workload that requires instance-oriented capabilities.",
+      "explanation": "Applying azure SQL Managed Instance helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-sql-managed-instance",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing azure SQL Managed Instance. Give one concrete use case and explain the underlying idea.",
+      "answer": "Migrate a SQL Server workload that requires instance-oriented capabilities. Azure SQL Managed Instance provides managed SQL Server compatibility for many instance-level features.",
+      "explanation": "The use case demonstrates azure SQL Managed Instance; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-sql-managed-instance",
+        "application"
+      ]
+    },
+    {
+      "question": "What does SQL Server on Azure VMs mean in the context of DP900?",
+      "answer": "SQL Server on Azure VMs gives greater operating-system and instance control with more management responsibility.",
+      "explanation": "This is a foundational concept assessed in DP900. Lift and shift a SQL Server deployment with custom host requirements.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-server-on-azure-vms",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Lift and shift a SQL Server deployment with custom host requirements.",
+      "answer": "SQL Server on Azure VMs",
+      "explanation": "SQL Server on Azure VMs gives greater operating-system and instance control with more management responsibility. This is why sQL Server on Azure VMs fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-server-on-azure-vms",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is sQL Server on Azure VMs important when designing or operating a Microsoft solution?",
+      "answer": "SQL Server on Azure VMs gives greater operating-system and instance control with more management responsibility. Lift and shift a SQL Server deployment with custom host requirements.",
+      "explanation": "Applying sQL Server on Azure VMs helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-server-on-azure-vms",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing sQL Server on Azure VMs. Give one concrete use case and explain the underlying idea.",
+      "answer": "Lift and shift a SQL Server deployment with custom host requirements. SQL Server on Azure VMs gives greater operating-system and instance control with more management responsibility.",
+      "explanation": "The use case demonstrates sQL Server on Azure VMs; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "sql-server-on-azure-vms",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Azure Database for PostgreSQL mean in the context of DP900?",
+      "answer": "Azure Database for PostgreSQL provides a managed PostgreSQL database service.",
+      "explanation": "This is a foundational concept assessed in DP900. Host an application built for PostgreSQL with managed platform operations.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-database-for-postgresql",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Host an application built for PostgreSQL with managed platform operations.",
+      "answer": "Azure Database for PostgreSQL",
+      "explanation": "Azure Database for PostgreSQL provides a managed PostgreSQL database service. This is why azure Database for PostgreSQL fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-database-for-postgresql",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is azure Database for PostgreSQL important when designing or operating a Microsoft solution?",
+      "answer": "Azure Database for PostgreSQL provides a managed PostgreSQL database service. Host an application built for PostgreSQL with managed platform operations.",
+      "explanation": "Applying azure Database for PostgreSQL helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-database-for-postgresql",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing azure Database for PostgreSQL. Give one concrete use case and explain the underlying idea.",
+      "answer": "Host an application built for PostgreSQL with managed platform operations. Azure Database for PostgreSQL provides a managed PostgreSQL database service.",
+      "explanation": "The use case demonstrates azure Database for PostgreSQL; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-database-for-postgresql",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Azure Cosmos DB mean in the context of DP900?",
+      "answer": "Azure Cosmos DB is a globally distributed NoSQL database platform with multiple APIs and flexible models.",
+      "explanation": "This is a foundational concept assessed in DP900. Store application data needing low-latency access at global scale.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-cosmos-db",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Store application data needing low-latency access at global scale.",
+      "answer": "Azure Cosmos DB",
+      "explanation": "Azure Cosmos DB is a globally distributed NoSQL database platform with multiple APIs and flexible models. This is why azure Cosmos DB fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-cosmos-db",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is azure Cosmos DB important when designing or operating a Microsoft solution?",
+      "answer": "Azure Cosmos DB is a globally distributed NoSQL database platform with multiple APIs and flexible models. Store application data needing low-latency access at global scale.",
+      "explanation": "Applying azure Cosmos DB helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-cosmos-db",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing azure Cosmos DB. Give one concrete use case and explain the underlying idea.",
+      "answer": "Store application data needing low-latency access at global scale. Azure Cosmos DB is a globally distributed NoSQL database platform with multiple APIs and flexible models.",
+      "explanation": "The use case demonstrates azure Cosmos DB; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-cosmos-db",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Document database mean in the context of DP900?",
+      "answer": "A document database stores self-contained records such as JSON documents.",
+      "explanation": "This is a foundational concept assessed in DP900. Store catalog items with varying attributes.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "document-database",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Store catalog items with varying attributes.",
+      "answer": "Document database",
+      "explanation": "A document database stores self-contained records such as JSON documents. This is why document database fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "document-database",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is document database important when designing or operating a Microsoft solution?",
+      "answer": "A document database stores self-contained records such as JSON documents. Store catalog items with varying attributes.",
+      "explanation": "Applying document database helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "document-database",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing document database. Give one concrete use case and explain the underlying idea.",
+      "answer": "Store catalog items with varying attributes. A document database stores self-contained records such as JSON documents.",
+      "explanation": "The use case demonstrates document database; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "document-database",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Key-value database mean in the context of DP900?",
+      "answer": "A key-value database retrieves values using unique keys.",
+      "explanation": "This is a foundational concept assessed in DP900. Cache session information by session ID.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "key-value-database",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Cache session information by session ID.",
+      "answer": "Key-value database",
+      "explanation": "A key-value database retrieves values using unique keys. This is why key-value database fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "key-value-database",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is key-value database important when designing or operating a Microsoft solution?",
+      "answer": "A key-value database retrieves values using unique keys. Cache session information by session ID.",
+      "explanation": "Applying key-value database helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "key-value-database",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing key-value database. Give one concrete use case and explain the underlying idea.",
+      "answer": "Cache session information by session ID. A key-value database retrieves values using unique keys.",
+      "explanation": "The use case demonstrates key-value database; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "key-value-database",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Graph database mean in the context of DP900?",
+      "answer": "A graph database represents entities and relationships for connected-data queries.",
+      "explanation": "This is a foundational concept assessed in DP900. Analyze social connections or dependency networks.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "graph-database",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Analyze social connections or dependency networks.",
+      "answer": "Graph database",
+      "explanation": "A graph database represents entities and relationships for connected-data queries. This is why graph database fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "graph-database",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is graph database important when designing or operating a Microsoft solution?",
+      "answer": "A graph database represents entities and relationships for connected-data queries. Analyze social connections or dependency networks.",
+      "explanation": "Applying graph database helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "graph-database",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing graph database. Give one concrete use case and explain the underlying idea.",
+      "answer": "Analyze social connections or dependency networks. A graph database represents entities and relationships for connected-data queries.",
+      "explanation": "The use case demonstrates graph database; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "graph-database",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Partitioning mean in the context of DP900?",
+      "answer": "Partitioning distributes data across storage or compute partitions to scale.",
+      "explanation": "This is a foundational concept assessed in DP900. Choose a partition key that spreads workload evenly.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "partitioning",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Choose a partition key that spreads workload evenly.",
+      "answer": "Partitioning",
+      "explanation": "Partitioning distributes data across storage or compute partitions to scale. This is why partitioning fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "partitioning",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is partitioning important when designing or operating a Microsoft solution?",
+      "answer": "Partitioning distributes data across storage or compute partitions to scale. Choose a partition key that spreads workload evenly.",
+      "explanation": "Applying partitioning helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "partitioning",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing partitioning. Give one concrete use case and explain the underlying idea.",
+      "answer": "Choose a partition key that spreads workload evenly. Partitioning distributes data across storage or compute partitions to scale.",
+      "explanation": "The use case demonstrates partitioning; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "partitioning",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Consistency models mean in the context of DP900?",
+      "answer": "Consistency models describe how quickly distributed replicas agree on a value.",
+      "explanation": "This is a foundational concept assessed in DP900. Choose a consistency level appropriate to an application’s tolerance for stale reads.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "consistency-models",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Choose a consistency level appropriate to an application’s tolerance for stale reads.",
+      "answer": "Consistency models",
+      "explanation": "Consistency models describe how quickly distributed replicas agree on a value. This is why consistency models fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "consistency-models",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is consistency models important when designing or operating a Microsoft solution?",
+      "answer": "Consistency models describe how quickly distributed replicas agree on a value. Choose a consistency level appropriate to an application’s tolerance for stale reads.",
+      "explanation": "Applying consistency models helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "consistency-models",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing consistency models. Give one concrete use case and explain the underlying idea.",
+      "answer": "Choose a consistency level appropriate to an application’s tolerance for stale reads. Consistency models describe how quickly distributed replicas agree on a value.",
+      "explanation": "The use case demonstrates consistency models; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "consistency-models",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Data ingestion mean in the context of DP900?",
+      "answer": "Data ingestion brings source data into a platform for storage or processing.",
+      "explanation": "This is a foundational concept assessed in DP900. Collect device telemetry from multiple producers.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-ingestion",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Collect device telemetry from multiple producers.",
+      "answer": "Data ingestion",
+      "explanation": "Data ingestion brings source data into a platform for storage or processing. This is why data ingestion fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-ingestion",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is data ingestion important when designing or operating a Microsoft solution?",
+      "answer": "Data ingestion brings source data into a platform for storage or processing. Collect device telemetry from multiple producers.",
+      "explanation": "Applying data ingestion helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-ingestion",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing data ingestion. Give one concrete use case and explain the underlying idea.",
+      "answer": "Collect device telemetry from multiple producers. Data ingestion brings source data into a platform for storage or processing.",
+      "explanation": "The use case demonstrates data ingestion; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-ingestion",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Azure Data Factory mean in the context of DP900?",
+      "answer": "Azure Data Factory orchestrates data movement and transformation workflows.",
+      "explanation": "This is a foundational concept assessed in DP900. Schedule data pipelines between storage and database systems.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-data-factory",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Schedule data pipelines between storage and database systems.",
+      "answer": "Azure Data Factory",
+      "explanation": "Azure Data Factory orchestrates data movement and transformation workflows. This is why azure Data Factory fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-data-factory",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is azure Data Factory important when designing or operating a Microsoft solution?",
+      "answer": "Azure Data Factory orchestrates data movement and transformation workflows. Schedule data pipelines between storage and database systems.",
+      "explanation": "Applying azure Data Factory helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-data-factory",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing azure Data Factory. Give one concrete use case and explain the underlying idea.",
+      "answer": "Schedule data pipelines between storage and database systems. Azure Data Factory orchestrates data movement and transformation workflows.",
+      "explanation": "The use case demonstrates azure Data Factory; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-data-factory",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Azure Synapse Analytics mean in the context of DP900?",
+      "answer": "Azure Synapse Analytics combines enterprise analytics capabilities for SQL and large-scale data processing.",
+      "explanation": "This is a foundational concept assessed in DP900. Analyze curated datasets with SQL-based analytical tools.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-synapse-analytics",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Analyze curated datasets with SQL-based analytical tools.",
+      "answer": "Azure Synapse Analytics",
+      "explanation": "Azure Synapse Analytics combines enterprise analytics capabilities for SQL and large-scale data processing. This is why azure Synapse Analytics fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-synapse-analytics",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is azure Synapse Analytics important when designing or operating a Microsoft solution?",
+      "answer": "Azure Synapse Analytics combines enterprise analytics capabilities for SQL and large-scale data processing. Analyze curated datasets with SQL-based analytical tools.",
+      "explanation": "Applying azure Synapse Analytics helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-synapse-analytics",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing azure Synapse Analytics. Give one concrete use case and explain the underlying idea.",
+      "answer": "Analyze curated datasets with SQL-based analytical tools. Azure Synapse Analytics combines enterprise analytics capabilities for SQL and large-scale data processing.",
+      "explanation": "The use case demonstrates azure Synapse Analytics; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "azure-synapse-analytics",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Microsoft Fabric mean in the context of DP900?",
+      "answer": "Microsoft Fabric unifies data engineering, integration, warehousing, and BI experiences.",
+      "explanation": "This is a foundational concept assessed in DP900. Use OneLake-backed analytics in a shared environment.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "microsoft-fabric",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Use OneLake-backed analytics in a shared environment.",
+      "answer": "Microsoft Fabric",
+      "explanation": "Microsoft Fabric unifies data engineering, integration, warehousing, and BI experiences. This is why microsoft Fabric fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "microsoft-fabric",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is microsoft Fabric important when designing or operating a Microsoft solution?",
+      "answer": "Microsoft Fabric unifies data engineering, integration, warehousing, and BI experiences. Use OneLake-backed analytics in a shared environment.",
+      "explanation": "Applying microsoft Fabric helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "microsoft-fabric",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing microsoft Fabric. Give one concrete use case and explain the underlying idea.",
+      "answer": "Use OneLake-backed analytics in a shared environment. Microsoft Fabric unifies data engineering, integration, warehousing, and BI experiences.",
+      "explanation": "The use case demonstrates microsoft Fabric; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "microsoft-fabric",
+        "application"
+      ]
+    },
+    {
+      "question": "What does OneLake mean in the context of DP900?",
+      "answer": "OneLake is the unified logical data lake for Microsoft Fabric.",
+      "explanation": "This is a foundational concept assessed in DP900. Share analytical data across Fabric workloads.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "onelake",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Share analytical data across Fabric workloads.",
+      "answer": "OneLake",
+      "explanation": "OneLake is the unified logical data lake for Microsoft Fabric. This is why oneLake fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "onelake",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is oneLake important when designing or operating a Microsoft solution?",
+      "answer": "OneLake is the unified logical data lake for Microsoft Fabric. Share analytical data across Fabric workloads.",
+      "explanation": "Applying oneLake helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "onelake",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing oneLake. Give one concrete use case and explain the underlying idea.",
+      "answer": "Share analytical data across Fabric workloads. OneLake is the unified logical data lake for Microsoft Fabric.",
+      "explanation": "The use case demonstrates oneLake; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "onelake",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power BI mean in the context of DP900?",
+      "answer": "Power BI creates semantic models, reports, and interactive visualizations.",
+      "explanation": "This is a foundational concept assessed in DP900. Present sales KPIs through an interactive dashboard.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "power-bi",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Present sales KPIs through an interactive dashboard.",
+      "answer": "Power BI",
+      "explanation": "Power BI creates semantic models, reports, and interactive visualizations. This is why power BI fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "power-bi",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power BI important when designing or operating a Microsoft solution?",
+      "answer": "Power BI creates semantic models, reports, and interactive visualizations. Present sales KPIs through an interactive dashboard.",
+      "explanation": "Applying power BI helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "power-bi",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power BI. Give one concrete use case and explain the underlying idea.",
+      "answer": "Present sales KPIs through an interactive dashboard. Power BI creates semantic models, reports, and interactive visualizations.",
+      "explanation": "The use case demonstrates power BI; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "power-bi",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Semantic model mean in the context of DP900?",
+      "answer": "A semantic model defines relationships, measures, and business meaning for analysis.",
+      "explanation": "This is a foundational concept assessed in DP900. Make consistent revenue measures available to multiple reports.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "semantic-model",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Make consistent revenue measures available to multiple reports.",
+      "answer": "Semantic model",
+      "explanation": "A semantic model defines relationships, measures, and business meaning for analysis. This is why semantic model fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "semantic-model",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is semantic model important when designing or operating a Microsoft solution?",
+      "answer": "A semantic model defines relationships, measures, and business meaning for analysis. Make consistent revenue measures available to multiple reports.",
+      "explanation": "Applying semantic model helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "semantic-model",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing semantic model. Give one concrete use case and explain the underlying idea.",
+      "answer": "Make consistent revenue measures available to multiple reports. A semantic model defines relationships, measures, and business meaning for analysis.",
+      "explanation": "The use case demonstrates semantic model; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "semantic-model",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Data visualization mean in the context of DP900?",
+      "answer": "Data visualization uses charts and visual elements to communicate patterns and findings.",
+      "explanation": "This is a foundational concept assessed in DP900. Use a trend chart for monthly sales changes.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-visualization",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Use a trend chart for monthly sales changes.",
+      "answer": "Data visualization",
+      "explanation": "Data visualization uses charts and visual elements to communicate patterns and findings. This is why data visualization fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-visualization",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is data visualization important when designing or operating a Microsoft solution?",
+      "answer": "Data visualization uses charts and visual elements to communicate patterns and findings. Use a trend chart for monthly sales changes.",
+      "explanation": "Applying data visualization helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-visualization",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing data visualization. Give one concrete use case and explain the underlying idea.",
+      "answer": "Use a trend chart for monthly sales changes. Data visualization uses charts and visual elements to communicate patterns and findings.",
+      "explanation": "The use case demonstrates data visualization; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-visualization",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Data governance mean in the context of DP900?",
+      "answer": "Data governance sets policies for quality, ownership, security, and acceptable data use.",
+      "explanation": "This is a foundational concept assessed in DP900. Define who owns a customer dataset and who may access it.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-governance",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Define who owns a customer dataset and who may access it.",
+      "answer": "Data governance",
+      "explanation": "Data governance sets policies for quality, ownership, security, and acceptable data use. This is why data governance fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-governance",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is data governance important when designing or operating a Microsoft solution?",
+      "answer": "Data governance sets policies for quality, ownership, security, and acceptable data use. Define who owns a customer dataset and who may access it.",
+      "explanation": "Applying data governance helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-governance",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing data governance. Give one concrete use case and explain the underlying idea.",
+      "answer": "Define who owns a customer dataset and who may access it. Data governance sets policies for quality, ownership, security, and acceptable data use.",
+      "explanation": "The use case demonstrates data governance; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-governance",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Data quality mean in the context of DP900?",
+      "answer": "Data quality concerns accuracy, completeness, consistency, and timeliness.",
+      "explanation": "This is a foundational concept assessed in DP900. Detect missing customer identifiers before publishing reports.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-quality",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Detect missing customer identifiers before publishing reports.",
+      "answer": "Data quality",
+      "explanation": "Data quality concerns accuracy, completeness, consistency, and timeliness. This is why data quality fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-quality",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is data quality important when designing or operating a Microsoft solution?",
+      "answer": "Data quality concerns accuracy, completeness, consistency, and timeliness. Detect missing customer identifiers before publishing reports.",
+      "explanation": "Applying data quality helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-quality",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing data quality. Give one concrete use case and explain the underlying idea.",
+      "answer": "Detect missing customer identifiers before publishing reports. Data quality concerns accuracy, completeness, consistency, and timeliness.",
+      "explanation": "The use case demonstrates data quality; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-quality",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Data security mean in the context of DP900?",
+      "answer": "Data security protects data from unauthorized access, use, or disclosure.",
+      "explanation": "This is a foundational concept assessed in DP900. Restrict access to payroll records using least privilege.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-security",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Restrict access to payroll records using least privilege.",
+      "answer": "Data security",
+      "explanation": "Data security protects data from unauthorized access, use, or disclosure. This is why data security fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-security",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is data security important when designing or operating a Microsoft solution?",
+      "answer": "Data security protects data from unauthorized access, use, or disclosure. Restrict access to payroll records using least privilege.",
+      "explanation": "Applying data security helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-security",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing data security. Give one concrete use case and explain the underlying idea.",
+      "answer": "Restrict access to payroll records using least privilege. Data security protects data from unauthorized access, use, or disclosure.",
+      "explanation": "The use case demonstrates data security; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-security",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Relational versus NoSQL choice mean in the context of DP900?",
+      "answer": "The data model, query patterns, scale, and consistency requirements determine database selection.",
+      "explanation": "This is a foundational concept assessed in DP900. Choose relational storage for complex joins and a document store for flexible JSON records.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "relational-versus-nosql-choice",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Choose relational storage for complex joins and a document store for flexible JSON records.",
+      "answer": "Relational versus NoSQL choice",
+      "explanation": "The data model, query patterns, scale, and consistency requirements determine database selection. This is why relational versus NoSQL choice fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "relational-versus-nosql-choice",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is relational versus NoSQL choice important when designing or operating a Microsoft solution?",
+      "answer": "The data model, query patterns, scale, and consistency requirements determine database selection. Choose relational storage for complex joins and a document store for flexible JSON records.",
+      "explanation": "Applying relational versus NoSQL choice helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "relational-versus-nosql-choice",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing relational versus NoSQL choice. Give one concrete use case and explain the underlying idea.",
+      "answer": "Choose relational storage for complex joins and a document store for flexible JSON records. The data model, query patterns, scale, and consistency requirements determine database selection.",
+      "explanation": "The use case demonstrates relational versus NoSQL choice; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "relational-versus-nosql-choice",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Analytical versus operational store mean in the context of DP900?",
+      "answer": "Operational stores optimize application transactions while analytical stores optimize broad aggregation.",
+      "explanation": "This is a foundational concept assessed in DP900. Separate checkout transactions from long-term business intelligence queries.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "analytical-versus-operational-store",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Separate checkout transactions from long-term business intelligence queries.",
+      "answer": "Analytical versus operational store",
+      "explanation": "Operational stores optimize application transactions while analytical stores optimize broad aggregation. This is why analytical versus operational store fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "analytical-versus-operational-store",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is analytical versus operational store important when designing or operating a Microsoft solution?",
+      "answer": "Operational stores optimize application transactions while analytical stores optimize broad aggregation. Separate checkout transactions from long-term business intelligence queries.",
+      "explanation": "Applying analytical versus operational store helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "analytical-versus-operational-store",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing analytical versus operational store. Give one concrete use case and explain the underlying idea.",
+      "answer": "Separate checkout transactions from long-term business intelligence queries. Operational stores optimize application transactions while analytical stores optimize broad aggregation.",
+      "explanation": "The use case demonstrates analytical versus operational store; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "analytical-versus-operational-store",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Data pipeline monitoring mean in the context of DP900?",
+      "answer": "Pipeline monitoring tracks runs, failures, and performance of ingestion workflows.",
+      "explanation": "This is a foundational concept assessed in DP900. Alert when a scheduled data refresh fails.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-pipeline-monitoring",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Alert when a scheduled data refresh fails.",
+      "answer": "Data pipeline monitoring",
+      "explanation": "Pipeline monitoring tracks runs, failures, and performance of ingestion workflows. This is why data pipeline monitoring fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-pipeline-monitoring",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is data pipeline monitoring important when designing or operating a Microsoft solution?",
+      "answer": "Pipeline monitoring tracks runs, failures, and performance of ingestion workflows. Alert when a scheduled data refresh fails.",
+      "explanation": "Applying data pipeline monitoring helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-pipeline-monitoring",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing data pipeline monitoring. Give one concrete use case and explain the underlying idea.",
+      "answer": "Alert when a scheduled data refresh fails. Pipeline monitoring tracks runs, failures, and performance of ingestion workflows.",
+      "explanation": "The use case demonstrates data pipeline monitoring; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "data-pipeline-monitoring",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Schema evolution mean in the context of DP900?",
+      "answer": "Schema evolution handles changes to fields and structure over time.",
+      "explanation": "This is a foundational concept assessed in DP900. Add optional fields without breaking existing document readers.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "schema-evolution",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Add optional fields without breaking existing document readers.",
+      "answer": "Schema evolution",
+      "explanation": "Schema evolution handles changes to fields and structure over time. This is why schema evolution fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "schema-evolution",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is schema evolution important when designing or operating a Microsoft solution?",
+      "answer": "Schema evolution handles changes to fields and structure over time. Add optional fields without breaking existing document readers.",
+      "explanation": "Applying schema evolution helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "schema-evolution",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing schema evolution. Give one concrete use case and explain the underlying idea.",
+      "answer": "Add optional fields without breaking existing document readers. Schema evolution handles changes to fields and structure over time.",
+      "explanation": "The use case demonstrates schema evolution; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "schema-evolution",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Business intelligence lifecycle mean in the context of DP900?",
+      "answer": "BI work typically includes connecting, preparing, modeling, visualizing, and sharing data.",
+      "explanation": "This is a foundational concept assessed in DP900. Build reports only after validating model relationships and measures.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "business-intelligence-lifecycle",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Build reports only after validating model relationships and measures.",
+      "answer": "Business intelligence lifecycle",
+      "explanation": "BI work typically includes connecting, preparing, modeling, visualizing, and sharing data. This is why business intelligence lifecycle fits the scenario.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "business-intelligence-lifecycle",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is business intelligence lifecycle important when designing or operating a Microsoft solution?",
+      "answer": "BI work typically includes connecting, preparing, modeling, visualizing, and sharing data. Build reports only after validating model relationships and measures.",
+      "explanation": "Applying business intelligence lifecycle helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "business-intelligence-lifecycle",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing business intelligence lifecycle. Give one concrete use case and explain the underlying idea.",
+      "answer": "Build reports only after validating model relationships and measures. BI work typically includes connecting, preparing, modeling, visualizing, and sharing data.",
+      "explanation": "The use case demonstrates business intelligence lifecycle; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "dp900",
+        "business-intelligence-lifecycle",
+        "application"
+      ]
+    }
+  ]
+}

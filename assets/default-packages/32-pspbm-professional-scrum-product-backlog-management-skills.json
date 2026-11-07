@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "PSPBM Professional Scrum Product Backlog Management Skills",
+  "cards": [
+    {
+      "question": "What are Scrum's three empirical pillars?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "empiricism",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What are Scrum's three empirical pillars? Which answer would be most accurate?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "empiricism",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of empiricism, how should a practitioner answer the question: What are Scrum's three empirical pillars?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "empiricism",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of empiricism. What are Scrum's three empirical pillars?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "empiricism",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on empiricism, consider the following: What are Scrum's three empirical pillars?",
+      "answer": "Transparency, inspection, and adaptation.",
+      "explanation": "Visible work and results enable inspection, which supports timely adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "empiricism",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Why is an empirical approach appropriate for complex product work?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "complexity",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Why is an empirical approach appropriate for complex product work? Which answer would be most accurate?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "complexity",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of complexity, how should a practitioner answer the question: Why is an empirical approach appropriate for complex product work?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "complexity",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of complexity. Why is an empirical approach appropriate for complex product work?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "complexity",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on complexity, consider the following: Why is an empirical approach appropriate for complex product work?",
+      "answer": "Outcomes cannot be fully predicted; short feedback loops enable learning.",
+      "explanation": "Complex work has uncertainty, so evidence is more useful than a detailed fixed prediction.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "complexity",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Which five values underpin Scrum?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-values",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Which five values underpin Scrum? Which answer would be most accurate?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-values",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of scrum values, how should a practitioner answer the question: Which five values underpin Scrum?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-values",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of scrum values. Which five values underpin Scrum?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-values",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on scrum values, consider the following: Which five values underpin Scrum?",
+      "answer": "Commitment, Focus, Openness, Respect, and Courage.",
+      "explanation": "These values shape the behaviors needed for transparency and collaboration.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-values",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What are Scrum's three accountabilities?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "accountabilities",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What are Scrum's three accountabilities? Which answer would be most accurate?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "accountabilities",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of accountabilities, how should a practitioner answer the question: What are Scrum's three accountabilities?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "accountabilities",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of accountabilities. What are Scrum's three accountabilities?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "accountabilities",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on accountabilities, consider the following: What are Scrum's three accountabilities?",
+      "answer": "Product Owner, Scrum Master, and Developers.",
+      "explanation": "A Scrum Team has these accountabilities, not a separate project-manager accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "accountabilities",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who determines how selected Product Backlog items are turned into an Increment?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "self-management",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who determines how selected Product Backlog items are turned into an Increment? Which answer would be most accurate?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "self-management",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of self management, how should a practitioner answer the question: Who determines how selected Product Backlog items are turned into an Increment?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "self-management",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of self management. Who determines how selected Product Backlog items are turned into an Increment?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "self-management",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on self management, consider the following: Who determines how selected Product Backlog items are turned into an Increment?",
+      "answer": "The Developers.",
+      "explanation": "Scrum Teams are self-managing; outsiders do not prescribe the Developers' implementation plan.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "self-management",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who is accountable for maximizing the value of the product?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-owner",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who is accountable for maximizing the value of the product? Which answer would be most accurate?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-owner",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product owner, how should a practitioner answer the question: Who is accountable for maximizing the value of the product?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-owner",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product owner. Who is accountable for maximizing the value of the product?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-owner",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product owner, consider the following: Who is accountable for maximizing the value of the product?",
+      "answer": "The Product Owner.",
+      "explanation": "Others may contribute, but accountability remains with one Product Owner.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-owner",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is a Scrum Master's core accountability?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-master",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is a Scrum Master's core accountability? Which answer would be most accurate?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-master",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of scrum master, how should a practitioner answer the question: What is a Scrum Master's core accountability?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-master",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of scrum master. What is a Scrum Master's core accountability?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-master",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on scrum master, consider the following: What is a Scrum Master's core accountability?",
+      "answer": "Establishing Scrum as defined in the Scrum Guide and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team, Product Owner, and organization through leadership and coaching.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "scrum-master",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What purpose does a Product Goal serve?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What purpose does a Product Goal serve? Which answer would be most accurate?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product goal, how should a practitioner answer the question: What purpose does a Product Goal serve?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product goal. What purpose does a Product Goal serve?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product goal, consider the following: What purpose does a Product Goal serve?",
+      "answer": "It describes a future state of the product and provides a long-term target for the Scrum Team.",
+      "explanation": "The Product Goal is a commitment for the Product Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is the purpose of a Sprint Goal?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-goal",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is the purpose of a Sprint Goal? Which answer would be most accurate?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-goal",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint goal, how should a practitioner answer the question: What is the purpose of a Sprint Goal?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-goal",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint goal. What is the purpose of a Sprint Goal?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-goal",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint goal, consider the following: What is the purpose of a Sprint Goal?",
+      "answer": "It communicates the single objective for the Sprint and gives flexibility in the exact work performed.",
+      "explanation": "The Sprint Goal is the Sprint Backlog's commitment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-goal",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How does the Definition of Done affect an Increment?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "definition-of-done",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How does the Definition of Done affect an Increment? Which answer would be most accurate?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "definition-of-done",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of definition of done, how should a practitioner answer the question: How does the Definition of Done affect an Increment?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "definition-of-done",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of definition of done. How does the Definition of Done affect an Increment?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "definition-of-done",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on definition of done, consider the following: How does the Definition of Done affect an Increment?",
+      "answer": "An Increment is usable only when it meets the agreed Definition of Done.",
+      "explanation": "Work that does not meet the Definition of Done is not part of an Increment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "definition-of-done",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What three topics are addressed in Sprint Planning?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-planning",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What three topics are addressed in Sprint Planning? Which answer would be most accurate?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-planning",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint planning, how should a practitioner answer the question: What three topics are addressed in Sprint Planning?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-planning",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint planning. What three topics are addressed in Sprint Planning?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-planning",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint planning, consider the following: What three topics are addressed in Sprint Planning?",
+      "answer": "Why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The Scrum Team collaborates to create a viable Sprint Goal and Sprint Backlog.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-planning",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who is the Daily Scrum primarily for?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "daily-scrum",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who is the Daily Scrum primarily for? Which answer would be most accurate?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "daily-scrum",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of daily scrum, how should a practitioner answer the question: Who is the Daily Scrum primarily for?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "daily-scrum",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of daily scrum. Who is the Daily Scrum primarily for?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "daily-scrum",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on daily scrum, consider the following: Who is the Daily Scrum primarily for?",
+      "answer": "The Developers.",
+      "explanation": "They inspect progress toward the Sprint Goal and adapt their plan; it is not a status report to management.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "daily-scrum",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is inspected during the Sprint Review?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-review",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is inspected during the Sprint Review? Which answer would be most accurate?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-review",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint review, how should a practitioner answer the question: What is inspected during the Sprint Review?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-review",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint review. What is inspected during the Sprint Review?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-review",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint review, consider the following: What is inspected during the Sprint Review?",
+      "answer": "The outcome of the Sprint and progress toward the Product Goal.",
+      "explanation": "Stakeholders and the Scrum Team discuss what to do next based on evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-review",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is the purpose of the Sprint Retrospective?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "retrospective",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is the purpose of the Sprint Retrospective? Which answer would be most accurate?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "retrospective",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of retrospective, how should a practitioner answer the question: What is the purpose of the Sprint Retrospective?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "retrospective",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of retrospective. What is the purpose of the Sprint Retrospective?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "retrospective",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on retrospective, consider the following: What is the purpose of the Sprint Retrospective?",
+      "answer": "Plan ways to increase quality and effectiveness.",
+      "explanation": "The team inspects people, interactions, processes, tools, and the Definition of Done as relevant.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "retrospective",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Can multiple Increments be created during one Sprint?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "increment",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Can multiple Increments be created during one Sprint? Which answer would be most accurate?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "increment",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of increment, how should a practitioner answer the question: Can multiple Increments be created during one Sprint?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "increment",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of increment. Can multiple Increments be created during one Sprint?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "increment",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on increment, consider the following: Can multiple Increments be created during one Sprint?",
+      "answer": "Yes; multiple usable Increments may be created and even delivered before Sprint Review.",
+      "explanation": "The Sprint Review is not a release gate.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "increment",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is the maximum length of a Sprint under the Scrum Guide?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-boundary",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is the maximum length of a Sprint under the Scrum Guide? Which answer would be most accurate?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-boundary",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint boundary, how should a practitioner answer the question: What is the maximum length of a Sprint under the Scrum Guide?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-boundary",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint boundary. What is the maximum length of a Sprint under the Scrum Guide?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-boundary",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint boundary, consider the following: What is the maximum length of a Sprint under the Scrum Guide?",
+      "answer": "One month or less.",
+      "explanation": "Short Sprints limit risk and provide regular opportunities for inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-boundary",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is the Product Backlog?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-backlog",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is the Product Backlog? Which answer would be most accurate?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-backlog",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product backlog, how should a practitioner answer the question: What is the Product Backlog?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-backlog",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product backlog. What is the Product Backlog?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-backlog",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product backlog, consider the following: What is the Product Backlog?",
+      "answer": "An emergent, ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-backlog",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is Product Backlog refinement?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is Product Backlog refinement? Which answer would be most accurate?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of refinement, how should a practitioner answer the question: What is Product Backlog refinement?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of refinement. What is Product Backlog refinement?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on refinement, consider the following: What is Product Backlog refinement?",
+      "answer": "The ongoing act of breaking down and further defining Product Backlog items.",
+      "explanation": "Refinement improves transparency and helps forecast future work; it is not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who is accountable for the Sprint Backlog and updates it during the Sprint?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-backlog",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who is accountable for the Sprint Backlog and updates it during the Sprint? Which answer would be most accurate?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-backlog",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint backlog, how should a practitioner answer the question: Who is accountable for the Sprint Backlog and updates it during the Sprint?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-backlog",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint backlog. Who is accountable for the Sprint Backlog and updates it during the Sprint?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-backlog",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint backlog, consider the following: Who is accountable for the Sprint Backlog and updates it during the Sprint?",
+      "answer": "The Developers.",
+      "explanation": "It is their plan for achieving the Sprint Goal and evolves as more is learned.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-backlog",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who has authority to cancel a Sprint when its goal becomes obsolete?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-cancellation",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who has authority to cancel a Sprint when its goal becomes obsolete? Which answer would be most accurate?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-cancellation",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of sprint cancellation, how should a practitioner answer the question: Who has authority to cancel a Sprint when its goal becomes obsolete?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-cancellation",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of sprint cancellation. Who has authority to cancel a Sprint when its goal becomes obsolete?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-cancellation",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on sprint cancellation, consider the following: Who has authority to cancel a Sprint when its goal becomes obsolete?",
+      "answer": "The Product Owner.",
+      "explanation": "Cancellation is unusual and should be based on the Sprint Goal becoming obsolete.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "sprint-cancellation",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of a Product Backlog?",
+      "answer": "Provide a transparent, ordered view of work needed to improve a product.",
+      "explanation": "Backlog management supports value choices and empiricism.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-purpose",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is the primary purpose of a Product Backlog? Which answer would be most accurate?",
+      "answer": "Provide a transparent, ordered view of work needed to improve a product.",
+      "explanation": "Backlog management supports value choices and empiricism.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-purpose",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of backlog purpose, how should a practitioner answer the question: What is the primary purpose of a Product Backlog?",
+      "answer": "Provide a transparent, ordered view of work needed to improve a product.",
+      "explanation": "Backlog management supports value choices and empiricism.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-purpose",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of backlog purpose. What is the primary purpose of a Product Backlog?",
+      "answer": "Provide a transparent, ordered view of work needed to improve a product.",
+      "explanation": "Backlog management supports value choices and empiricism.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-purpose",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on backlog purpose, consider the following: What is the primary purpose of a Product Backlog?",
+      "answer": "Provide a transparent, ordered view of work needed to improve a product.",
+      "explanation": "Backlog management supports value choices and empiricism.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-purpose",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should Product Backlog items be ordered?",
+      "answer": "Using factors such as value, risk, dependencies, and learning to support the Product Goal.",
+      "explanation": "A simplistic priority number is not a substitute for informed judgment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "ordering",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should Product Backlog items be ordered? Which answer would be most accurate?",
+      "answer": "Using factors such as value, risk, dependencies, and learning to support the Product Goal.",
+      "explanation": "A simplistic priority number is not a substitute for informed judgment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "ordering",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of ordering, how should a practitioner answer the question: How should Product Backlog items be ordered?",
+      "answer": "Using factors such as value, risk, dependencies, and learning to support the Product Goal.",
+      "explanation": "A simplistic priority number is not a substitute for informed judgment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "ordering",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of ordering. How should Product Backlog items be ordered?",
+      "answer": "Using factors such as value, risk, dependencies, and learning to support the Product Goal.",
+      "explanation": "A simplistic priority number is not a substitute for informed judgment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "ordering",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on ordering, consider the following: How should Product Backlog items be ordered?",
+      "answer": "Using factors such as value, risk, dependencies, and learning to support the Product Goal.",
+      "explanation": "A simplistic priority number is not a substitute for informed judgment.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "ordering",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How can a Product Owner capture a customer need without prematurely prescribing a solution?",
+      "answer": "Describe the problem, context, users, and desired outcome before selecting features.",
+      "explanation": "Solution-first items can conceal better alternatives.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "customer-needs",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How can a Product Owner capture a customer need without prematurely prescribing a solution? Which answer would be most accurate?",
+      "answer": "Describe the problem, context, users, and desired outcome before selecting features.",
+      "explanation": "Solution-first items can conceal better alternatives.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "customer-needs",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of customer needs, how should a practitioner answer the question: How can a Product Owner capture a customer need without prematurely prescribing a solution?",
+      "answer": "Describe the problem, context, users, and desired outcome before selecting features.",
+      "explanation": "Solution-first items can conceal better alternatives.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "customer-needs",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of customer needs. How can a Product Owner capture a customer need without prematurely prescribing a solution?",
+      "answer": "Describe the problem, context, users, and desired outcome before selecting features.",
+      "explanation": "Solution-first items can conceal better alternatives.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "customer-needs",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on customer needs, consider the following: How can a Product Owner capture a customer need without prematurely prescribing a solution?",
+      "answer": "Describe the problem, context, users, and desired outcome before selecting features.",
+      "explanation": "Solution-first items can conceal better alternatives.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "customer-needs",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Does the Scrum Guide require Product Backlog items to use a user-story format?",
+      "answer": "No; items should be sufficiently understood for the relevant decisions.",
+      "explanation": "User stories are an optional technique, not a Scrum rule.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "user-story",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Does the Scrum Guide require Product Backlog items to use a user-story format? Which answer would be most accurate?",
+      "answer": "No; items should be sufficiently understood for the relevant decisions.",
+      "explanation": "User stories are an optional technique, not a Scrum rule.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "user-story",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of user story, how should a practitioner answer the question: Does the Scrum Guide require Product Backlog items to use a user-story format?",
+      "answer": "No; items should be sufficiently understood for the relevant decisions.",
+      "explanation": "User stories are an optional technique, not a Scrum rule.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "user-story",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of user story. Does the Scrum Guide require Product Backlog items to use a user-story format?",
+      "answer": "No; items should be sufficiently understood for the relevant decisions.",
+      "explanation": "User stories are an optional technique, not a Scrum rule.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "user-story",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on user story, consider the following: Does the Scrum Guide require Product Backlog items to use a user-story format?",
+      "answer": "No; items should be sufficiently understood for the relevant decisions.",
+      "explanation": "User stories are an optional technique, not a Scrum rule.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "user-story",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Is Product Backlog refinement a mandatory standalone Scrum event?",
+      "answer": "No; refinement is an ongoing activity.",
+      "explanation": "Teams select practices that make upcoming work sufficiently transparent.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-cadence",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Is Product Backlog refinement a mandatory standalone Scrum event? Which answer would be most accurate?",
+      "answer": "No; refinement is an ongoing activity.",
+      "explanation": "Teams select practices that make upcoming work sufficiently transparent.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-cadence",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of refinement cadence, how should a practitioner answer the question: Is Product Backlog refinement a mandatory standalone Scrum event?",
+      "answer": "No; refinement is an ongoing activity.",
+      "explanation": "Teams select practices that make upcoming work sufficiently transparent.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-cadence",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of refinement cadence. Is Product Backlog refinement a mandatory standalone Scrum event?",
+      "answer": "No; refinement is an ongoing activity.",
+      "explanation": "Teams select practices that make upcoming work sufficiently transparent.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-cadence",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on refinement cadence, consider the following: Is Product Backlog refinement a mandatory standalone Scrum event?",
+      "answer": "No; refinement is an ongoing activity.",
+      "explanation": "Teams select practices that make upcoming work sufficiently transparent.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-cadence",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Why split a large Product Backlog item into smaller slices?",
+      "answer": "To enable earlier valuable feedback, clearer forecasts, and reduced risk.",
+      "explanation": "Prefer usable vertical slices rather than component-only task breakdowns.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "splitting",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Why split a large Product Backlog item into smaller slices? Which answer would be most accurate?",
+      "answer": "To enable earlier valuable feedback, clearer forecasts, and reduced risk.",
+      "explanation": "Prefer usable vertical slices rather than component-only task breakdowns.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "splitting",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of splitting, how should a practitioner answer the question: Why split a large Product Backlog item into smaller slices?",
+      "answer": "To enable earlier valuable feedback, clearer forecasts, and reduced risk.",
+      "explanation": "Prefer usable vertical slices rather than component-only task breakdowns.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "splitting",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of splitting. Why split a large Product Backlog item into smaller slices?",
+      "answer": "To enable earlier valuable feedback, clearer forecasts, and reduced risk.",
+      "explanation": "Prefer usable vertical slices rather than component-only task breakdowns.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "splitting",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on splitting, consider the following: Why split a large Product Backlog item into smaller slices?",
+      "answer": "To enable earlier valuable feedback, clearer forecasts, and reduced risk.",
+      "explanation": "Prefer usable vertical slices rather than component-only task breakdowns.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "splitting",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What is a vertical slice of a Product Backlog item?",
+      "answer": "A small end-to-end outcome that cuts across the components needed to deliver value.",
+      "explanation": "Horizontal layers may create partially complete work with no usable outcome.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "vertical-slicing",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What is a vertical slice of a Product Backlog item? Which answer would be most accurate?",
+      "answer": "A small end-to-end outcome that cuts across the components needed to deliver value.",
+      "explanation": "Horizontal layers may create partially complete work with no usable outcome.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "vertical-slicing",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of vertical slicing, how should a practitioner answer the question: What is a vertical slice of a Product Backlog item?",
+      "answer": "A small end-to-end outcome that cuts across the components needed to deliver value.",
+      "explanation": "Horizontal layers may create partially complete work with no usable outcome.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "vertical-slicing",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of vertical slicing. What is a vertical slice of a Product Backlog item?",
+      "answer": "A small end-to-end outcome that cuts across the components needed to deliver value.",
+      "explanation": "Horizontal layers may create partially complete work with no usable outcome.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "vertical-slicing",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on vertical slicing, consider the following: What is a vertical slice of a Product Backlog item?",
+      "answer": "A small end-to-end outcome that cuts across the components needed to deliver value.",
+      "explanation": "Horizontal layers may create partially complete work with no usable outcome.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "vertical-slicing",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How do acceptance criteria relate to the Definition of Done?",
+      "answer": "Acceptance criteria may express item-specific expectations; the Definition of Done is a shared quality commitment.",
+      "explanation": "Acceptance criteria do not replace the product-wide Definition of Done.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "acceptance-criteria",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How do acceptance criteria relate to the Definition of Done? Which answer would be most accurate?",
+      "answer": "Acceptance criteria may express item-specific expectations; the Definition of Done is a shared quality commitment.",
+      "explanation": "Acceptance criteria do not replace the product-wide Definition of Done.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "acceptance-criteria",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of acceptance criteria, how should a practitioner answer the question: How do acceptance criteria relate to the Definition of Done?",
+      "answer": "Acceptance criteria may express item-specific expectations; the Definition of Done is a shared quality commitment.",
+      "explanation": "Acceptance criteria do not replace the product-wide Definition of Done.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "acceptance-criteria",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of acceptance criteria. How do acceptance criteria relate to the Definition of Done?",
+      "answer": "Acceptance criteria may express item-specific expectations; the Definition of Done is a shared quality commitment.",
+      "explanation": "Acceptance criteria do not replace the product-wide Definition of Done.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "acceptance-criteria",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on acceptance criteria, consider the following: How do acceptance criteria relate to the Definition of Done?",
+      "answer": "Acceptance criteria may express item-specific expectations; the Definition of Done is a shared quality commitment.",
+      "explanation": "Acceptance criteria do not replace the product-wide Definition of Done.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "acceptance-criteria",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should the Product Goal influence Product Backlog ordering?",
+      "answer": "Items supporting the goal should be considered relative to value and evidence.",
+      "explanation": "Without a goal, the backlog can become an unrelated request queue.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal-alignment",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should the Product Goal influence Product Backlog ordering? Which answer would be most accurate?",
+      "answer": "Items supporting the goal should be considered relative to value and evidence.",
+      "explanation": "Without a goal, the backlog can become an unrelated request queue.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal-alignment",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of product goal alignment, how should a practitioner answer the question: How should the Product Goal influence Product Backlog ordering?",
+      "answer": "Items supporting the goal should be considered relative to value and evidence.",
+      "explanation": "Without a goal, the backlog can become an unrelated request queue.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal-alignment",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of product goal alignment. How should the Product Goal influence Product Backlog ordering?",
+      "answer": "Items supporting the goal should be considered relative to value and evidence.",
+      "explanation": "Without a goal, the backlog can become an unrelated request queue.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal-alignment",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on product goal alignment, consider the following: How should the Product Goal influence Product Backlog ordering?",
+      "answer": "Items supporting the goal should be considered relative to value and evidence.",
+      "explanation": "Without a goal, the backlog can become an unrelated request queue.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "product-goal-alignment",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What evidence can improve decisions about Product Backlog items?",
+      "answer": "Customer observations, usage data, experiments, risks, and outcome measures.",
+      "explanation": "Opinions become more actionable when tested against evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "evidence",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What evidence can improve decisions about Product Backlog items? Which answer would be most accurate?",
+      "answer": "Customer observations, usage data, experiments, risks, and outcome measures.",
+      "explanation": "Opinions become more actionable when tested against evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "evidence",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of evidence, how should a practitioner answer the question: What evidence can improve decisions about Product Backlog items?",
+      "answer": "Customer observations, usage data, experiments, risks, and outcome measures.",
+      "explanation": "Opinions become more actionable when tested against evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "evidence",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of evidence. What evidence can improve decisions about Product Backlog items?",
+      "answer": "Customer observations, usage data, experiments, risks, and outcome measures.",
+      "explanation": "Opinions become more actionable when tested against evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "evidence",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on evidence, consider the following: What evidence can improve decisions about Product Backlog items?",
+      "answer": "Customer observations, usage data, experiments, risks, and outcome measures.",
+      "explanation": "Opinions become more actionable when tested against evidence.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "evidence",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What should happen when an influential stakeholder demands immediate inclusion of a feature?",
+      "answer": "Evaluate the request transparently against the Product Goal and other opportunities.",
+      "explanation": "Stakeholder influence does not override the Product Owner's accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "stakeholder-requests",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What should happen when an influential stakeholder demands immediate inclusion of a feature? Which answer would be most accurate?",
+      "answer": "Evaluate the request transparently against the Product Goal and other opportunities.",
+      "explanation": "Stakeholder influence does not override the Product Owner's accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "stakeholder-requests",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of stakeholder requests, how should a practitioner answer the question: What should happen when an influential stakeholder demands immediate inclusion of a feature?",
+      "answer": "Evaluate the request transparently against the Product Goal and other opportunities.",
+      "explanation": "Stakeholder influence does not override the Product Owner's accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "stakeholder-requests",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of stakeholder requests. What should happen when an influential stakeholder demands immediate inclusion of a feature?",
+      "answer": "Evaluate the request transparently against the Product Goal and other opportunities.",
+      "explanation": "Stakeholder influence does not override the Product Owner's accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "stakeholder-requests",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on stakeholder requests, consider the following: What should happen when an influential stakeholder demands immediate inclusion of a feature?",
+      "answer": "Evaluate the request transparently against the Product Goal and other opportunities.",
+      "explanation": "Stakeholder influence does not override the Product Owner's accountability.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "stakeholder-requests",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should Product Backlog size estimates be used?",
+      "answer": "As uncertain inputs to planning and discussion, not contractual guarantees.",
+      "explanation": "Estimates are forecasts that improve as teams learn.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "forecasting",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should Product Backlog size estimates be used? Which answer would be most accurate?",
+      "answer": "As uncertain inputs to planning and discussion, not contractual guarantees.",
+      "explanation": "Estimates are forecasts that improve as teams learn.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "forecasting",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of forecasting, how should a practitioner answer the question: How should Product Backlog size estimates be used?",
+      "answer": "As uncertain inputs to planning and discussion, not contractual guarantees.",
+      "explanation": "Estimates are forecasts that improve as teams learn.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "forecasting",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of forecasting. How should Product Backlog size estimates be used?",
+      "answer": "As uncertain inputs to planning and discussion, not contractual guarantees.",
+      "explanation": "Estimates are forecasts that improve as teams learn.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "forecasting",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on forecasting, consider the following: How should Product Backlog size estimates be used?",
+      "answer": "As uncertain inputs to planning and discussion, not contractual guarantees.",
+      "explanation": "Estimates are forecasts that improve as teams learn.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "forecasting",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "What indicates an unhealthy Product Backlog?",
+      "answer": "Stale items, unclear goals, duplicate demands, and little evidence for ordering.",
+      "explanation": "A long list is not necessarily a valuable decision tool.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-health",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: What indicates an unhealthy Product Backlog? Which answer would be most accurate?",
+      "answer": "Stale items, unclear goals, duplicate demands, and little evidence for ordering.",
+      "explanation": "A long list is not necessarily a valuable decision tool.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-health",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of backlog health, how should a practitioner answer the question: What indicates an unhealthy Product Backlog?",
+      "answer": "Stale items, unclear goals, duplicate demands, and little evidence for ordering.",
+      "explanation": "A long list is not necessarily a valuable decision tool.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-health",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of backlog health. What indicates an unhealthy Product Backlog?",
+      "answer": "Stale items, unclear goals, duplicate demands, and little evidence for ordering.",
+      "explanation": "A long list is not necessarily a valuable decision tool.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-health",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on backlog health, consider the following: What indicates an unhealthy Product Backlog?",
+      "answer": "Stale items, unclear goals, duplicate demands, and little evidence for ordering.",
+      "explanation": "A long list is not necessarily a valuable decision tool.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-health",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "When should a Product Backlog item be removed?",
+      "answer": "When evidence shows it is obsolete, duplicated, or not worth pursuing.",
+      "explanation": "The Product Backlog should remain emergent rather than preserve every historic request.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "deleting-items",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: When should a Product Backlog item be removed? Which answer would be most accurate?",
+      "answer": "When evidence shows it is obsolete, duplicated, or not worth pursuing.",
+      "explanation": "The Product Backlog should remain emergent rather than preserve every historic request.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "deleting-items",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of deleting items, how should a practitioner answer the question: When should a Product Backlog item be removed?",
+      "answer": "When evidence shows it is obsolete, duplicated, or not worth pursuing.",
+      "explanation": "The Product Backlog should remain emergent rather than preserve every historic request.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "deleting-items",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of deleting items. When should a Product Backlog item be removed?",
+      "answer": "When evidence shows it is obsolete, duplicated, or not worth pursuing.",
+      "explanation": "The Product Backlog should remain emergent rather than preserve every historic request.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "deleting-items",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on deleting items, consider the following: When should a Product Backlog item be removed?",
+      "answer": "When evidence shows it is obsolete, duplicated, or not worth pursuing.",
+      "explanation": "The Product Backlog should remain emergent rather than preserve every historic request.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "deleting-items",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who should be able to understand the Product Backlog and its ordering?",
+      "answer": "The Scrum Team and relevant stakeholders who need transparency.",
+      "explanation": "Opacity weakens collaboration and trust.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-visibility",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who should be able to understand the Product Backlog and its ordering? Which answer would be most accurate?",
+      "answer": "The Scrum Team and relevant stakeholders who need transparency.",
+      "explanation": "Opacity weakens collaboration and trust.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-visibility",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of backlog visibility, how should a practitioner answer the question: Who should be able to understand the Product Backlog and its ordering?",
+      "answer": "The Scrum Team and relevant stakeholders who need transparency.",
+      "explanation": "Opacity weakens collaboration and trust.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-visibility",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of backlog visibility. Who should be able to understand the Product Backlog and its ordering?",
+      "answer": "The Scrum Team and relevant stakeholders who need transparency.",
+      "explanation": "Opacity weakens collaboration and trust.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-visibility",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on backlog visibility, consider the following: Who should be able to understand the Product Backlog and its ordering?",
+      "answer": "The Scrum Team and relevant stakeholders who need transparency.",
+      "explanation": "Opacity weakens collaboration and trust.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-visibility",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Who can participate in Product Backlog refinement?",
+      "answer": "The Scrum Team can collaborate with stakeholders and experts as useful.",
+      "explanation": "The Product Owner is accountable but need not do all refinement alone.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-participation",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Who can participate in Product Backlog refinement? Which answer would be most accurate?",
+      "answer": "The Scrum Team can collaborate with stakeholders and experts as useful.",
+      "explanation": "The Product Owner is accountable but need not do all refinement alone.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-participation",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of refinement participation, how should a practitioner answer the question: Who can participate in Product Backlog refinement?",
+      "answer": "The Scrum Team can collaborate with stakeholders and experts as useful.",
+      "explanation": "The Product Owner is accountable but need not do all refinement alone.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-participation",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of refinement participation. Who can participate in Product Backlog refinement?",
+      "answer": "The Scrum Team can collaborate with stakeholders and experts as useful.",
+      "explanation": "The Product Owner is accountable but need not do all refinement alone.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-participation",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on refinement participation, consider the following: Who can participate in Product Backlog refinement?",
+      "answer": "The Scrum Team can collaborate with stakeholders and experts as useful.",
+      "explanation": "The Product Owner is accountable but need not do all refinement alone.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "refinement-participation",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How can a Product Backlog item help expose uncertainty?",
+      "answer": "Record assumptions and identify a small experiment or spike to reduce the most important risk.",
+      "explanation": "Reducing uncertainty can be more valuable than immediately building a full solution.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "assumption-risk",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How can a Product Backlog item help expose uncertainty? Which answer would be most accurate?",
+      "answer": "Record assumptions and identify a small experiment or spike to reduce the most important risk.",
+      "explanation": "Reducing uncertainty can be more valuable than immediately building a full solution.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "assumption-risk",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of assumption risk, how should a practitioner answer the question: How can a Product Backlog item help expose uncertainty?",
+      "answer": "Record assumptions and identify a small experiment or spike to reduce the most important risk.",
+      "explanation": "Reducing uncertainty can be more valuable than immediately building a full solution.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "assumption-risk",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of assumption risk. How can a Product Backlog item help expose uncertainty?",
+      "answer": "Record assumptions and identify a small experiment or spike to reduce the most important risk.",
+      "explanation": "Reducing uncertainty can be more valuable than immediately building a full solution.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "assumption-risk",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on assumption risk, consider the following: How can a Product Backlog item help expose uncertainty?",
+      "answer": "Record assumptions and identify a small experiment or spike to reduce the most important risk.",
+      "explanation": "Reducing uncertainty can be more valuable than immediately building a full solution.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "assumption-risk",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "Where should important security or performance needs be represented?",
+      "answer": "In the Definition of Done, Product Backlog, or both as appropriate.",
+      "explanation": "Quality expectations must remain visible and testable.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "nonfunctional-needs",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: Where should important security or performance needs be represented? Which answer would be most accurate?",
+      "answer": "In the Definition of Done, Product Backlog, or both as appropriate.",
+      "explanation": "Quality expectations must remain visible and testable.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "nonfunctional-needs",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of nonfunctional needs, how should a practitioner answer the question: Where should important security or performance needs be represented?",
+      "answer": "In the Definition of Done, Product Backlog, or both as appropriate.",
+      "explanation": "Quality expectations must remain visible and testable.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "nonfunctional-needs",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of nonfunctional needs. Where should important security or performance needs be represented?",
+      "answer": "In the Definition of Done, Product Backlog, or both as appropriate.",
+      "explanation": "Quality expectations must remain visible and testable.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "nonfunctional-needs",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on nonfunctional needs, consider the following: Where should important security or performance needs be represented?",
+      "answer": "In the Definition of Done, Product Backlog, or both as appropriate.",
+      "explanation": "Quality expectations must remain visible and testable.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "nonfunctional-needs",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How should success for a feature be framed?",
+      "answer": "As an observable user or business outcome rather than merely delivery of the feature.",
+      "explanation": "Completing a backlog item does not prove customer benefit.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "measure-outcome",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How should success for a feature be framed? Which answer would be most accurate?",
+      "answer": "As an observable user or business outcome rather than merely delivery of the feature.",
+      "explanation": "Completing a backlog item does not prove customer benefit.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "measure-outcome",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of measure outcome, how should a practitioner answer the question: How should success for a feature be framed?",
+      "answer": "As an observable user or business outcome rather than merely delivery of the feature.",
+      "explanation": "Completing a backlog item does not prove customer benefit.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "measure-outcome",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of measure outcome. How should success for a feature be framed?",
+      "answer": "As an observable user or business outcome rather than merely delivery of the feature.",
+      "explanation": "Completing a backlog item does not prove customer benefit.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "measure-outcome",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on measure outcome, consider the following: How should success for a feature be framed?",
+      "answer": "As an observable user or business outcome rather than merely delivery of the feature.",
+      "explanation": "Completing a backlog item does not prove customer benefit.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "measure-outcome",
+        "practice-5"
+      ]
+    },
+    {
+      "question": "How does one Product Backlog help multiple teams on the same product?",
+      "answer": "It makes one coherent ordering and product direction visible.",
+      "explanation": "Separate team priority lists risk conflicting decisions.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-coherence",
+        "practice-1"
+      ]
+    },
+    {
+      "question": "In a real Scrum setting, a colleague asks: How does one Product Backlog help multiple teams on the same product? Which answer would be most accurate?",
+      "answer": "It makes one coherent ordering and product direction visible.",
+      "explanation": "Separate team priority lists risk conflicting decisions.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-coherence",
+        "practice-2"
+      ]
+    },
+    {
+      "question": "While reviewing the topic of backlog coherence, how should a practitioner answer the question: How does one Product Backlog help multiple teams on the same product?",
+      "answer": "It makes one coherent ordering and product direction visible.",
+      "explanation": "Separate team priority lists risk conflicting decisions.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-coherence",
+        "practice-3"
+      ]
+    },
+    {
+      "question": "An organization wants to check its understanding of backlog coherence. How does one Product Backlog help multiple teams on the same product?",
+      "answer": "It makes one coherent ordering and product direction visible.",
+      "explanation": "Separate team priority lists risk conflicting decisions.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-coherence",
+        "practice-4"
+      ]
+    },
+    {
+      "question": "For an exam scenario focused on backlog coherence, consider the following: How does one Product Backlog help multiple teams on the same product?",
+      "answer": "It makes one coherent ordering and product direction visible.",
+      "explanation": "Separate team priority lists risk conflicting decisions.",
+      "language": "en",
+      "tags": [
+        "pspbm",
+        "backlog-coherence",
+        "practice-5"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "PL-900 Power Platform Fundamentals",
+  "cards": [
+    {
+      "question": "What does Power Platform overview mean in the context of PL900?",
+      "answer": "Microsoft Power Platform offers low-code tools for apps, automation, data analysis, websites, and agents.",
+      "explanation": "This is a foundational concept assessed in PL900. Combine Power Apps and Power Automate for a business approval solution.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-platform-overview",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Combine Power Apps and Power Automate for a business approval solution.",
+      "answer": "Power Platform overview",
+      "explanation": "Microsoft Power Platform offers low-code tools for apps, automation, data analysis, websites, and agents. This is why power Platform overview fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-platform-overview",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power Platform overview important when designing or operating a Microsoft solution?",
+      "answer": "Microsoft Power Platform offers low-code tools for apps, automation, data analysis, websites, and agents. Combine Power Apps and Power Automate for a business approval solution.",
+      "explanation": "Applying power Platform overview helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-platform-overview",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power Platform overview. Give one concrete use case and explain the underlying idea.",
+      "answer": "Combine Power Apps and Power Automate for a business approval solution. Microsoft Power Platform offers low-code tools for apps, automation, data analysis, websites, and agents.",
+      "explanation": "The use case demonstrates power Platform overview; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-platform-overview",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power Apps mean in the context of PL900?",
+      "answer": "Power Apps builds custom business applications with low-code experiences.",
+      "explanation": "This is a foundational concept assessed in PL900. Create a mobile app for field inspections.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-apps",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Create a mobile app for field inspections.",
+      "answer": "Power Apps",
+      "explanation": "Power Apps builds custom business applications with low-code experiences. This is why power Apps fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-apps",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power Apps important when designing or operating a Microsoft solution?",
+      "answer": "Power Apps builds custom business applications with low-code experiences. Create a mobile app for field inspections.",
+      "explanation": "Applying power Apps helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-apps",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power Apps. Give one concrete use case and explain the underlying idea.",
+      "answer": "Create a mobile app for field inspections. Power Apps builds custom business applications with low-code experiences.",
+      "explanation": "The use case demonstrates power Apps; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-apps",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Canvas apps mean in the context of PL900?",
+      "answer": "Canvas apps provide flexible UI design with screens and controls.",
+      "explanation": "This is a foundational concept assessed in PL900. Build a phone-first data-entry interface with a custom layout.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "canvas-apps",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Build a phone-first data-entry interface with a custom layout.",
+      "answer": "Canvas apps",
+      "explanation": "Canvas apps provide flexible UI design with screens and controls. This is why canvas apps fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "canvas-apps",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is canvas apps important when designing or operating a Microsoft solution?",
+      "answer": "Canvas apps provide flexible UI design with screens and controls. Build a phone-first data-entry interface with a custom layout.",
+      "explanation": "Applying canvas apps helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "canvas-apps",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing canvas apps. Give one concrete use case and explain the underlying idea.",
+      "answer": "Build a phone-first data-entry interface with a custom layout. Canvas apps provide flexible UI design with screens and controls.",
+      "explanation": "The use case demonstrates canvas apps; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "canvas-apps",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Model-driven apps mean in the context of PL900?",
+      "answer": "Model-driven apps derive a data-oriented UI from Dataverse tables, forms, and views.",
+      "explanation": "This is a foundational concept assessed in PL900. Create a case-management app with consistent relational records.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "model-driven-apps",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Create a case-management app with consistent relational records.",
+      "answer": "Model-driven apps",
+      "explanation": "Model-driven apps derive a data-oriented UI from Dataverse tables, forms, and views. This is why model-driven apps fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "model-driven-apps",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is model-driven apps important when designing or operating a Microsoft solution?",
+      "answer": "Model-driven apps derive a data-oriented UI from Dataverse tables, forms, and views. Create a case-management app with consistent relational records.",
+      "explanation": "Applying model-driven apps helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "model-driven-apps",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing model-driven apps. Give one concrete use case and explain the underlying idea.",
+      "answer": "Create a case-management app with consistent relational records. Model-driven apps derive a data-oriented UI from Dataverse tables, forms, and views.",
+      "explanation": "The use case demonstrates model-driven apps; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "model-driven-apps",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power Pages mean in the context of PL900?",
+      "answer": "Power Pages builds secure external-facing business websites.",
+      "explanation": "This is a foundational concept assessed in PL900. Allow customers to submit service requests through a portal.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-pages",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Allow customers to submit service requests through a portal.",
+      "answer": "Power Pages",
+      "explanation": "Power Pages builds secure external-facing business websites. This is why power Pages fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-pages",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power Pages important when designing or operating a Microsoft solution?",
+      "answer": "Power Pages builds secure external-facing business websites. Allow customers to submit service requests through a portal.",
+      "explanation": "Applying power Pages helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-pages",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power Pages. Give one concrete use case and explain the underlying idea.",
+      "answer": "Allow customers to submit service requests through a portal. Power Pages builds secure external-facing business websites.",
+      "explanation": "The use case demonstrates power Pages; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-pages",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power Automate mean in the context of PL900?",
+      "answer": "Power Automate automates workflows across apps and services.",
+      "explanation": "This is a foundational concept assessed in PL900. Send a notification after a SharePoint list item changes.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-automate",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Send a notification after a SharePoint list item changes.",
+      "answer": "Power Automate",
+      "explanation": "Power Automate automates workflows across apps and services. This is why power Automate fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-automate",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power Automate important when designing or operating a Microsoft solution?",
+      "answer": "Power Automate automates workflows across apps and services. Send a notification after a SharePoint list item changes.",
+      "explanation": "Applying power Automate helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-automate",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power Automate. Give one concrete use case and explain the underlying idea.",
+      "answer": "Send a notification after a SharePoint list item changes. Power Automate automates workflows across apps and services.",
+      "explanation": "The use case demonstrates power Automate; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-automate",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Cloud flows mean in the context of PL900?",
+      "answer": "Cloud flows automate processes through connectors and triggers in cloud services.",
+      "explanation": "This is a foundational concept assessed in PL900. Run a scheduled daily reminder workflow.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "cloud-flows",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Run a scheduled daily reminder workflow.",
+      "answer": "Cloud flows",
+      "explanation": "Cloud flows automate processes through connectors and triggers in cloud services. This is why cloud flows fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "cloud-flows",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is cloud flows important when designing or operating a Microsoft solution?",
+      "answer": "Cloud flows automate processes through connectors and triggers in cloud services. Run a scheduled daily reminder workflow.",
+      "explanation": "Applying cloud flows helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "cloud-flows",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing cloud flows. Give one concrete use case and explain the underlying idea.",
+      "answer": "Run a scheduled daily reminder workflow. Cloud flows automate processes through connectors and triggers in cloud services.",
+      "explanation": "The use case demonstrates cloud flows; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "cloud-flows",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Desktop flows mean in the context of PL900?",
+      "answer": "Desktop flows automate user-interface interactions on a computer.",
+      "explanation": "This is a foundational concept assessed in PL900. Automate data entry in a legacy application with no API.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "desktop-flows",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Automate data entry in a legacy application with no API.",
+      "answer": "Desktop flows",
+      "explanation": "Desktop flows automate user-interface interactions on a computer. This is why desktop flows fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "desktop-flows",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is desktop flows important when designing or operating a Microsoft solution?",
+      "answer": "Desktop flows automate user-interface interactions on a computer. Automate data entry in a legacy application with no API.",
+      "explanation": "Applying desktop flows helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "desktop-flows",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing desktop flows. Give one concrete use case and explain the underlying idea.",
+      "answer": "Automate data entry in a legacy application with no API. Desktop flows automate user-interface interactions on a computer.",
+      "explanation": "The use case demonstrates desktop flows; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "desktop-flows",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Automated flow trigger mean in the context of PL900?",
+      "answer": "An automated cloud flow starts when a specified event occurs.",
+      "explanation": "This is a foundational concept assessed in PL900. Start an approval when a new request is submitted.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "automated-flow-trigger",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Start an approval when a new request is submitted.",
+      "answer": "Automated flow trigger",
+      "explanation": "An automated cloud flow starts when a specified event occurs. This is why automated flow trigger fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "automated-flow-trigger",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is automated flow trigger important when designing or operating a Microsoft solution?",
+      "answer": "An automated cloud flow starts when a specified event occurs. Start an approval when a new request is submitted.",
+      "explanation": "Applying automated flow trigger helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "automated-flow-trigger",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing automated flow trigger. Give one concrete use case and explain the underlying idea.",
+      "answer": "Start an approval when a new request is submitted. An automated cloud flow starts when a specified event occurs.",
+      "explanation": "The use case demonstrates automated flow trigger; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "automated-flow-trigger",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Instant flow mean in the context of PL900?",
+      "answer": "An instant cloud flow starts through a user-triggered action.",
+      "explanation": "This is a foundational concept assessed in PL900. Let a user press a button to launch a workflow.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "instant-flow",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Let a user press a button to launch a workflow.",
+      "answer": "Instant flow",
+      "explanation": "An instant cloud flow starts through a user-triggered action. This is why instant flow fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "instant-flow",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is instant flow important when designing or operating a Microsoft solution?",
+      "answer": "An instant cloud flow starts through a user-triggered action. Let a user press a button to launch a workflow.",
+      "explanation": "Applying instant flow helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "instant-flow",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing instant flow. Give one concrete use case and explain the underlying idea.",
+      "answer": "Let a user press a button to launch a workflow. An instant cloud flow starts through a user-triggered action.",
+      "explanation": "The use case demonstrates instant flow; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "instant-flow",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Scheduled flow mean in the context of PL900?",
+      "answer": "A scheduled cloud flow runs according to a defined recurrence.",
+      "explanation": "This is a foundational concept assessed in PL900. Generate a weekly report every Monday.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "scheduled-flow",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Generate a weekly report every Monday.",
+      "answer": "Scheduled flow",
+      "explanation": "A scheduled cloud flow runs according to a defined recurrence. This is why scheduled flow fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "scheduled-flow",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is scheduled flow important when designing or operating a Microsoft solution?",
+      "answer": "A scheduled cloud flow runs according to a defined recurrence. Generate a weekly report every Monday.",
+      "explanation": "Applying scheduled flow helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "scheduled-flow",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing scheduled flow. Give one concrete use case and explain the underlying idea.",
+      "answer": "Generate a weekly report every Monday. A scheduled cloud flow runs according to a defined recurrence.",
+      "explanation": "The use case demonstrates scheduled flow; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "scheduled-flow",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Approval flows mean in the context of PL900?",
+      "answer": "Approval actions route a decision to an authorized person.",
+      "explanation": "This is a foundational concept assessed in PL900. Require a manager to approve an expense request.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "approval-flows",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Require a manager to approve an expense request.",
+      "answer": "Approval flows",
+      "explanation": "Approval actions route a decision to an authorized person. This is why approval flows fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "approval-flows",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is approval flows important when designing or operating a Microsoft solution?",
+      "answer": "Approval actions route a decision to an authorized person. Require a manager to approve an expense request.",
+      "explanation": "Applying approval flows helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "approval-flows",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing approval flows. Give one concrete use case and explain the underlying idea.",
+      "answer": "Require a manager to approve an expense request. Approval actions route a decision to an authorized person.",
+      "explanation": "The use case demonstrates approval flows; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "approval-flows",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Connectors mean in the context of PL900?",
+      "answer": "Connectors expose supported service actions and triggers to Power Platform components.",
+      "explanation": "This is a foundational concept assessed in PL900. Read SharePoint data from a Power Apps screen.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "connectors",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Read SharePoint data from a Power Apps screen.",
+      "answer": "Connectors",
+      "explanation": "Connectors expose supported service actions and triggers to Power Platform components. This is why connectors fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "connectors",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is connectors important when designing or operating a Microsoft solution?",
+      "answer": "Connectors expose supported service actions and triggers to Power Platform components. Read SharePoint data from a Power Apps screen.",
+      "explanation": "Applying connectors helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "connectors",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing connectors. Give one concrete use case and explain the underlying idea.",
+      "answer": "Read SharePoint data from a Power Apps screen. Connectors expose supported service actions and triggers to Power Platform components.",
+      "explanation": "The use case demonstrates connectors; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "connectors",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Custom connectors mean in the context of PL900?",
+      "answer": "Custom connectors integrate APIs not covered by standard connectors.",
+      "explanation": "This is a foundational concept assessed in PL900. Call an organization's internal REST API from a cloud flow.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "custom-connectors",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Call an organization's internal REST API from a cloud flow.",
+      "answer": "Custom connectors",
+      "explanation": "Custom connectors integrate APIs not covered by standard connectors. This is why custom connectors fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "custom-connectors",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is custom connectors important when designing or operating a Microsoft solution?",
+      "answer": "Custom connectors integrate APIs not covered by standard connectors. Call an organization's internal REST API from a cloud flow.",
+      "explanation": "Applying custom connectors helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "custom-connectors",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing custom connectors. Give one concrete use case and explain the underlying idea.",
+      "answer": "Call an organization's internal REST API from a cloud flow. Custom connectors integrate APIs not covered by standard connectors.",
+      "explanation": "The use case demonstrates custom connectors; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "custom-connectors",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Microsoft Dataverse mean in the context of PL900?",
+      "answer": "Dataverse is a managed data platform with tables, relationships, and security for business applications.",
+      "explanation": "This is a foundational concept assessed in PL900. Store customers and related service cases for a model-driven app.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "microsoft-dataverse",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Store customers and related service cases for a model-driven app.",
+      "answer": "Microsoft Dataverse",
+      "explanation": "Dataverse is a managed data platform with tables, relationships, and security for business applications. This is why microsoft Dataverse fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "microsoft-dataverse",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is microsoft Dataverse important when designing or operating a Microsoft solution?",
+      "answer": "Dataverse is a managed data platform with tables, relationships, and security for business applications. Store customers and related service cases for a model-driven app.",
+      "explanation": "Applying microsoft Dataverse helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "microsoft-dataverse",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing microsoft Dataverse. Give one concrete use case and explain the underlying idea.",
+      "answer": "Store customers and related service cases for a model-driven app. Dataverse is a managed data platform with tables, relationships, and security for business applications.",
+      "explanation": "The use case demonstrates microsoft Dataverse; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "microsoft-dataverse",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Dataverse tables mean in the context of PL900?",
+      "answer": "Tables represent business entities and their columns and rows.",
+      "explanation": "This is a foundational concept assessed in PL900. Define an Asset table with status and owner fields.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-tables",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Define an Asset table with status and owner fields.",
+      "answer": "Dataverse tables",
+      "explanation": "Tables represent business entities and their columns and rows. This is why dataverse tables fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-tables",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is dataverse tables important when designing or operating a Microsoft solution?",
+      "answer": "Tables represent business entities and their columns and rows. Define an Asset table with status and owner fields.",
+      "explanation": "Applying dataverse tables helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-tables",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing dataverse tables. Give one concrete use case and explain the underlying idea.",
+      "answer": "Define an Asset table with status and owner fields. Tables represent business entities and their columns and rows.",
+      "explanation": "The use case demonstrates dataverse tables; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-tables",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Dataverse relationships mean in the context of PL900?",
+      "answer": "Relationships connect records across tables.",
+      "explanation": "This is a foundational concept assessed in PL900. Link many service tickets to one customer.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-relationships",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Link many service tickets to one customer.",
+      "answer": "Dataverse relationships",
+      "explanation": "Relationships connect records across tables. This is why dataverse relationships fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-relationships",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is dataverse relationships important when designing or operating a Microsoft solution?",
+      "answer": "Relationships connect records across tables. Link many service tickets to one customer.",
+      "explanation": "Applying dataverse relationships helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-relationships",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing dataverse relationships. Give one concrete use case and explain the underlying idea.",
+      "answer": "Link many service tickets to one customer. Relationships connect records across tables.",
+      "explanation": "The use case demonstrates dataverse relationships; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-relationships",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Dataverse security roles mean in the context of PL900?",
+      "answer": "Security roles determine operations users can perform on Dataverse data.",
+      "explanation": "This is a foundational concept assessed in PL900. Grant sales agents read access without deletion privileges.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-security-roles",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Grant sales agents read access without deletion privileges.",
+      "answer": "Dataverse security roles",
+      "explanation": "Security roles determine operations users can perform on Dataverse data. This is why dataverse security roles fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-security-roles",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is dataverse security roles important when designing or operating a Microsoft solution?",
+      "answer": "Security roles determine operations users can perform on Dataverse data. Grant sales agents read access without deletion privileges.",
+      "explanation": "Applying dataverse security roles helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-security-roles",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing dataverse security roles. Give one concrete use case and explain the underlying idea.",
+      "answer": "Grant sales agents read access without deletion privileges. Security roles determine operations users can perform on Dataverse data.",
+      "explanation": "The use case demonstrates dataverse security roles; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "dataverse-security-roles",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Business rules mean in the context of PL900?",
+      "answer": "Business rules apply declarative validation and behavior to supported table forms.",
+      "explanation": "This is a foundational concept assessed in PL900. Require a justification when a request reaches a particular status.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-rules",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Require a justification when a request reaches a particular status.",
+      "answer": "Business rules",
+      "explanation": "Business rules apply declarative validation and behavior to supported table forms. This is why business rules fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-rules",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is business rules important when designing or operating a Microsoft solution?",
+      "answer": "Business rules apply declarative validation and behavior to supported table forms. Require a justification when a request reaches a particular status.",
+      "explanation": "Applying business rules helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-rules",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing business rules. Give one concrete use case and explain the underlying idea.",
+      "answer": "Require a justification when a request reaches a particular status. Business rules apply declarative validation and behavior to supported table forms.",
+      "explanation": "The use case demonstrates business rules; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-rules",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power Fx mean in the context of PL900?",
+      "answer": "Power Fx is a formula language used for app logic and data operations.",
+      "explanation": "This is a foundational concept assessed in PL900. Calculate a displayed value in a canvas app.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-fx",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Calculate a displayed value in a canvas app.",
+      "answer": "Power Fx",
+      "explanation": "Power Fx is a formula language used for app logic and data operations. This is why power Fx fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-fx",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power Fx important when designing or operating a Microsoft solution?",
+      "answer": "Power Fx is a formula language used for app logic and data operations. Calculate a displayed value in a canvas app.",
+      "explanation": "Applying power Fx helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-fx",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power Fx. Give one concrete use case and explain the underlying idea.",
+      "answer": "Calculate a displayed value in a canvas app. Power Fx is a formula language used for app logic and data operations.",
+      "explanation": "The use case demonstrates power Fx; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-fx",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Delegation mean in the context of PL900?",
+      "answer": "Delegation allows supported query operations to run at the data source instead of downloading all rows.",
+      "explanation": "This is a foundational concept assessed in PL900. Filter a large Dataverse table using delegable expressions.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "delegation",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Filter a large Dataverse table using delegable expressions.",
+      "answer": "Delegation",
+      "explanation": "Delegation allows supported query operations to run at the data source instead of downloading all rows. This is why delegation fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "delegation",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is delegation important when designing or operating a Microsoft solution?",
+      "answer": "Delegation allows supported query operations to run at the data source instead of downloading all rows. Filter a large Dataverse table using delegable expressions.",
+      "explanation": "Applying delegation helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "delegation",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing delegation. Give one concrete use case and explain the underlying idea.",
+      "answer": "Filter a large Dataverse table using delegable expressions. Delegation allows supported query operations to run at the data source instead of downloading all rows.",
+      "explanation": "The use case demonstrates delegation; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "delegation",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Environments mean in the context of PL900?",
+      "answer": "Environments separate Power Platform resources, users, and data into managed boundaries.",
+      "explanation": "This is a foundational concept assessed in PL900. Keep development resources separate from production.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "environments",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Keep development resources separate from production.",
+      "answer": "Environments",
+      "explanation": "Environments separate Power Platform resources, users, and data into managed boundaries. This is why environments fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "environments",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is environments important when designing or operating a Microsoft solution?",
+      "answer": "Environments separate Power Platform resources, users, and data into managed boundaries. Keep development resources separate from production.",
+      "explanation": "Applying environments helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "environments",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing environments. Give one concrete use case and explain the underlying idea.",
+      "answer": "Keep development resources separate from production. Environments separate Power Platform resources, users, and data into managed boundaries.",
+      "explanation": "The use case demonstrates environments; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "environments",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Solutions mean in the context of PL900?",
+      "answer": "Solutions package app and automation components for application lifecycle management.",
+      "explanation": "This is a foundational concept assessed in PL900. Move an app and its dependent components between environments.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "solutions",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Move an app and its dependent components between environments.",
+      "answer": "Solutions",
+      "explanation": "Solutions package app and automation components for application lifecycle management. This is why solutions fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "solutions",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is solutions important when designing or operating a Microsoft solution?",
+      "answer": "Solutions package app and automation components for application lifecycle management. Move an app and its dependent components between environments.",
+      "explanation": "Applying solutions helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "solutions",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing solutions. Give one concrete use case and explain the underlying idea.",
+      "answer": "Move an app and its dependent components between environments. Solutions package app and automation components for application lifecycle management.",
+      "explanation": "The use case demonstrates solutions; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "solutions",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Managed solutions mean in the context of PL900?",
+      "answer": "Managed solutions are intended for controlled deployment in downstream environments.",
+      "explanation": "This is a foundational concept assessed in PL900. Deploy a tested solution to production without direct customization.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "managed-solutions",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Deploy a tested solution to production without direct customization.",
+      "answer": "Managed solutions",
+      "explanation": "Managed solutions are intended for controlled deployment in downstream environments. This is why managed solutions fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "managed-solutions",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is managed solutions important when designing or operating a Microsoft solution?",
+      "answer": "Managed solutions are intended for controlled deployment in downstream environments. Deploy a tested solution to production without direct customization.",
+      "explanation": "Applying managed solutions helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "managed-solutions",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing managed solutions. Give one concrete use case and explain the underlying idea.",
+      "answer": "Deploy a tested solution to production without direct customization. Managed solutions are intended for controlled deployment in downstream environments.",
+      "explanation": "The use case demonstrates managed solutions; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "managed-solutions",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Data loss prevention policies mean in the context of PL900?",
+      "answer": "Power Platform DLP policies govern which connectors can be used together.",
+      "explanation": "This is a foundational concept assessed in PL900. Prevent business data from being sent to disallowed consumer connectors.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "data-loss-prevention-policies",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Prevent business data from being sent to disallowed consumer connectors.",
+      "answer": "Data loss prevention policies",
+      "explanation": "Power Platform DLP policies govern which connectors can be used together. This is why data loss prevention policies fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "data-loss-prevention-policies",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is data loss prevention policies important when designing or operating a Microsoft solution?",
+      "answer": "Power Platform DLP policies govern which connectors can be used together. Prevent business data from being sent to disallowed consumer connectors.",
+      "explanation": "Applying data loss prevention policies helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "data-loss-prevention-policies",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing data loss prevention policies. Give one concrete use case and explain the underlying idea.",
+      "answer": "Prevent business data from being sent to disallowed consumer connectors. Power Platform DLP policies govern which connectors can be used together.",
+      "explanation": "The use case demonstrates data loss prevention policies; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "data-loss-prevention-policies",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power Platform admin center mean in the context of PL900?",
+      "answer": "The Power Platform admin center provides administration of environments, governance, and resources.",
+      "explanation": "This is a foundational concept assessed in PL900. Review environment settings and capacity.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-platform-admin-center",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Review environment settings and capacity.",
+      "answer": "Power Platform admin center",
+      "explanation": "The Power Platform admin center provides administration of environments, governance, and resources. This is why power Platform admin center fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-platform-admin-center",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power Platform admin center important when designing or operating a Microsoft solution?",
+      "answer": "The Power Platform admin center provides administration of environments, governance, and resources. Review environment settings and capacity.",
+      "explanation": "Applying power Platform admin center helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-platform-admin-center",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power Platform admin center. Give one concrete use case and explain the underlying idea.",
+      "answer": "Review environment settings and capacity. The Power Platform admin center provides administration of environments, governance, and resources.",
+      "explanation": "The use case demonstrates power Platform admin center; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-platform-admin-center",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power BI mean in the context of PL900?",
+      "answer": "Power BI connects to data and creates analytics reports and dashboards.",
+      "explanation": "This is a foundational concept assessed in PL900. Visualize operational KPIs for managers.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Visualize operational KPIs for managers.",
+      "answer": "Power BI",
+      "explanation": "Power BI connects to data and creates analytics reports and dashboards. This is why power BI fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power BI important when designing or operating a Microsoft solution?",
+      "answer": "Power BI connects to data and creates analytics reports and dashboards. Visualize operational KPIs for managers.",
+      "explanation": "Applying power BI helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power BI. Give one concrete use case and explain the underlying idea.",
+      "answer": "Visualize operational KPIs for managers. Power BI connects to data and creates analytics reports and dashboards.",
+      "explanation": "The use case demonstrates power BI; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power BI reports mean in the context of PL900?",
+      "answer": "Power BI reports contain one or more interactive pages of visuals built from data models.",
+      "explanation": "This is a foundational concept assessed in PL900. Analyze performance by date and region.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi-reports",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Analyze performance by date and region.",
+      "answer": "Power BI reports",
+      "explanation": "Power BI reports contain one or more interactive pages of visuals built from data models. This is why power BI reports fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi-reports",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power BI reports important when designing or operating a Microsoft solution?",
+      "answer": "Power BI reports contain one or more interactive pages of visuals built from data models. Analyze performance by date and region.",
+      "explanation": "Applying power BI reports helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi-reports",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power BI reports. Give one concrete use case and explain the underlying idea.",
+      "answer": "Analyze performance by date and region. Power BI reports contain one or more interactive pages of visuals built from data models.",
+      "explanation": "The use case demonstrates power BI reports; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi-reports",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power BI dashboards mean in the context of PL900?",
+      "answer": "Power BI dashboards provide a single-page overview made from pinned tiles in the service.",
+      "explanation": "This is a foundational concept assessed in PL900. Create an executive KPI overview.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi-dashboards",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Create an executive KPI overview.",
+      "answer": "Power BI dashboards",
+      "explanation": "Power BI dashboards provide a single-page overview made from pinned tiles in the service. This is why power BI dashboards fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi-dashboards",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power BI dashboards important when designing or operating a Microsoft solution?",
+      "answer": "Power BI dashboards provide a single-page overview made from pinned tiles in the service. Create an executive KPI overview.",
+      "explanation": "Applying power BI dashboards helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi-dashboards",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power BI dashboards. Give one concrete use case and explain the underlying idea.",
+      "answer": "Create an executive KPI overview. Power BI dashboards provide a single-page overview made from pinned tiles in the service.",
+      "explanation": "The use case demonstrates power BI dashboards; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-bi-dashboards",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Copilot Studio mean in the context of PL900?",
+      "answer": "Copilot Studio builds and manages conversational and generative agents.",
+      "explanation": "This is a foundational concept assessed in PL900. Create an employee FAQ assistant grounded in internal content.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "copilot-studio",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Create an employee FAQ assistant grounded in internal content.",
+      "answer": "Copilot Studio",
+      "explanation": "Copilot Studio builds and manages conversational and generative agents. This is why copilot Studio fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "copilot-studio",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is copilot Studio important when designing or operating a Microsoft solution?",
+      "answer": "Copilot Studio builds and manages conversational and generative agents. Create an employee FAQ assistant grounded in internal content.",
+      "explanation": "Applying copilot Studio helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "copilot-studio",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing copilot Studio. Give one concrete use case and explain the underlying idea.",
+      "answer": "Create an employee FAQ assistant grounded in internal content. Copilot Studio builds and manages conversational and generative agents.",
+      "explanation": "The use case demonstrates copilot Studio; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "copilot-studio",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Agent knowledge sources mean in the context of PL900?",
+      "answer": "Knowledge sources provide information that Copilot Studio agents can use in their responses.",
+      "explanation": "This is a foundational concept assessed in PL900. Connect an approved FAQ repository to an agent.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-knowledge-sources",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Connect an approved FAQ repository to an agent.",
+      "answer": "Agent knowledge sources",
+      "explanation": "Knowledge sources provide information that Copilot Studio agents can use in their responses. This is why agent knowledge sources fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-knowledge-sources",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is agent knowledge sources important when designing or operating a Microsoft solution?",
+      "answer": "Knowledge sources provide information that Copilot Studio agents can use in their responses. Connect an approved FAQ repository to an agent.",
+      "explanation": "Applying agent knowledge sources helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-knowledge-sources",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing agent knowledge sources. Give one concrete use case and explain the underlying idea.",
+      "answer": "Connect an approved FAQ repository to an agent. Knowledge sources provide information that Copilot Studio agents can use in their responses.",
+      "explanation": "The use case demonstrates agent knowledge sources; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-knowledge-sources",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Agent topics mean in the context of PL900?",
+      "answer": "Topics organize defined conversation paths and triggers.",
+      "explanation": "This is a foundational concept assessed in PL900. Guide a user through a structured support intake.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-topics",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Guide a user through a structured support intake.",
+      "answer": "Agent topics",
+      "explanation": "Topics organize defined conversation paths and triggers. This is why agent topics fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-topics",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is agent topics important when designing or operating a Microsoft solution?",
+      "answer": "Topics organize defined conversation paths and triggers. Guide a user through a structured support intake.",
+      "explanation": "Applying agent topics helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-topics",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing agent topics. Give one concrete use case and explain the underlying idea.",
+      "answer": "Guide a user through a structured support intake. Topics organize defined conversation paths and triggers.",
+      "explanation": "The use case demonstrates agent topics; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-topics",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Agent actions mean in the context of PL900?",
+      "answer": "Actions let an agent invoke approved workflows, APIs, and tools.",
+      "explanation": "This is a foundational concept assessed in PL900. Enable an agent to look up an order status.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-actions",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Enable an agent to look up an order status.",
+      "answer": "Agent actions",
+      "explanation": "Actions let an agent invoke approved workflows, APIs, and tools. This is why agent actions fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-actions",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is agent actions important when designing or operating a Microsoft solution?",
+      "answer": "Actions let an agent invoke approved workflows, APIs, and tools. Enable an agent to look up an order status.",
+      "explanation": "Applying agent actions helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-actions",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing agent actions. Give one concrete use case and explain the underlying idea.",
+      "answer": "Enable an agent to look up an order status. Actions let an agent invoke approved workflows, APIs, and tools.",
+      "explanation": "The use case demonstrates agent actions; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "agent-actions",
+        "application"
+      ]
+    },
+    {
+      "question": "What does AI Builder mean in the context of PL900?",
+      "answer": "AI Builder offers AI capabilities integrated into Power Platform scenarios.",
+      "explanation": "This is a foundational concept assessed in PL900. Extract information from invoices in a workflow.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "ai-builder",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Extract information from invoices in a workflow.",
+      "answer": "AI Builder",
+      "explanation": "AI Builder offers AI capabilities integrated into Power Platform scenarios. This is why aI Builder fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "ai-builder",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is aI Builder important when designing or operating a Microsoft solution?",
+      "answer": "AI Builder offers AI capabilities integrated into Power Platform scenarios. Extract information from invoices in a workflow.",
+      "explanation": "Applying aI Builder helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "ai-builder",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing aI Builder. Give one concrete use case and explain the underlying idea.",
+      "answer": "Extract information from invoices in a workflow. AI Builder offers AI capabilities integrated into Power Platform scenarios.",
+      "explanation": "The use case demonstrates aI Builder; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "ai-builder",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Document processing mean in the context of PL900?",
+      "answer": "Document processing extracts structured data from forms and files.",
+      "explanation": "This is a foundational concept assessed in PL900. Read invoice fields and route uncertain values to review.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "document-processing",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Read invoice fields and route uncertain values to review.",
+      "answer": "Document processing",
+      "explanation": "Document processing extracts structured data from forms and files. This is why document processing fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "document-processing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is document processing important when designing or operating a Microsoft solution?",
+      "answer": "Document processing extracts structured data from forms and files. Read invoice fields and route uncertain values to review.",
+      "explanation": "Applying document processing helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "document-processing",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing document processing. Give one concrete use case and explain the underlying idea.",
+      "answer": "Read invoice fields and route uncertain values to review. Document processing extracts structured data from forms and files.",
+      "explanation": "The use case demonstrates document processing; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "document-processing",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Copilot capabilities mean in the context of PL900?",
+      "answer": "Copilot features assist makers with building or using Power Platform solutions through natural language.",
+      "explanation": "This is a foundational concept assessed in PL900. Describe a desired app to start a prototype, then validate its logic.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "copilot-capabilities",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Describe a desired app to start a prototype, then validate its logic.",
+      "answer": "Copilot capabilities",
+      "explanation": "Copilot features assist makers with building or using Power Platform solutions through natural language. This is why copilot capabilities fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "copilot-capabilities",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is copilot capabilities important when designing or operating a Microsoft solution?",
+      "answer": "Copilot features assist makers with building or using Power Platform solutions through natural language. Describe a desired app to start a prototype, then validate its logic.",
+      "explanation": "Applying copilot capabilities helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "copilot-capabilities",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing copilot capabilities. Give one concrete use case and explain the underlying idea.",
+      "answer": "Describe a desired app to start a prototype, then validate its logic. Copilot features assist makers with building or using Power Platform solutions through natural language.",
+      "explanation": "The use case demonstrates copilot capabilities; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "copilot-capabilities",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Licensing concepts mean in the context of PL900?",
+      "answer": "Power Platform license requirements depend on products, capabilities, users, and connector use.",
+      "explanation": "This is a foundational concept assessed in PL900. Check licensing before rolling out a premium-connector workflow.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "licensing-concepts",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Check licensing before rolling out a premium-connector workflow.",
+      "answer": "Licensing concepts",
+      "explanation": "Power Platform license requirements depend on products, capabilities, users, and connector use. This is why licensing concepts fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "licensing-concepts",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is licensing concepts important when designing or operating a Microsoft solution?",
+      "answer": "Power Platform license requirements depend on products, capabilities, users, and connector use. Check licensing before rolling out a premium-connector workflow.",
+      "explanation": "Applying licensing concepts helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "licensing-concepts",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing licensing concepts. Give one concrete use case and explain the underlying idea.",
+      "answer": "Check licensing before rolling out a premium-connector workflow. Power Platform license requirements depend on products, capabilities, users, and connector use.",
+      "explanation": "The use case demonstrates licensing concepts; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "licensing-concepts",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Premium connectors mean in the context of PL900?",
+      "answer": "Premium connectors may require additional licensing compared with standard capabilities.",
+      "explanation": "This is a foundational concept assessed in PL900. Review license needs when integrating a premium SaaS platform.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "premium-connectors",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Review license needs when integrating a premium SaaS platform.",
+      "answer": "Premium connectors",
+      "explanation": "Premium connectors may require additional licensing compared with standard capabilities. This is why premium connectors fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "premium-connectors",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is premium connectors important when designing or operating a Microsoft solution?",
+      "answer": "Premium connectors may require additional licensing compared with standard capabilities. Review license needs when integrating a premium SaaS platform.",
+      "explanation": "Applying premium connectors helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "premium-connectors",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing premium connectors. Give one concrete use case and explain the underlying idea.",
+      "answer": "Review license needs when integrating a premium SaaS platform. Premium connectors may require additional licensing compared with standard capabilities.",
+      "explanation": "The use case demonstrates premium connectors; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "premium-connectors",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Sharing canvas apps mean in the context of PL900?",
+      "answer": "Sharing an app grants selected users access, subject to permissions and data-source access.",
+      "explanation": "This is a foundational concept assessed in PL900. Share an inspection app with the relevant department.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "sharing-canvas-apps",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Share an inspection app with the relevant department.",
+      "answer": "Sharing canvas apps",
+      "explanation": "Sharing an app grants selected users access, subject to permissions and data-source access. This is why sharing canvas apps fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "sharing-canvas-apps",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is sharing canvas apps important when designing or operating a Microsoft solution?",
+      "answer": "Sharing an app grants selected users access, subject to permissions and data-source access. Share an inspection app with the relevant department.",
+      "explanation": "Applying sharing canvas apps helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "sharing-canvas-apps",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing sharing canvas apps. Give one concrete use case and explain the underlying idea.",
+      "answer": "Share an inspection app with the relevant department. Sharing an app grants selected users access, subject to permissions and data-source access.",
+      "explanation": "The use case demonstrates sharing canvas apps; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "sharing-canvas-apps",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power Apps mobile mean in the context of PL900?",
+      "answer": "Power Apps mobile runs supported business apps on phones and tablets.",
+      "explanation": "This is a foundational concept assessed in PL900. Allow technicians to submit reports from the field.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-apps-mobile",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Allow technicians to submit reports from the field.",
+      "answer": "Power Apps mobile",
+      "explanation": "Power Apps mobile runs supported business apps on phones and tablets. This is why power Apps mobile fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-apps-mobile",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power Apps mobile important when designing or operating a Microsoft solution?",
+      "answer": "Power Apps mobile runs supported business apps on phones and tablets. Allow technicians to submit reports from the field.",
+      "explanation": "Applying power Apps mobile helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-apps-mobile",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power Apps mobile. Give one concrete use case and explain the underlying idea.",
+      "answer": "Allow technicians to submit reports from the field. Power Apps mobile runs supported business apps on phones and tablets.",
+      "explanation": "The use case demonstrates power Apps mobile; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-apps-mobile",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Business process flows mean in the context of PL900?",
+      "answer": "Business process flows guide users through standardized stages in supported apps.",
+      "explanation": "This is a foundational concept assessed in PL900. Guide a sales opportunity from qualification to closure.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-process-flows",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Guide a sales opportunity from qualification to closure.",
+      "answer": "Business process flows",
+      "explanation": "Business process flows guide users through standardized stages in supported apps. This is why business process flows fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-process-flows",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is business process flows important when designing or operating a Microsoft solution?",
+      "answer": "Business process flows guide users through standardized stages in supported apps. Guide a sales opportunity from qualification to closure.",
+      "explanation": "Applying business process flows helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-process-flows",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing business process flows. Give one concrete use case and explain the underlying idea.",
+      "answer": "Guide a sales opportunity from qualification to closure. Business process flows guide users through standardized stages in supported apps.",
+      "explanation": "The use case demonstrates business process flows; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-process-flows",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power Automate error handling mean in the context of PL900?",
+      "answer": "Flow error handling uses conditions and run-after configurations to respond to failures.",
+      "explanation": "This is a foundational concept assessed in PL900. Notify an owner if a critical connector action fails.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-automate-error-handling",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Notify an owner if a critical connector action fails.",
+      "answer": "Power Automate error handling",
+      "explanation": "Flow error handling uses conditions and run-after configurations to respond to failures. This is why power Automate error handling fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-automate-error-handling",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power Automate error handling important when designing or operating a Microsoft solution?",
+      "answer": "Flow error handling uses conditions and run-after configurations to respond to failures. Notify an owner if a critical connector action fails.",
+      "explanation": "Applying power Automate error handling helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-automate-error-handling",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power Automate error handling. Give one concrete use case and explain the underlying idea.",
+      "answer": "Notify an owner if a critical connector action fails. Flow error handling uses conditions and run-after configurations to respond to failures.",
+      "explanation": "The use case demonstrates power Automate error handling; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-automate-error-handling",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Flow run history mean in the context of PL900?",
+      "answer": "Run history provides execution information for diagnosing cloud-flow behavior.",
+      "explanation": "This is a foundational concept assessed in PL900. Inspect a failed approval flow and identify the step that errored.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "flow-run-history",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Inspect a failed approval flow and identify the step that errored.",
+      "answer": "Flow run history",
+      "explanation": "Run history provides execution information for diagnosing cloud-flow behavior. This is why flow run history fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "flow-run-history",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is flow run history important when designing or operating a Microsoft solution?",
+      "answer": "Run history provides execution information for diagnosing cloud-flow behavior. Inspect a failed approval flow and identify the step that errored.",
+      "explanation": "Applying flow run history helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "flow-run-history",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing flow run history. Give one concrete use case and explain the underlying idea.",
+      "answer": "Inspect a failed approval flow and identify the step that errored. Run history provides execution information for diagnosing cloud-flow behavior.",
+      "explanation": "The use case demonstrates flow run history; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "flow-run-history",
+        "application"
+      ]
+    },
+    {
+      "question": "What does On-premises data gateway mean in the context of PL900?",
+      "answer": "An on-premises data gateway lets supported cloud services access on-premises data securely.",
+      "explanation": "This is a foundational concept assessed in PL900. Connect a Power BI dataset to an internal SQL Server.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "on-premises-data-gateway",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Connect a Power BI dataset to an internal SQL Server.",
+      "answer": "On-premises data gateway",
+      "explanation": "An on-premises data gateway lets supported cloud services access on-premises data securely. This is why on-premises data gateway fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "on-premises-data-gateway",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is on-premises data gateway important when designing or operating a Microsoft solution?",
+      "answer": "An on-premises data gateway lets supported cloud services access on-premises data securely. Connect a Power BI dataset to an internal SQL Server.",
+      "explanation": "Applying on-premises data gateway helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "on-premises-data-gateway",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing on-premises data gateway. Give one concrete use case and explain the underlying idea.",
+      "answer": "Connect a Power BI dataset to an internal SQL Server. An on-premises data gateway lets supported cloud services access on-premises data securely.",
+      "explanation": "The use case demonstrates on-premises data gateway; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "on-premises-data-gateway",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Power Pages authentication mean in the context of PL900?",
+      "answer": "Power Pages can authenticate external users and apply site access controls.",
+      "explanation": "This is a foundational concept assessed in PL900. Restrict account information to signed-in portal users.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-pages-authentication",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Restrict account information to signed-in portal users.",
+      "answer": "Power Pages authentication",
+      "explanation": "Power Pages can authenticate external users and apply site access controls. This is why power Pages authentication fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-pages-authentication",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is power Pages authentication important when designing or operating a Microsoft solution?",
+      "answer": "Power Pages can authenticate external users and apply site access controls. Restrict account information to signed-in portal users.",
+      "explanation": "Applying power Pages authentication helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-pages-authentication",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing power Pages authentication. Give one concrete use case and explain the underlying idea.",
+      "answer": "Restrict account information to signed-in portal users. Power Pages can authenticate external users and apply site access controls.",
+      "explanation": "The use case demonstrates power Pages authentication; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "power-pages-authentication",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Role-based app access mean in the context of PL900?",
+      "answer": "Role-based access limits application actions to authorized people.",
+      "explanation": "This is a foundational concept assessed in PL900. Restrict administrative forms to a designated role.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "role-based-app-access",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Restrict administrative forms to a designated role.",
+      "answer": "Role-based app access",
+      "explanation": "Role-based access limits application actions to authorized people. This is why role-based app access fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "role-based-app-access",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is role-based app access important when designing or operating a Microsoft solution?",
+      "answer": "Role-based access limits application actions to authorized people. Restrict administrative forms to a designated role.",
+      "explanation": "Applying role-based app access helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "role-based-app-access",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing role-based app access. Give one concrete use case and explain the underlying idea.",
+      "answer": "Restrict administrative forms to a designated role. Role-based access limits application actions to authorized people.",
+      "explanation": "The use case demonstrates role-based app access; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "role-based-app-access",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Low-code governance mean in the context of PL900?",
+      "answer": "Low-code governance defines ownership, security, environments, and deployment rules.",
+      "explanation": "This is a foundational concept assessed in PL900. Use environment policies to reduce shadow IT risks.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "low-code-governance",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Use environment policies to reduce shadow IT risks.",
+      "answer": "Low-code governance",
+      "explanation": "Low-code governance defines ownership, security, environments, and deployment rules. This is why low-code governance fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "low-code-governance",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is low-code governance important when designing or operating a Microsoft solution?",
+      "answer": "Low-code governance defines ownership, security, environments, and deployment rules. Use environment policies to reduce shadow IT risks.",
+      "explanation": "Applying low-code governance helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "low-code-governance",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing low-code governance. Give one concrete use case and explain the underlying idea.",
+      "answer": "Use environment policies to reduce shadow IT risks. Low-code governance defines ownership, security, environments, and deployment rules.",
+      "explanation": "The use case demonstrates low-code governance; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "low-code-governance",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Business value of automation mean in the context of PL900?",
+      "answer": "Automation reduces repetitive work while requiring controls and monitoring.",
+      "explanation": "This is a foundational concept assessed in PL900. Automate routine routing but keep human review for high-impact decisions.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-value-of-automation",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Automate routine routing but keep human review for high-impact decisions.",
+      "answer": "Business value of automation",
+      "explanation": "Automation reduces repetitive work while requiring controls and monitoring. This is why business value of automation fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-value-of-automation",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is business value of automation important when designing or operating a Microsoft solution?",
+      "answer": "Automation reduces repetitive work while requiring controls and monitoring. Automate routine routing but keep human review for high-impact decisions.",
+      "explanation": "Applying business value of automation helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-value-of-automation",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing business value of automation. Give one concrete use case and explain the underlying idea.",
+      "answer": "Automate routine routing but keep human review for high-impact decisions. Automation reduces repetitive work while requiring controls and monitoring.",
+      "explanation": "The use case demonstrates business value of automation; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-value-of-automation",
+        "application"
+      ]
+    },
+    {
+      "question": "What does App lifecycle management mean in the context of PL900?",
+      "answer": "Application lifecycle management covers development, testing, deployment, and maintenance of solutions.",
+      "explanation": "This is a foundational concept assessed in PL900. Promote tested components from development through production.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "app-lifecycle-management",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Promote tested components from development through production.",
+      "answer": "App lifecycle management",
+      "explanation": "Application lifecycle management covers development, testing, deployment, and maintenance of solutions. This is why app lifecycle management fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "app-lifecycle-management",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is app lifecycle management important when designing or operating a Microsoft solution?",
+      "answer": "Application lifecycle management covers development, testing, deployment, and maintenance of solutions. Promote tested components from development through production.",
+      "explanation": "Applying app lifecycle management helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "app-lifecycle-management",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing app lifecycle management. Give one concrete use case and explain the underlying idea.",
+      "answer": "Promote tested components from development through production. Application lifecycle management covers development, testing, deployment, and maintenance of solutions.",
+      "explanation": "The use case demonstrates app lifecycle management; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "app-lifecycle-management",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Business process discovery mean in the context of PL900?",
+      "answer": "Process discovery identifies repetitive, rules-based tasks suitable for automation.",
+      "explanation": "This is a foundational concept assessed in PL900. Select a frequent manual approval process with clear inputs and outcomes.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-process-discovery",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Select a frequent manual approval process with clear inputs and outcomes.",
+      "answer": "Business process discovery",
+      "explanation": "Process discovery identifies repetitive, rules-based tasks suitable for automation. This is why business process discovery fits the scenario.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-process-discovery",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is business process discovery important when designing or operating a Microsoft solution?",
+      "answer": "Process discovery identifies repetitive, rules-based tasks suitable for automation. Select a frequent manual approval process with clear inputs and outcomes.",
+      "explanation": "Applying business process discovery helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-process-discovery",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing business process discovery. Give one concrete use case and explain the underlying idea.",
+      "answer": "Select a frequent manual approval process with clear inputs and outcomes. Process discovery identifies repetitive, rules-based tasks suitable for automation.",
+      "explanation": "The use case demonstrates business process discovery; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "pl900",
+        "business-process-discovery",
+        "application"
+      ]
+    }
+  ]
+}

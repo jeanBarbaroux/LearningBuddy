@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "DP-600 Fabric Analytics Engineer",
+  "cards": [
+    {
+      "question": "What does Microsoft Fabric mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A unified analytics platform spanning data engineering and BI",
+      "explanation": "Fabric integrates multiple analytics experiences with shared governance. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "microsoft-fabric",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Microsoft Fabric. What capability should they expect?",
+      "answer": "A unified analytics platform spanning data engineering and BI",
+      "explanation": "The expected capability is a unified analytics platform spanning data engineering and BI. Fabric integrates multiple analytics experiences with shared governance.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "microsoft-fabric",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Microsoft Fabric?",
+      "answer": "A unified analytics platform spanning data engineering and BI",
+      "explanation": "Fabric integrates multiple analytics experiences with shared governance. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "microsoft-fabric",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Microsoft Fabric is relevant. What is the key explanation?",
+      "answer": "Fabric integrates multiple analytics experiences with shared governance.",
+      "explanation": "A unified analytics platform spanning data engineering and BI. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "microsoft-fabric",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Microsoft Fabric should an administrator or practitioner remember?",
+      "answer": "A unified analytics platform spanning data engineering and BI",
+      "explanation": "Fabric integrates multiple analytics experiences with shared governance. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "microsoft-fabric",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does OneLake mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "The unified logical data lake for Microsoft Fabric",
+      "explanation": "It provides a common storage foundation for many Fabric workloads. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "onelake",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions OneLake. What capability should they expect?",
+      "answer": "The unified logical data lake for Microsoft Fabric",
+      "explanation": "The expected capability is the unified logical data lake for Microsoft Fabric. It provides a common storage foundation for many Fabric workloads.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "onelake",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of OneLake?",
+      "answer": "The unified logical data lake for Microsoft Fabric",
+      "explanation": "It provides a common storage foundation for many Fabric workloads. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "onelake",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why OneLake is relevant. What is the key explanation?",
+      "answer": "It provides a common storage foundation for many Fabric workloads.",
+      "explanation": "The unified logical data lake for Microsoft Fabric. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "onelake",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about OneLake should an administrator or practitioner remember?",
+      "answer": "The unified logical data lake for Microsoft Fabric",
+      "explanation": "It provides a common storage foundation for many Fabric workloads. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "onelake",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Lakehouse mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "An analytics architecture combining lake storage with table management",
+      "explanation": "It supports Spark processing alongside structured analytics use cases. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "lakehouse",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Lakehouse. What capability should they expect?",
+      "answer": "An analytics architecture combining lake storage with table management",
+      "explanation": "The expected capability is an analytics architecture combining lake storage with table management. It supports Spark processing alongside structured analytics use cases.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "lakehouse",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Lakehouse?",
+      "answer": "An analytics architecture combining lake storage with table management",
+      "explanation": "It supports Spark processing alongside structured analytics use cases. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "lakehouse",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Lakehouse is relevant. What is the key explanation?",
+      "answer": "It supports Spark processing alongside structured analytics use cases.",
+      "explanation": "An analytics architecture combining lake storage with table management. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "lakehouse",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Lakehouse should an administrator or practitioner remember?",
+      "answer": "An analytics architecture combining lake storage with table management",
+      "explanation": "It supports Spark processing alongside structured analytics use cases. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "lakehouse",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Warehouse mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A SQL-oriented analytical data store in Fabric",
+      "explanation": "Warehouses target relational modeling and SQL analytics workflows. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "warehouse",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Warehouse. What capability should they expect?",
+      "answer": "A SQL-oriented analytical data store in Fabric",
+      "explanation": "The expected capability is a SQL-oriented analytical data store in Fabric. Warehouses target relational modeling and SQL analytics workflows.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "warehouse",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Warehouse?",
+      "answer": "A SQL-oriented analytical data store in Fabric",
+      "explanation": "Warehouses target relational modeling and SQL analytics workflows. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "warehouse",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Warehouse is relevant. What is the key explanation?",
+      "answer": "Warehouses target relational modeling and SQL analytics workflows.",
+      "explanation": "A SQL-oriented analytical data store in Fabric. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "warehouse",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Warehouse should an administrator or practitioner remember?",
+      "answer": "A SQL-oriented analytical data store in Fabric",
+      "explanation": "Warehouses target relational modeling and SQL analytics workflows. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "warehouse",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Semantic model mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A governed analytical model exposing measures, relationships, and data",
+      "explanation": "Well-designed semantic models make reusable reporting consistent. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "semantic-model",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Semantic model. What capability should they expect?",
+      "answer": "A governed analytical model exposing measures, relationships, and data",
+      "explanation": "The expected capability is a governed analytical model exposing measures, relationships, and data. Well-designed semantic models make reusable reporting consistent.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "semantic-model",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Semantic model?",
+      "answer": "A governed analytical model exposing measures, relationships, and data",
+      "explanation": "Well-designed semantic models make reusable reporting consistent. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "semantic-model",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Semantic model is relevant. What is the key explanation?",
+      "answer": "Well-designed semantic models make reusable reporting consistent.",
+      "explanation": "A governed analytical model exposing measures, relationships, and data. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "semantic-model",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Semantic model should an administrator or practitioner remember?",
+      "answer": "A governed analytical model exposing measures, relationships, and data",
+      "explanation": "Well-designed semantic models make reusable reporting consistent. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "semantic-model",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Direct Lake mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A semantic model storage mode optimized for data in OneLake",
+      "explanation": "It reduces the need for traditional imported copies in eligible designs. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "direct-lake",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Direct Lake. What capability should they expect?",
+      "answer": "A semantic model storage mode optimized for data in OneLake",
+      "explanation": "The expected capability is a semantic model storage mode optimized for data in OneLake. It reduces the need for traditional imported copies in eligible designs.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "direct-lake",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Direct Lake?",
+      "answer": "A semantic model storage mode optimized for data in OneLake",
+      "explanation": "It reduces the need for traditional imported copies in eligible designs. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "direct-lake",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Direct Lake is relevant. What is the key explanation?",
+      "answer": "It reduces the need for traditional imported copies in eligible designs.",
+      "explanation": "A semantic model storage mode optimized for data in OneLake. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "direct-lake",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Direct Lake should an administrator or practitioner remember?",
+      "answer": "A semantic model storage mode optimized for data in OneLake",
+      "explanation": "It reduces the need for traditional imported copies in eligible designs. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "direct-lake",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Import mode mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A mode that loads data into an in-memory semantic model",
+      "explanation": "Imports usually require refresh to reflect source updates. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "import-mode",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Import mode. What capability should they expect?",
+      "answer": "A mode that loads data into an in-memory semantic model",
+      "explanation": "The expected capability is a mode that loads data into an in-memory semantic model. Imports usually require refresh to reflect source updates.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "import-mode",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Import mode?",
+      "answer": "A mode that loads data into an in-memory semantic model",
+      "explanation": "Imports usually require refresh to reflect source updates. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "import-mode",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Import mode is relevant. What is the key explanation?",
+      "answer": "Imports usually require refresh to reflect source updates.",
+      "explanation": "A mode that loads data into an in-memory semantic model. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "import-mode",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Import mode should an administrator or practitioner remember?",
+      "answer": "A mode that loads data into an in-memory semantic model",
+      "explanation": "Imports usually require refresh to reflect source updates. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "import-mode",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does DirectQuery mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A query mode that sends queries to the underlying data source",
+      "explanation": "Performance and behavior depend on the underlying source and query design. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "directquery",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions DirectQuery. What capability should they expect?",
+      "answer": "A query mode that sends queries to the underlying data source",
+      "explanation": "The expected capability is a query mode that sends queries to the underlying data source. Performance and behavior depend on the underlying source and query design.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "directquery",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of DirectQuery?",
+      "answer": "A query mode that sends queries to the underlying data source",
+      "explanation": "Performance and behavior depend on the underlying source and query design. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "directquery",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why DirectQuery is relevant. What is the key explanation?",
+      "answer": "Performance and behavior depend on the underlying source and query design.",
+      "explanation": "A query mode that sends queries to the underlying data source. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "directquery",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about DirectQuery should an administrator or practitioner remember?",
+      "answer": "A query mode that sends queries to the underlying data source",
+      "explanation": "Performance and behavior depend on the underlying source and query design. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "directquery",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Star schema mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A modeling approach with fact and dimension tables",
+      "explanation": "It usually simplifies filters, relationships, and analytics expressions. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "star-schema",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Star schema. What capability should they expect?",
+      "answer": "A modeling approach with fact and dimension tables",
+      "explanation": "The expected capability is a modeling approach with fact and dimension tables. It usually simplifies filters, relationships, and analytics expressions.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "star-schema",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Star schema?",
+      "answer": "A modeling approach with fact and dimension tables",
+      "explanation": "It usually simplifies filters, relationships, and analytics expressions. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "star-schema",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Star schema is relevant. What is the key explanation?",
+      "answer": "It usually simplifies filters, relationships, and analytics expressions.",
+      "explanation": "A modeling approach with fact and dimension tables. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "star-schema",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Star schema should an administrator or practitioner remember?",
+      "answer": "A modeling approach with fact and dimension tables",
+      "explanation": "It usually simplifies filters, relationships, and analytics expressions. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "star-schema",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Fact table mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A table containing events or measurable business activities",
+      "explanation": "Facts carry keys and measures such as sales amount or quantity. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "fact-table",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Fact table. What capability should they expect?",
+      "answer": "A table containing events or measurable business activities",
+      "explanation": "The expected capability is a table containing events or measurable business activities. Facts carry keys and measures such as sales amount or quantity.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "fact-table",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Fact table?",
+      "answer": "A table containing events or measurable business activities",
+      "explanation": "Facts carry keys and measures such as sales amount or quantity. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "fact-table",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Fact table is relevant. What is the key explanation?",
+      "answer": "Facts carry keys and measures such as sales amount or quantity.",
+      "explanation": "A table containing events or measurable business activities. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "fact-table",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Fact table should an administrator or practitioner remember?",
+      "answer": "A table containing events or measurable business activities",
+      "explanation": "Facts carry keys and measures such as sales amount or quantity. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "fact-table",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Dimension table mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A descriptive table used to slice and group measures",
+      "explanation": "Dimensions hold attributes such as product, customer, or date. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dimension-table",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Dimension table. What capability should they expect?",
+      "answer": "A descriptive table used to slice and group measures",
+      "explanation": "The expected capability is a descriptive table used to slice and group measures. Dimensions hold attributes such as product, customer, or date.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dimension-table",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Dimension table?",
+      "answer": "A descriptive table used to slice and group measures",
+      "explanation": "Dimensions hold attributes such as product, customer, or date. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dimension-table",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Dimension table is relevant. What is the key explanation?",
+      "answer": "Dimensions hold attributes such as product, customer, or date.",
+      "explanation": "A descriptive table used to slice and group measures. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dimension-table",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Dimension table should an administrator or practitioner remember?",
+      "answer": "A descriptive table used to slice and group measures",
+      "explanation": "Dimensions hold attributes such as product, customer, or date. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dimension-table",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does DAX measure mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A reusable calculation evaluated in query filter context",
+      "explanation": "Measures drive dynamic KPIs and aggregations in reports. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-measure",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions DAX measure. What capability should they expect?",
+      "answer": "A reusable calculation evaluated in query filter context",
+      "explanation": "The expected capability is a reusable calculation evaluated in query filter context. Measures drive dynamic KPIs and aggregations in reports.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-measure",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of DAX measure?",
+      "answer": "A reusable calculation evaluated in query filter context",
+      "explanation": "Measures drive dynamic KPIs and aggregations in reports. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-measure",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why DAX measure is relevant. What is the key explanation?",
+      "answer": "Measures drive dynamic KPIs and aggregations in reports.",
+      "explanation": "A reusable calculation evaluated in query filter context. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-measure",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about DAX measure should an administrator or practitioner remember?",
+      "answer": "A reusable calculation evaluated in query filter context",
+      "explanation": "Measures drive dynamic KPIs and aggregations in reports. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-measure",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Calculated column mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A DAX expression computed for rows during processing",
+      "explanation": "Calculated columns behave differently from measures and can increase model size. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculated-column",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Calculated column. What capability should they expect?",
+      "answer": "A DAX expression computed for rows during processing",
+      "explanation": "The expected capability is a DAX expression computed for rows during processing. Calculated columns behave differently from measures and can increase model size.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculated-column",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Calculated column?",
+      "answer": "A DAX expression computed for rows during processing",
+      "explanation": "Calculated columns behave differently from measures and can increase model size. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculated-column",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Calculated column is relevant. What is the key explanation?",
+      "answer": "Calculated columns behave differently from measures and can increase model size.",
+      "explanation": "A DAX expression computed for rows during processing. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculated-column",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Calculated column should an administrator or practitioner remember?",
+      "answer": "A DAX expression computed for rows during processing",
+      "explanation": "Calculated columns behave differently from measures and can increase model size. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculated-column",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Filter context mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "The set of filters affecting expression evaluation",
+      "explanation": "Visuals, slicers, and CALCULATE can influence filter context. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "filter-context",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Filter context. What capability should they expect?",
+      "answer": "The set of filters affecting expression evaluation",
+      "explanation": "The expected capability is the set of filters affecting expression evaluation. Visuals, slicers, and CALCULATE can influence filter context.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "filter-context",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Filter context?",
+      "answer": "The set of filters affecting expression evaluation",
+      "explanation": "Visuals, slicers, and CALCULATE can influence filter context. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "filter-context",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Filter context is relevant. What is the key explanation?",
+      "answer": "Visuals, slicers, and CALCULATE can influence filter context.",
+      "explanation": "The set of filters affecting expression evaluation. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "filter-context",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Filter context should an administrator or practitioner remember?",
+      "answer": "The set of filters affecting expression evaluation",
+      "explanation": "Visuals, slicers, and CALCULATE can influence filter context. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "filter-context",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does CALCULATE function mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A DAX function that evaluates an expression in modified filter context",
+      "explanation": "It is central for time intelligence and conditional measures. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculate-function",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions CALCULATE function. What capability should they expect?",
+      "answer": "A DAX function that evaluates an expression in modified filter context",
+      "explanation": "The expected capability is a DAX function that evaluates an expression in modified filter context. It is central for time intelligence and conditional measures.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculate-function",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of CALCULATE function?",
+      "answer": "A DAX function that evaluates an expression in modified filter context",
+      "explanation": "It is central for time intelligence and conditional measures. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculate-function",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why CALCULATE function is relevant. What is the key explanation?",
+      "answer": "It is central for time intelligence and conditional measures.",
+      "explanation": "A DAX function that evaluates an expression in modified filter context. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculate-function",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about CALCULATE function should an administrator or practitioner remember?",
+      "answer": "A DAX function that evaluates an expression in modified filter context",
+      "explanation": "It is central for time intelligence and conditional measures. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "calculate-function",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Row-level security (RLS) mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "Data access control that filters rows for users or roles",
+      "explanation": "RLS enforces per-user visibility within supported models. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "row-level-security-rls",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Row-level security (RLS). What capability should they expect?",
+      "answer": "Data access control that filters rows for users or roles",
+      "explanation": "The expected capability is data access control that filters rows for users or roles. RLS enforces per-user visibility within supported models.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "row-level-security-rls",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Row-level security (RLS)?",
+      "answer": "Data access control that filters rows for users or roles",
+      "explanation": "RLS enforces per-user visibility within supported models. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "row-level-security-rls",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Row-level security (RLS) is relevant. What is the key explanation?",
+      "answer": "RLS enforces per-user visibility within supported models.",
+      "explanation": "Data access control that filters rows for users or roles. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "row-level-security-rls",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Row-level security (RLS) should an administrator or practitioner remember?",
+      "answer": "Data access control that filters rows for users or roles",
+      "explanation": "RLS enforces per-user visibility within supported models. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "row-level-security-rls",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Object-level security (OLS) mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "Control limiting access to selected model objects",
+      "explanation": "OLS can hide protected tables or columns from unauthorized roles. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "object-level-security-ols",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Object-level security (OLS). What capability should they expect?",
+      "answer": "Control limiting access to selected model objects",
+      "explanation": "The expected capability is control limiting access to selected model objects. OLS can hide protected tables or columns from unauthorized roles.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "object-level-security-ols",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Object-level security (OLS)?",
+      "answer": "Control limiting access to selected model objects",
+      "explanation": "OLS can hide protected tables or columns from unauthorized roles. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "object-level-security-ols",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Object-level security (OLS) is relevant. What is the key explanation?",
+      "answer": "OLS can hide protected tables or columns from unauthorized roles.",
+      "explanation": "Control limiting access to selected model objects. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "object-level-security-ols",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Object-level security (OLS) should an administrator or practitioner remember?",
+      "answer": "Control limiting access to selected model objects",
+      "explanation": "OLS can hide protected tables or columns from unauthorized roles. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "object-level-security-ols",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Sensitivity label mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "Classification metadata describing data sensitivity",
+      "explanation": "Labels help apply governance and protection across supported items. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sensitivity-label",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Sensitivity label. What capability should they expect?",
+      "answer": "Classification metadata describing data sensitivity",
+      "explanation": "The expected capability is classification metadata describing data sensitivity. Labels help apply governance and protection across supported items.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sensitivity-label",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Sensitivity label?",
+      "answer": "Classification metadata describing data sensitivity",
+      "explanation": "Labels help apply governance and protection across supported items. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sensitivity-label",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Sensitivity label is relevant. What is the key explanation?",
+      "answer": "Labels help apply governance and protection across supported items.",
+      "explanation": "Classification metadata describing data sensitivity. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sensitivity-label",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Sensitivity label should an administrator or practitioner remember?",
+      "answer": "Classification metadata describing data sensitivity",
+      "explanation": "Labels help apply governance and protection across supported items. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sensitivity-label",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Endorsement mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A designation promoting trustworthy Fabric items",
+      "explanation": "Promoted and certified items assist users in finding governed assets. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "endorsement",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Endorsement. What capability should they expect?",
+      "answer": "A designation promoting trustworthy Fabric items",
+      "explanation": "The expected capability is a designation promoting trustworthy Fabric items. Promoted and certified items assist users in finding governed assets.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "endorsement",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Endorsement?",
+      "answer": "A designation promoting trustworthy Fabric items",
+      "explanation": "Promoted and certified items assist users in finding governed assets. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "endorsement",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Endorsement is relevant. What is the key explanation?",
+      "answer": "Promoted and certified items assist users in finding governed assets.",
+      "explanation": "A designation promoting trustworthy Fabric items. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "endorsement",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Endorsement should an administrator or practitioner remember?",
+      "answer": "A designation promoting trustworthy Fabric items",
+      "explanation": "Promoted and certified items assist users in finding governed assets. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "endorsement",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Workspace role mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A permission grouping for managing Fabric workspace content",
+      "explanation": "Workspace roles should align with creator and consumer responsibilities. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "workspace-role",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Workspace role. What capability should they expect?",
+      "answer": "A permission grouping for managing Fabric workspace content",
+      "explanation": "The expected capability is a permission grouping for managing Fabric workspace content. Workspace roles should align with creator and consumer responsibilities.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "workspace-role",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Workspace role?",
+      "answer": "A permission grouping for managing Fabric workspace content",
+      "explanation": "Workspace roles should align with creator and consumer responsibilities. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "workspace-role",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Workspace role is relevant. What is the key explanation?",
+      "answer": "Workspace roles should align with creator and consumer responsibilities.",
+      "explanation": "A permission grouping for managing Fabric workspace content. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "workspace-role",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Workspace role should an administrator or practitioner remember?",
+      "answer": "A permission grouping for managing Fabric workspace content",
+      "explanation": "Workspace roles should align with creator and consumer responsibilities. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "workspace-role",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Deployment pipeline mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A controlled path to promote assets through environments",
+      "explanation": "Pipelines reduce unmanaged production changes. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "deployment-pipeline",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Deployment pipeline. What capability should they expect?",
+      "answer": "A controlled path to promote assets through environments",
+      "explanation": "The expected capability is a controlled path to promote assets through environments. Pipelines reduce unmanaged production changes.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "deployment-pipeline",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Deployment pipeline?",
+      "answer": "A controlled path to promote assets through environments",
+      "explanation": "Pipelines reduce unmanaged production changes. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "deployment-pipeline",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Deployment pipeline is relevant. What is the key explanation?",
+      "answer": "Pipelines reduce unmanaged production changes.",
+      "explanation": "A controlled path to promote assets through environments. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "deployment-pipeline",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Deployment pipeline should an administrator or practitioner remember?",
+      "answer": "A controlled path to promote assets through environments",
+      "explanation": "Pipelines reduce unmanaged production changes. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "deployment-pipeline",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Git integration mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "Version-control connection for supported Fabric items",
+      "explanation": "Source control enables collaboration and change tracking. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "git-integration",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Git integration. What capability should they expect?",
+      "answer": "Version-control connection for supported Fabric items",
+      "explanation": "The expected capability is version-control connection for supported Fabric items. Source control enables collaboration and change tracking.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "git-integration",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Git integration?",
+      "answer": "Version-control connection for supported Fabric items",
+      "explanation": "Source control enables collaboration and change tracking. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "git-integration",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Git integration is relevant. What is the key explanation?",
+      "answer": "Source control enables collaboration and change tracking.",
+      "explanation": "Version-control connection for supported Fabric items. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "git-integration",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Git integration should an administrator or practitioner remember?",
+      "answer": "Version-control connection for supported Fabric items",
+      "explanation": "Source control enables collaboration and change tracking. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "git-integration",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does PBIP project mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A Power BI project format suited to source control",
+      "explanation": "Projects make report and model files more development-friendly. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "pbip-project",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions PBIP project. What capability should they expect?",
+      "answer": "A Power BI project format suited to source control",
+      "explanation": "The expected capability is a Power BI project format suited to source control. Projects make report and model files more development-friendly.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "pbip-project",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of PBIP project?",
+      "answer": "A Power BI project format suited to source control",
+      "explanation": "Projects make report and model files more development-friendly. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "pbip-project",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why PBIP project is relevant. What is the key explanation?",
+      "answer": "Projects make report and model files more development-friendly.",
+      "explanation": "A Power BI project format suited to source control. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "pbip-project",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about PBIP project should an administrator or practitioner remember?",
+      "answer": "A Power BI project format suited to source control",
+      "explanation": "Projects make report and model files more development-friendly. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "pbip-project",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does XMLA endpoint mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "An endpoint for managing supported semantic model metadata",
+      "explanation": "XMLA can enable external tools and advanced model management. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "xmla-endpoint",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions XMLA endpoint. What capability should they expect?",
+      "answer": "An endpoint for managing supported semantic model metadata",
+      "explanation": "The expected capability is an endpoint for managing supported semantic model metadata. XMLA can enable external tools and advanced model management.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "xmla-endpoint",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of XMLA endpoint?",
+      "answer": "An endpoint for managing supported semantic model metadata",
+      "explanation": "XMLA can enable external tools and advanced model management. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "xmla-endpoint",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why XMLA endpoint is relevant. What is the key explanation?",
+      "answer": "XMLA can enable external tools and advanced model management.",
+      "explanation": "An endpoint for managing supported semantic model metadata. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "xmla-endpoint",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about XMLA endpoint should an administrator or practitioner remember?",
+      "answer": "An endpoint for managing supported semantic model metadata",
+      "explanation": "XMLA can enable external tools and advanced model management. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "xmla-endpoint",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Dataflow Gen2 mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A managed Power Query-based data preparation experience",
+      "explanation": "It supports reusable extraction, cleaning, and loading workflows. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dataflow-gen2",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Dataflow Gen2. What capability should they expect?",
+      "answer": "A managed Power Query-based data preparation experience",
+      "explanation": "The expected capability is a managed Power Query-based data preparation experience. It supports reusable extraction, cleaning, and loading workflows.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dataflow-gen2",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Dataflow Gen2?",
+      "answer": "A managed Power Query-based data preparation experience",
+      "explanation": "It supports reusable extraction, cleaning, and loading workflows. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dataflow-gen2",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Dataflow Gen2 is relevant. What is the key explanation?",
+      "answer": "It supports reusable extraction, cleaning, and loading workflows.",
+      "explanation": "A managed Power Query-based data preparation experience. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dataflow-gen2",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Dataflow Gen2 should an administrator or practitioner remember?",
+      "answer": "A managed Power Query-based data preparation experience",
+      "explanation": "It supports reusable extraction, cleaning, and loading workflows. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dataflow-gen2",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Power Query mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A transformation engine used for shaping and cleansing data",
+      "explanation": "Folding supported transformations can improve source-side performance. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "power-query",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Power Query. What capability should they expect?",
+      "answer": "A transformation engine used for shaping and cleansing data",
+      "explanation": "The expected capability is a transformation engine used for shaping and cleansing data. Folding supported transformations can improve source-side performance.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "power-query",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Power Query?",
+      "answer": "A transformation engine used for shaping and cleansing data",
+      "explanation": "Folding supported transformations can improve source-side performance. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "power-query",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Power Query is relevant. What is the key explanation?",
+      "answer": "Folding supported transformations can improve source-side performance.",
+      "explanation": "A transformation engine used for shaping and cleansing data. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "power-query",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Power Query should an administrator or practitioner remember?",
+      "answer": "A transformation engine used for shaping and cleansing data",
+      "explanation": "Folding supported transformations can improve source-side performance. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "power-query",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Query folding mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "Pushing eligible transformations back to a data source",
+      "explanation": "It can reduce local processing and data movement. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "query-folding",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Query folding. What capability should they expect?",
+      "answer": "Pushing eligible transformations back to a data source",
+      "explanation": "The expected capability is pushing eligible transformations back to a data source. It can reduce local processing and data movement.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "query-folding",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Query folding?",
+      "answer": "Pushing eligible transformations back to a data source",
+      "explanation": "It can reduce local processing and data movement. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "query-folding",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Query folding is relevant. What is the key explanation?",
+      "answer": "It can reduce local processing and data movement.",
+      "explanation": "Pushing eligible transformations back to a data source. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "query-folding",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Query folding should an administrator or practitioner remember?",
+      "answer": "Pushing eligible transformations back to a data source",
+      "explanation": "It can reduce local processing and data movement. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "query-folding",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Notebook mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "An interactive environment for code-based analytics and Spark",
+      "explanation": "Notebooks support exploration and repeatable transformations. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "notebook",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Notebook. What capability should they expect?",
+      "answer": "An interactive environment for code-based analytics and Spark",
+      "explanation": "The expected capability is an interactive environment for code-based analytics and Spark. Notebooks support exploration and repeatable transformations.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "notebook",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Notebook?",
+      "answer": "An interactive environment for code-based analytics and Spark",
+      "explanation": "Notebooks support exploration and repeatable transformations. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "notebook",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Notebook is relevant. What is the key explanation?",
+      "answer": "Notebooks support exploration and repeatable transformations.",
+      "explanation": "An interactive environment for code-based analytics and Spark. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "notebook",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Notebook should an administrator or practitioner remember?",
+      "answer": "An interactive environment for code-based analytics and Spark",
+      "explanation": "Notebooks support exploration and repeatable transformations. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "notebook",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Spark mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A distributed data processing engine",
+      "explanation": "Spark is useful for large-scale transformation and analytics pipelines. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "spark",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Spark. What capability should they expect?",
+      "answer": "A distributed data processing engine",
+      "explanation": "The expected capability is a distributed data processing engine. Spark is useful for large-scale transformation and analytics pipelines.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "spark",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Spark?",
+      "answer": "A distributed data processing engine",
+      "explanation": "Spark is useful for large-scale transformation and analytics pipelines. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "spark",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Spark is relevant. What is the key explanation?",
+      "answer": "Spark is useful for large-scale transformation and analytics pipelines.",
+      "explanation": "A distributed data processing engine. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "spark",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Spark should an administrator or practitioner remember?",
+      "answer": "A distributed data processing engine",
+      "explanation": "Spark is useful for large-scale transformation and analytics pipelines. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "spark",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does SQL analytics endpoint mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A SQL query interface to supported lakehouse tables",
+      "explanation": "It enables SQL consumption of lakehouse data where supported. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-analytics-endpoint",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions SQL analytics endpoint. What capability should they expect?",
+      "answer": "A SQL query interface to supported lakehouse tables",
+      "explanation": "The expected capability is a SQL query interface to supported lakehouse tables. It enables SQL consumption of lakehouse data where supported.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-analytics-endpoint",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of SQL analytics endpoint?",
+      "answer": "A SQL query interface to supported lakehouse tables",
+      "explanation": "It enables SQL consumption of lakehouse data where supported. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-analytics-endpoint",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why SQL analytics endpoint is relevant. What is the key explanation?",
+      "answer": "It enables SQL consumption of lakehouse data where supported.",
+      "explanation": "A SQL query interface to supported lakehouse tables. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-analytics-endpoint",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about SQL analytics endpoint should an administrator or practitioner remember?",
+      "answer": "A SQL query interface to supported lakehouse tables",
+      "explanation": "It enables SQL consumption of lakehouse data where supported. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-analytics-endpoint",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Delta table mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A table format with transaction log and scalable analytics capabilities",
+      "explanation": "Delta supports reliable updates and analytical processing. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "delta-table",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Delta table. What capability should they expect?",
+      "answer": "A table format with transaction log and scalable analytics capabilities",
+      "explanation": "The expected capability is a table format with transaction log and scalable analytics capabilities. Delta supports reliable updates and analytical processing.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "delta-table",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Delta table?",
+      "answer": "A table format with transaction log and scalable analytics capabilities",
+      "explanation": "Delta supports reliable updates and analytical processing. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "delta-table",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Delta table is relevant. What is the key explanation?",
+      "answer": "Delta supports reliable updates and analytical processing.",
+      "explanation": "A table format with transaction log and scalable analytics capabilities. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "delta-table",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Delta table should an administrator or practitioner remember?",
+      "answer": "A table format with transaction log and scalable analytics capabilities",
+      "explanation": "Delta supports reliable updates and analytical processing. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "delta-table",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Shortcut mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A logical reference to data without necessarily copying it",
+      "explanation": "Shortcuts enable reuse of data stored in supported locations. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "shortcut",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Shortcut. What capability should they expect?",
+      "answer": "A logical reference to data without necessarily copying it",
+      "explanation": "The expected capability is a logical reference to data without necessarily copying it. Shortcuts enable reuse of data stored in supported locations.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "shortcut",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Shortcut?",
+      "answer": "A logical reference to data without necessarily copying it",
+      "explanation": "Shortcuts enable reuse of data stored in supported locations. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "shortcut",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Shortcut is relevant. What is the key explanation?",
+      "answer": "Shortcuts enable reuse of data stored in supported locations.",
+      "explanation": "A logical reference to data without necessarily copying it. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "shortcut",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Shortcut should an administrator or practitioner remember?",
+      "answer": "A logical reference to data without necessarily copying it",
+      "explanation": "Shortcuts enable reuse of data stored in supported locations. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "shortcut",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Incremental refresh mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "Refreshing only selected changing data partitions",
+      "explanation": "It reduces repeated processing of unchanged historical data. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "incremental-refresh",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Incremental refresh. What capability should they expect?",
+      "answer": "Refreshing only selected changing data partitions",
+      "explanation": "The expected capability is refreshing only selected changing data partitions. It reduces repeated processing of unchanged historical data.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "incremental-refresh",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Incremental refresh?",
+      "answer": "Refreshing only selected changing data partitions",
+      "explanation": "It reduces repeated processing of unchanged historical data. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "incremental-refresh",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Incremental refresh is relevant. What is the key explanation?",
+      "answer": "It reduces repeated processing of unchanged historical data.",
+      "explanation": "Refreshing only selected changing data partitions. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "incremental-refresh",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Incremental refresh should an administrator or practitioner remember?",
+      "answer": "Refreshing only selected changing data partitions",
+      "explanation": "It reduces repeated processing of unchanged historical data. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "incremental-refresh",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Aggregation mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "Precomputed summary data used to speed analytical queries",
+      "explanation": "Aggregations can improve performance for common granularity levels. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "aggregation",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Aggregation. What capability should they expect?",
+      "answer": "Precomputed summary data used to speed analytical queries",
+      "explanation": "The expected capability is precomputed summary data used to speed analytical queries. Aggregations can improve performance for common granularity levels.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "aggregation",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Aggregation?",
+      "answer": "Precomputed summary data used to speed analytical queries",
+      "explanation": "Aggregations can improve performance for common granularity levels. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "aggregation",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Aggregation is relevant. What is the key explanation?",
+      "answer": "Aggregations can improve performance for common granularity levels.",
+      "explanation": "Precomputed summary data used to speed analytical queries. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "aggregation",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Aggregation should an administrator or practitioner remember?",
+      "answer": "Precomputed summary data used to speed analytical queries",
+      "explanation": "Aggregations can improve performance for common granularity levels. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "aggregation",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Cardinality mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "The number of distinct values in a column",
+      "explanation": "High cardinality may increase memory and modeling costs. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "cardinality",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Cardinality. What capability should they expect?",
+      "answer": "The number of distinct values in a column",
+      "explanation": "The expected capability is the number of distinct values in a column. High cardinality may increase memory and modeling costs.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "cardinality",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Cardinality?",
+      "answer": "The number of distinct values in a column",
+      "explanation": "High cardinality may increase memory and modeling costs. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "cardinality",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Cardinality is relevant. What is the key explanation?",
+      "answer": "High cardinality may increase memory and modeling costs.",
+      "explanation": "The number of distinct values in a column. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "cardinality",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Cardinality should an administrator or practitioner remember?",
+      "answer": "The number of distinct values in a column",
+      "explanation": "High cardinality may increase memory and modeling costs. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "cardinality",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Relationship direction mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "The filter propagation setting between model tables",
+      "explanation": "Overly complex bidirectional filtering can create ambiguous results. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "relationship-direction",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Relationship direction. What capability should they expect?",
+      "answer": "The filter propagation setting between model tables",
+      "explanation": "The expected capability is the filter propagation setting between model tables. Overly complex bidirectional filtering can create ambiguous results.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "relationship-direction",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Relationship direction?",
+      "answer": "The filter propagation setting between model tables",
+      "explanation": "Overly complex bidirectional filtering can create ambiguous results. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "relationship-direction",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Relationship direction is relevant. What is the key explanation?",
+      "answer": "Overly complex bidirectional filtering can create ambiguous results.",
+      "explanation": "The filter propagation setting between model tables. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "relationship-direction",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Relationship direction should an administrator or practitioner remember?",
+      "answer": "The filter propagation setting between model tables",
+      "explanation": "Overly complex bidirectional filtering can create ambiguous results. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "relationship-direction",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Impact analysis mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "Determining what downstream items depend on a changed asset",
+      "explanation": "It helps identify risks before modifying shared datasets. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "impact-analysis",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Impact analysis. What capability should they expect?",
+      "answer": "Determining what downstream items depend on a changed asset",
+      "explanation": "The expected capability is determining what downstream items depend on a changed asset. It helps identify risks before modifying shared datasets.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "impact-analysis",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Impact analysis?",
+      "answer": "Determining what downstream items depend on a changed asset",
+      "explanation": "It helps identify risks before modifying shared datasets. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "impact-analysis",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Impact analysis is relevant. What is the key explanation?",
+      "answer": "It helps identify risks before modifying shared datasets.",
+      "explanation": "Determining what downstream items depend on a changed asset. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "impact-analysis",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Impact analysis should an administrator or practitioner remember?",
+      "answer": "Determining what downstream items depend on a changed asset",
+      "explanation": "It helps identify risks before modifying shared datasets. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "impact-analysis",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does DAX time intelligence mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "Date-aware calculations such as prior-period comparisons",
+      "explanation": "A suitable date model is important for dependable results. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-time-intelligence",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions DAX time intelligence. What capability should they expect?",
+      "answer": "Date-aware calculations such as prior-period comparisons",
+      "explanation": "The expected capability is date-aware calculations such as prior-period comparisons. A suitable date model is important for dependable results.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-time-intelligence",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of DAX time intelligence?",
+      "answer": "Date-aware calculations such as prior-period comparisons",
+      "explanation": "A suitable date model is important for dependable results. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-time-intelligence",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why DAX time intelligence is relevant. What is the key explanation?",
+      "answer": "A suitable date model is important for dependable results.",
+      "explanation": "Date-aware calculations such as prior-period comparisons. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-time-intelligence",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about DAX time intelligence should an administrator or practitioner remember?",
+      "answer": "Date-aware calculations such as prior-period comparisons",
+      "explanation": "A suitable date model is important for dependable results. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "dax-time-intelligence",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does SQL window function mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A function calculating results over related rows",
+      "explanation": "Window functions support ranking and running totals without collapsing rows. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-window-function",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions SQL window function. What capability should they expect?",
+      "answer": "A function calculating results over related rows",
+      "explanation": "The expected capability is a function calculating results over related rows. Window functions support ranking and running totals without collapsing rows.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-window-function",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of SQL window function?",
+      "answer": "A function calculating results over related rows",
+      "explanation": "Window functions support ranking and running totals without collapsing rows. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-window-function",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why SQL window function is relevant. What is the key explanation?",
+      "answer": "Window functions support ranking and running totals without collapsing rows.",
+      "explanation": "A function calculating results over related rows. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-window-function",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about SQL window function should an administrator or practitioner remember?",
+      "answer": "A function calculating results over related rows",
+      "explanation": "Window functions support ranking and running totals without collapsing rows. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "sql-window-function",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Performance Analyzer mean in the context of DP-600 Fabric Analytics Engineer?",
+      "answer": "A tool for examining Power BI visual performance",
+      "explanation": "It helps identify slow visuals, DAX queries, and rendering steps. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "performance-analyzer",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Performance Analyzer. What capability should they expect?",
+      "answer": "A tool for examining Power BI visual performance",
+      "explanation": "The expected capability is a tool for examining Power BI visual performance. It helps identify slow visuals, DAX queries, and rendering steps.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "performance-analyzer",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Performance Analyzer?",
+      "answer": "A tool for examining Power BI visual performance",
+      "explanation": "It helps identify slow visuals, DAX queries, and rendering steps. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "performance-analyzer",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Performance Analyzer is relevant. What is the key explanation?",
+      "answer": "It helps identify slow visuals, DAX queries, and rendering steps.",
+      "explanation": "A tool for examining Power BI visual performance. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "performance-analyzer",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Performance Analyzer should an administrator or practitioner remember?",
+      "answer": "A tool for examining Power BI visual performance",
+      "explanation": "It helps identify slow visuals, DAX queries, and rendering steps. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp600",
+        "performance-analyzer",
+        "recall"
+      ]
+    }
+  ]
+}

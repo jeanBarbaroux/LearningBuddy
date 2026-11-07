@@ -1,0 +1,2007 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "PALI Professional Agile Leadership I",
+  "cards": [
+    {
+      "question": "What is the recommended approach to agile leadership purpose in professional Scrum practice?",
+      "answer": "Create organizational conditions that enable teams to deliver customer value.",
+      "explanation": "Leadership effectiveness is measured by the system it enables.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "agile-leadership-purpose"
+      ]
+    },
+    {
+      "question": "A team wants to improve agile leadership purpose. What principle should guide its next action?",
+      "answer": "Create organizational conditions that enable teams to deliver customer value.",
+      "explanation": "Leadership effectiveness is measured by the system it enables.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "agile-leadership-purpose"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about agile leadership purpose, what should practitioners emphasize?",
+      "answer": "Create organizational conditions that enable teams to deliver customer value.",
+      "explanation": "Leadership effectiveness is measured by the system it enables.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "agile-leadership-purpose"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding agile leadership purpose?",
+      "answer": "Create organizational conditions that enable teams to deliver customer value.",
+      "explanation": "Leadership effectiveness is measured by the system it enables.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "agile-leadership-purpose"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for agile leadership purpose?",
+      "answer": "Create organizational conditions that enable teams to deliver customer value.",
+      "explanation": "Leadership effectiveness is measured by the system it enables.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "agile-leadership-purpose"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to servant leadership in professional Scrum practice?",
+      "answer": "Remove systemic impediments and help others succeed instead of micromanaging.",
+      "explanation": "Service and accountability can coexist.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "servant-leadership"
+      ]
+    },
+    {
+      "question": "A team wants to improve servant leadership. What principle should guide its next action?",
+      "answer": "Remove systemic impediments and help others succeed instead of micromanaging.",
+      "explanation": "Service and accountability can coexist.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "servant-leadership"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about servant leadership, what should practitioners emphasize?",
+      "answer": "Remove systemic impediments and help others succeed instead of micromanaging.",
+      "explanation": "Service and accountability can coexist.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "servant-leadership"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding servant leadership?",
+      "answer": "Remove systemic impediments and help others succeed instead of micromanaging.",
+      "explanation": "Service and accountability can coexist.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "servant-leadership"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for servant leadership?",
+      "answer": "Remove systemic impediments and help others succeed instead of micromanaging.",
+      "explanation": "Service and accountability can coexist.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "servant-leadership"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to empowered teams in professional Scrum practice?",
+      "answer": "Give teams decision space with clear goals and constraints.",
+      "explanation": "Autonomy without direction or accountability creates confusion.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "empowered-teams"
+      ]
+    },
+    {
+      "question": "A team wants to improve empowered teams. What principle should guide its next action?",
+      "answer": "Give teams decision space with clear goals and constraints.",
+      "explanation": "Autonomy without direction or accountability creates confusion.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "empowered-teams"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about empowered teams, what should practitioners emphasize?",
+      "answer": "Give teams decision space with clear goals and constraints.",
+      "explanation": "Autonomy without direction or accountability creates confusion.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "empowered-teams"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding empowered teams?",
+      "answer": "Give teams decision space with clear goals and constraints.",
+      "explanation": "Autonomy without direction or accountability creates confusion.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "empowered-teams"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for empowered teams?",
+      "answer": "Give teams decision space with clear goals and constraints.",
+      "explanation": "Autonomy without direction or accountability creates confusion.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "empowered-teams"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to trust building in professional Scrum practice?",
+      "answer": "Follow through on commitments and respond constructively to bad news.",
+      "explanation": "Trust supports transparency and learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "trust-building"
+      ]
+    },
+    {
+      "question": "A team wants to improve trust building. What principle should guide its next action?",
+      "answer": "Follow through on commitments and respond constructively to bad news.",
+      "explanation": "Trust supports transparency and learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "trust-building"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about trust building, what should practitioners emphasize?",
+      "answer": "Follow through on commitments and respond constructively to bad news.",
+      "explanation": "Trust supports transparency and learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "trust-building"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding trust building?",
+      "answer": "Follow through on commitments and respond constructively to bad news.",
+      "explanation": "Trust supports transparency and learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "trust-building"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for trust building?",
+      "answer": "Follow through on commitments and respond constructively to bad news.",
+      "explanation": "Trust supports transparency and learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "trust-building"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to psychological safety in professional Scrum practice?",
+      "answer": "Encourage speaking up about defects, risks, and uncertainty without humiliation.",
+      "explanation": "Safety supports inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "psychological-safety"
+      ]
+    },
+    {
+      "question": "A team wants to improve psychological safety. What principle should guide its next action?",
+      "answer": "Encourage speaking up about defects, risks, and uncertainty without humiliation.",
+      "explanation": "Safety supports inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "psychological-safety"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about psychological safety, what should practitioners emphasize?",
+      "answer": "Encourage speaking up about defects, risks, and uncertainty without humiliation.",
+      "explanation": "Safety supports inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "psychological-safety"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding psychological safety?",
+      "answer": "Encourage speaking up about defects, risks, and uncertainty without humiliation.",
+      "explanation": "Safety supports inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "psychological-safety"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for psychological safety?",
+      "answer": "Encourage speaking up about defects, risks, and uncertainty without humiliation.",
+      "explanation": "Safety supports inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "psychological-safety"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to outcome goals in professional Scrum practice?",
+      "answer": "Set clear customer and business outcomes rather than prescribing a list of tasks.",
+      "explanation": "Teams need to innovate about how to reach outcomes.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "outcome-goals"
+      ]
+    },
+    {
+      "question": "A team wants to improve outcome goals. What principle should guide its next action?",
+      "answer": "Set clear customer and business outcomes rather than prescribing a list of tasks.",
+      "explanation": "Teams need to innovate about how to reach outcomes.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "outcome-goals"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about outcome goals, what should practitioners emphasize?",
+      "answer": "Set clear customer and business outcomes rather than prescribing a list of tasks.",
+      "explanation": "Teams need to innovate about how to reach outcomes.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "outcome-goals"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding outcome goals?",
+      "answer": "Set clear customer and business outcomes rather than prescribing a list of tasks.",
+      "explanation": "Teams need to innovate about how to reach outcomes.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "outcome-goals"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for outcome goals?",
+      "answer": "Set clear customer and business outcomes rather than prescribing a list of tasks.",
+      "explanation": "Teams need to innovate about how to reach outcomes.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "outcome-goals"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to organizational metrics in professional Scrum practice?",
+      "answer": "Monitor customer value, flow, quality, and sustainability instead of individual utilization.",
+      "explanation": "Utilization optimization can hurt system performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-metrics"
+      ]
+    },
+    {
+      "question": "A team wants to improve organizational metrics. What principle should guide its next action?",
+      "answer": "Monitor customer value, flow, quality, and sustainability instead of individual utilization.",
+      "explanation": "Utilization optimization can hurt system performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-metrics"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about organizational metrics, what should practitioners emphasize?",
+      "answer": "Monitor customer value, flow, quality, and sustainability instead of individual utilization.",
+      "explanation": "Utilization optimization can hurt system performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-metrics"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding organizational metrics?",
+      "answer": "Monitor customer value, flow, quality, and sustainability instead of individual utilization.",
+      "explanation": "Utilization optimization can hurt system performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-metrics"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for organizational metrics?",
+      "answer": "Monitor customer value, flow, quality, and sustainability instead of individual utilization.",
+      "explanation": "Utilization optimization can hurt system performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-metrics"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to leadership and scrum master in professional Scrum practice?",
+      "answer": "Support the Scrum Master in addressing organizational barriers to Scrum.",
+      "explanation": "The Scrum Master serves the organization but cannot transform it alone.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-and-scrum-master"
+      ]
+    },
+    {
+      "question": "A team wants to improve leadership and scrum master. What principle should guide its next action?",
+      "answer": "Support the Scrum Master in addressing organizational barriers to Scrum.",
+      "explanation": "The Scrum Master serves the organization but cannot transform it alone.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-and-scrum-master"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about leadership and scrum master, what should practitioners emphasize?",
+      "answer": "Support the Scrum Master in addressing organizational barriers to Scrum.",
+      "explanation": "The Scrum Master serves the organization but cannot transform it alone.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-and-scrum-master"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding leadership and scrum master?",
+      "answer": "Support the Scrum Master in addressing organizational barriers to Scrum.",
+      "explanation": "The Scrum Master serves the organization but cannot transform it alone.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-and-scrum-master"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for leadership and scrum master?",
+      "answer": "Support the Scrum Master in addressing organizational barriers to Scrum.",
+      "explanation": "The Scrum Master serves the organization but cannot transform it alone.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-and-scrum-master"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product owner empowerment in professional Scrum practice?",
+      "answer": "Give the Product Owner clear authority for product value decisions.",
+      "explanation": "Executive overrides undermine accountability.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "product-owner-empowerment"
+      ]
+    },
+    {
+      "question": "A team wants to improve product owner empowerment. What principle should guide its next action?",
+      "answer": "Give the Product Owner clear authority for product value decisions.",
+      "explanation": "Executive overrides undermine accountability.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "product-owner-empowerment"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product owner empowerment, what should practitioners emphasize?",
+      "answer": "Give the Product Owner clear authority for product value decisions.",
+      "explanation": "Executive overrides undermine accountability.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "product-owner-empowerment"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product owner empowerment?",
+      "answer": "Give the Product Owner clear authority for product value decisions.",
+      "explanation": "Executive overrides undermine accountability.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "product-owner-empowerment"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product owner empowerment?",
+      "answer": "Give the Product Owner clear authority for product value decisions.",
+      "explanation": "Executive overrides undermine accountability.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "product-owner-empowerment"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to learning organization in professional Scrum practice?",
+      "answer": "Invest in experimentation, feedback, and reflective improvement.",
+      "explanation": "Complexity demands continuous learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "learning-organization"
+      ]
+    },
+    {
+      "question": "A team wants to improve learning organization. What principle should guide its next action?",
+      "answer": "Invest in experimentation, feedback, and reflective improvement.",
+      "explanation": "Complexity demands continuous learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "learning-organization"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about learning organization, what should practitioners emphasize?",
+      "answer": "Invest in experimentation, feedback, and reflective improvement.",
+      "explanation": "Complexity demands continuous learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "learning-organization"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding learning organization?",
+      "answer": "Invest in experimentation, feedback, and reflective improvement.",
+      "explanation": "Complexity demands continuous learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "learning-organization"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for learning organization?",
+      "answer": "Invest in experimentation, feedback, and reflective improvement.",
+      "explanation": "Complexity demands continuous learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "learning-organization"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to managing uncertainty in professional Scrum practice?",
+      "answer": "Use empirical investments and frequent review rather than false precision.",
+      "explanation": "Predictive certainty is limited in complex work.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "managing-uncertainty"
+      ]
+    },
+    {
+      "question": "A team wants to improve managing uncertainty. What principle should guide its next action?",
+      "answer": "Use empirical investments and frequent review rather than false precision.",
+      "explanation": "Predictive certainty is limited in complex work.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "managing-uncertainty"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about managing uncertainty, what should practitioners emphasize?",
+      "answer": "Use empirical investments and frequent review rather than false precision.",
+      "explanation": "Predictive certainty is limited in complex work.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "managing-uncertainty"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding managing uncertainty?",
+      "answer": "Use empirical investments and frequent review rather than false precision.",
+      "explanation": "Predictive certainty is limited in complex work.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "managing-uncertainty"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for managing uncertainty?",
+      "answer": "Use empirical investments and frequent review rather than false precision.",
+      "explanation": "Predictive certainty is limited in complex work.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "managing-uncertainty"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to change leadership in professional Scrum practice?",
+      "answer": "Explain a clear purpose, invite feedback, and run small experiments for organizational change.",
+      "explanation": "Mandates alone rarely create commitment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "change-leadership"
+      ]
+    },
+    {
+      "question": "A team wants to improve change leadership. What principle should guide its next action?",
+      "answer": "Explain a clear purpose, invite feedback, and run small experiments for organizational change.",
+      "explanation": "Mandates alone rarely create commitment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "change-leadership"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about change leadership, what should practitioners emphasize?",
+      "answer": "Explain a clear purpose, invite feedback, and run small experiments for organizational change.",
+      "explanation": "Mandates alone rarely create commitment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "change-leadership"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding change leadership?",
+      "answer": "Explain a clear purpose, invite feedback, and run small experiments for organizational change.",
+      "explanation": "Mandates alone rarely create commitment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "change-leadership"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for change leadership?",
+      "answer": "Explain a clear purpose, invite feedback, and run small experiments for organizational change.",
+      "explanation": "Mandates alone rarely create commitment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "change-leadership"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to budgeting for products in professional Scrum practice?",
+      "answer": "Fund sustained product outcomes and revisit allocation from evidence.",
+      "explanation": "Fixed project funding can discourage adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "budgeting-for-products"
+      ]
+    },
+    {
+      "question": "A team wants to improve budgeting for products. What principle should guide its next action?",
+      "answer": "Fund sustained product outcomes and revisit allocation from evidence.",
+      "explanation": "Fixed project funding can discourage adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "budgeting-for-products"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about budgeting for products, what should practitioners emphasize?",
+      "answer": "Fund sustained product outcomes and revisit allocation from evidence.",
+      "explanation": "Fixed project funding can discourage adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "budgeting-for-products"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding budgeting for products?",
+      "answer": "Fund sustained product outcomes and revisit allocation from evidence.",
+      "explanation": "Fixed project funding can discourage adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "budgeting-for-products"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for budgeting for products?",
+      "answer": "Fund sustained product outcomes and revisit allocation from evidence.",
+      "explanation": "Fixed project funding can discourage adaptation.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "budgeting-for-products"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to resource allocation in professional Scrum practice?",
+      "answer": "Optimize flow of value instead of moving individuals among too many teams.",
+      "explanation": "Context switching and dependencies create delays.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resource-allocation"
+      ]
+    },
+    {
+      "question": "A team wants to improve resource allocation. What principle should guide its next action?",
+      "answer": "Optimize flow of value instead of moving individuals among too many teams.",
+      "explanation": "Context switching and dependencies create delays.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resource-allocation"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about resource allocation, what should practitioners emphasize?",
+      "answer": "Optimize flow of value instead of moving individuals among too many teams.",
+      "explanation": "Context switching and dependencies create delays.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resource-allocation"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding resource allocation?",
+      "answer": "Optimize flow of value instead of moving individuals among too many teams.",
+      "explanation": "Context switching and dependencies create delays.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resource-allocation"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for resource allocation?",
+      "answer": "Optimize flow of value instead of moving individuals among too many teams.",
+      "explanation": "Context switching and dependencies create delays.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resource-allocation"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to organizational impediment mapping in professional Scrum practice?",
+      "answer": "Identify policies and structures repeatedly slowing teams.",
+      "explanation": "Local coaching cannot fix every systemic issue.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-impediment-mapping"
+      ]
+    },
+    {
+      "question": "A team wants to improve organizational impediment mapping. What principle should guide its next action?",
+      "answer": "Identify policies and structures repeatedly slowing teams.",
+      "explanation": "Local coaching cannot fix every systemic issue.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-impediment-mapping"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about organizational impediment mapping, what should practitioners emphasize?",
+      "answer": "Identify policies and structures repeatedly slowing teams.",
+      "explanation": "Local coaching cannot fix every systemic issue.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-impediment-mapping"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding organizational impediment mapping?",
+      "answer": "Identify policies and structures repeatedly slowing teams.",
+      "explanation": "Local coaching cannot fix every systemic issue.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-impediment-mapping"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for organizational impediment mapping?",
+      "answer": "Identify policies and structures repeatedly slowing teams.",
+      "explanation": "Local coaching cannot fix every systemic issue.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "organizational-impediment-mapping"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to manager as coach in professional Scrum practice?",
+      "answer": "Ask questions, clarify constraints, and grow capability instead of supplying every answer.",
+      "explanation": "Coaching fosters ownership.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "manager-as-coach"
+      ]
+    },
+    {
+      "question": "A team wants to improve manager as coach. What principle should guide its next action?",
+      "answer": "Ask questions, clarify constraints, and grow capability instead of supplying every answer.",
+      "explanation": "Coaching fosters ownership.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "manager-as-coach"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about manager as coach, what should practitioners emphasize?",
+      "answer": "Ask questions, clarify constraints, and grow capability instead of supplying every answer.",
+      "explanation": "Coaching fosters ownership.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "manager-as-coach"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding manager as coach?",
+      "answer": "Ask questions, clarify constraints, and grow capability instead of supplying every answer.",
+      "explanation": "Coaching fosters ownership.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "manager-as-coach"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for manager as coach?",
+      "answer": "Ask questions, clarify constraints, and grow capability instead of supplying every answer.",
+      "explanation": "Coaching fosters ownership.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "manager-as-coach"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to feedback culture in professional Scrum practice?",
+      "answer": "Treat mistakes as learning opportunities while addressing accountability fairly.",
+      "explanation": "Blame obscures the causes of failure.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "feedback-culture"
+      ]
+    },
+    {
+      "question": "A team wants to improve feedback culture. What principle should guide its next action?",
+      "answer": "Treat mistakes as learning opportunities while addressing accountability fairly.",
+      "explanation": "Blame obscures the causes of failure.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "feedback-culture"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about feedback culture, what should practitioners emphasize?",
+      "answer": "Treat mistakes as learning opportunities while addressing accountability fairly.",
+      "explanation": "Blame obscures the causes of failure.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "feedback-culture"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding feedback culture?",
+      "answer": "Treat mistakes as learning opportunities while addressing accountability fairly.",
+      "explanation": "Blame obscures the causes of failure.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "feedback-culture"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for feedback culture?",
+      "answer": "Treat mistakes as learning opportunities while addressing accountability fairly.",
+      "explanation": "Blame obscures the causes of failure.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "feedback-culture"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to decision rights in professional Scrum practice?",
+      "answer": "Make explicit who owns product, technical, and people decisions.",
+      "explanation": "Unclear authority causes delay and conflict.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "decision-rights"
+      ]
+    },
+    {
+      "question": "A team wants to improve decision rights. What principle should guide its next action?",
+      "answer": "Make explicit who owns product, technical, and people decisions.",
+      "explanation": "Unclear authority causes delay and conflict.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "decision-rights"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about decision rights, what should practitioners emphasize?",
+      "answer": "Make explicit who owns product, technical, and people decisions.",
+      "explanation": "Unclear authority causes delay and conflict.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "decision-rights"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding decision rights?",
+      "answer": "Make explicit who owns product, technical, and people decisions.",
+      "explanation": "Unclear authority causes delay and conflict.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "decision-rights"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for decision rights?",
+      "answer": "Make explicit who owns product, technical, and people decisions.",
+      "explanation": "Unclear authority causes delay and conflict.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "decision-rights"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to team stability in professional Scrum practice?",
+      "answer": "Protect teams from constant reshuffling when possible.",
+      "explanation": "Stable teams can build trust and knowledge.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-stability"
+      ]
+    },
+    {
+      "question": "A team wants to improve team stability. What principle should guide its next action?",
+      "answer": "Protect teams from constant reshuffling when possible.",
+      "explanation": "Stable teams can build trust and knowledge.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-stability"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about team stability, what should practitioners emphasize?",
+      "answer": "Protect teams from constant reshuffling when possible.",
+      "explanation": "Stable teams can build trust and knowledge.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-stability"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding team stability?",
+      "answer": "Protect teams from constant reshuffling when possible.",
+      "explanation": "Stable teams can build trust and knowledge.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-stability"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for team stability?",
+      "answer": "Protect teams from constant reshuffling when possible.",
+      "explanation": "Stable teams can build trust and knowledge.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-stability"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to strategic alignment in professional Scrum practice?",
+      "answer": "Connect team goals to customer and organizational strategy.",
+      "explanation": "Alignment should not require central task assignment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "strategic-alignment"
+      ]
+    },
+    {
+      "question": "A team wants to improve strategic alignment. What principle should guide its next action?",
+      "answer": "Connect team goals to customer and organizational strategy.",
+      "explanation": "Alignment should not require central task assignment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "strategic-alignment"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about strategic alignment, what should practitioners emphasize?",
+      "answer": "Connect team goals to customer and organizational strategy.",
+      "explanation": "Alignment should not require central task assignment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "strategic-alignment"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding strategic alignment?",
+      "answer": "Connect team goals to customer and organizational strategy.",
+      "explanation": "Alignment should not require central task assignment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "strategic-alignment"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for strategic alignment?",
+      "answer": "Connect team goals to customer and organizational strategy.",
+      "explanation": "Alignment should not require central task assignment.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "strategic-alignment"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to cross-team dependency reduction in professional Scrum practice?",
+      "answer": "Remove functional silos and help teams develop needed skills.",
+      "explanation": "Dependencies cause handoffs and queues.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "cross-team-dependency-reduction"
+      ]
+    },
+    {
+      "question": "A team wants to improve cross-team dependency reduction. What principle should guide its next action?",
+      "answer": "Remove functional silos and help teams develop needed skills.",
+      "explanation": "Dependencies cause handoffs and queues.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "cross-team-dependency-reduction"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about cross-team dependency reduction, what should practitioners emphasize?",
+      "answer": "Remove functional silos and help teams develop needed skills.",
+      "explanation": "Dependencies cause handoffs and queues.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "cross-team-dependency-reduction"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding cross-team dependency reduction?",
+      "answer": "Remove functional silos and help teams develop needed skills.",
+      "explanation": "Dependencies cause handoffs and queues.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "cross-team-dependency-reduction"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for cross-team dependency reduction?",
+      "answer": "Remove functional silos and help teams develop needed skills.",
+      "explanation": "Dependencies cause handoffs and queues.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "cross-team-dependency-reduction"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to conflict handling in professional Scrum practice?",
+      "answer": "Facilitate respectful discussion of differing interpretations and interests.",
+      "explanation": "Healthy conflict can improve decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "conflict-handling"
+      ]
+    },
+    {
+      "question": "A team wants to improve conflict handling. What principle should guide its next action?",
+      "answer": "Facilitate respectful discussion of differing interpretations and interests.",
+      "explanation": "Healthy conflict can improve decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "conflict-handling"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about conflict handling, what should practitioners emphasize?",
+      "answer": "Facilitate respectful discussion of differing interpretations and interests.",
+      "explanation": "Healthy conflict can improve decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "conflict-handling"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding conflict handling?",
+      "answer": "Facilitate respectful discussion of differing interpretations and interests.",
+      "explanation": "Healthy conflict can improve decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "conflict-handling"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for conflict handling?",
+      "answer": "Facilitate respectful discussion of differing interpretations and interests.",
+      "explanation": "Healthy conflict can improve decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "conflict-handling"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to experiment guardrails in professional Scrum practice?",
+      "answer": "Set safety, legal, and budget boundaries while letting teams test alternatives.",
+      "explanation": "Guardrails enable responsible autonomy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "experiment-guardrails"
+      ]
+    },
+    {
+      "question": "A team wants to improve experiment guardrails. What principle should guide its next action?",
+      "answer": "Set safety, legal, and budget boundaries while letting teams test alternatives.",
+      "explanation": "Guardrails enable responsible autonomy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "experiment-guardrails"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about experiment guardrails, what should practitioners emphasize?",
+      "answer": "Set safety, legal, and budget boundaries while letting teams test alternatives.",
+      "explanation": "Guardrails enable responsible autonomy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "experiment-guardrails"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding experiment guardrails?",
+      "answer": "Set safety, legal, and budget boundaries while letting teams test alternatives.",
+      "explanation": "Guardrails enable responsible autonomy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "experiment-guardrails"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for experiment guardrails?",
+      "answer": "Set safety, legal, and budget boundaries while letting teams test alternatives.",
+      "explanation": "Guardrails enable responsible autonomy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "experiment-guardrails"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to recognition systems in professional Scrum practice?",
+      "answer": "Reward collaboration, learning, and customer outcomes rather than heroics alone.",
+      "explanation": "Incentives shape behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "recognition-systems"
+      ]
+    },
+    {
+      "question": "A team wants to improve recognition systems. What principle should guide its next action?",
+      "answer": "Reward collaboration, learning, and customer outcomes rather than heroics alone.",
+      "explanation": "Incentives shape behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "recognition-systems"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about recognition systems, what should practitioners emphasize?",
+      "answer": "Reward collaboration, learning, and customer outcomes rather than heroics alone.",
+      "explanation": "Incentives shape behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "recognition-systems"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding recognition systems?",
+      "answer": "Reward collaboration, learning, and customer outcomes rather than heroics alone.",
+      "explanation": "Incentives shape behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "recognition-systems"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for recognition systems?",
+      "answer": "Reward collaboration, learning, and customer outcomes rather than heroics alone.",
+      "explanation": "Incentives shape behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "recognition-systems"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to performance reviews in professional Scrum practice?",
+      "answer": "Avoid using team velocity as an individual appraisal measure.",
+      "explanation": "Velocity is neither person-level productivity nor customer value.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "performance-reviews"
+      ]
+    },
+    {
+      "question": "A team wants to improve performance reviews. What principle should guide its next action?",
+      "answer": "Avoid using team velocity as an individual appraisal measure.",
+      "explanation": "Velocity is neither person-level productivity nor customer value.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "performance-reviews"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about performance reviews, what should practitioners emphasize?",
+      "answer": "Avoid using team velocity as an individual appraisal measure.",
+      "explanation": "Velocity is neither person-level productivity nor customer value.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "performance-reviews"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding performance reviews?",
+      "answer": "Avoid using team velocity as an individual appraisal measure.",
+      "explanation": "Velocity is neither person-level productivity nor customer value.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "performance-reviews"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for performance reviews?",
+      "answer": "Avoid using team velocity as an individual appraisal measure.",
+      "explanation": "Velocity is neither person-level productivity nor customer value.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "performance-reviews"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to leadership transparency in professional Scrum practice?",
+      "answer": "Share business constraints and decision rationale with affected teams.",
+      "explanation": "Information asymmetry weakens self-management.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-transparency"
+      ]
+    },
+    {
+      "question": "A team wants to improve leadership transparency. What principle should guide its next action?",
+      "answer": "Share business constraints and decision rationale with affected teams.",
+      "explanation": "Information asymmetry weakens self-management.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-transparency"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about leadership transparency, what should practitioners emphasize?",
+      "answer": "Share business constraints and decision rationale with affected teams.",
+      "explanation": "Information asymmetry weakens self-management.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-transparency"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding leadership transparency?",
+      "answer": "Share business constraints and decision rationale with affected teams.",
+      "explanation": "Information asymmetry weakens self-management.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-transparency"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for leadership transparency?",
+      "answer": "Share business constraints and decision rationale with affected teams.",
+      "explanation": "Information asymmetry weakens self-management.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leadership-transparency"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to resistance to change in professional Scrum practice?",
+      "answer": "Listen to concerns and address real constraints before labeling people resistant.",
+      "explanation": "Change fatigue may be rational.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resistance-to-change"
+      ]
+    },
+    {
+      "question": "A team wants to improve resistance to change. What principle should guide its next action?",
+      "answer": "Listen to concerns and address real constraints before labeling people resistant.",
+      "explanation": "Change fatigue may be rational.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resistance-to-change"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about resistance to change, what should practitioners emphasize?",
+      "answer": "Listen to concerns and address real constraints before labeling people resistant.",
+      "explanation": "Change fatigue may be rational.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resistance-to-change"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding resistance to change?",
+      "answer": "Listen to concerns and address real constraints before labeling people resistant.",
+      "explanation": "Change fatigue may be rational.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resistance-to-change"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for resistance to change?",
+      "answer": "Listen to concerns and address real constraints before labeling people resistant.",
+      "explanation": "Change fatigue may be rational.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "resistance-to-change"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sustainable delivery in professional Scrum practice?",
+      "answer": "Address overwork and quality erosion through systemic improvements.",
+      "explanation": "Burnout is not a scalable delivery strategy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "sustainable-delivery"
+      ]
+    },
+    {
+      "question": "A team wants to improve sustainable delivery. What principle should guide its next action?",
+      "answer": "Address overwork and quality erosion through systemic improvements.",
+      "explanation": "Burnout is not a scalable delivery strategy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "sustainable-delivery"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sustainable delivery, what should practitioners emphasize?",
+      "answer": "Address overwork and quality erosion through systemic improvements.",
+      "explanation": "Burnout is not a scalable delivery strategy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "sustainable-delivery"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sustainable delivery?",
+      "answer": "Address overwork and quality erosion through systemic improvements.",
+      "explanation": "Burnout is not a scalable delivery strategy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "sustainable-delivery"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sustainable delivery?",
+      "answer": "Address overwork and quality erosion through systemic improvements.",
+      "explanation": "Burnout is not a scalable delivery strategy.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "sustainable-delivery"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to customer feedback access in professional Scrum practice?",
+      "answer": "Enable teams to learn directly from users and stakeholders.",
+      "explanation": "Indirect reporting delays learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "customer-feedback-access"
+      ]
+    },
+    {
+      "question": "A team wants to improve customer feedback access. What principle should guide its next action?",
+      "answer": "Enable teams to learn directly from users and stakeholders.",
+      "explanation": "Indirect reporting delays learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "customer-feedback-access"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about customer feedback access, what should practitioners emphasize?",
+      "answer": "Enable teams to learn directly from users and stakeholders.",
+      "explanation": "Indirect reporting delays learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "customer-feedback-access"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding customer feedback access?",
+      "answer": "Enable teams to learn directly from users and stakeholders.",
+      "explanation": "Indirect reporting delays learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "customer-feedback-access"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for customer feedback access?",
+      "answer": "Enable teams to learn directly from users and stakeholders.",
+      "explanation": "Indirect reporting delays learning.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "customer-feedback-access"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to continuous improvement in professional Scrum practice?",
+      "answer": "Make improvement work visible and allow capacity for it.",
+      "explanation": "Teams cannot improve when every moment is allocated to output.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "A team wants to improve continuous improvement. What principle should guide its next action?",
+      "answer": "Make improvement work visible and allow capacity for it.",
+      "explanation": "Teams cannot improve when every moment is allocated to output.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about continuous improvement, what should practitioners emphasize?",
+      "answer": "Make improvement work visible and allow capacity for it.",
+      "explanation": "Teams cannot improve when every moment is allocated to output.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding continuous improvement?",
+      "answer": "Make improvement work visible and allow capacity for it.",
+      "explanation": "Teams cannot improve when every moment is allocated to output.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for continuous improvement?",
+      "answer": "Make improvement work visible and allow capacity for it.",
+      "explanation": "Teams cannot improve when every moment is allocated to output.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to evidence-based management in professional Scrum practice?",
+      "answer": "Use measurable outcomes and organizational capabilities to steer improvement.",
+      "explanation": "Evidence matters more than optimistic status slides.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "evidence-based-management"
+      ]
+    },
+    {
+      "question": "A team wants to improve evidence-based management. What principle should guide its next action?",
+      "answer": "Use measurable outcomes and organizational capabilities to steer improvement.",
+      "explanation": "Evidence matters more than optimistic status slides.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "evidence-based-management"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about evidence-based management, what should practitioners emphasize?",
+      "answer": "Use measurable outcomes and organizational capabilities to steer improvement.",
+      "explanation": "Evidence matters more than optimistic status slides.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "evidence-based-management"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding evidence-based management?",
+      "answer": "Use measurable outcomes and organizational capabilities to steer improvement.",
+      "explanation": "Evidence matters more than optimistic status slides.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "evidence-based-management"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for evidence-based management?",
+      "answer": "Use measurable outcomes and organizational capabilities to steer improvement.",
+      "explanation": "Evidence matters more than optimistic status slides.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "evidence-based-management"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to system optimization in professional Scrum practice?",
+      "answer": "Look at total lead time and delivered value, not only local department efficiency.",
+      "explanation": "Local optimization can worsen overall flow.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "system-optimization"
+      ]
+    },
+    {
+      "question": "A team wants to improve system optimization. What principle should guide its next action?",
+      "answer": "Look at total lead time and delivered value, not only local department efficiency.",
+      "explanation": "Local optimization can worsen overall flow.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "system-optimization"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about system optimization, what should practitioners emphasize?",
+      "answer": "Look at total lead time and delivered value, not only local department efficiency.",
+      "explanation": "Local optimization can worsen overall flow.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "system-optimization"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding system optimization?",
+      "answer": "Look at total lead time and delivered value, not only local department efficiency.",
+      "explanation": "Local optimization can worsen overall flow.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "system-optimization"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for system optimization?",
+      "answer": "Look at total lead time and delivered value, not only local department efficiency.",
+      "explanation": "Local optimization can worsen overall flow.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "system-optimization"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to team boundaries in professional Scrum practice?",
+      "answer": "Organize teams around product value and minimize hard handoffs.",
+      "explanation": "Structure influences delivery performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-boundaries"
+      ]
+    },
+    {
+      "question": "A team wants to improve team boundaries. What principle should guide its next action?",
+      "answer": "Organize teams around product value and minimize hard handoffs.",
+      "explanation": "Structure influences delivery performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-boundaries"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about team boundaries, what should practitioners emphasize?",
+      "answer": "Organize teams around product value and minimize hard handoffs.",
+      "explanation": "Structure influences delivery performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-boundaries"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding team boundaries?",
+      "answer": "Organize teams around product value and minimize hard handoffs.",
+      "explanation": "Structure influences delivery performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-boundaries"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for team boundaries?",
+      "answer": "Organize teams around product value and minimize hard handoffs.",
+      "explanation": "Structure influences delivery performance.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "team-boundaries"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to governance evolution in professional Scrum practice?",
+      "answer": "Replace unnecessary approval gates with transparent policies and risk-based controls.",
+      "explanation": "Governance should enable responsible fast decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "governance-evolution"
+      ]
+    },
+    {
+      "question": "A team wants to improve governance evolution. What principle should guide its next action?",
+      "answer": "Replace unnecessary approval gates with transparent policies and risk-based controls.",
+      "explanation": "Governance should enable responsible fast decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "governance-evolution"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about governance evolution, what should practitioners emphasize?",
+      "answer": "Replace unnecessary approval gates with transparent policies and risk-based controls.",
+      "explanation": "Governance should enable responsible fast decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "governance-evolution"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding governance evolution?",
+      "answer": "Replace unnecessary approval gates with transparent policies and risk-based controls.",
+      "explanation": "Governance should enable responsible fast decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "governance-evolution"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for governance evolution?",
+      "answer": "Replace unnecessary approval gates with transparent policies and risk-based controls.",
+      "explanation": "Governance should enable responsible fast decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "governance-evolution"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to hiring for cross-functionality in professional Scrum practice?",
+      "answer": "Build teams with complementary skills and collaborative behavior.",
+      "explanation": "Collective capability matters more than rigid job silos.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "hiring-for-cross-functionality"
+      ]
+    },
+    {
+      "question": "A team wants to improve hiring for cross-functionality. What principle should guide its next action?",
+      "answer": "Build teams with complementary skills and collaborative behavior.",
+      "explanation": "Collective capability matters more than rigid job silos.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "hiring-for-cross-functionality"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about hiring for cross-functionality, what should practitioners emphasize?",
+      "answer": "Build teams with complementary skills and collaborative behavior.",
+      "explanation": "Collective capability matters more than rigid job silos.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "hiring-for-cross-functionality"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding hiring for cross-functionality?",
+      "answer": "Build teams with complementary skills and collaborative behavior.",
+      "explanation": "Collective capability matters more than rigid job silos.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "hiring-for-cross-functionality"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for hiring for cross-functionality?",
+      "answer": "Build teams with complementary skills and collaborative behavior.",
+      "explanation": "Collective capability matters more than rigid job silos.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "hiring-for-cross-functionality"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to leader response to failure in professional Scrum practice?",
+      "answer": "Ask what was learned and which conditions must change before assigning blame.",
+      "explanation": "Responses determine future openness.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leader-response-to-failure"
+      ]
+    },
+    {
+      "question": "A team wants to improve leader response to failure. What principle should guide its next action?",
+      "answer": "Ask what was learned and which conditions must change before assigning blame.",
+      "explanation": "Responses determine future openness.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leader-response-to-failure"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about leader response to failure, what should practitioners emphasize?",
+      "answer": "Ask what was learned and which conditions must change before assigning blame.",
+      "explanation": "Responses determine future openness.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leader-response-to-failure"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding leader response to failure?",
+      "answer": "Ask what was learned and which conditions must change before assigning blame.",
+      "explanation": "Responses determine future openness.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leader-response-to-failure"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for leader response to failure?",
+      "answer": "Ask what was learned and which conditions must change before assigning blame.",
+      "explanation": "Responses determine future openness.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "leader-response-to-failure"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to vision communication in professional Scrum practice?",
+      "answer": "Repeat the purpose and expected outcomes in practical terms.",
+      "explanation": "A slogan is insufficient to guide trade-offs.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "vision-communication"
+      ]
+    },
+    {
+      "question": "A team wants to improve vision communication. What principle should guide its next action?",
+      "answer": "Repeat the purpose and expected outcomes in practical terms.",
+      "explanation": "A slogan is insufficient to guide trade-offs.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "vision-communication"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about vision communication, what should practitioners emphasize?",
+      "answer": "Repeat the purpose and expected outcomes in practical terms.",
+      "explanation": "A slogan is insufficient to guide trade-offs.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "vision-communication"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding vision communication?",
+      "answer": "Repeat the purpose and expected outcomes in practical terms.",
+      "explanation": "A slogan is insufficient to guide trade-offs.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "vision-communication"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for vision communication?",
+      "answer": "Repeat the purpose and expected outcomes in practical terms.",
+      "explanation": "A slogan is insufficient to guide trade-offs.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "vision-communication"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to stakeholder alignment in professional Scrum practice?",
+      "answer": "Bring leaders and product decision makers into regular evidence-based conversations.",
+      "explanation": "Alignment emerges from visibility and choices.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "stakeholder-alignment"
+      ]
+    },
+    {
+      "question": "A team wants to improve stakeholder alignment. What principle should guide its next action?",
+      "answer": "Bring leaders and product decision makers into regular evidence-based conversations.",
+      "explanation": "Alignment emerges from visibility and choices.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "stakeholder-alignment"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about stakeholder alignment, what should practitioners emphasize?",
+      "answer": "Bring leaders and product decision makers into regular evidence-based conversations.",
+      "explanation": "Alignment emerges from visibility and choices.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "stakeholder-alignment"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding stakeholder alignment?",
+      "answer": "Bring leaders and product decision makers into regular evidence-based conversations.",
+      "explanation": "Alignment emerges from visibility and choices.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "stakeholder-alignment"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for stakeholder alignment?",
+      "answer": "Bring leaders and product decision makers into regular evidence-based conversations.",
+      "explanation": "Alignment emerges from visibility and choices.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "stakeholder-alignment"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to coaching scrum adoption in professional Scrum practice?",
+      "answer": "Inspect actual organizational outcomes rather than enforcing ritual adherence alone.",
+      "explanation": "Scrum events only help when empiricism changes decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "coaching-scrum-adoption"
+      ]
+    },
+    {
+      "question": "A team wants to improve coaching scrum adoption. What principle should guide its next action?",
+      "answer": "Inspect actual organizational outcomes rather than enforcing ritual adherence alone.",
+      "explanation": "Scrum events only help when empiricism changes decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "coaching-scrum-adoption"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about coaching scrum adoption, what should practitioners emphasize?",
+      "answer": "Inspect actual organizational outcomes rather than enforcing ritual adherence alone.",
+      "explanation": "Scrum events only help when empiricism changes decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "coaching-scrum-adoption"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding coaching scrum adoption?",
+      "answer": "Inspect actual organizational outcomes rather than enforcing ritual adherence alone.",
+      "explanation": "Scrum events only help when empiricism changes decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "coaching-scrum-adoption"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for coaching scrum adoption?",
+      "answer": "Inspect actual organizational outcomes rather than enforcing ritual adherence alone.",
+      "explanation": "Scrum events only help when empiricism changes decisions.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "coaching-scrum-adoption"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to ethical leadership in professional Scrum practice?",
+      "answer": "Protect customers and employees while pursuing measurable results.",
+      "explanation": "Value cannot be divorced from responsible behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "ethical-leadership"
+      ]
+    },
+    {
+      "question": "A team wants to improve ethical leadership. What principle should guide its next action?",
+      "answer": "Protect customers and employees while pursuing measurable results.",
+      "explanation": "Value cannot be divorced from responsible behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "ethical-leadership"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about ethical leadership, what should practitioners emphasize?",
+      "answer": "Protect customers and employees while pursuing measurable results.",
+      "explanation": "Value cannot be divorced from responsible behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "ethical-leadership"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding ethical leadership?",
+      "answer": "Protect customers and employees while pursuing measurable results.",
+      "explanation": "Value cannot be divorced from responsible behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "ethical-leadership"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for ethical leadership?",
+      "answer": "Protect customers and employees while pursuing measurable results.",
+      "explanation": "Value cannot be divorced from responsible behavior.",
+      "language": "en",
+      "tags": [
+        "pali",
+        "ethical-leadership"
+      ]
+    }
+  ]
+}

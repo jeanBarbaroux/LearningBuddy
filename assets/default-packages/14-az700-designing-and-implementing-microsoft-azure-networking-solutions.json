@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "AZ700 Designing and Implementing Microsoft Azure Networking Solutions",
+  "cards": [
+    {
+      "question": "What is an Azure virtual network?",
+      "answer": "A private network boundary for Azure resources to communicate using IP addressing.",
+      "explanation": "A private network boundary for Azure resources to communicate using IP addressing. This is a core concept within virtual networks.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "virtual-networks",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing virtual networks. What is an Azure virtual network?",
+      "answer": "A private network boundary for Azure resources to communicate using IP addressing.",
+      "explanation": "The correct consideration is: A private network boundary for Azure resources to communicate using IP addressing. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "virtual-networks",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about virtual networks: What is an Azure virtual network?",
+      "answer": "A private network boundary for Azure resources to communicate using IP addressing.",
+      "explanation": "A private network boundary for Azure resources to communicate using IP addressing. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "virtual-networks",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on virtual networks, answer the following: What is an Azure virtual network?",
+      "answer": "A private network boundary for Azure resources to communicate using IP addressing.",
+      "explanation": "A private network boundary for Azure resources to communicate using IP addressing. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "virtual-networks",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why divide a virtual network into subnets?",
+      "answer": "To organize address ranges and apply network controls to groups of resources.",
+      "explanation": "To organize address ranges and apply network controls to groups of resources. This is a core concept within subnets.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "subnets",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing subnets. Why divide a virtual network into subnets?",
+      "answer": "To organize address ranges and apply network controls to groups of resources.",
+      "explanation": "The correct consideration is: To organize address ranges and apply network controls to groups of resources. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "subnets",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about subnets: Why divide a virtual network into subnets?",
+      "answer": "To organize address ranges and apply network controls to groups of resources.",
+      "explanation": "To organize address ranges and apply network controls to groups of resources. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "subnets",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on subnets, answer the following: Why divide a virtual network into subnets?",
+      "answer": "To organize address ranges and apply network controls to groups of resources.",
+      "explanation": "To organize address ranges and apply network controls to groups of resources. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "subnets",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why avoid overlapping private IP ranges between connected networks?",
+      "answer": "Overlapping prefixes complicate routing and can prevent reliable connectivity.",
+      "explanation": "Overlapping prefixes complicate routing and can prevent reliable connectivity. This is a core concept within address overlap.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "address-overlap",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing address overlap. Why avoid overlapping private IP ranges between connected networks?",
+      "answer": "Overlapping prefixes complicate routing and can prevent reliable connectivity.",
+      "explanation": "The correct consideration is: Overlapping prefixes complicate routing and can prevent reliable connectivity. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "address-overlap",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about address overlap: Why avoid overlapping private IP ranges between connected networks?",
+      "answer": "Overlapping prefixes complicate routing and can prevent reliable connectivity.",
+      "explanation": "Overlapping prefixes complicate routing and can prevent reliable connectivity. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "address-overlap",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on address overlap, answer the following: Why avoid overlapping private IP ranges between connected networks?",
+      "answer": "Overlapping prefixes complicate routing and can prevent reliable connectivity.",
+      "explanation": "Overlapping prefixes complicate routing and can prevent reliable connectivity. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "address-overlap",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does virtual network peering provide?",
+      "answer": "Private connectivity between Azure virtual networks over Microsoft's backbone.",
+      "explanation": "Private connectivity between Azure virtual networks over Microsoft's backbone. This is a core concept within vnet peering.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "vnet-peering",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing vnet peering. What does virtual network peering provide?",
+      "answer": "Private connectivity between Azure virtual networks over Microsoft's backbone.",
+      "explanation": "The correct consideration is: Private connectivity between Azure virtual networks over Microsoft's backbone. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "vnet-peering",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about vnet peering: What does virtual network peering provide?",
+      "answer": "Private connectivity between Azure virtual networks over Microsoft's backbone.",
+      "explanation": "Private connectivity between Azure virtual networks over Microsoft's backbone. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "vnet-peering",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on vnet peering, answer the following: What does virtual network peering provide?",
+      "answer": "Private connectivity between Azure virtual networks over Microsoft's backbone.",
+      "explanation": "Private connectivity between Azure virtual networks over Microsoft's backbone. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "vnet-peering",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is global VNet peering relevant?",
+      "answer": "When virtual networks in different Azure regions must communicate privately.",
+      "explanation": "When virtual networks in different Azure regions must communicate privately. This is a core concept within global peering.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "global-peering",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing global peering. When is global VNet peering relevant?",
+      "answer": "When virtual networks in different Azure regions must communicate privately.",
+      "explanation": "The correct consideration is: When virtual networks in different Azure regions must communicate privately. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "global-peering",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about global peering: When is global VNet peering relevant?",
+      "answer": "When virtual networks in different Azure regions must communicate privately.",
+      "explanation": "When virtual networks in different Azure regions must communicate privately. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "global-peering",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on global peering, answer the following: When is global VNet peering relevant?",
+      "answer": "When virtual networks in different Azure regions must communicate privately.",
+      "explanation": "When virtual networks in different Azure regions must communicate privately. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "global-peering",
+        "practice"
+      ]
+    },
+    {
+      "question": "Does VNet peering automatically provide transitive routing across three VNets?",
+      "answer": "No. Additional network design, such as routing through an appliance, is required.",
+      "explanation": "No. Additional network design, such as routing through an appliance, is required. This is a core concept within peering transit.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "peering-transit",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing peering transit. Does VNet peering automatically provide transitive routing across three VNets?",
+      "answer": "No. Additional network design, such as routing through an appliance, is required.",
+      "explanation": "The correct consideration is: No. Additional network design, such as routing through an appliance, is required. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "peering-transit",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about peering transit: Does VNet peering automatically provide transitive routing across three VNets?",
+      "answer": "No. Additional network design, such as routing through an appliance, is required.",
+      "explanation": "No. Additional network design, such as routing through an appliance, is required. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "peering-transit",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on peering transit, answer the following: Does VNet peering automatically provide transitive routing across three VNets?",
+      "answer": "No. Additional network design, such as routing through an appliance, is required.",
+      "explanation": "No. Additional network design, such as routing through an appliance, is required. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "peering-transit",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does a user-defined route control?",
+      "answer": "The next hop selected for traffic matching a specified destination prefix.",
+      "explanation": "The next hop selected for traffic matching a specified destination prefix. This is a core concept within user-defined routes.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "user-defined-routes",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing user-defined routes. What does a user-defined route control?",
+      "answer": "The next hop selected for traffic matching a specified destination prefix.",
+      "explanation": "The correct consideration is: The next hop selected for traffic matching a specified destination prefix. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "user-defined-routes",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about user-defined routes: What does a user-defined route control?",
+      "answer": "The next hop selected for traffic matching a specified destination prefix.",
+      "explanation": "The next hop selected for traffic matching a specified destination prefix. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "user-defined-routes",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on user-defined routes, answer the following: What does a user-defined route control?",
+      "answer": "The next hop selected for traffic matching a specified destination prefix.",
+      "explanation": "The next hop selected for traffic matching a specified destination prefix. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "user-defined-routes",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why inspect effective routes on a network interface?",
+      "answer": "To see the actual routing decisions after system and custom routes are combined.",
+      "explanation": "To see the actual routing decisions after system and custom routes are combined. This is a core concept within route precedence.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "route-precedence",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing route precedence. Why inspect effective routes on a network interface?",
+      "answer": "To see the actual routing decisions after system and custom routes are combined.",
+      "explanation": "The correct consideration is: To see the actual routing decisions after system and custom routes are combined. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "route-precedence",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about route precedence: Why inspect effective routes on a network interface?",
+      "answer": "To see the actual routing decisions after system and custom routes are combined.",
+      "explanation": "To see the actual routing decisions after system and custom routes are combined. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "route-precedence",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on route precedence, answer the following: Why inspect effective routes on a network interface?",
+      "answer": "To see the actual routing decisions after system and custom routes are combined.",
+      "explanation": "To see the actual routing decisions after system and custom routes are combined. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "route-precedence",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a network security group used for?",
+      "answer": "Allowing or denying network traffic based on rules for direction, ports, protocols, and addresses.",
+      "explanation": "Allowing or denying network traffic based on rules for direction, ports, protocols, and addresses. This is a core concept within nsg.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nsg",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing nsg. What is a network security group used for?",
+      "answer": "Allowing or denying network traffic based on rules for direction, ports, protocols, and addresses.",
+      "explanation": "The correct consideration is: Allowing or denying network traffic based on rules for direction, ports, protocols, and addresses. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nsg",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about nsg: What is a network security group used for?",
+      "answer": "Allowing or denying network traffic based on rules for direction, ports, protocols, and addresses.",
+      "explanation": "Allowing or denying network traffic based on rules for direction, ports, protocols, and addresses. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nsg",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on nsg, answer the following: What is a network security group used for?",
+      "answer": "Allowing or denying network traffic based on rules for direction, ports, protocols, and addresses.",
+      "explanation": "Allowing or denying network traffic based on rules for direction, ports, protocols, and addresses. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nsg",
+        "practice"
+      ]
+    },
+    {
+      "question": "How are conflicting NSG rules evaluated?",
+      "answer": "By numerical priority, with lower priority numbers evaluated first.",
+      "explanation": "By numerical priority, with lower priority numbers evaluated first. This is a core concept within nsg priority.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nsg-priority",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing nsg priority. How are conflicting NSG rules evaluated?",
+      "answer": "By numerical priority, with lower priority numbers evaluated first.",
+      "explanation": "The correct consideration is: By numerical priority, with lower priority numbers evaluated first. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nsg-priority",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about nsg priority: How are conflicting NSG rules evaluated?",
+      "answer": "By numerical priority, with lower priority numbers evaluated first.",
+      "explanation": "By numerical priority, with lower priority numbers evaluated first. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nsg-priority",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on nsg priority, answer the following: How are conflicting NSG rules evaluated?",
+      "answer": "By numerical priority, with lower priority numbers evaluated first.",
+      "explanation": "By numerical priority, with lower priority numbers evaluated first. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nsg-priority",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why use application security groups?",
+      "answer": "To group VM network interfaces logically for NSG rules without maintaining explicit IP lists.",
+      "explanation": "To group VM network interfaces logically for NSG rules without maintaining explicit IP lists. This is a core concept within application security groups.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "application-security-groups",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing application security groups. Why use application security groups?",
+      "answer": "To group VM network interfaces logically for NSG rules without maintaining explicit IP lists.",
+      "explanation": "The correct consideration is: To group VM network interfaces logically for NSG rules without maintaining explicit IP lists. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "application-security-groups",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about application security groups: Why use application security groups?",
+      "answer": "To group VM network interfaces logically for NSG rules without maintaining explicit IP lists.",
+      "explanation": "To group VM network interfaces logically for NSG rules without maintaining explicit IP lists. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "application-security-groups",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on application security groups, answer the following: Why use application security groups?",
+      "answer": "To group VM network interfaces logically for NSG rules without maintaining explicit IP lists.",
+      "explanation": "To group VM network interfaces logically for NSG rules without maintaining explicit IP lists. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "application-security-groups",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is Azure Firewall?",
+      "answer": "A managed stateful network security service for centrally filtering and logging traffic.",
+      "explanation": "A managed stateful network security service for centrally filtering and logging traffic. This is a core concept within azure firewall.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "azure-firewall",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing azure firewall. What is Azure Firewall?",
+      "answer": "A managed stateful network security service for centrally filtering and logging traffic.",
+      "explanation": "The correct consideration is: A managed stateful network security service for centrally filtering and logging traffic. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "azure-firewall",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about azure firewall: What is Azure Firewall?",
+      "answer": "A managed stateful network security service for centrally filtering and logging traffic.",
+      "explanation": "A managed stateful network security service for centrally filtering and logging traffic. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "azure-firewall",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on azure firewall, answer the following: What is Azure Firewall?",
+      "answer": "A managed stateful network security service for centrally filtering and logging traffic.",
+      "explanation": "A managed stateful network security service for centrally filtering and logging traffic. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "azure-firewall",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why centralize rules in Azure Firewall Policy?",
+      "answer": "To manage and reuse consistent firewall settings and rule collections.",
+      "explanation": "To manage and reuse consistent firewall settings and rule collections. This is a core concept within firewall policy.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "firewall-policy",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing firewall policy. Why centralize rules in Azure Firewall Policy?",
+      "answer": "To manage and reuse consistent firewall settings and rule collections.",
+      "explanation": "The correct consideration is: To manage and reuse consistent firewall settings and rule collections. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "firewall-policy",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about firewall policy: Why centralize rules in Azure Firewall Policy?",
+      "answer": "To manage and reuse consistent firewall settings and rule collections.",
+      "explanation": "To manage and reuse consistent firewall settings and rule collections. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "firewall-policy",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on firewall policy, answer the following: Why centralize rules in Azure Firewall Policy?",
+      "answer": "To manage and reuse consistent firewall settings and rule collections.",
+      "explanation": "To manage and reuse consistent firewall settings and rule collections. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "firewall-policy",
+        "practice"
+      ]
+    },
+    {
+      "question": "What threat is Azure DDoS Protection designed to mitigate?",
+      "answer": "Distributed denial-of-service attacks that overwhelm network endpoints.",
+      "explanation": "Distributed denial-of-service attacks that overwhelm network endpoints. This is a core concept within ddos protection.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ddos-protection",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing ddos protection. What threat is Azure DDoS Protection designed to mitigate?",
+      "answer": "Distributed denial-of-service attacks that overwhelm network endpoints.",
+      "explanation": "The correct consideration is: Distributed denial-of-service attacks that overwhelm network endpoints. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ddos-protection",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about ddos protection: What threat is Azure DDoS Protection designed to mitigate?",
+      "answer": "Distributed denial-of-service attacks that overwhelm network endpoints.",
+      "explanation": "Distributed denial-of-service attacks that overwhelm network endpoints. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ddos-protection",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on ddos protection, answer the following: What threat is Azure DDoS Protection designed to mitigate?",
+      "answer": "Distributed denial-of-service attacks that overwhelm network endpoints.",
+      "explanation": "Distributed denial-of-service attacks that overwhelm network endpoints. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ddos-protection",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does Azure VPN Gateway connect?",
+      "answer": "Azure virtual networks with on-premises networks or clients using encrypted VPN tunnels.",
+      "explanation": "Azure virtual networks with on-premises networks or clients using encrypted VPN tunnels. This is a core concept within vpn gateway.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "vpn-gateway",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing vpn gateway. What does Azure VPN Gateway connect?",
+      "answer": "Azure virtual networks with on-premises networks or clients using encrypted VPN tunnels.",
+      "explanation": "The correct consideration is: Azure virtual networks with on-premises networks or clients using encrypted VPN tunnels. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "vpn-gateway",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about vpn gateway: What does Azure VPN Gateway connect?",
+      "answer": "Azure virtual networks with on-premises networks or clients using encrypted VPN tunnels.",
+      "explanation": "Azure virtual networks with on-premises networks or clients using encrypted VPN tunnels. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "vpn-gateway",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on vpn gateway, answer the following: What does Azure VPN Gateway connect?",
+      "answer": "Azure virtual networks with on-premises networks or clients using encrypted VPN tunnels.",
+      "explanation": "Azure virtual networks with on-premises networks or clients using encrypted VPN tunnels. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "vpn-gateway",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is a site-to-site VPN appropriate?",
+      "answer": "When an on-premises network needs an encrypted tunnel to Azure across the internet.",
+      "explanation": "When an on-premises network needs an encrypted tunnel to Azure across the internet. This is a core concept within site-to-site vpn.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "site-to-site-vpn",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing site-to-site vpn. When is a site-to-site VPN appropriate?",
+      "answer": "When an on-premises network needs an encrypted tunnel to Azure across the internet.",
+      "explanation": "The correct consideration is: When an on-premises network needs an encrypted tunnel to Azure across the internet. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "site-to-site-vpn",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about site-to-site vpn: When is a site-to-site VPN appropriate?",
+      "answer": "When an on-premises network needs an encrypted tunnel to Azure across the internet.",
+      "explanation": "When an on-premises network needs an encrypted tunnel to Azure across the internet. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "site-to-site-vpn",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on site-to-site vpn, answer the following: When is a site-to-site VPN appropriate?",
+      "answer": "When an on-premises network needs an encrypted tunnel to Azure across the internet.",
+      "explanation": "When an on-premises network needs an encrypted tunnel to Azure across the internet. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "site-to-site-vpn",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is point-to-site VPN most appropriate?",
+      "answer": "When individual remote devices need secure access to an Azure network.",
+      "explanation": "When individual remote devices need secure access to an Azure network. This is a core concept within point-to-site vpn.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "point-to-site-vpn",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing point-to-site vpn. When is point-to-site VPN most appropriate?",
+      "answer": "When individual remote devices need secure access to an Azure network.",
+      "explanation": "The correct consideration is: When individual remote devices need secure access to an Azure network. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "point-to-site-vpn",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about point-to-site vpn: When is point-to-site VPN most appropriate?",
+      "answer": "When individual remote devices need secure access to an Azure network.",
+      "explanation": "When individual remote devices need secure access to an Azure network. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "point-to-site-vpn",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on point-to-site vpn, answer the following: When is point-to-site VPN most appropriate?",
+      "answer": "When individual remote devices need secure access to an Azure network.",
+      "explanation": "When individual remote devices need secure access to an Azure network. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "point-to-site-vpn",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is the distinguishing feature of Azure ExpressRoute?",
+      "answer": "Private connectivity to Microsoft cloud services through a connectivity provider.",
+      "explanation": "Private connectivity to Microsoft cloud services through a connectivity provider. This is a core concept within expressroute.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "expressroute",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing expressroute. What is the distinguishing feature of Azure ExpressRoute?",
+      "answer": "Private connectivity to Microsoft cloud services through a connectivity provider.",
+      "explanation": "The correct consideration is: Private connectivity to Microsoft cloud services through a connectivity provider. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "expressroute",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about expressroute: What is the distinguishing feature of Azure ExpressRoute?",
+      "answer": "Private connectivity to Microsoft cloud services through a connectivity provider.",
+      "explanation": "Private connectivity to Microsoft cloud services through a connectivity provider. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "expressroute",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on expressroute, answer the following: What is the distinguishing feature of Azure ExpressRoute?",
+      "answer": "Private connectivity to Microsoft cloud services through a connectivity provider.",
+      "explanation": "Private connectivity to Microsoft cloud services through a connectivity provider. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "expressroute",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why design redundant ExpressRoute connectivity?",
+      "answer": "To reduce single points of failure in hybrid network access.",
+      "explanation": "To reduce single points of failure in hybrid network access. This is a core concept within expressroute resilience.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "expressroute-resilience",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing expressroute resilience. Why design redundant ExpressRoute connectivity?",
+      "answer": "To reduce single points of failure in hybrid network access.",
+      "explanation": "The correct consideration is: To reduce single points of failure in hybrid network access. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "expressroute-resilience",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about expressroute resilience: Why design redundant ExpressRoute connectivity?",
+      "answer": "To reduce single points of failure in hybrid network access.",
+      "explanation": "To reduce single points of failure in hybrid network access. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "expressroute-resilience",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on expressroute resilience, answer the following: Why design redundant ExpressRoute connectivity?",
+      "answer": "To reduce single points of failure in hybrid network access.",
+      "explanation": "To reduce single points of failure in hybrid network access. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "expressroute-resilience",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is Azure Virtual WAN intended to simplify?",
+      "answer": "Large-scale hub connectivity, routing, and branch or remote-user network integration.",
+      "explanation": "Large-scale hub connectivity, routing, and branch or remote-user network integration. This is a core concept within virtual wan.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "virtual-wan",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing virtual wan. What is Azure Virtual WAN intended to simplify?",
+      "answer": "Large-scale hub connectivity, routing, and branch or remote-user network integration.",
+      "explanation": "The correct consideration is: Large-scale hub connectivity, routing, and branch or remote-user network integration. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "virtual-wan",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about virtual wan: What is Azure Virtual WAN intended to simplify?",
+      "answer": "Large-scale hub connectivity, routing, and branch or remote-user network integration.",
+      "explanation": "Large-scale hub connectivity, routing, and branch or remote-user network integration. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "virtual-wan",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on virtual wan, answer the following: What is Azure Virtual WAN intended to simplify?",
+      "answer": "Large-scale hub connectivity, routing, and branch or remote-user network integration.",
+      "explanation": "Large-scale hub connectivity, routing, and branch or remote-user network integration. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "virtual-wan",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why adopt a hub-and-spoke network topology?",
+      "answer": "To centralize shared connectivity and security services while separating application networks.",
+      "explanation": "To centralize shared connectivity and security services while separating application networks. This is a core concept within hub-spoke.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "hub-spoke",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing hub-spoke. Why adopt a hub-and-spoke network topology?",
+      "answer": "To centralize shared connectivity and security services while separating application networks.",
+      "explanation": "The correct consideration is: To centralize shared connectivity and security services while separating application networks. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "hub-spoke",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about hub-spoke: Why adopt a hub-and-spoke network topology?",
+      "answer": "To centralize shared connectivity and security services while separating application networks.",
+      "explanation": "To centralize shared connectivity and security services while separating application networks. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "hub-spoke",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on hub-spoke, answer the following: Why adopt a hub-and-spoke network topology?",
+      "answer": "To centralize shared connectivity and security services while separating application networks.",
+      "explanation": "To centralize shared connectivity and security services while separating application networks. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "hub-spoke",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is an Azure Private Endpoint?",
+      "answer": "A private IP interface in a VNet that connects privately to a supported Azure service.",
+      "explanation": "A private IP interface in a VNet that connects privately to a supported Azure service. This is a core concept within private endpoint.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-endpoint",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing private endpoint. What is an Azure Private Endpoint?",
+      "answer": "A private IP interface in a VNet that connects privately to a supported Azure service.",
+      "explanation": "The correct consideration is: A private IP interface in a VNet that connects privately to a supported Azure service. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-endpoint",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about private endpoint: What is an Azure Private Endpoint?",
+      "answer": "A private IP interface in a VNet that connects privately to a supported Azure service.",
+      "explanation": "A private IP interface in a VNet that connects privately to a supported Azure service. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-endpoint",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on private endpoint, answer the following: What is an Azure Private Endpoint?",
+      "answer": "A private IP interface in a VNet that connects privately to a supported Azure service.",
+      "explanation": "A private IP interface in a VNet that connects privately to a supported Azure service. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-endpoint",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why is private DNS important with Private Endpoints?",
+      "answer": "Clients must resolve the service name to its private endpoint address.",
+      "explanation": "Clients must resolve the service name to its private endpoint address. This is a core concept within private dns.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-dns",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing private dns. Why is private DNS important with Private Endpoints?",
+      "answer": "Clients must resolve the service name to its private endpoint address.",
+      "explanation": "The correct consideration is: Clients must resolve the service name to its private endpoint address. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-dns",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about private dns: Why is private DNS important with Private Endpoints?",
+      "answer": "Clients must resolve the service name to its private endpoint address.",
+      "explanation": "Clients must resolve the service name to its private endpoint address. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-dns",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on private dns, answer the following: Why is private DNS important with Private Endpoints?",
+      "answer": "Clients must resolve the service name to its private endpoint address.",
+      "explanation": "Clients must resolve the service name to its private endpoint address. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-dns",
+        "practice"
+      ]
+    },
+    {
+      "question": "How does a service endpoint differ from a private endpoint?",
+      "answer": "A service endpoint extends VNet identity to a service endpoint, whereas a private endpoint gives the service a private IP in the VNet.",
+      "explanation": "A service endpoint extends VNet identity to a service endpoint, whereas a private endpoint gives the service a private IP in the VNet. This is a core concept within service endpoint.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "service-endpoint",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing service endpoint. How does a service endpoint differ from a private endpoint?",
+      "answer": "A service endpoint extends VNet identity to a service endpoint, whereas a private endpoint gives the service a private IP in the VNet.",
+      "explanation": "The correct consideration is: A service endpoint extends VNet identity to a service endpoint, whereas a private endpoint gives the service a private IP in the VNet. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "service-endpoint",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about service endpoint: How does a service endpoint differ from a private endpoint?",
+      "answer": "A service endpoint extends VNet identity to a service endpoint, whereas a private endpoint gives the service a private IP in the VNet.",
+      "explanation": "A service endpoint extends VNet identity to a service endpoint, whereas a private endpoint gives the service a private IP in the VNet. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "service-endpoint",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on service endpoint, answer the following: How does a service endpoint differ from a private endpoint?",
+      "answer": "A service endpoint extends VNet identity to a service endpoint, whereas a private endpoint gives the service a private IP in the VNet.",
+      "explanation": "A service endpoint extends VNet identity to a service endpoint, whereas a private endpoint gives the service a private IP in the VNet. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "service-endpoint",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is the main benefit of Azure Private Link?",
+      "answer": "Private service connectivity that avoids exposing supported services through public endpoints.",
+      "explanation": "Private service connectivity that avoids exposing supported services through public endpoints. This is a core concept within private link.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-link",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing private link. What is the main benefit of Azure Private Link?",
+      "answer": "Private service connectivity that avoids exposing supported services through public endpoints.",
+      "explanation": "The correct consideration is: Private service connectivity that avoids exposing supported services through public endpoints. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-link",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about private link: What is the main benefit of Azure Private Link?",
+      "answer": "Private service connectivity that avoids exposing supported services through public endpoints.",
+      "explanation": "Private service connectivity that avoids exposing supported services through public endpoints. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-link",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on private link, answer the following: What is the main benefit of Azure Private Link?",
+      "answer": "Private service connectivity that avoids exposing supported services through public endpoints.",
+      "explanation": "Private service connectivity that avoids exposing supported services through public endpoints. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-link",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does Azure DNS Private Resolver support?",
+      "answer": "Inbound and outbound DNS resolution flows between Azure virtual networks and other networks.",
+      "explanation": "Inbound and outbound DNS resolution flows between Azure virtual networks and other networks. This is a core concept within dns private resolver.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "dns-private-resolver",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing dns private resolver. What does Azure DNS Private Resolver support?",
+      "answer": "Inbound and outbound DNS resolution flows between Azure virtual networks and other networks.",
+      "explanation": "The correct consideration is: Inbound and outbound DNS resolution flows between Azure virtual networks and other networks. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "dns-private-resolver",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about dns private resolver: What does Azure DNS Private Resolver support?",
+      "answer": "Inbound and outbound DNS resolution flows between Azure virtual networks and other networks.",
+      "explanation": "Inbound and outbound DNS resolution flows between Azure virtual networks and other networks. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "dns-private-resolver",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on dns private resolver, answer the following: What does Azure DNS Private Resolver support?",
+      "answer": "Inbound and outbound DNS resolution flows between Azure virtual networks and other networks.",
+      "explanation": "Inbound and outbound DNS resolution flows between Azure virtual networks and other networks. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "dns-private-resolver",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why use Azure Bastion for VM administration?",
+      "answer": "It provides browser-based RDP or SSH without public IP addresses on target VMs.",
+      "explanation": "It provides browser-based RDP or SSH without public IP addresses on target VMs. This is a core concept within azure bastion.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "azure-bastion",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing azure bastion. Why use Azure Bastion for VM administration?",
+      "answer": "It provides browser-based RDP or SSH without public IP addresses on target VMs.",
+      "explanation": "The correct consideration is: It provides browser-based RDP or SSH without public IP addresses on target VMs. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "azure-bastion",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about azure bastion: Why use Azure Bastion for VM administration?",
+      "answer": "It provides browser-based RDP or SSH without public IP addresses on target VMs.",
+      "explanation": "It provides browser-based RDP or SSH without public IP addresses on target VMs. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "azure-bastion",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on azure bastion, answer the following: Why use Azure Bastion for VM administration?",
+      "answer": "It provides browser-based RDP or SSH without public IP addresses on target VMs.",
+      "explanation": "It provides browser-based RDP or SSH without public IP addresses on target VMs. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "azure-bastion",
+        "practice"
+      ]
+    },
+    {
+      "question": "Which OSI layer does Azure Load Balancer operate at primarily?",
+      "answer": "Layer 4, distributing TCP and UDP flows.",
+      "explanation": "Layer 4, distributing TCP and UDP flows. This is a core concept within load balancer.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "load-balancer",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing load balancer. Which OSI layer does Azure Load Balancer operate at primarily?",
+      "answer": "Layer 4, distributing TCP and UDP flows.",
+      "explanation": "The correct consideration is: Layer 4, distributing TCP and UDP flows. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "load-balancer",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about load balancer: Which OSI layer does Azure Load Balancer operate at primarily?",
+      "answer": "Layer 4, distributing TCP and UDP flows.",
+      "explanation": "Layer 4, distributing TCP and UDP flows. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "load-balancer",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on load balancer, answer the following: Which OSI layer does Azure Load Balancer operate at primarily?",
+      "answer": "Layer 4, distributing TCP and UDP flows.",
+      "explanation": "Layer 4, distributing TCP and UDP flows. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "load-balancer",
+        "practice"
+      ]
+    },
+    {
+      "question": "What type of traffic does Azure Application Gateway manage?",
+      "answer": "Layer 7 HTTP and HTTPS application traffic.",
+      "explanation": "Layer 7 HTTP and HTTPS application traffic. This is a core concept within application gateway.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "application-gateway",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing application gateway. What type of traffic does Azure Application Gateway manage?",
+      "answer": "Layer 7 HTTP and HTTPS application traffic.",
+      "explanation": "The correct consideration is: Layer 7 HTTP and HTTPS application traffic. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "application-gateway",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about application gateway: What type of traffic does Azure Application Gateway manage?",
+      "answer": "Layer 7 HTTP and HTTPS application traffic.",
+      "explanation": "Layer 7 HTTP and HTTPS application traffic. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "application-gateway",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on application gateway, answer the following: What type of traffic does Azure Application Gateway manage?",
+      "answer": "Layer 7 HTTP and HTTPS application traffic.",
+      "explanation": "Layer 7 HTTP and HTTPS application traffic. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "application-gateway",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does a WAF defend against?",
+      "answer": "Common web application attacks such as certain injection patterns.",
+      "explanation": "Common web application attacks such as certain injection patterns. This is a core concept within web application firewall.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "web-application-firewall",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing web application firewall. What does a WAF defend against?",
+      "answer": "Common web application attacks such as certain injection patterns.",
+      "explanation": "The correct consideration is: Common web application attacks such as certain injection patterns. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "web-application-firewall",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about web application firewall: What does a WAF defend against?",
+      "answer": "Common web application attacks such as certain injection patterns.",
+      "explanation": "Common web application attacks such as certain injection patterns. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "web-application-firewall",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on web application firewall, answer the following: What does a WAF defend against?",
+      "answer": "Common web application attacks such as certain injection patterns.",
+      "explanation": "Common web application attacks such as certain injection patterns. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "web-application-firewall",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is Azure Front Door an appropriate service?",
+      "answer": "For global HTTP or HTTPS acceleration, routing, and edge security.",
+      "explanation": "For global HTTP or HTTPS acceleration, routing, and edge security. This is a core concept within front door.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "front-door",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing front door. When is Azure Front Door an appropriate service?",
+      "answer": "For global HTTP or HTTPS acceleration, routing, and edge security.",
+      "explanation": "The correct consideration is: For global HTTP or HTTPS acceleration, routing, and edge security. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "front-door",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about front door: When is Azure Front Door an appropriate service?",
+      "answer": "For global HTTP or HTTPS acceleration, routing, and edge security.",
+      "explanation": "For global HTTP or HTTPS acceleration, routing, and edge security. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "front-door",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on front door, answer the following: When is Azure Front Door an appropriate service?",
+      "answer": "For global HTTP or HTTPS acceleration, routing, and edge security.",
+      "explanation": "For global HTTP or HTTPS acceleration, routing, and edge security. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "front-door",
+        "practice"
+      ]
+    },
+    {
+      "question": "How does Azure Traffic Manager direct clients?",
+      "answer": "Through DNS-based routing policies across endpoints.",
+      "explanation": "Through DNS-based routing policies across endpoints. This is a core concept within traffic manager.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "traffic-manager",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing traffic manager. How does Azure Traffic Manager direct clients?",
+      "answer": "Through DNS-based routing policies across endpoints.",
+      "explanation": "The correct consideration is: Through DNS-based routing policies across endpoints. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "traffic-manager",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about traffic manager: How does Azure Traffic Manager direct clients?",
+      "answer": "Through DNS-based routing policies across endpoints.",
+      "explanation": "Through DNS-based routing policies across endpoints. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "traffic-manager",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on traffic manager, answer the following: How does Azure Traffic Manager direct clients?",
+      "answer": "Through DNS-based routing policies across endpoints.",
+      "explanation": "Through DNS-based routing policies across endpoints. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "traffic-manager",
+        "practice"
+      ]
+    },
+    {
+      "question": "When would an internal Azure Load Balancer be chosen?",
+      "answer": "When balancing traffic only within private networks.",
+      "explanation": "When balancing traffic only within private networks. This is a core concept within internal load balancer.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "internal-load-balancer",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing internal load balancer. When would an internal Azure Load Balancer be chosen?",
+      "answer": "When balancing traffic only within private networks.",
+      "explanation": "The correct consideration is: When balancing traffic only within private networks. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "internal-load-balancer",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about internal load balancer: When would an internal Azure Load Balancer be chosen?",
+      "answer": "When balancing traffic only within private networks.",
+      "explanation": "When balancing traffic only within private networks. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "internal-load-balancer",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on internal load balancer, answer the following: When would an internal Azure Load Balancer be chosen?",
+      "answer": "When balancing traffic only within private networks.",
+      "explanation": "When balancing traffic only within private networks. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "internal-load-balancer",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why configure health probes on a load balancer?",
+      "answer": "To avoid directing new traffic to unhealthy backend instances.",
+      "explanation": "To avoid directing new traffic to unhealthy backend instances. This is a core concept within health probes.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "health-probes",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing health probes. Why configure health probes on a load balancer?",
+      "answer": "To avoid directing new traffic to unhealthy backend instances.",
+      "explanation": "The correct consideration is: To avoid directing new traffic to unhealthy backend instances. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "health-probes",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about health probes: Why configure health probes on a load balancer?",
+      "answer": "To avoid directing new traffic to unhealthy backend instances.",
+      "explanation": "To avoid directing new traffic to unhealthy backend instances. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "health-probes",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on health probes, answer the following: Why configure health probes on a load balancer?",
+      "answer": "To avoid directing new traffic to unhealthy backend instances.",
+      "explanation": "To avoid directing new traffic to unhealthy backend instances. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "health-probes",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does gateway transit in VNet peering allow?",
+      "answer": "A peered network can use a gateway in another network when supported and configured.",
+      "explanation": "A peered network can use a gateway in another network when supported and configured. This is a core concept within gateway transit.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "gateway-transit",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing gateway transit. What does gateway transit in VNet peering allow?",
+      "answer": "A peered network can use a gateway in another network when supported and configured.",
+      "explanation": "The correct consideration is: A peered network can use a gateway in another network when supported and configured. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "gateway-transit",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about gateway transit: What does gateway transit in VNet peering allow?",
+      "answer": "A peered network can use a gateway in another network when supported and configured.",
+      "explanation": "A peered network can use a gateway in another network when supported and configured. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "gateway-transit",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on gateway transit, answer the following: What does gateway transit in VNet peering allow?",
+      "answer": "A peered network can use a gateway in another network when supported and configured.",
+      "explanation": "A peered network can use a gateway in another network when supported and configured. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "gateway-transit",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does Azure NAT Gateway provide?",
+      "answer": "Scalable, predictable outbound internet connectivity for subnets.",
+      "explanation": "Scalable, predictable outbound internet connectivity for subnets. This is a core concept within nat gateway.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nat-gateway",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing nat gateway. What does Azure NAT Gateway provide?",
+      "answer": "Scalable, predictable outbound internet connectivity for subnets.",
+      "explanation": "The correct consideration is: Scalable, predictable outbound internet connectivity for subnets. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nat-gateway",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about nat gateway: What does Azure NAT Gateway provide?",
+      "answer": "Scalable, predictable outbound internet connectivity for subnets.",
+      "explanation": "Scalable, predictable outbound internet connectivity for subnets. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nat-gateway",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on nat gateway, answer the following: What does Azure NAT Gateway provide?",
+      "answer": "Scalable, predictable outbound internet connectivity for subnets.",
+      "explanation": "Scalable, predictable outbound internet connectivity for subnets. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "nat-gateway",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is a public IP address required?",
+      "answer": "When a resource must be directly reachable from the public internet or expose a public endpoint.",
+      "explanation": "When a resource must be directly reachable from the public internet or expose a public endpoint. This is a core concept within public ip.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "public-ip",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing public ip. When is a public IP address required?",
+      "answer": "When a resource must be directly reachable from the public internet or expose a public endpoint.",
+      "explanation": "The correct consideration is: When a resource must be directly reachable from the public internet or expose a public endpoint. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "public-ip",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about public ip: When is a public IP address required?",
+      "answer": "When a resource must be directly reachable from the public internet or expose a public endpoint.",
+      "explanation": "When a resource must be directly reachable from the public internet or expose a public endpoint. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "public-ip",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on public ip, answer the following: When is a public IP address required?",
+      "answer": "When a resource must be directly reachable from the public internet or expose a public endpoint.",
+      "explanation": "When a resource must be directly reachable from the public internet or expose a public endpoint. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "public-ip",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why plan dual-stack addressing for workloads?",
+      "answer": "To support both IPv4 and IPv6 clients and network paths where required.",
+      "explanation": "To support both IPv4 and IPv6 clients and network paths where required. This is a core concept within ipv6.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ipv6",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing ipv6. Why plan dual-stack addressing for workloads?",
+      "answer": "To support both IPv4 and IPv6 clients and network paths where required.",
+      "explanation": "The correct consideration is: To support both IPv4 and IPv6 clients and network paths where required. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ipv6",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about ipv6: Why plan dual-stack addressing for workloads?",
+      "answer": "To support both IPv4 and IPv6 clients and network paths where required.",
+      "explanation": "To support both IPv4 and IPv6 clients and network paths where required. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ipv6",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on ipv6, answer the following: Why plan dual-stack addressing for workloads?",
+      "answer": "To support both IPv4 and IPv6 clients and network paths where required.",
+      "explanation": "To support both IPv4 and IPv6 clients and network paths where required. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ipv6",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is Azure Network Watcher?",
+      "answer": "A collection of tools to monitor and troubleshoot Azure networking.",
+      "explanation": "A collection of tools to monitor and troubleshoot Azure networking. This is a core concept within network watcher.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "network-watcher",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing network watcher. What is Azure Network Watcher?",
+      "answer": "A collection of tools to monitor and troubleshoot Azure networking.",
+      "explanation": "The correct consideration is: A collection of tools to monitor and troubleshoot Azure networking. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "network-watcher",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about network watcher: What is Azure Network Watcher?",
+      "answer": "A collection of tools to monitor and troubleshoot Azure networking.",
+      "explanation": "A collection of tools to monitor and troubleshoot Azure networking. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "network-watcher",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on network watcher, answer the following: What is Azure Network Watcher?",
+      "answer": "A collection of tools to monitor and troubleshoot Azure networking.",
+      "explanation": "A collection of tools to monitor and troubleshoot Azure networking. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "network-watcher",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does Connection Monitor test?",
+      "answer": "Network reachability and connection performance between monitored endpoints.",
+      "explanation": "Network reachability and connection performance between monitored endpoints. This is a core concept within connection monitor.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "connection-monitor",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing connection monitor. What does Connection Monitor test?",
+      "answer": "Network reachability and connection performance between monitored endpoints.",
+      "explanation": "The correct consideration is: Network reachability and connection performance between monitored endpoints. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "connection-monitor",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about connection monitor: What does Connection Monitor test?",
+      "answer": "Network reachability and connection performance between monitored endpoints.",
+      "explanation": "Network reachability and connection performance between monitored endpoints. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "connection-monitor",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on connection monitor, answer the following: What does Connection Monitor test?",
+      "answer": "Network reachability and connection performance between monitored endpoints.",
+      "explanation": "Network reachability and connection performance between monitored endpoints. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "connection-monitor",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is IP flow verify useful?",
+      "answer": "When investigating whether NSG rules allow or deny a particular packet flow.",
+      "explanation": "When investigating whether NSG rules allow or deny a particular packet flow. This is a core concept within ip flow verify.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ip-flow-verify",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing ip flow verify. When is IP flow verify useful?",
+      "answer": "When investigating whether NSG rules allow or deny a particular packet flow.",
+      "explanation": "The correct consideration is: When investigating whether NSG rules allow or deny a particular packet flow. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ip-flow-verify",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about ip flow verify: When is IP flow verify useful?",
+      "answer": "When investigating whether NSG rules allow or deny a particular packet flow.",
+      "explanation": "When investigating whether NSG rules allow or deny a particular packet flow. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ip-flow-verify",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on ip flow verify, answer the following: When is IP flow verify useful?",
+      "answer": "When investigating whether NSG rules allow or deny a particular packet flow.",
+      "explanation": "When investigating whether NSG rules allow or deny a particular packet flow. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "ip-flow-verify",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why collect a network packet capture?",
+      "answer": "To inspect packet-level behavior during connectivity troubleshooting.",
+      "explanation": "To inspect packet-level behavior during connectivity troubleshooting. This is a core concept within packet capture.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "packet-capture",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing packet capture. Why collect a network packet capture?",
+      "answer": "To inspect packet-level behavior during connectivity troubleshooting.",
+      "explanation": "The correct consideration is: To inspect packet-level behavior during connectivity troubleshooting. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "packet-capture",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about packet capture: Why collect a network packet capture?",
+      "answer": "To inspect packet-level behavior during connectivity troubleshooting.",
+      "explanation": "To inspect packet-level behavior during connectivity troubleshooting. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "packet-capture",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on packet capture, answer the following: Why collect a network packet capture?",
+      "answer": "To inspect packet-level behavior during connectivity troubleshooting.",
+      "explanation": "To inspect packet-level behavior during connectivity troubleshooting. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "packet-capture",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do effective security rules reveal?",
+      "answer": "The combined NSG rules applied to a VM network interface.",
+      "explanation": "The combined NSG rules applied to a VM network interface. This is a core concept within effective security rules.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "effective-security-rules",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing effective security rules. What do effective security rules reveal?",
+      "answer": "The combined NSG rules applied to a VM network interface.",
+      "explanation": "The correct consideration is: The combined NSG rules applied to a VM network interface. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "effective-security-rules",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about effective security rules: What do effective security rules reveal?",
+      "answer": "The combined NSG rules applied to a VM network interface.",
+      "explanation": "The combined NSG rules applied to a VM network interface. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "effective-security-rules",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on effective security rules, answer the following: What do effective security rules reveal?",
+      "answer": "The combined NSG rules applied to a VM network interface.",
+      "explanation": "The combined NSG rules applied to a VM network interface. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "effective-security-rules",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why enable network flow logging?",
+      "answer": "To understand traffic patterns and support security investigations.",
+      "explanation": "To understand traffic patterns and support security investigations. This is a core concept within flow logs.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "flow-logs",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing flow logs. Why enable network flow logging?",
+      "answer": "To understand traffic patterns and support security investigations.",
+      "explanation": "The correct consideration is: To understand traffic patterns and support security investigations. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "flow-logs",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about flow logs: Why enable network flow logging?",
+      "answer": "To understand traffic patterns and support security investigations.",
+      "explanation": "To understand traffic patterns and support security investigations. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "flow-logs",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on flow logs, answer the following: Why enable network flow logging?",
+      "answer": "To understand traffic patterns and support security investigations.",
+      "explanation": "To understand traffic patterns and support security investigations. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "flow-logs",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why monitor end-to-end latency?",
+      "answer": "To detect performance degradation that may affect application response times.",
+      "explanation": "To detect performance degradation that may affect application response times. This is a core concept within network latency.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "network-latency",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing network latency. Why monitor end-to-end latency?",
+      "answer": "To detect performance degradation that may affect application response times.",
+      "explanation": "The correct consideration is: To detect performance degradation that may affect application response times. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "network-latency",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about network latency: Why monitor end-to-end latency?",
+      "answer": "To detect performance degradation that may affect application response times.",
+      "explanation": "To detect performance degradation that may affect application response times. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "network-latency",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on network latency, answer the following: Why monitor end-to-end latency?",
+      "answer": "To detect performance degradation that may affect application response times.",
+      "explanation": "To detect performance degradation that may affect application response times. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "network-latency",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why distribute network services across availability zones?",
+      "answer": "To improve tolerance of a single zone outage where the service supports it.",
+      "explanation": "To improve tolerance of a single zone outage where the service supports it. This is a core concept within zone resilience.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "zone-resilience",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing zone resilience. Why distribute network services across availability zones?",
+      "answer": "To improve tolerance of a single zone outage where the service supports it.",
+      "explanation": "The correct consideration is: To improve tolerance of a single zone outage where the service supports it. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "zone-resilience",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about zone resilience: Why distribute network services across availability zones?",
+      "answer": "To improve tolerance of a single zone outage where the service supports it.",
+      "explanation": "To improve tolerance of a single zone outage where the service supports it. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "zone-resilience",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on zone resilience, answer the following: Why distribute network services across availability zones?",
+      "answer": "To improve tolerance of a single zone outage where the service supports it.",
+      "explanation": "To improve tolerance of a single zone outage where the service supports it. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "zone-resilience",
+        "practice"
+      ]
+    },
+    {
+      "question": "What reduces public exposure for PaaS resources?",
+      "answer": "Use private endpoints and restrict or disable public network access where supported.",
+      "explanation": "Use private endpoints and restrict or disable public network access where supported. This is a core concept within private access architecture.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-access-architecture",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing private access architecture. What reduces public exposure for PaaS resources?",
+      "answer": "Use private endpoints and restrict or disable public network access where supported.",
+      "explanation": "The correct consideration is: Use private endpoints and restrict or disable public network access where supported. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-access-architecture",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about private access architecture: What reduces public exposure for PaaS resources?",
+      "answer": "Use private endpoints and restrict or disable public network access where supported.",
+      "explanation": "Use private endpoints and restrict or disable public network access where supported. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-access-architecture",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on private access architecture, answer the following: What reduces public exposure for PaaS resources?",
+      "answer": "Use private endpoints and restrict or disable public network access where supported.",
+      "explanation": "Use private endpoints and restrict or disable public network access where supported. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "private-access-architecture",
+        "practice"
+      ]
+    },
+    {
+      "question": "What problem can asymmetric routing cause with stateful firewalls?",
+      "answer": "Return traffic might bypass the firewall and cause connection failures.",
+      "explanation": "Return traffic might bypass the firewall and cause connection failures. This is a core concept within routing asymmetry.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "routing-asymmetry",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing routing asymmetry. What problem can asymmetric routing cause with stateful firewalls?",
+      "answer": "Return traffic might bypass the firewall and cause connection failures.",
+      "explanation": "The correct consideration is: Return traffic might bypass the firewall and cause connection failures. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "routing-asymmetry",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about routing asymmetry: What problem can asymmetric routing cause with stateful firewalls?",
+      "answer": "Return traffic might bypass the firewall and cause connection failures.",
+      "explanation": "Return traffic might bypass the firewall and cause connection failures. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "routing-asymmetry",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on routing asymmetry, answer the following: What problem can asymmetric routing cause with stateful firewalls?",
+      "answer": "Return traffic might bypass the firewall and cause connection failures.",
+      "explanation": "Return traffic might bypass the firewall and cause connection failures. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "routing-asymmetry",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does a CIDR prefix such as /24 represent?",
+      "answer": "The number of leading bits allocated to the network prefix.",
+      "explanation": "The number of leading bits allocated to the network prefix. This is a core concept within cidr.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "cidr",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing cidr. What does a CIDR prefix such as /24 represent?",
+      "answer": "The number of leading bits allocated to the network prefix.",
+      "explanation": "The correct consideration is: The number of leading bits allocated to the network prefix. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "cidr",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about cidr: What does a CIDR prefix such as /24 represent?",
+      "answer": "The number of leading bits allocated to the network prefix.",
+      "explanation": "The number of leading bits allocated to the network prefix. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "cidr",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on cidr, answer the following: What does a CIDR prefix such as /24 represent?",
+      "answer": "The number of leading bits allocated to the network prefix.",
+      "explanation": "The number of leading bits allocated to the network prefix. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "cidr",
+        "practice"
+      ]
+    },
+    {
+      "question": "What should be checked first when a private endpoint resolves to a public IP?",
+      "answer": "The client's DNS configuration and associated private DNS zone records or forwarding.",
+      "explanation": "The client's DNS configuration and associated private DNS zone records or forwarding. This is a core concept within dns troubleshooting.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "dns-troubleshooting",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing dns troubleshooting. What should be checked first when a private endpoint resolves to a public IP?",
+      "answer": "The client's DNS configuration and associated private DNS zone records or forwarding.",
+      "explanation": "The correct consideration is: The client's DNS configuration and associated private DNS zone records or forwarding. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "dns-troubleshooting",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about dns troubleshooting: What should be checked first when a private endpoint resolves to a public IP?",
+      "answer": "The client's DNS configuration and associated private DNS zone records or forwarding.",
+      "explanation": "The client's DNS configuration and associated private DNS zone records or forwarding. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "dns-troubleshooting",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on dns troubleshooting, answer the following: What should be checked first when a private endpoint resolves to a public IP?",
+      "answer": "The client's DNS configuration and associated private DNS zone records or forwarding.",
+      "explanation": "The client's DNS configuration and associated private DNS zone records or forwarding. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "az700",
+        "dns-troubleshooting",
+        "practice"
+      ]
+    }
+  ]
+}

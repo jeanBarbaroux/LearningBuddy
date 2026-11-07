@@ -1,0 +1,2007 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "AI-900 Microsoft Azure AI Fundamentals",
+  "cards": [
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "Technology that enables systems to perform tasks associated with human intelligence.",
+      "explanation": "AI encompasses techniques for perception, prediction, language and decision support.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Which AI workload identifies objects in photographs?",
+      "answer": "Computer vision.",
+      "explanation": "Computer vision analyzes images and video to understand visual content.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Which AI workload analyzes the meaning of customer reviews?",
+      "answer": "Natural language processing.",
+      "explanation": "NLP processes human language to derive useful information.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Which workload extracts invoice numbers from scanned invoices?",
+      "answer": "Document processing.",
+      "explanation": "Document processing combines text extraction with understanding document fields and structure.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Which workload creates a new product description from a short brief?",
+      "answer": "Generative AI.",
+      "explanation": "Generative models produce new content from instructions and context.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is an example of conversational AI?",
+      "answer": "A chatbot that answers questions in natural language.",
+      "explanation": "Conversational systems interpret requests and generate dialogue responses.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Why should AI systems be evaluated for fairness?",
+      "answer": "To identify and reduce unjustified performance differences across groups.",
+      "explanation": "Skewed data and design choices can produce inequitable outcomes.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is a possible sign of unfair AI behavior?",
+      "answer": "Higher error rates for one demographic group than another.",
+      "explanation": "Comparing outcomes by group can expose unwanted disparities.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What does reliability mean in responsible AI?",
+      "answer": "An AI system behaves consistently within its intended operating conditions.",
+      "explanation": "Testing across realistic inputs helps identify unexpected failures.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What does safety mean for an AI solution?",
+      "answer": "Preventing or reducing harm from its outputs and operation.",
+      "explanation": "Safety controls and escalation paths matter when errors have consequences.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Which responsible AI principle calls for protecting personal data?",
+      "answer": "Privacy and security.",
+      "explanation": "Systems should restrict data access and protect sensitive information.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Why should an AI application apply least-privilege access?",
+      "answer": "To limit each user or service to only required permissions.",
+      "explanation": "Restricted access lowers exposure if credentials or systems are compromised.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What does inclusiveness mean in AI?",
+      "answer": "Designing AI to serve people with diverse abilities and circumstances.",
+      "explanation": "Accessible interfaces and representative evaluations support inclusion.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is an example of inclusive AI design?",
+      "answer": "Providing text alternatives to speech interactions.",
+      "explanation": "Alternative input and output modes accommodate different user needs.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is transparency in an AI solution?",
+      "answer": "Making its use, capabilities and limitations understandable.",
+      "explanation": "People should know when and how AI contributes to decisions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Why tell users that an answer was generated by AI?",
+      "answer": "To support informed interpretation and appropriate verification.",
+      "explanation": "A disclosure helps users assess an output's reliability.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What does accountability require in responsible AI?",
+      "answer": "People and organizations remain responsible for AI system outcomes.",
+      "explanation": "Delegating a task to software does not remove governance duties.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Who should be accountable for deploying an AI system?",
+      "answer": "The organization and designated responsible stakeholders.",
+      "explanation": "Clear ownership supports oversight, remediation and escalation.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Which principle is most relevant to documenting known model limitations?",
+      "answer": "Transparency.",
+      "explanation": "Documenting limitations allows informed use and review.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Which principle is most relevant to monitoring production failures?",
+      "answer": "Reliability and safety.",
+      "explanation": "Monitoring detects conditions that testing may have missed.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is a common risk of training on unrepresentative data?",
+      "answer": "The model may perform poorly for underrepresented cases.",
+      "explanation": "Model quality depends partly on the data distribution.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is an AI workload?",
+      "answer": "A type of task or problem addressed with AI capabilities.",
+      "explanation": "Examples include classification, vision, speech and generation.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Is reading text from a photographed sign a vision task?",
+      "answer": "Yes, it is optical character recognition.",
+      "explanation": "OCR converts visible characters into machine-readable text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Is extracting a person's name from an email a language task?",
+      "answer": "Yes, it is entity recognition.",
+      "explanation": "Entity recognition identifies specific types of information in text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Is predicting tomorrow's electricity usage necessarily generative AI?",
+      "answer": "No, it is typically a predictive machine learning task.",
+      "explanation": "Forecasting numeric values differs from generating open-ended content.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What distinguishes a generative model from a conventional classifier?",
+      "answer": "It creates content rather than only selecting predefined categories.",
+      "explanation": "A classifier assigns labels, while generation produces sequences or media.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Why is human oversight useful for high-impact AI decisions?",
+      "answer": "People can review, challenge and correct AI-supported outcomes.",
+      "explanation": "Human review can limit the effect of uncertain or biased predictions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What should an organization do before using sensitive data for AI?",
+      "answer": "Assess necessity, permissions, privacy and security controls.",
+      "explanation": "Data governance should precede collection, training or inference.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Why is explainability useful in AI?",
+      "answer": "It helps stakeholders understand influential factors behind outputs.",
+      "explanation": "Understanding factors helps with debugging, auditing and trust.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Can a highly accurate model still be unfair?",
+      "answer": "Yes, aggregate accuracy can hide group-level disparities.",
+      "explanation": "Responsible AI evaluation looks beyond a single overall metric.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Which responsible AI principle addresses wheelchair-accessible interfaces?",
+      "answer": "Inclusiveness.",
+      "explanation": "Accessible design considers users with diverse physical needs.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Which responsible AI principle is threatened by exposing confidential prompts?",
+      "answer": "Privacy and security.",
+      "explanation": "Prompts can contain information that must not be disclosed.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is a false positive in a screening model?",
+      "answer": "A negative case incorrectly predicted as positive.",
+      "explanation": "False positives can create unnecessary intervention or cost.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is a false negative in a screening model?",
+      "answer": "A positive case incorrectly predicted as negative.",
+      "explanation": "False negatives can cause a system to miss a relevant event.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "Why test an AI system after deployment?",
+      "answer": "Real data and operating conditions may differ from development conditions.",
+      "explanation": "Ongoing evaluation detects drift and performance deterioration.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is data minimization?",
+      "answer": "Collecting and using only data necessary for the task.",
+      "explanation": "Reducing unnecessary data can lower privacy exposure.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is model drift?",
+      "answer": "A change over time that reduces the usefulness of a deployed model.",
+      "explanation": "Shifts in incoming data or relationships can require reevaluation.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is an appropriate response to harmful model output?",
+      "answer": "Apply safeguards, record the incident and improve controls.",
+      "explanation": "Responsible operation involves monitoring and corrective action.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is a common challenge of AI-generated answers?",
+      "answer": "They can sound convincing while being incorrect.",
+      "explanation": "Plausible wording is not proof of factual accuracy.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is the goal of responsible AI governance?",
+      "answer": "To establish oversight, controls and clear responsibilities throughout AI use.",
+      "explanation": "Governance connects technical development to organizational duties.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "AI workloads and responsible AI"
+      ]
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "A method of learning patterns from data to make predictions or decisions.",
+      "explanation": "Models learn statistical relationships instead of following only explicit rules.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "Which learning task predicts the selling price of a house?",
+      "answer": "Regression.",
+      "explanation": "Regression estimates continuous numeric values.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "Which learning task predicts whether a message is spam?",
+      "answer": "Binary classification.",
+      "explanation": "Binary classification chooses between two categories.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "Which task predicts a product category among ten classes?",
+      "answer": "Multiclass classification.",
+      "explanation": "The output is one of several discrete categories.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "Which task groups similar customers without predefined labels?",
+      "answer": "Clustering.",
+      "explanation": "Clustering finds structure in unlabeled data.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "Is clustering supervised or unsupervised learning?",
+      "answer": "Unsupervised learning.",
+      "explanation": "It does not require known target labels for each example.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is a feature in a training dataset?",
+      "answer": "An input variable used by a model.",
+      "explanation": "Features can include measurements, text representations and categories.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is a label in supervised learning?",
+      "answer": "The known target value the model learns to predict.",
+      "explanation": "Examples include a price or a class name.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "In house price prediction, is square footage a feature or a label?",
+      "answer": "A feature.",
+      "explanation": "Square footage is input information used to predict price.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "In house price prediction, is the actual sale price a feature or a label?",
+      "answer": "A label.",
+      "explanation": "The target price is what supervised learning attempts to estimate.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "Why split data into training and validation sets?",
+      "answer": "To evaluate a model on examples not used for fitting.",
+      "explanation": "Validation helps assess generalization and tune model choices.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is a test dataset used for?",
+      "answer": "An independent assessment of final model performance.",
+      "explanation": "Keeping a separate test set reduces optimistic evaluation bias.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is overfitting?",
+      "answer": "Learning training-specific details that do not generalize well.",
+      "explanation": "An overfit model often performs better on training than unseen data.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is underfitting?",
+      "answer": "Failing to learn important patterns even in training data.",
+      "explanation": "An overly simple model can produce poor predictions everywhere.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is generalization?",
+      "answer": "The ability to perform well on previously unseen data.",
+      "explanation": "Good generalization is a central objective of model training.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does a regression model output?",
+      "answer": "A numeric prediction.",
+      "explanation": "Examples are costs, durations and quantities.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does a classification model output?",
+      "answer": "A class or probabilities for classes.",
+      "explanation": "Classification deals with discrete categories.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does a clustering algorithm output?",
+      "answer": "Groups of similar records.",
+      "explanation": "Clusters reflect patterns in input features.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is a neural network?",
+      "answer": "A model made from layers of connected computational units.",
+      "explanation": "Trainable parameters transform inputs through successive layers.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is deep learning?",
+      "answer": "Machine learning with multilayer neural networks.",
+      "explanation": "Deep learning is useful for complex language, speech and image tasks.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is a transformer architecture widely used for?",
+      "answer": "Modeling relationships across sequences using attention mechanisms.",
+      "explanation": "Transformers power many modern language models.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does attention help a transformer do?",
+      "answer": "Emphasize relevant elements when processing a sequence.",
+      "explanation": "Attention models dependencies across tokens or other inputs.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is a training epoch?",
+      "answer": "One pass through the training dataset.",
+      "explanation": "Models often train over multiple epochs.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is an inference operation?",
+      "answer": "Using a trained model to make a prediction.",
+      "explanation": "Inference is distinct from training or updating weights.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is automated machine learning in Azure Machine Learning?",
+      "answer": "A capability that automates experimentation across algorithms and settings.",
+      "explanation": "AutoML can help identify performant models for supported tasks.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is an Azure Machine Learning workspace?",
+      "answer": "A central resource for organizing machine learning assets and work.",
+      "explanation": "Workspaces support experiment, model and resource management.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "Why use compute resources in Azure Machine Learning?",
+      "answer": "To execute training and inference workloads.",
+      "explanation": "Compute provides the processing capacity needed by jobs and deployments.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is a model endpoint?",
+      "answer": "An interface for requesting predictions from a deployed model.",
+      "explanation": "Applications invoke endpoints to obtain inference results.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is model registration used for?",
+      "answer": "Tracking and managing model artifacts and versions.",
+      "explanation": "Versioning supports reproducible deployment and governance.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is feature scaling?",
+      "answer": "Transforming feature values to comparable numerical ranges.",
+      "explanation": "Scaling is helpful for algorithms sensitive to feature magnitude.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is class imbalance?",
+      "answer": "A classification dataset has very unequal class frequencies.",
+      "explanation": "Accuracy alone may misrepresent performance on rare classes.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does precision measure in classification?",
+      "answer": "The proportion of predicted positives that are truly positive.",
+      "explanation": "Precision focuses on the correctness of positive predictions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does recall measure in classification?",
+      "answer": "The proportion of actual positives correctly detected.",
+      "explanation": "Recall focuses on finding positive examples.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does a confusion matrix summarize?",
+      "answer": "Counts of correct and incorrect classifications by class.",
+      "explanation": "It reveals false positives, false negatives and correct predictions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does mean absolute error measure?",
+      "answer": "Average absolute difference between numeric predictions and actual values.",
+      "explanation": "Smaller error means predictions are closer to targets on average.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does a training algorithm optimize?",
+      "answer": "A loss or objective function.",
+      "explanation": "Optimization adjusts model parameters to improve the objective.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is data leakage?",
+      "answer": "When training uses information unavailable at real prediction time.",
+      "explanation": "Leakage can make evaluation look unrealistically good.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is cross-validation?",
+      "answer": "Repeatedly evaluating a model on different data partitions.",
+      "explanation": "It provides evidence of performance variability across splits.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "When would anomaly detection be useful?",
+      "answer": "Finding unusual transactions or sensor readings.",
+      "explanation": "Anomalies are observations that differ from expected patterns.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What does Azure Machine Learning support beyond model training?",
+      "answer": "Model tracking, management and deployment.",
+      "explanation": "The service supports multiple stages of the machine learning lifecycle.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Machine learning fundamentals"
+      ]
+    },
+    {
+      "question": "What is computer vision?",
+      "answer": "AI that interprets information from images or video.",
+      "explanation": "Vision systems analyze visual features for useful outputs.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What does image classification return?",
+      "answer": "A label describing an image or its content.",
+      "explanation": "Classification predicts categories without necessarily locating objects.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What does object detection return?",
+      "answer": "Object classes and their locations in an image.",
+      "explanation": "Detectors commonly provide bounding boxes around objects.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "How does object detection differ from classification?",
+      "answer": "Detection locates objects; classification labels an image.",
+      "explanation": "Localization is the key additional capability of detection.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is optical character recognition?",
+      "answer": "Extracting machine-readable text from images.",
+      "explanation": "OCR is useful for signs, forms, scanned pages and photos.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Which capability should read text from a receipt photograph?",
+      "answer": "Optical character recognition.",
+      "explanation": "The task converts visible printed text into digital text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Which capability should find all cars in a street image?",
+      "answer": "Object detection.",
+      "explanation": "Multiple bounding boxes can identify individual cars.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Which capability should decide whether a photo contains a cat?",
+      "answer": "Image classification.",
+      "explanation": "A category can describe the image without coordinates.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is a bounding box?",
+      "answer": "A rectangle indicating an object's location within an image.",
+      "explanation": "Coordinates can specify the box's position and size.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is image segmentation?",
+      "answer": "Assigning labels to pixels or regions of an image.",
+      "explanation": "Segmentation provides more detailed spatial boundaries than boxes.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is facial detection?",
+      "answer": "Locating the presence and position of human faces.",
+      "explanation": "Detection does not by itself identify whose face is shown.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is facial analysis?",
+      "answer": "Analyzing permitted attributes or landmarks of a detected face.",
+      "explanation": "Capabilities vary with service restrictions and policy requirements.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is face verification?",
+      "answer": "Checking whether two face representations belong to the same person.",
+      "explanation": "Verification compares identities rather than locating a face alone.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is the difference between face detection and identification?",
+      "answer": "Detection finds faces; identification seeks a matching identity.",
+      "explanation": "Identity-related features require stronger privacy safeguards.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Which Azure service provides general image analysis capabilities?",
+      "answer": "Azure AI Vision.",
+      "explanation": "It supports visual analysis scenarios such as OCR and image understanding.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Which Azure service is specifically associated with face detection?",
+      "answer": "Azure AI Face.",
+      "explanation": "Its face capabilities are separate from general-purpose image analysis.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Why can lighting conditions affect computer vision models?",
+      "answer": "Changes in visual appearance can alter learned features.",
+      "explanation": "Robust evaluation uses varied environments.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Why should image datasets include varied camera angles?",
+      "answer": "To help models generalize across different viewpoints.",
+      "explanation": "Narrow datasets can reduce real-world performance.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is a common use case for OCR in an enterprise?",
+      "answer": "Digitizing printed records for search and processing.",
+      "explanation": "Recognized text can feed downstream document workflows.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What does document layout analysis add beyond plain OCR?",
+      "answer": "Information about the structure and location of extracted content.",
+      "explanation": "Layout helps interpret tables, lines and reading order.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is an image caption?",
+      "answer": "A natural-language description of visual content.",
+      "explanation": "Captioning transforms image information into text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "How is captioning different from OCR?",
+      "answer": "Captioning describes a scene; OCR extracts visible characters.",
+      "explanation": "They solve different visual understanding problems.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is visual object localization?",
+      "answer": "Determining where an item appears in an image.",
+      "explanation": "Localization can be expressed with coordinates or regions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Why may a detector miss very small objects?",
+      "answer": "Small objects provide fewer discriminative pixels.",
+      "explanation": "Image resolution and model design affect detection quality.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What does confidence score mean in image classification?",
+      "answer": "A model's reported score for a predicted class.",
+      "explanation": "Scores should not automatically be treated as calibrated probabilities.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Why tune an object detection confidence threshold?",
+      "answer": "To balance missed detections against false alarms.",
+      "explanation": "Threshold choice depends on business consequences.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is an example of image classification in manufacturing?",
+      "answer": "Categorizing a product photo as defective or acceptable.",
+      "explanation": "Each image receives a predefined quality category.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is an example of object detection in manufacturing?",
+      "answer": "Locating scratches or missing parts in an image.",
+      "explanation": "Detection indicates where potential defects appear.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is image preprocessing?",
+      "answer": "Preparing visual data before model analysis.",
+      "explanation": "Resizing or normalizing images can make processing consistent.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Can OCR read handwriting?",
+      "answer": "Some OCR capabilities can recognize handwritten text.",
+      "explanation": "Results depend on language, writing style and image quality.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Why must face-based systems protect biometric information?",
+      "answer": "Biometric data is sensitive and can create significant privacy risks.",
+      "explanation": "Strong controls and applicable restrictions are important.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is a computer vision false positive?",
+      "answer": "Reporting an object that is not actually present.",
+      "explanation": "False alarms can trigger unnecessary downstream actions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is a computer vision false negative?",
+      "answer": "Failing to report an object that is present.",
+      "explanation": "Missed detections may create operational risk.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is a common reason OCR produces incorrect characters?",
+      "answer": "Low resolution, blur, glare or unusual fonts.",
+      "explanation": "Image quality strongly influences text recognition.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Which task is appropriate for reading shipping label text?",
+      "answer": "OCR.",
+      "explanation": "Visible characters must be converted into structured digital text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Which task is appropriate for counting people in a photograph?",
+      "answer": "Object detection followed by counting detected people.",
+      "explanation": "The system must distinguish separate person instances.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Can a vision system interpret video frames?",
+      "answer": "Yes, it can process frames extracted from video.",
+      "explanation": "Temporal tasks may additionally require tracking changes over time.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is object tracking?",
+      "answer": "Associating the same detected object across consecutive video frames.",
+      "explanation": "Tracking follows movement through time.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "Why evaluate a vision model on real deployment imagery?",
+      "answer": "Production images can differ from curated training images.",
+      "explanation": "Realistic testing reveals practical performance limitations.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What does responsible computer vision deployment require?",
+      "answer": "Appropriate consent, data protection and performance monitoring.",
+      "explanation": "Visual systems can process sensitive or identifying information.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Computer vision"
+      ]
+    },
+    {
+      "question": "What is natural language processing?",
+      "answer": "AI for working with human language in text and speech.",
+      "explanation": "NLP includes classification, extraction, translation and generation.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What does sentiment analysis estimate?",
+      "answer": "The emotional polarity expressed in text.",
+      "explanation": "It often classifies sentiment as positive, negative or neutral.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is key phrase extraction?",
+      "answer": "Identifying important phrases from text.",
+      "explanation": "Key phrases summarize central topics without full-text reading.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is named entity recognition?",
+      "answer": "Finding entities such as people, organizations and locations in text.",
+      "explanation": "Entity recognition labels meaningful spans of language.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is entity linking?",
+      "answer": "Connecting a recognized entity mention to a known entity.",
+      "explanation": "Linking helps resolve ambiguity among similar names.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is language detection?",
+      "answer": "Determining the language used in text.",
+      "explanation": "It can help select the appropriate downstream processing pipeline.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is machine translation?",
+      "answer": "Converting text or speech between languages.",
+      "explanation": "Translation aims to preserve meaning across languages.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is speech-to-text?",
+      "answer": "Converting spoken audio into written text.",
+      "explanation": "Speech recognition is useful for transcription and captions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is text-to-speech?",
+      "answer": "Generating spoken audio from written text.",
+      "explanation": "Speech synthesis can make content accessible in audio form.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is speech translation?",
+      "answer": "Recognizing speech and translating it into another language.",
+      "explanation": "It combines speech and multilingual language processing.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Which Azure service provides text analysis features?",
+      "answer": "Azure AI Language.",
+      "explanation": "Its language features include sentiment and entity-related analysis.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Which Azure service provides speech recognition and synthesis?",
+      "answer": "Azure AI Speech.",
+      "explanation": "Speech services support audio input and spoken output.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Which Azure capability would transcribe a recorded interview?",
+      "answer": "Speech to text in Azure AI Speech.",
+      "explanation": "Transcription turns spoken content into text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Which capability would read a webpage aloud?",
+      "answer": "Text to speech in Azure AI Speech.",
+      "explanation": "Synthetic speech can vocalize written text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Which capability would summarize topics in support tickets with short terms?",
+      "answer": "Key phrase extraction.",
+      "explanation": "Extracted phrases capture the most important subjects.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Which capability would identify city names in a support request?",
+      "answer": "Named entity recognition.",
+      "explanation": "Locations are a common entity type.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Which capability would categorize feedback as positive or negative?",
+      "answer": "Sentiment analysis.",
+      "explanation": "Polarity analysis estimates the tone of text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is a language model?",
+      "answer": "A model that learns patterns and relationships in language.",
+      "explanation": "It can estimate or generate sequences of tokens.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is tokenization in NLP?",
+      "answer": "Splitting text into units processed by a model.",
+      "explanation": "Tokens may be words, subwords or other symbols.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is an embedding in language AI?",
+      "answer": "A numeric vector representing semantic or contextual information.",
+      "explanation": "Embeddings enable similarity searches and comparisons.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is semantic similarity?",
+      "answer": "A measure of how closely two texts relate in meaning.",
+      "explanation": "Related phrasing can be detected without exact word overlap.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is text classification?",
+      "answer": "Assigning a text to one or more categories.",
+      "explanation": "Examples include routing emails by topic.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is intent recognition?",
+      "answer": "Identifying what a user is trying to accomplish.",
+      "explanation": "It supports routing actions in conversational applications.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is a conversational utterance?",
+      "answer": "A unit of input spoken or typed by a user.",
+      "explanation": "Utterances provide evidence of user intent.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Why is context important in understanding pronouns?",
+      "answer": "Pronoun meaning often depends on preceding text.",
+      "explanation": "Language interpretation must consider nearby references.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What makes sarcasm difficult for sentiment analysis?",
+      "answer": "Literal wording can differ from intended sentiment.",
+      "explanation": "Tone and context may reverse apparent meaning.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is a common NLP ambiguity?",
+      "answer": "A word or phrase has multiple possible meanings.",
+      "explanation": "Context is needed to select the intended interpretation.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is language modeling used for in text generation?",
+      "answer": "Predicting or generating plausible sequences of text.",
+      "explanation": "Models use learned language patterns and context.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "How does translation differ from transliteration?",
+      "answer": "Translation changes language; transliteration changes writing system.",
+      "explanation": "Transliteration represents sounds in another script.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Why evaluate speech recognition with different accents?",
+      "answer": "Pronunciation differences can affect recognition accuracy.",
+      "explanation": "Diverse speech testing supports robustness and inclusion.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What can reduce transcription accuracy?",
+      "answer": "Background noise, overlapping speakers and unclear audio.",
+      "explanation": "Signal quality affects speech recognition results.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is speaker diarization?",
+      "answer": "Identifying which speaker spoke during different audio segments.",
+      "explanation": "It organizes multi-speaker transcripts.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is a common use case for text analytics?",
+      "answer": "Extracting themes and sentiment from customer feedback.",
+      "explanation": "Structured insights can support business decisions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is personally identifiable information detection?",
+      "answer": "Finding text that may contain information about identifiable people.",
+      "explanation": "It supports workflows that protect sensitive text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "Why should extracted entities be validated?",
+      "answer": "A model may misinterpret names or contextual references.",
+      "explanation": "Review is important when incorrect extraction has consequences.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is a multilingual NLP application?",
+      "answer": "An application designed to process more than one language.",
+      "explanation": "It may detect language and use supported language services.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is natural-language understanding?",
+      "answer": "Interpreting intent, meaning and relevant details from language.",
+      "explanation": "It is a core capability within NLP solutions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is natural-language generation?",
+      "answer": "Producing readable text from data or instructions.",
+      "explanation": "It turns model outputs into human-language responses.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is a common use of speech synthesis in accessibility?",
+      "answer": "Reading information aloud for users who prefer audio.",
+      "explanation": "Speech output provides an alternative to visual text.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "How do NLP and computer vision differ?",
+      "answer": "NLP processes language; computer vision processes visual information.",
+      "explanation": "Document applications may combine both capabilities.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Natural language processing"
+      ]
+    },
+    {
+      "question": "What is generative AI?",
+      "answer": "AI that produces new content based on learned patterns and prompts.",
+      "explanation": "Outputs can include text, code and other media.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a large language model?",
+      "answer": "A language model trained at scale to process and generate text.",
+      "explanation": "LLMs are widely used in chat, summarization and drafting.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a prompt?",
+      "answer": "Input instructions or context provided to a generative model.",
+      "explanation": "Prompt wording influences the model's response.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a system message in chat-oriented prompting?",
+      "answer": "A message defining high-level behavior or constraints for the assistant.",
+      "explanation": "It helps establish expected assistant behavior in supported APIs.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "Why provide clear instructions in a prompt?",
+      "answer": "To make the intended task and output format explicit.",
+      "explanation": "Ambiguous instructions often produce less useful answers.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is few-shot prompting?",
+      "answer": "Including a small number of examples in the prompt.",
+      "explanation": "Examples demonstrate expected patterns or output formats.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is zero-shot prompting?",
+      "answer": "Requesting a task without providing worked examples.",
+      "explanation": "The model relies on instructions and learned capabilities.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is grounding in generative AI?",
+      "answer": "Connecting generation to relevant external or supplied information.",
+      "explanation": "Grounding can reduce unsupported answers.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is retrieval-augmented generation?",
+      "answer": "Retrieving relevant material and using it as context for generation.",
+      "explanation": "RAG combines search or retrieval with a generative model.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a hallucination in generative AI?",
+      "answer": "A plausible-looking output that is unsupported or incorrect.",
+      "explanation": "Generated fluency does not guarantee factual accuracy.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "Why review AI-generated content before publishing?",
+      "answer": "It may contain errors, omissions or inappropriate information.",
+      "explanation": "Human verification improves quality and responsibility.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a token in a generative language model?",
+      "answer": "A unit of text used for processing and generation.",
+      "explanation": "Tokens can be words, word fragments or punctuation.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a context window?",
+      "answer": "The amount of input and generated content a model can handle together.",
+      "explanation": "Long content may exceed model limits.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What does temperature influence in text generation?",
+      "answer": "The randomness or variability of token selection.",
+      "explanation": "Higher values often produce more varied outputs.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a common business use case for generative AI?",
+      "answer": "Drafting a first version of customer-facing content.",
+      "explanation": "Humans can edit the generated draft for accuracy and tone.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a common developer use case for generative AI?",
+      "answer": "Suggesting code or explaining programming concepts.",
+      "explanation": "Generated code still requires testing and review.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a multimodal model?",
+      "answer": "A model that handles more than one type of input or output modality.",
+      "explanation": "Modalities may include text, images and audio.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What does an embedding model produce?",
+      "answer": "Vector representations of content for similarity tasks.",
+      "explanation": "Embedding vectors are used in retrieval and semantic search.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "Why are embeddings useful in RAG?",
+      "answer": "They help retrieve passages related to a question's meaning.",
+      "explanation": "Semantic retrieval can find relevant text without identical keywords.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is prompt injection?",
+      "answer": "An attempt to manipulate model behavior through untrusted content.",
+      "explanation": "Retrieved documents and user-controlled text should not override trusted instructions.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "Why should a RAG system distinguish instructions from retrieved documents?",
+      "answer": "Documents are evidence, not privileged commands.",
+      "explanation": "This distinction helps resist prompt-injection attacks.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is content filtering for generative AI?",
+      "answer": "Controls that detect or restrict certain unsafe inputs and outputs.",
+      "explanation": "Filtering forms one layer of responsible AI safeguards.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is model evaluation in a generative AI workflow?",
+      "answer": "Measuring output quality, safety and task performance.",
+      "explanation": "Evaluation should reflect the intended use case.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is Azure AI Foundry in the AI-900 syllabus?",
+      "answer": "A Microsoft Azure environment for exploring and building AI solutions.",
+      "explanation": "The syllabus includes its model discovery and development capabilities.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is the Azure AI Foundry model catalog used for?",
+      "answer": "Discovering and comparing models for AI solutions.",
+      "explanation": "Teams can consider capabilities and suitability before selection.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is Azure OpenAI Service?",
+      "answer": "An Azure service providing access to supported OpenAI models.",
+      "explanation": "It enables model inference within Azure's service environment.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "Does Azure OpenAI Service eliminate the need for content review?",
+      "answer": "No, developers remain responsible for testing and controls.",
+      "explanation": "Model access alone does not ensure suitable behavior.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is model deployment in Azure AI services?",
+      "answer": "Making a selected model available for application inference.",
+      "explanation": "Applications send requests to a deployed model or endpoint.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is the purpose of a model endpoint?",
+      "answer": "Providing an address or interface for inference requests.",
+      "explanation": "Clients send inputs and receive generated outputs.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is the difference between training and inference?",
+      "answer": "Training adjusts model parameters; inference uses a model to respond.",
+      "explanation": "Most application prompts invoke inference rather than training.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is fine-tuning?",
+      "answer": "Further training a model on selected examples for a task.",
+      "explanation": "Fine-tuning differs from simply supplying context in a prompt.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "How is RAG different from fine-tuning?",
+      "answer": "RAG supplies retrieved context at request time; fine-tuning changes model parameters.",
+      "explanation": "They solve different customization needs.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a benefit of citing retrieved documents in generated answers?",
+      "answer": "Users can inspect supporting material.",
+      "explanation": "Citations aid verification but do not guarantee every claim is correct.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "Why limit access to a generative AI application?",
+      "answer": "To protect data and control service usage.",
+      "explanation": "Authentication and authorization help reduce unauthorized use.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a cost consideration for generative inference?",
+      "answer": "Usage often depends on processed and generated tokens.",
+      "explanation": "Long prompts and responses can increase consumption.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is latency in a generative AI application?",
+      "answer": "The time between a request and receiving an output.",
+      "explanation": "Latency affects usability and application design.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "Why use output formatting constraints in prompts?",
+      "answer": "To improve consistency with a required response structure.",
+      "explanation": "Structured outputs are easier for downstream systems to process.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is a responsible response when the model lacks reliable evidence?",
+      "answer": "State uncertainty instead of inventing a fact.",
+      "explanation": "Clear uncertainty reduces misleading confident statements.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "Why monitor a deployed generative AI solution?",
+      "answer": "To detect unsafe outputs, quality issues and changing usage.",
+      "explanation": "Operational monitoring helps maintain reliability.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    },
+    {
+      "question": "What is the most important reason to assess generative AI use cases before deployment?",
+      "answer": "To match capabilities, risks and controls to a real business need.",
+      "explanation": "Appropriate use-case selection is more useful than deploying AI without purpose.",
+      "language": "en",
+      "tags": [
+        "AI-900",
+        "Generative AI on Azure"
+      ]
+    }
+  ]
+}

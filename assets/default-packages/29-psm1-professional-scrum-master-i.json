@@ -1,0 +1,2007 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "PSM1 Professional Scrum Master I",
+  "cards": [
+    {
+      "question": "What is the recommended approach to empiricism in professional Scrum practice?",
+      "answer": "Base decisions on transparency, inspection, and adaptation rather than detailed predictions.",
+      "explanation": "Scrum manages complex work through evidence and learning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "empiricism"
+      ]
+    },
+    {
+      "question": "A team wants to improve empiricism. What principle should guide its next action?",
+      "answer": "Base decisions on transparency, inspection, and adaptation rather than detailed predictions.",
+      "explanation": "Scrum manages complex work through evidence and learning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "empiricism"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about empiricism, what should practitioners emphasize?",
+      "answer": "Base decisions on transparency, inspection, and adaptation rather than detailed predictions.",
+      "explanation": "Scrum manages complex work through evidence and learning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "empiricism"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding empiricism?",
+      "answer": "Base decisions on transparency, inspection, and adaptation rather than detailed predictions.",
+      "explanation": "Scrum manages complex work through evidence and learning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "empiricism"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for empiricism?",
+      "answer": "Base decisions on transparency, inspection, and adaptation rather than detailed predictions.",
+      "explanation": "Scrum manages complex work through evidence and learning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "empiricism"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to transparency in professional Scrum practice?",
+      "answer": "Make work and progress visible and understandable to people inspecting them.",
+      "explanation": "Without a shared understanding, inspection can mislead.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "transparency"
+      ]
+    },
+    {
+      "question": "A team wants to improve transparency. What principle should guide its next action?",
+      "answer": "Make work and progress visible and understandable to people inspecting them.",
+      "explanation": "Without a shared understanding, inspection can mislead.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "transparency"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about transparency, what should practitioners emphasize?",
+      "answer": "Make work and progress visible and understandable to people inspecting them.",
+      "explanation": "Without a shared understanding, inspection can mislead.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "transparency"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding transparency?",
+      "answer": "Make work and progress visible and understandable to people inspecting them.",
+      "explanation": "Without a shared understanding, inspection can mislead.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "transparency"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for transparency?",
+      "answer": "Make work and progress visible and understandable to people inspecting them.",
+      "explanation": "Without a shared understanding, inspection can mislead.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "transparency"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to inspection in professional Scrum practice?",
+      "answer": "Inspect artifacts and progress frequently enough to detect undesirable deviations.",
+      "explanation": "Inspection supports informed adaptation, not surveillance.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "inspection"
+      ]
+    },
+    {
+      "question": "A team wants to improve inspection. What principle should guide its next action?",
+      "answer": "Inspect artifacts and progress frequently enough to detect undesirable deviations.",
+      "explanation": "Inspection supports informed adaptation, not surveillance.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "inspection"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about inspection, what should practitioners emphasize?",
+      "answer": "Inspect artifacts and progress frequently enough to detect undesirable deviations.",
+      "explanation": "Inspection supports informed adaptation, not surveillance.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "inspection"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding inspection?",
+      "answer": "Inspect artifacts and progress frequently enough to detect undesirable deviations.",
+      "explanation": "Inspection supports informed adaptation, not surveillance.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "inspection"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for inspection?",
+      "answer": "Inspect artifacts and progress frequently enough to detect undesirable deviations.",
+      "explanation": "Inspection supports informed adaptation, not surveillance.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "inspection"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to adaptation in professional Scrum practice?",
+      "answer": "Change plans, processes, or work promptly when evidence calls for it.",
+      "explanation": "Adaptation keeps the product aligned with reality.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "adaptation"
+      ]
+    },
+    {
+      "question": "A team wants to improve adaptation. What principle should guide its next action?",
+      "answer": "Change plans, processes, or work promptly when evidence calls for it.",
+      "explanation": "Adaptation keeps the product aligned with reality.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "adaptation"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about adaptation, what should practitioners emphasize?",
+      "answer": "Change plans, processes, or work promptly when evidence calls for it.",
+      "explanation": "Adaptation keeps the product aligned with reality.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "adaptation"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding adaptation?",
+      "answer": "Change plans, processes, or work promptly when evidence calls for it.",
+      "explanation": "Adaptation keeps the product aligned with reality.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "adaptation"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for adaptation?",
+      "answer": "Change plans, processes, or work promptly when evidence calls for it.",
+      "explanation": "Adaptation keeps the product aligned with reality.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "adaptation"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to commitment in professional Scrum practice?",
+      "answer": "Commit to goals and mutual support instead of pretending all estimates are guarantees.",
+      "explanation": "Commitment is a Scrum value, not a fixed-scope contract.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "commitment"
+      ]
+    },
+    {
+      "question": "A team wants to improve commitment. What principle should guide its next action?",
+      "answer": "Commit to goals and mutual support instead of pretending all estimates are guarantees.",
+      "explanation": "Commitment is a Scrum value, not a fixed-scope contract.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "commitment"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about commitment, what should practitioners emphasize?",
+      "answer": "Commit to goals and mutual support instead of pretending all estimates are guarantees.",
+      "explanation": "Commitment is a Scrum value, not a fixed-scope contract.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "commitment"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding commitment?",
+      "answer": "Commit to goals and mutual support instead of pretending all estimates are guarantees.",
+      "explanation": "Commitment is a Scrum value, not a fixed-scope contract.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "commitment"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for commitment?",
+      "answer": "Commit to goals and mutual support instead of pretending all estimates are guarantees.",
+      "explanation": "Commitment is a Scrum value, not a fixed-scope contract.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "commitment"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to focus in professional Scrum practice?",
+      "answer": "Concentrate on the Sprint Goal and the most valuable work.",
+      "explanation": "Focus reduces fragmentation and helps collective progress.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "focus"
+      ]
+    },
+    {
+      "question": "A team wants to improve focus. What principle should guide its next action?",
+      "answer": "Concentrate on the Sprint Goal and the most valuable work.",
+      "explanation": "Focus reduces fragmentation and helps collective progress.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "focus"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about focus, what should practitioners emphasize?",
+      "answer": "Concentrate on the Sprint Goal and the most valuable work.",
+      "explanation": "Focus reduces fragmentation and helps collective progress.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "focus"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding focus?",
+      "answer": "Concentrate on the Sprint Goal and the most valuable work.",
+      "explanation": "Focus reduces fragmentation and helps collective progress.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "focus"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for focus?",
+      "answer": "Concentrate on the Sprint Goal and the most valuable work.",
+      "explanation": "Focus reduces fragmentation and helps collective progress.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "focus"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to openness in professional Scrum practice?",
+      "answer": "Be transparent about challenges, progress, and uncertainty.",
+      "explanation": "Openness supports empirical decision-making.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "openness"
+      ]
+    },
+    {
+      "question": "A team wants to improve openness. What principle should guide its next action?",
+      "answer": "Be transparent about challenges, progress, and uncertainty.",
+      "explanation": "Openness supports empirical decision-making.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "openness"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about openness, what should practitioners emphasize?",
+      "answer": "Be transparent about challenges, progress, and uncertainty.",
+      "explanation": "Openness supports empirical decision-making.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "openness"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding openness?",
+      "answer": "Be transparent about challenges, progress, and uncertainty.",
+      "explanation": "Openness supports empirical decision-making.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "openness"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for openness?",
+      "answer": "Be transparent about challenges, progress, and uncertainty.",
+      "explanation": "Openness supports empirical decision-making.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "openness"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to respect in professional Scrum practice?",
+      "answer": "Treat Scrum Team members as capable independent professionals.",
+      "explanation": "Respect enables collaboration and self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "respect"
+      ]
+    },
+    {
+      "question": "A team wants to improve respect. What principle should guide its next action?",
+      "answer": "Treat Scrum Team members as capable independent professionals.",
+      "explanation": "Respect enables collaboration and self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "respect"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about respect, what should practitioners emphasize?",
+      "answer": "Treat Scrum Team members as capable independent professionals.",
+      "explanation": "Respect enables collaboration and self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "respect"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding respect?",
+      "answer": "Treat Scrum Team members as capable independent professionals.",
+      "explanation": "Respect enables collaboration and self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "respect"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for respect?",
+      "answer": "Treat Scrum Team members as capable independent professionals.",
+      "explanation": "Respect enables collaboration and self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "respect"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to courage in professional Scrum practice?",
+      "answer": "Raise difficult problems and pursue the right action even when uncomfortable.",
+      "explanation": "Courage is needed to inspect and adapt truthfully.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "courage"
+      ]
+    },
+    {
+      "question": "A team wants to improve courage. What principle should guide its next action?",
+      "answer": "Raise difficult problems and pursue the right action even when uncomfortable.",
+      "explanation": "Courage is needed to inspect and adapt truthfully.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "courage"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about courage, what should practitioners emphasize?",
+      "answer": "Raise difficult problems and pursue the right action even when uncomfortable.",
+      "explanation": "Courage is needed to inspect and adapt truthfully.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "courage"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding courage?",
+      "answer": "Raise difficult problems and pursue the right action even when uncomfortable.",
+      "explanation": "Courage is needed to inspect and adapt truthfully.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "courage"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for courage?",
+      "answer": "Raise difficult problems and pursue the right action even when uncomfortable.",
+      "explanation": "Courage is needed to inspect and adapt truthfully.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "courage"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product owner accountability in professional Scrum practice?",
+      "answer": "The Product Owner is accountable for maximizing product value and effective Product Backlog management.",
+      "explanation": "Tasks can be delegated, accountability cannot.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-owner-accountability"
+      ]
+    },
+    {
+      "question": "A team wants to improve product owner accountability. What principle should guide its next action?",
+      "answer": "The Product Owner is accountable for maximizing product value and effective Product Backlog management.",
+      "explanation": "Tasks can be delegated, accountability cannot.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-owner-accountability"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product owner accountability, what should practitioners emphasize?",
+      "answer": "The Product Owner is accountable for maximizing product value and effective Product Backlog management.",
+      "explanation": "Tasks can be delegated, accountability cannot.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-owner-accountability"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product owner accountability?",
+      "answer": "The Product Owner is accountable for maximizing product value and effective Product Backlog management.",
+      "explanation": "Tasks can be delegated, accountability cannot.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-owner-accountability"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product owner accountability?",
+      "answer": "The Product Owner is accountable for maximizing product value and effective Product Backlog management.",
+      "explanation": "Tasks can be delegated, accountability cannot.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-owner-accountability"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to scrum master accountability in professional Scrum practice?",
+      "answer": "The Scrum Master is accountable for establishing Scrum and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team and organization rather than acting as a task manager.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-master-accountability"
+      ]
+    },
+    {
+      "question": "A team wants to improve scrum master accountability. What principle should guide its next action?",
+      "answer": "The Scrum Master is accountable for establishing Scrum and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team and organization rather than acting as a task manager.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-master-accountability"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about scrum master accountability, what should practitioners emphasize?",
+      "answer": "The Scrum Master is accountable for establishing Scrum and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team and organization rather than acting as a task manager.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-master-accountability"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding scrum master accountability?",
+      "answer": "The Scrum Master is accountable for establishing Scrum and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team and organization rather than acting as a task manager.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-master-accountability"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for scrum master accountability?",
+      "answer": "The Scrum Master is accountable for establishing Scrum and improving Scrum Team effectiveness.",
+      "explanation": "The Scrum Master serves the team and organization rather than acting as a task manager.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-master-accountability"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to developers accountability in professional Scrum practice?",
+      "answer": "Developers are accountable for creating a usable Increment each Sprint and adapting the plan daily.",
+      "explanation": "Developers own quality, the Sprint Backlog, and the Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "developers-accountability"
+      ]
+    },
+    {
+      "question": "A team wants to improve developers accountability. What principle should guide its next action?",
+      "answer": "Developers are accountable for creating a usable Increment each Sprint and adapting the plan daily.",
+      "explanation": "Developers own quality, the Sprint Backlog, and the Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "developers-accountability"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about developers accountability, what should practitioners emphasize?",
+      "answer": "Developers are accountable for creating a usable Increment each Sprint and adapting the plan daily.",
+      "explanation": "Developers own quality, the Sprint Backlog, and the Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "developers-accountability"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding developers accountability?",
+      "answer": "Developers are accountable for creating a usable Increment each Sprint and adapting the plan daily.",
+      "explanation": "Developers own quality, the Sprint Backlog, and the Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "developers-accountability"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for developers accountability?",
+      "answer": "Developers are accountable for creating a usable Increment each Sprint and adapting the plan daily.",
+      "explanation": "Developers own quality, the Sprint Backlog, and the Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "developers-accountability"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to self-management in professional Scrum practice?",
+      "answer": "The Scrum Team determines internally who does what, when, and how.",
+      "explanation": "External assignment of detailed tasks undermines self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "self-management"
+      ]
+    },
+    {
+      "question": "A team wants to improve self-management. What principle should guide its next action?",
+      "answer": "The Scrum Team determines internally who does what, when, and how.",
+      "explanation": "External assignment of detailed tasks undermines self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "self-management"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about self-management, what should practitioners emphasize?",
+      "answer": "The Scrum Team determines internally who does what, when, and how.",
+      "explanation": "External assignment of detailed tasks undermines self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "self-management"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding self-management?",
+      "answer": "The Scrum Team determines internally who does what, when, and how.",
+      "explanation": "External assignment of detailed tasks undermines self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "self-management"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for self-management?",
+      "answer": "The Scrum Team determines internally who does what, when, and how.",
+      "explanation": "External assignment of detailed tasks undermines self-management.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "self-management"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to cross-functionality in professional Scrum practice?",
+      "answer": "Ensure the Scrum Team collectively has the skills needed to create value.",
+      "explanation": "Work should not routinely depend on external handoff silos.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cross-functionality"
+      ]
+    },
+    {
+      "question": "A team wants to improve cross-functionality. What principle should guide its next action?",
+      "answer": "Ensure the Scrum Team collectively has the skills needed to create value.",
+      "explanation": "Work should not routinely depend on external handoff silos.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cross-functionality"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about cross-functionality, what should practitioners emphasize?",
+      "answer": "Ensure the Scrum Team collectively has the skills needed to create value.",
+      "explanation": "Work should not routinely depend on external handoff silos.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cross-functionality"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding cross-functionality?",
+      "answer": "Ensure the Scrum Team collectively has the skills needed to create value.",
+      "explanation": "Work should not routinely depend on external handoff silos.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cross-functionality"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for cross-functionality?",
+      "answer": "Ensure the Scrum Team collectively has the skills needed to create value.",
+      "explanation": "Work should not routinely depend on external handoff silos.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cross-functionality"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to one scrum team in professional Scrum practice?",
+      "answer": "Keep one team consisting of a Product Owner, Scrum Master, and Developers with no internal sub-teams.",
+      "explanation": "Scrum specifies three accountabilities, not a project hierarchy.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "one-scrum-team"
+      ]
+    },
+    {
+      "question": "A team wants to improve one scrum team. What principle should guide its next action?",
+      "answer": "Keep one team consisting of a Product Owner, Scrum Master, and Developers with no internal sub-teams.",
+      "explanation": "Scrum specifies three accountabilities, not a project hierarchy.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "one-scrum-team"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about one scrum team, what should practitioners emphasize?",
+      "answer": "Keep one team consisting of a Product Owner, Scrum Master, and Developers with no internal sub-teams.",
+      "explanation": "Scrum specifies three accountabilities, not a project hierarchy.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "one-scrum-team"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding one scrum team?",
+      "answer": "Keep one team consisting of a Product Owner, Scrum Master, and Developers with no internal sub-teams.",
+      "explanation": "Scrum specifies three accountabilities, not a project hierarchy.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "one-scrum-team"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for one scrum team?",
+      "answer": "Keep one team consisting of a Product Owner, Scrum Master, and Developers with no internal sub-teams.",
+      "explanation": "Scrum specifies three accountabilities, not a project hierarchy.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "one-scrum-team"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint timebox in professional Scrum practice?",
+      "answer": "Keep a Sprint at one month or less and start a new Sprint immediately after the previous one ends.",
+      "explanation": "A shorter feedback cycle limits risk.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-timebox"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint timebox. What principle should guide its next action?",
+      "answer": "Keep a Sprint at one month or less and start a new Sprint immediately after the previous one ends.",
+      "explanation": "A shorter feedback cycle limits risk.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-timebox"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint timebox, what should practitioners emphasize?",
+      "answer": "Keep a Sprint at one month or less and start a new Sprint immediately after the previous one ends.",
+      "explanation": "A shorter feedback cycle limits risk.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-timebox"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint timebox?",
+      "answer": "Keep a Sprint at one month or less and start a new Sprint immediately after the previous one ends.",
+      "explanation": "A shorter feedback cycle limits risk.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-timebox"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint timebox?",
+      "answer": "Keep a Sprint at one month or less and start a new Sprint immediately after the previous one ends.",
+      "explanation": "A shorter feedback cycle limits risk.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-timebox"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint goal in professional Scrum practice?",
+      "answer": "Use a single coherent objective that communicates why the Sprint is valuable.",
+      "explanation": "It provides flexibility in exactly which work achieves the objective.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-goal"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint goal. What principle should guide its next action?",
+      "answer": "Use a single coherent objective that communicates why the Sprint is valuable.",
+      "explanation": "It provides flexibility in exactly which work achieves the objective.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-goal"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint goal, what should practitioners emphasize?",
+      "answer": "Use a single coherent objective that communicates why the Sprint is valuable.",
+      "explanation": "It provides flexibility in exactly which work achieves the objective.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-goal"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint goal?",
+      "answer": "Use a single coherent objective that communicates why the Sprint is valuable.",
+      "explanation": "It provides flexibility in exactly which work achieves the objective.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-goal"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint goal?",
+      "answer": "Use a single coherent objective that communicates why the Sprint is valuable.",
+      "explanation": "It provides flexibility in exactly which work achieves the objective.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-goal"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint planning in professional Scrum practice?",
+      "answer": "Address why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The entire Scrum Team collaborates in planning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-planning"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint planning. What principle should guide its next action?",
+      "answer": "Address why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The entire Scrum Team collaborates in planning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-planning"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint planning, what should practitioners emphasize?",
+      "answer": "Address why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The entire Scrum Team collaborates in planning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-planning"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint planning?",
+      "answer": "Address why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The entire Scrum Team collaborates in planning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-planning"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint planning?",
+      "answer": "Address why the Sprint is valuable, what can be done, and how the selected work will get done.",
+      "explanation": "The entire Scrum Team collaborates in planning.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-planning"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to daily scrum in professional Scrum practice?",
+      "answer": "Developers inspect progress toward the Sprint Goal and adapt their plan within 15 minutes.",
+      "explanation": "It is not a status report to the Scrum Master.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "daily-scrum"
+      ]
+    },
+    {
+      "question": "A team wants to improve daily scrum. What principle should guide its next action?",
+      "answer": "Developers inspect progress toward the Sprint Goal and adapt their plan within 15 minutes.",
+      "explanation": "It is not a status report to the Scrum Master.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "daily-scrum"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about daily scrum, what should practitioners emphasize?",
+      "answer": "Developers inspect progress toward the Sprint Goal and adapt their plan within 15 minutes.",
+      "explanation": "It is not a status report to the Scrum Master.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "daily-scrum"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding daily scrum?",
+      "answer": "Developers inspect progress toward the Sprint Goal and adapt their plan within 15 minutes.",
+      "explanation": "It is not a status report to the Scrum Master.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "daily-scrum"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for daily scrum?",
+      "answer": "Developers inspect progress toward the Sprint Goal and adapt their plan within 15 minutes.",
+      "explanation": "It is not a status report to the Scrum Master.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "daily-scrum"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint review in professional Scrum practice?",
+      "answer": "Inspect the Sprint outcome with stakeholders and adapt future directions collaboratively.",
+      "explanation": "It is a working session rather than merely a demo or approval gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-review"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint review. What principle should guide its next action?",
+      "answer": "Inspect the Sprint outcome with stakeholders and adapt future directions collaboratively.",
+      "explanation": "It is a working session rather than merely a demo or approval gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-review"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint review, what should practitioners emphasize?",
+      "answer": "Inspect the Sprint outcome with stakeholders and adapt future directions collaboratively.",
+      "explanation": "It is a working session rather than merely a demo or approval gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-review"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint review?",
+      "answer": "Inspect the Sprint outcome with stakeholders and adapt future directions collaboratively.",
+      "explanation": "It is a working session rather than merely a demo or approval gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-review"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint review?",
+      "answer": "Inspect the Sprint outcome with stakeholders and adapt future directions collaboratively.",
+      "explanation": "It is a working session rather than merely a demo or approval gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-review"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint retrospective in professional Scrum practice?",
+      "answer": "Inspect ways of working and plan improvements to quality and effectiveness.",
+      "explanation": "Actionable improvements may be added to the next Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-retrospective"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint retrospective. What principle should guide its next action?",
+      "answer": "Inspect ways of working and plan improvements to quality and effectiveness.",
+      "explanation": "Actionable improvements may be added to the next Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-retrospective"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint retrospective, what should practitioners emphasize?",
+      "answer": "Inspect ways of working and plan improvements to quality and effectiveness.",
+      "explanation": "Actionable improvements may be added to the next Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-retrospective"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint retrospective?",
+      "answer": "Inspect ways of working and plan improvements to quality and effectiveness.",
+      "explanation": "Actionable improvements may be added to the next Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-retrospective"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint retrospective?",
+      "answer": "Inspect ways of working and plan improvements to quality and effectiveness.",
+      "explanation": "Actionable improvements may be added to the next Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-retrospective"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product backlog in professional Scrum practice?",
+      "answer": "Maintain an emergent ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-backlog"
+      ]
+    },
+    {
+      "question": "A team wants to improve product backlog. What principle should guide its next action?",
+      "answer": "Maintain an emergent ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-backlog"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product backlog, what should practitioners emphasize?",
+      "answer": "Maintain an emergent ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-backlog"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product backlog?",
+      "answer": "Maintain an emergent ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-backlog"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product backlog?",
+      "answer": "Maintain an emergent ordered list of what is needed to improve the product.",
+      "explanation": "It is the single source of work undertaken by the Scrum Team.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-backlog"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint backlog in professional Scrum practice?",
+      "answer": "Keep the Sprint Goal, selected Product Backlog items, and actionable delivery plan together.",
+      "explanation": "It is a plan by and for Developers that evolves during the Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-backlog"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint backlog. What principle should guide its next action?",
+      "answer": "Keep the Sprint Goal, selected Product Backlog items, and actionable delivery plan together.",
+      "explanation": "It is a plan by and for Developers that evolves during the Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-backlog"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint backlog, what should practitioners emphasize?",
+      "answer": "Keep the Sprint Goal, selected Product Backlog items, and actionable delivery plan together.",
+      "explanation": "It is a plan by and for Developers that evolves during the Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-backlog"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint backlog?",
+      "answer": "Keep the Sprint Goal, selected Product Backlog items, and actionable delivery plan together.",
+      "explanation": "It is a plan by and for Developers that evolves during the Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-backlog"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint backlog?",
+      "answer": "Keep the Sprint Goal, selected Product Backlog items, and actionable delivery plan together.",
+      "explanation": "It is a plan by and for Developers that evolves during the Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "sprint-backlog"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to increment in professional Scrum practice?",
+      "answer": "Produce a usable, valuable addition meeting the Definition of Done.",
+      "explanation": "Multiple Increments can be created and delivered during a Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "increment"
+      ]
+    },
+    {
+      "question": "A team wants to improve increment. What principle should guide its next action?",
+      "answer": "Produce a usable, valuable addition meeting the Definition of Done.",
+      "explanation": "Multiple Increments can be created and delivered during a Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "increment"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about increment, what should practitioners emphasize?",
+      "answer": "Produce a usable, valuable addition meeting the Definition of Done.",
+      "explanation": "Multiple Increments can be created and delivered during a Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "increment"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding increment?",
+      "answer": "Produce a usable, valuable addition meeting the Definition of Done.",
+      "explanation": "Multiple Increments can be created and delivered during a Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "increment"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for increment?",
+      "answer": "Produce a usable, valuable addition meeting the Definition of Done.",
+      "explanation": "Multiple Increments can be created and delivered during a Sprint.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "increment"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to definition of done in professional Scrum practice?",
+      "answer": "Apply a shared formal description of the quality measures required for an Increment.",
+      "explanation": "Work not meeting the Definition of Done is not part of the Increment.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done"
+      ]
+    },
+    {
+      "question": "A team wants to improve definition of done. What principle should guide its next action?",
+      "answer": "Apply a shared formal description of the quality measures required for an Increment.",
+      "explanation": "Work not meeting the Definition of Done is not part of the Increment.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about definition of done, what should practitioners emphasize?",
+      "answer": "Apply a shared formal description of the quality measures required for an Increment.",
+      "explanation": "Work not meeting the Definition of Done is not part of the Increment.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding definition of done?",
+      "answer": "Apply a shared formal description of the quality measures required for an Increment.",
+      "explanation": "Work not meeting the Definition of Done is not part of the Increment.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for definition of done?",
+      "answer": "Apply a shared formal description of the quality measures required for an Increment.",
+      "explanation": "Work not meeting the Definition of Done is not part of the Increment.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product goal in professional Scrum practice?",
+      "answer": "Use the long-term objective in the Product Backlog to guide product evolution.",
+      "explanation": "The team fulfills or abandons a Product Goal before taking on the next.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-goal"
+      ]
+    },
+    {
+      "question": "A team wants to improve product goal. What principle should guide its next action?",
+      "answer": "Use the long-term objective in the Product Backlog to guide product evolution.",
+      "explanation": "The team fulfills or abandons a Product Goal before taking on the next.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-goal"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product goal, what should practitioners emphasize?",
+      "answer": "Use the long-term objective in the Product Backlog to guide product evolution.",
+      "explanation": "The team fulfills or abandons a Product Goal before taking on the next.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-goal"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product goal?",
+      "answer": "Use the long-term objective in the Product Backlog to guide product evolution.",
+      "explanation": "The team fulfills or abandons a Product Goal before taking on the next.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-goal"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product goal?",
+      "answer": "Use the long-term objective in the Product Backlog to guide product evolution.",
+      "explanation": "The team fulfills or abandons a Product Goal before taking on the next.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-goal"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to refinement in professional Scrum practice?",
+      "answer": "Continuously split and clarify Product Backlog items as needed.",
+      "explanation": "Refinement is an ongoing activity, not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "refinement"
+      ]
+    },
+    {
+      "question": "A team wants to improve refinement. What principle should guide its next action?",
+      "answer": "Continuously split and clarify Product Backlog items as needed.",
+      "explanation": "Refinement is an ongoing activity, not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "refinement"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about refinement, what should practitioners emphasize?",
+      "answer": "Continuously split and clarify Product Backlog items as needed.",
+      "explanation": "Refinement is an ongoing activity, not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "refinement"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding refinement?",
+      "answer": "Continuously split and clarify Product Backlog items as needed.",
+      "explanation": "Refinement is an ongoing activity, not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "refinement"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for refinement?",
+      "answer": "Continuously split and clarify Product Backlog items as needed.",
+      "explanation": "Refinement is an ongoing activity, not a prescribed Scrum event.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "refinement"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to cancellation in professional Scrum practice?",
+      "answer": "Only the Product Owner has authority to cancel a Sprint when its Sprint Goal becomes obsolete.",
+      "explanation": "Changes in technology, competition, or business priorities can make the goal obsolete.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cancellation"
+      ]
+    },
+    {
+      "question": "A team wants to improve cancellation. What principle should guide its next action?",
+      "answer": "Only the Product Owner has authority to cancel a Sprint when its Sprint Goal becomes obsolete.",
+      "explanation": "Changes in technology, competition, or business priorities can make the goal obsolete.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cancellation"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about cancellation, what should practitioners emphasize?",
+      "answer": "Only the Product Owner has authority to cancel a Sprint when its Sprint Goal becomes obsolete.",
+      "explanation": "Changes in technology, competition, or business priorities can make the goal obsolete.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cancellation"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding cancellation?",
+      "answer": "Only the Product Owner has authority to cancel a Sprint when its Sprint Goal becomes obsolete.",
+      "explanation": "Changes in technology, competition, or business priorities can make the goal obsolete.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cancellation"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for cancellation?",
+      "answer": "Only the Product Owner has authority to cancel a Sprint when its Sprint Goal becomes obsolete.",
+      "explanation": "Changes in technology, competition, or business priorities can make the goal obsolete.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "cancellation"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to quality in sprint in professional Scrum practice?",
+      "answer": "Never decrease quality during the Sprint.",
+      "explanation": "Scope can be renegotiated with the Product Owner as more is learned.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "quality-in-sprint"
+      ]
+    },
+    {
+      "question": "A team wants to improve quality in sprint. What principle should guide its next action?",
+      "answer": "Never decrease quality during the Sprint.",
+      "explanation": "Scope can be renegotiated with the Product Owner as more is learned.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "quality-in-sprint"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about quality in sprint, what should practitioners emphasize?",
+      "answer": "Never decrease quality during the Sprint.",
+      "explanation": "Scope can be renegotiated with the Product Owner as more is learned.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "quality-in-sprint"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding quality in sprint?",
+      "answer": "Never decrease quality during the Sprint.",
+      "explanation": "Scope can be renegotiated with the Product Owner as more is learned.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "quality-in-sprint"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for quality in sprint?",
+      "answer": "Never decrease quality during the Sprint.",
+      "explanation": "Scope can be renegotiated with the Product Owner as more is learned.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "quality-in-sprint"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to stakeholder collaboration in professional Scrum practice?",
+      "answer": "Involve relevant stakeholders to inspect outcomes and adjust what to pursue next.",
+      "explanation": "Collaboration helps connect delivered work with value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "stakeholder-collaboration"
+      ]
+    },
+    {
+      "question": "A team wants to improve stakeholder collaboration. What principle should guide its next action?",
+      "answer": "Involve relevant stakeholders to inspect outcomes and adjust what to pursue next.",
+      "explanation": "Collaboration helps connect delivered work with value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "stakeholder-collaboration"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about stakeholder collaboration, what should practitioners emphasize?",
+      "answer": "Involve relevant stakeholders to inspect outcomes and adjust what to pursue next.",
+      "explanation": "Collaboration helps connect delivered work with value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "stakeholder-collaboration"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding stakeholder collaboration?",
+      "answer": "Involve relevant stakeholders to inspect outcomes and adjust what to pursue next.",
+      "explanation": "Collaboration helps connect delivered work with value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "stakeholder-collaboration"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for stakeholder collaboration?",
+      "answer": "Involve relevant stakeholders to inspect outcomes and adjust what to pursue next.",
+      "explanation": "Collaboration helps connect delivered work with value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "stakeholder-collaboration"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to forecast versus commitment in professional Scrum practice?",
+      "answer": "Treat selected work as a forecast while maintaining commitment to the Sprint Goal.",
+      "explanation": "Uncertainty can change the scope required to meet the goal.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecast-versus-commitment"
+      ]
+    },
+    {
+      "question": "A team wants to improve forecast versus commitment. What principle should guide its next action?",
+      "answer": "Treat selected work as a forecast while maintaining commitment to the Sprint Goal.",
+      "explanation": "Uncertainty can change the scope required to meet the goal.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecast-versus-commitment"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about forecast versus commitment, what should practitioners emphasize?",
+      "answer": "Treat selected work as a forecast while maintaining commitment to the Sprint Goal.",
+      "explanation": "Uncertainty can change the scope required to meet the goal.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecast-versus-commitment"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding forecast versus commitment?",
+      "answer": "Treat selected work as a forecast while maintaining commitment to the Sprint Goal.",
+      "explanation": "Uncertainty can change the scope required to meet the goal.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecast-versus-commitment"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for forecast versus commitment?",
+      "answer": "Treat selected work as a forecast while maintaining commitment to the Sprint Goal.",
+      "explanation": "Uncertainty can change the scope required to meet the goal.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecast-versus-commitment"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to timeboxing in professional Scrum practice?",
+      "answer": "Use event timeboxes to focus inspection and reduce unnecessary delay.",
+      "explanation": "Timeboxes are maximum durations, not mandatory meeting lengths.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "timeboxing"
+      ]
+    },
+    {
+      "question": "A team wants to improve timeboxing. What principle should guide its next action?",
+      "answer": "Use event timeboxes to focus inspection and reduce unnecessary delay.",
+      "explanation": "Timeboxes are maximum durations, not mandatory meeting lengths.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "timeboxing"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about timeboxing, what should practitioners emphasize?",
+      "answer": "Use event timeboxes to focus inspection and reduce unnecessary delay.",
+      "explanation": "Timeboxes are maximum durations, not mandatory meeting lengths.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "timeboxing"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding timeboxing?",
+      "answer": "Use event timeboxes to focus inspection and reduce unnecessary delay.",
+      "explanation": "Timeboxes are maximum durations, not mandatory meeting lengths.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "timeboxing"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for timeboxing?",
+      "answer": "Use event timeboxes to focus inspection and reduce unnecessary delay.",
+      "explanation": "Timeboxes are maximum durations, not mandatory meeting lengths.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "timeboxing"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to value delivery in professional Scrum practice?",
+      "answer": "Optimize usable outcomes and feedback over completed tasks alone.",
+      "explanation": "Output volume does not necessarily reflect customer value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "value-delivery"
+      ]
+    },
+    {
+      "question": "A team wants to improve value delivery. What principle should guide its next action?",
+      "answer": "Optimize usable outcomes and feedback over completed tasks alone.",
+      "explanation": "Output volume does not necessarily reflect customer value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "value-delivery"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about value delivery, what should practitioners emphasize?",
+      "answer": "Optimize usable outcomes and feedback over completed tasks alone.",
+      "explanation": "Output volume does not necessarily reflect customer value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "value-delivery"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding value delivery?",
+      "answer": "Optimize usable outcomes and feedback over completed tasks alone.",
+      "explanation": "Output volume does not necessarily reflect customer value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "value-delivery"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for value delivery?",
+      "answer": "Optimize usable outcomes and feedback over completed tasks alone.",
+      "explanation": "Output volume does not necessarily reflect customer value.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "value-delivery"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to impediments in professional Scrum practice?",
+      "answer": "Make obstacles visible and work to remove or mitigate them.",
+      "explanation": "Helping eliminate impediments is a Scrum Master service.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "impediments"
+      ]
+    },
+    {
+      "question": "A team wants to improve impediments. What principle should guide its next action?",
+      "answer": "Make obstacles visible and work to remove or mitigate them.",
+      "explanation": "Helping eliminate impediments is a Scrum Master service.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "impediments"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about impediments, what should practitioners emphasize?",
+      "answer": "Make obstacles visible and work to remove or mitigate them.",
+      "explanation": "Helping eliminate impediments is a Scrum Master service.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "impediments"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding impediments?",
+      "answer": "Make obstacles visible and work to remove or mitigate them.",
+      "explanation": "Helping eliminate impediments is a Scrum Master service.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "impediments"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for impediments?",
+      "answer": "Make obstacles visible and work to remove or mitigate them.",
+      "explanation": "Helping eliminate impediments is a Scrum Master service.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "impediments"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to scrum completeness in professional Scrum practice?",
+      "answer": "Apply Scrum as a coherent framework rather than omitting core accountabilities or events.",
+      "explanation": "Changing its essential elements obscures problems.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-completeness"
+      ]
+    },
+    {
+      "question": "A team wants to improve scrum completeness. What principle should guide its next action?",
+      "answer": "Apply Scrum as a coherent framework rather than omitting core accountabilities or events.",
+      "explanation": "Changing its essential elements obscures problems.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-completeness"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about scrum completeness, what should practitioners emphasize?",
+      "answer": "Apply Scrum as a coherent framework rather than omitting core accountabilities or events.",
+      "explanation": "Changing its essential elements obscures problems.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-completeness"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding scrum completeness?",
+      "answer": "Apply Scrum as a coherent framework rather than omitting core accountabilities or events.",
+      "explanation": "Changing its essential elements obscures problems.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-completeness"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for scrum completeness?",
+      "answer": "Apply Scrum as a coherent framework rather than omitting core accountabilities or events.",
+      "explanation": "Changing its essential elements obscures problems.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "scrum-completeness"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to release decisions in professional Scrum practice?",
+      "answer": "Release a Done Increment whenever this serves value, including before Sprint end.",
+      "explanation": "The Sprint Review is not a mandatory release gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "release-decisions"
+      ]
+    },
+    {
+      "question": "A team wants to improve release decisions. What principle should guide its next action?",
+      "answer": "Release a Done Increment whenever this serves value, including before Sprint end.",
+      "explanation": "The Sprint Review is not a mandatory release gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "release-decisions"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about release decisions, what should practitioners emphasize?",
+      "answer": "Release a Done Increment whenever this serves value, including before Sprint end.",
+      "explanation": "The Sprint Review is not a mandatory release gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "release-decisions"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding release decisions?",
+      "answer": "Release a Done Increment whenever this serves value, including before Sprint end.",
+      "explanation": "The Sprint Review is not a mandatory release gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "release-decisions"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for release decisions?",
+      "answer": "Release a Done Increment whenever this serves value, including before Sprint end.",
+      "explanation": "The Sprint Review is not a mandatory release gate.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "release-decisions"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to shared accountability in professional Scrum practice?",
+      "answer": "Hold the entire Scrum Team accountable for creating valuable, useful Increments.",
+      "explanation": "Scrum does not create separate accountability for each specialty silo.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "shared-accountability"
+      ]
+    },
+    {
+      "question": "A team wants to improve shared accountability. What principle should guide its next action?",
+      "answer": "Hold the entire Scrum Team accountable for creating valuable, useful Increments.",
+      "explanation": "Scrum does not create separate accountability for each specialty silo.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "shared-accountability"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about shared accountability, what should practitioners emphasize?",
+      "answer": "Hold the entire Scrum Team accountable for creating valuable, useful Increments.",
+      "explanation": "Scrum does not create separate accountability for each specialty silo.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "shared-accountability"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding shared accountability?",
+      "answer": "Hold the entire Scrum Team accountable for creating valuable, useful Increments.",
+      "explanation": "Scrum does not create separate accountability for each specialty silo.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "shared-accountability"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for shared accountability?",
+      "answer": "Hold the entire Scrum Team accountable for creating valuable, useful Increments.",
+      "explanation": "Scrum does not create separate accountability for each specialty silo.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "shared-accountability"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to forecasting uncertainty in professional Scrum practice?",
+      "answer": "Use observed evidence while acknowledging that complex product delivery cannot be predicted precisely.",
+      "explanation": "Empirical forecasts should be updated when evidence changes.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecasting-uncertainty"
+      ]
+    },
+    {
+      "question": "A team wants to improve forecasting uncertainty. What principle should guide its next action?",
+      "answer": "Use observed evidence while acknowledging that complex product delivery cannot be predicted precisely.",
+      "explanation": "Empirical forecasts should be updated when evidence changes.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecasting-uncertainty"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about forecasting uncertainty, what should practitioners emphasize?",
+      "answer": "Use observed evidence while acknowledging that complex product delivery cannot be predicted precisely.",
+      "explanation": "Empirical forecasts should be updated when evidence changes.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecasting-uncertainty"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding forecasting uncertainty?",
+      "answer": "Use observed evidence while acknowledging that complex product delivery cannot be predicted precisely.",
+      "explanation": "Empirical forecasts should be updated when evidence changes.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecasting-uncertainty"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for forecasting uncertainty?",
+      "answer": "Use observed evidence while acknowledging that complex product delivery cannot be predicted precisely.",
+      "explanation": "Empirical forecasts should be updated when evidence changes.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "forecasting-uncertainty"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to definition of done standard in professional Scrum practice?",
+      "answer": "Meet any organization-wide Definition of Done minimum, with team-specific improvements if appropriate.",
+      "explanation": "Teams on the same product should mutually define and comply with one shared Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done-standard"
+      ]
+    },
+    {
+      "question": "A team wants to improve definition of done standard. What principle should guide its next action?",
+      "answer": "Meet any organization-wide Definition of Done minimum, with team-specific improvements if appropriate.",
+      "explanation": "Teams on the same product should mutually define and comply with one shared Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done-standard"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about definition of done standard, what should practitioners emphasize?",
+      "answer": "Meet any organization-wide Definition of Done minimum, with team-specific improvements if appropriate.",
+      "explanation": "Teams on the same product should mutually define and comply with one shared Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done-standard"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding definition of done standard?",
+      "answer": "Meet any organization-wide Definition of Done minimum, with team-specific improvements if appropriate.",
+      "explanation": "Teams on the same product should mutually define and comply with one shared Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done-standard"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for definition of done standard?",
+      "answer": "Meet any organization-wide Definition of Done minimum, with team-specific improvements if appropriate.",
+      "explanation": "Teams on the same product should mutually define and comply with one shared Definition of Done.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "definition-of-done-standard"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product versus project in professional Scrum practice?",
+      "answer": "Manage continuous product outcomes rather than treating Scrum only as a phase-gated project plan.",
+      "explanation": "The Product Goal and feedback encourage longer-term product thinking.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-versus-project"
+      ]
+    },
+    {
+      "question": "A team wants to improve product versus project. What principle should guide its next action?",
+      "answer": "Manage continuous product outcomes rather than treating Scrum only as a phase-gated project plan.",
+      "explanation": "The Product Goal and feedback encourage longer-term product thinking.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-versus-project"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product versus project, what should practitioners emphasize?",
+      "answer": "Manage continuous product outcomes rather than treating Scrum only as a phase-gated project plan.",
+      "explanation": "The Product Goal and feedback encourage longer-term product thinking.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-versus-project"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product versus project?",
+      "answer": "Manage continuous product outcomes rather than treating Scrum only as a phase-gated project plan.",
+      "explanation": "The Product Goal and feedback encourage longer-term product thinking.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-versus-project"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product versus project?",
+      "answer": "Manage continuous product outcomes rather than treating Scrum only as a phase-gated project plan.",
+      "explanation": "The Product Goal and feedback encourage longer-term product thinking.",
+      "language": "en",
+      "tags": [
+        "psm1",
+        "product-versus-project"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:">
+  <title>Révision</title>
+  <link rel="stylesheet" href="../shared.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="bubble" class="bubble" role="dialog" aria-modal="false" aria-labelledby="bubble-heading">
+    <header>
+      <span id="bubble-heading" class="heading"></span>
+      <button id="close" class="close" aria-label="Fermer sans évaluer" title="Fermer (Échap)">✕</button>
+    </header>
+    <div id="content"></div>
+  </div>
+  <script src="bubble.js"></script>
+</body>
+</html>

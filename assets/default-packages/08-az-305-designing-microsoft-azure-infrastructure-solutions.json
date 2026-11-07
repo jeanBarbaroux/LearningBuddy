@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "AZ-305 Designing Microsoft Azure Infrastructure Solutions",
+  "cards": [
+    {
+      "question": "What does Azure landing zone mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A scalable foundation for hosting Azure workloads",
+      "explanation": "It organizes subscriptions, networking, identity, policy, and governance. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-landing-zone",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure landing zone. What capability should they expect?",
+      "answer": "A scalable foundation for hosting Azure workloads",
+      "explanation": "The expected capability is a scalable foundation for hosting Azure workloads. It organizes subscriptions, networking, identity, policy, and governance.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-landing-zone",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure landing zone?",
+      "answer": "A scalable foundation for hosting Azure workloads",
+      "explanation": "It organizes subscriptions, networking, identity, policy, and governance. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-landing-zone",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure landing zone is relevant. What is the key explanation?",
+      "answer": "It organizes subscriptions, networking, identity, policy, and governance.",
+      "explanation": "A scalable foundation for hosting Azure workloads. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-landing-zone",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure landing zone should an administrator or practitioner remember?",
+      "answer": "A scalable foundation for hosting Azure workloads",
+      "explanation": "It organizes subscriptions, networking, identity, policy, and governance. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-landing-zone",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Management group mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A hierarchy level above subscriptions",
+      "explanation": "Management groups allow governance across multiple subscriptions. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "management-group",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Management group. What capability should they expect?",
+      "answer": "A hierarchy level above subscriptions",
+      "explanation": "The expected capability is a hierarchy level above subscriptions. Management groups allow governance across multiple subscriptions.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "management-group",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Management group?",
+      "answer": "A hierarchy level above subscriptions",
+      "explanation": "Management groups allow governance across multiple subscriptions. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "management-group",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Management group is relevant. What is the key explanation?",
+      "answer": "Management groups allow governance across multiple subscriptions.",
+      "explanation": "A hierarchy level above subscriptions. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "management-group",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Management group should an administrator or practitioner remember?",
+      "answer": "A hierarchy level above subscriptions",
+      "explanation": "Management groups allow governance across multiple subscriptions. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "management-group",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Subscription mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A billing and access boundary for Azure resources",
+      "explanation": "Subscription design should reflect ownership, quotas, and governance needs. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "subscription",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Subscription. What capability should they expect?",
+      "answer": "A billing and access boundary for Azure resources",
+      "explanation": "The expected capability is a billing and access boundary for Azure resources. Subscription design should reflect ownership, quotas, and governance needs.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "subscription",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Subscription?",
+      "answer": "A billing and access boundary for Azure resources",
+      "explanation": "Subscription design should reflect ownership, quotas, and governance needs. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "subscription",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Subscription is relevant. What is the key explanation?",
+      "answer": "Subscription design should reflect ownership, quotas, and governance needs.",
+      "explanation": "A billing and access boundary for Azure resources. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "subscription",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Subscription should an administrator or practitioner remember?",
+      "answer": "A billing and access boundary for Azure resources",
+      "explanation": "Subscription design should reflect ownership, quotas, and governance needs. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "subscription",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Resource group mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A logical container for related Azure resources",
+      "explanation": "Resource groups simplify lifecycle management and permissions. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "resource-group",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Resource group. What capability should they expect?",
+      "answer": "A logical container for related Azure resources",
+      "explanation": "The expected capability is a logical container for related Azure resources. Resource groups simplify lifecycle management and permissions.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "resource-group",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Resource group?",
+      "answer": "A logical container for related Azure resources",
+      "explanation": "Resource groups simplify lifecycle management and permissions. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "resource-group",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Resource group is relevant. What is the key explanation?",
+      "answer": "Resource groups simplify lifecycle management and permissions.",
+      "explanation": "A logical container for related Azure resources. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "resource-group",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Resource group should an administrator or practitioner remember?",
+      "answer": "A logical container for related Azure resources",
+      "explanation": "Resource groups simplify lifecycle management and permissions. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "resource-group",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Policy mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A governance tool for evaluating and enforcing resource requirements",
+      "explanation": "It can audit or prevent configurations that violate organizational rules. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-policy",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Policy. What capability should they expect?",
+      "answer": "A governance tool for evaluating and enforcing resource requirements",
+      "explanation": "The expected capability is a governance tool for evaluating and enforcing resource requirements. It can audit or prevent configurations that violate organizational rules.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-policy",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Policy?",
+      "answer": "A governance tool for evaluating and enforcing resource requirements",
+      "explanation": "It can audit or prevent configurations that violate organizational rules. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-policy",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Policy is relevant. What is the key explanation?",
+      "answer": "It can audit or prevent configurations that violate organizational rules.",
+      "explanation": "A governance tool for evaluating and enforcing resource requirements. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-policy",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Policy should an administrator or practitioner remember?",
+      "answer": "A governance tool for evaluating and enforcing resource requirements",
+      "explanation": "It can audit or prevent configurations that violate organizational rules. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-policy",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure RBAC mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A role-based system for Azure resource authorization",
+      "explanation": "Assignments combine principals, roles, and scopes. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-rbac",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure RBAC. What capability should they expect?",
+      "answer": "A role-based system for Azure resource authorization",
+      "explanation": "The expected capability is a role-based system for Azure resource authorization. Assignments combine principals, roles, and scopes.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-rbac",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure RBAC?",
+      "answer": "A role-based system for Azure resource authorization",
+      "explanation": "Assignments combine principals, roles, and scopes. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-rbac",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure RBAC is relevant. What is the key explanation?",
+      "answer": "Assignments combine principals, roles, and scopes.",
+      "explanation": "A role-based system for Azure resource authorization. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-rbac",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure RBAC should an administrator or practitioner remember?",
+      "answer": "A role-based system for Azure resource authorization",
+      "explanation": "Assignments combine principals, roles, and scopes. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-rbac",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure virtual network mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A private network foundation for Azure resources",
+      "explanation": "Subnets and routing support segmentation and connectivity. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-network",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure virtual network. What capability should they expect?",
+      "answer": "A private network foundation for Azure resources",
+      "explanation": "The expected capability is a private network foundation for Azure resources. Subnets and routing support segmentation and connectivity.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-network",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure virtual network?",
+      "answer": "A private network foundation for Azure resources",
+      "explanation": "Subnets and routing support segmentation and connectivity. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-network",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure virtual network is relevant. What is the key explanation?",
+      "answer": "Subnets and routing support segmentation and connectivity.",
+      "explanation": "A private network foundation for Azure resources. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-network",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure virtual network should an administrator or practitioner remember?",
+      "answer": "A private network foundation for Azure resources",
+      "explanation": "Subnets and routing support segmentation and connectivity. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-network",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Virtual network peering mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Private network connectivity between Azure virtual networks",
+      "explanation": "Peering connects VNets without using internet-facing gateways. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "virtual-network-peering",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Virtual network peering. What capability should they expect?",
+      "answer": "Private network connectivity between Azure virtual networks",
+      "explanation": "The expected capability is private network connectivity between Azure virtual networks. Peering connects VNets without using internet-facing gateways.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "virtual-network-peering",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Virtual network peering?",
+      "answer": "Private network connectivity between Azure virtual networks",
+      "explanation": "Peering connects VNets without using internet-facing gateways. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "virtual-network-peering",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Virtual network peering is relevant. What is the key explanation?",
+      "answer": "Peering connects VNets without using internet-facing gateways.",
+      "explanation": "Private network connectivity between Azure virtual networks. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "virtual-network-peering",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Virtual network peering should an administrator or practitioner remember?",
+      "answer": "Private network connectivity between Azure virtual networks",
+      "explanation": "Peering connects VNets without using internet-facing gateways. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "virtual-network-peering",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Hub-and-spoke topology mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A network design centralizing shared connectivity in a hub",
+      "explanation": "Spokes isolate workloads while sharing selected services. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "hub-and-spoke-topology",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Hub-and-spoke topology. What capability should they expect?",
+      "answer": "A network design centralizing shared connectivity in a hub",
+      "explanation": "The expected capability is a network design centralizing shared connectivity in a hub. Spokes isolate workloads while sharing selected services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "hub-and-spoke-topology",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Hub-and-spoke topology?",
+      "answer": "A network design centralizing shared connectivity in a hub",
+      "explanation": "Spokes isolate workloads while sharing selected services. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "hub-and-spoke-topology",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Hub-and-spoke topology is relevant. What is the key explanation?",
+      "answer": "Spokes isolate workloads while sharing selected services.",
+      "explanation": "A network design centralizing shared connectivity in a hub. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "hub-and-spoke-topology",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Hub-and-spoke topology should an administrator or practitioner remember?",
+      "answer": "A network design centralizing shared connectivity in a hub",
+      "explanation": "Spokes isolate workloads while sharing selected services. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "hub-and-spoke-topology",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Virtual WAN mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A managed service for large-scale network connectivity",
+      "explanation": "It can simplify connecting branches, virtual networks, and users. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-wan",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Virtual WAN. What capability should they expect?",
+      "answer": "A managed service for large-scale network connectivity",
+      "explanation": "The expected capability is a managed service for large-scale network connectivity. It can simplify connecting branches, virtual networks, and users.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-wan",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Virtual WAN?",
+      "answer": "A managed service for large-scale network connectivity",
+      "explanation": "It can simplify connecting branches, virtual networks, and users. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-wan",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Virtual WAN is relevant. What is the key explanation?",
+      "answer": "It can simplify connecting branches, virtual networks, and users.",
+      "explanation": "A managed service for large-scale network connectivity. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-wan",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Virtual WAN should an administrator or practitioner remember?",
+      "answer": "A managed service for large-scale network connectivity",
+      "explanation": "It can simplify connecting branches, virtual networks, and users. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-virtual-wan",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does VPN Gateway mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Encrypted connectivity over public networks",
+      "explanation": "It supports site-to-site and point-to-site connectivity scenarios. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "vpn-gateway",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions VPN Gateway. What capability should they expect?",
+      "answer": "Encrypted connectivity over public networks",
+      "explanation": "The expected capability is encrypted connectivity over public networks. It supports site-to-site and point-to-site connectivity scenarios.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "vpn-gateway",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of VPN Gateway?",
+      "answer": "Encrypted connectivity over public networks",
+      "explanation": "It supports site-to-site and point-to-site connectivity scenarios. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "vpn-gateway",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why VPN Gateway is relevant. What is the key explanation?",
+      "answer": "It supports site-to-site and point-to-site connectivity scenarios.",
+      "explanation": "Encrypted connectivity over public networks. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "vpn-gateway",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about VPN Gateway should an administrator or practitioner remember?",
+      "answer": "Encrypted connectivity over public networks",
+      "explanation": "It supports site-to-site and point-to-site connectivity scenarios. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "vpn-gateway",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does ExpressRoute mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Private connectivity between on-premises networks and Microsoft cloud",
+      "explanation": "It avoids carrying the primary connection over the public internet. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "expressroute",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions ExpressRoute. What capability should they expect?",
+      "answer": "Private connectivity between on-premises networks and Microsoft cloud",
+      "explanation": "The expected capability is private connectivity between on-premises networks and Microsoft cloud. It avoids carrying the primary connection over the public internet.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "expressroute",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of ExpressRoute?",
+      "answer": "Private connectivity between on-premises networks and Microsoft cloud",
+      "explanation": "It avoids carrying the primary connection over the public internet. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "expressroute",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why ExpressRoute is relevant. What is the key explanation?",
+      "answer": "It avoids carrying the primary connection over the public internet.",
+      "explanation": "Private connectivity between on-premises networks and Microsoft cloud. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "expressroute",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about ExpressRoute should an administrator or practitioner remember?",
+      "answer": "Private connectivity between on-premises networks and Microsoft cloud",
+      "explanation": "It avoids carrying the primary connection over the public internet. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "expressroute",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Private Endpoint mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A private IP interface for accessing a supported Azure service",
+      "explanation": "It reduces public exposure by using private connectivity. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "private-endpoint",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Private Endpoint. What capability should they expect?",
+      "answer": "A private IP interface for accessing a supported Azure service",
+      "explanation": "The expected capability is a private IP interface for accessing a supported Azure service. It reduces public exposure by using private connectivity.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "private-endpoint",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Private Endpoint?",
+      "answer": "A private IP interface for accessing a supported Azure service",
+      "explanation": "It reduces public exposure by using private connectivity. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "private-endpoint",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Private Endpoint is relevant. What is the key explanation?",
+      "answer": "It reduces public exposure by using private connectivity.",
+      "explanation": "A private IP interface for accessing a supported Azure service. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "private-endpoint",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Private Endpoint should an administrator or practitioner remember?",
+      "answer": "A private IP interface for accessing a supported Azure service",
+      "explanation": "It reduces public exposure by using private connectivity. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "private-endpoint",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure DNS mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "DNS hosting and resolution services",
+      "explanation": "Azure DNS can host public zones and supports private DNS scenarios. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-dns",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure DNS. What capability should they expect?",
+      "answer": "DNS hosting and resolution services",
+      "explanation": "The expected capability is dNS hosting and resolution services. Azure DNS can host public zones and supports private DNS scenarios.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-dns",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure DNS?",
+      "answer": "DNS hosting and resolution services",
+      "explanation": "Azure DNS can host public zones and supports private DNS scenarios. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-dns",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure DNS is relevant. What is the key explanation?",
+      "answer": "Azure DNS can host public zones and supports private DNS scenarios.",
+      "explanation": "DNS hosting and resolution services. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-dns",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure DNS should an administrator or practitioner remember?",
+      "answer": "DNS hosting and resolution services",
+      "explanation": "Azure DNS can host public zones and supports private DNS scenarios. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-dns",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Firewall mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A managed, stateful cloud network security service",
+      "explanation": "It centralizes filtering and logging for governed network flows. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-firewall",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Firewall. What capability should they expect?",
+      "answer": "A managed, stateful cloud network security service",
+      "explanation": "The expected capability is a managed, stateful cloud network security service. It centralizes filtering and logging for governed network flows.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-firewall",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Firewall?",
+      "answer": "A managed, stateful cloud network security service",
+      "explanation": "It centralizes filtering and logging for governed network flows. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-firewall",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Firewall is relevant. What is the key explanation?",
+      "answer": "It centralizes filtering and logging for governed network flows.",
+      "explanation": "A managed, stateful cloud network security service. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-firewall",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Firewall should an administrator or practitioner remember?",
+      "answer": "A managed, stateful cloud network security service",
+      "explanation": "It centralizes filtering and logging for governed network flows. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-firewall",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Network security group mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A set of inbound and outbound traffic rules",
+      "explanation": "NSGs operate at subnet or network-interface scope. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "network-security-group",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Network security group. What capability should they expect?",
+      "answer": "A set of inbound and outbound traffic rules",
+      "explanation": "The expected capability is a set of inbound and outbound traffic rules. NSGs operate at subnet or network-interface scope.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "network-security-group",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Network security group?",
+      "answer": "A set of inbound and outbound traffic rules",
+      "explanation": "NSGs operate at subnet or network-interface scope. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "network-security-group",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Network security group is relevant. What is the key explanation?",
+      "answer": "NSGs operate at subnet or network-interface scope.",
+      "explanation": "A set of inbound and outbound traffic rules. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "network-security-group",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Network security group should an administrator or practitioner remember?",
+      "answer": "A set of inbound and outbound traffic rules",
+      "explanation": "NSGs operate at subnet or network-interface scope. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "network-security-group",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Application Gateway mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A layer-seven web traffic load balancer",
+      "explanation": "It supports routing based on HTTP characteristics and optional WAF. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "application-gateway",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Application Gateway. What capability should they expect?",
+      "answer": "A layer-seven web traffic load balancer",
+      "explanation": "The expected capability is a layer-seven web traffic load balancer. It supports routing based on HTTP characteristics and optional WAF.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "application-gateway",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Application Gateway?",
+      "answer": "A layer-seven web traffic load balancer",
+      "explanation": "It supports routing based on HTTP characteristics and optional WAF. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "application-gateway",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Application Gateway is relevant. What is the key explanation?",
+      "answer": "It supports routing based on HTTP characteristics and optional WAF.",
+      "explanation": "A layer-seven web traffic load balancer. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "application-gateway",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Application Gateway should an administrator or practitioner remember?",
+      "answer": "A layer-seven web traffic load balancer",
+      "explanation": "It supports routing based on HTTP characteristics and optional WAF. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "application-gateway",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Front Door mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A global application delivery and acceleration service",
+      "explanation": "It routes internet-facing application traffic across geographic locations. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-front-door",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Front Door. What capability should they expect?",
+      "answer": "A global application delivery and acceleration service",
+      "explanation": "The expected capability is a global application delivery and acceleration service. It routes internet-facing application traffic across geographic locations.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-front-door",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Front Door?",
+      "answer": "A global application delivery and acceleration service",
+      "explanation": "It routes internet-facing application traffic across geographic locations. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-front-door",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Front Door is relevant. What is the key explanation?",
+      "answer": "It routes internet-facing application traffic across geographic locations.",
+      "explanation": "A global application delivery and acceleration service. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-front-door",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Front Door should an administrator or practitioner remember?",
+      "answer": "A global application delivery and acceleration service",
+      "explanation": "It routes internet-facing application traffic across geographic locations. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-front-door",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Load Balancer mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A layer-four TCP/UDP load balancer",
+      "explanation": "It distributes transport-layer connections among backend resources. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-load-balancer",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Load Balancer. What capability should they expect?",
+      "answer": "A layer-four TCP/UDP load balancer",
+      "explanation": "The expected capability is a layer-four TCP/UDP load balancer. It distributes transport-layer connections among backend resources.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-load-balancer",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Load Balancer?",
+      "answer": "A layer-four TCP/UDP load balancer",
+      "explanation": "It distributes transport-layer connections among backend resources. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-load-balancer",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Load Balancer is relevant. What is the key explanation?",
+      "answer": "It distributes transport-layer connections among backend resources.",
+      "explanation": "A layer-four TCP/UDP load balancer. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-load-balancer",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Load Balancer should an administrator or practitioner remember?",
+      "answer": "A layer-four TCP/UDP load balancer",
+      "explanation": "It distributes transport-layer connections among backend resources. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-load-balancer",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Availability zone mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A physically separate datacenter grouping within a region",
+      "explanation": "Zone-aware designs increase tolerance to datacenter-level failures. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-zone",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Availability zone. What capability should they expect?",
+      "answer": "A physically separate datacenter grouping within a region",
+      "explanation": "The expected capability is a physically separate datacenter grouping within a region. Zone-aware designs increase tolerance to datacenter-level failures.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-zone",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Availability zone?",
+      "answer": "A physically separate datacenter grouping within a region",
+      "explanation": "Zone-aware designs increase tolerance to datacenter-level failures. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-zone",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Availability zone is relevant. What is the key explanation?",
+      "answer": "Zone-aware designs increase tolerance to datacenter-level failures.",
+      "explanation": "A physically separate datacenter grouping within a region. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-zone",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Availability zone should an administrator or practitioner remember?",
+      "answer": "A physically separate datacenter grouping within a region",
+      "explanation": "Zone-aware designs increase tolerance to datacenter-level failures. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-zone",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Availability set mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A grouping that spreads VMs across fault and update domains",
+      "explanation": "It can reduce correlated VM disruption within a datacenter. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-set",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Availability set. What capability should they expect?",
+      "answer": "A grouping that spreads VMs across fault and update domains",
+      "explanation": "The expected capability is a grouping that spreads VMs across fault and update domains. It can reduce correlated VM disruption within a datacenter.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-set",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Availability set?",
+      "answer": "A grouping that spreads VMs across fault and update domains",
+      "explanation": "It can reduce correlated VM disruption within a datacenter. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-set",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Availability set is relevant. What is the key explanation?",
+      "answer": "It can reduce correlated VM disruption within a datacenter.",
+      "explanation": "A grouping that spreads VMs across fault and update domains. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-set",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Availability set should an administrator or practitioner remember?",
+      "answer": "A grouping that spreads VMs across fault and update domains",
+      "explanation": "It can reduce correlated VM disruption within a datacenter. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "availability-set",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Site Recovery mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A disaster-recovery replication and failover solution",
+      "explanation": "It orchestrates recovery for supported VMs and workloads. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-site-recovery",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Site Recovery. What capability should they expect?",
+      "answer": "A disaster-recovery replication and failover solution",
+      "explanation": "The expected capability is a disaster-recovery replication and failover solution. It orchestrates recovery for supported VMs and workloads.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-site-recovery",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Site Recovery?",
+      "answer": "A disaster-recovery replication and failover solution",
+      "explanation": "It orchestrates recovery for supported VMs and workloads. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-site-recovery",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Site Recovery is relevant. What is the key explanation?",
+      "answer": "It orchestrates recovery for supported VMs and workloads.",
+      "explanation": "A disaster-recovery replication and failover solution. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-site-recovery",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Site Recovery should an administrator or practitioner remember?",
+      "answer": "A disaster-recovery replication and failover solution",
+      "explanation": "It orchestrates recovery for supported VMs and workloads. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-site-recovery",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Backup mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A managed service for protecting recoverable data",
+      "explanation": "Retention and recovery objectives shape backup policy. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-backup",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Backup. What capability should they expect?",
+      "answer": "A managed service for protecting recoverable data",
+      "explanation": "The expected capability is a managed service for protecting recoverable data. Retention and recovery objectives shape backup policy.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-backup",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Backup?",
+      "answer": "A managed service for protecting recoverable data",
+      "explanation": "Retention and recovery objectives shape backup policy. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-backup",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Backup is relevant. What is the key explanation?",
+      "answer": "Retention and recovery objectives shape backup policy.",
+      "explanation": "A managed service for protecting recoverable data. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-backup",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Backup should an administrator or practitioner remember?",
+      "answer": "A managed service for protecting recoverable data",
+      "explanation": "Retention and recovery objectives shape backup policy. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-backup",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Recovery point objective (RPO) mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Maximum acceptable data loss measured in time",
+      "explanation": "An RPO influences replication and backup frequency choices. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-point-objective-rpo",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Recovery point objective (RPO). What capability should they expect?",
+      "answer": "Maximum acceptable data loss measured in time",
+      "explanation": "The expected capability is maximum acceptable data loss measured in time. An RPO influences replication and backup frequency choices.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-point-objective-rpo",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Recovery point objective (RPO)?",
+      "answer": "Maximum acceptable data loss measured in time",
+      "explanation": "An RPO influences replication and backup frequency choices. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-point-objective-rpo",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Recovery point objective (RPO) is relevant. What is the key explanation?",
+      "answer": "An RPO influences replication and backup frequency choices.",
+      "explanation": "Maximum acceptable data loss measured in time. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-point-objective-rpo",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Recovery point objective (RPO) should an administrator or practitioner remember?",
+      "answer": "Maximum acceptable data loss measured in time",
+      "explanation": "An RPO influences replication and backup frequency choices. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-point-objective-rpo",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Recovery time objective (RTO) mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Maximum acceptable time to restore service after disruption",
+      "explanation": "RTO guides failover architecture and operational preparedness. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-time-objective-rto",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Recovery time objective (RTO). What capability should they expect?",
+      "answer": "Maximum acceptable time to restore service after disruption",
+      "explanation": "The expected capability is maximum acceptable time to restore service after disruption. RTO guides failover architecture and operational preparedness.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-time-objective-rto",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Recovery time objective (RTO)?",
+      "answer": "Maximum acceptable time to restore service after disruption",
+      "explanation": "RTO guides failover architecture and operational preparedness. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-time-objective-rto",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Recovery time objective (RTO) is relevant. What is the key explanation?",
+      "answer": "RTO guides failover architecture and operational preparedness.",
+      "explanation": "Maximum acceptable time to restore service after disruption. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-time-objective-rto",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Recovery time objective (RTO) should an administrator or practitioner remember?",
+      "answer": "Maximum acceptable time to restore service after disruption",
+      "explanation": "RTO guides failover architecture and operational preparedness. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "recovery-time-objective-rto",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure SQL Database mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A managed relational database platform-as-a-service",
+      "explanation": "It reduces operating-system and database infrastructure administration. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-database",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure SQL Database. What capability should they expect?",
+      "answer": "A managed relational database platform-as-a-service",
+      "explanation": "The expected capability is a managed relational database platform-as-a-service. It reduces operating-system and database infrastructure administration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-database",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure SQL Database?",
+      "answer": "A managed relational database platform-as-a-service",
+      "explanation": "It reduces operating-system and database infrastructure administration. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-database",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure SQL Database is relevant. What is the key explanation?",
+      "answer": "It reduces operating-system and database infrastructure administration.",
+      "explanation": "A managed relational database platform-as-a-service. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-database",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure SQL Database should an administrator or practitioner remember?",
+      "answer": "A managed relational database platform-as-a-service",
+      "explanation": "It reduces operating-system and database infrastructure administration. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-database",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure SQL Managed Instance mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A managed SQL offering with high SQL Server compatibility",
+      "explanation": "It fits migrations needing more instance-level functionality. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-managed-instance",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure SQL Managed Instance. What capability should they expect?",
+      "answer": "A managed SQL offering with high SQL Server compatibility",
+      "explanation": "The expected capability is a managed SQL offering with high SQL Server compatibility. It fits migrations needing more instance-level functionality.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-managed-instance",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure SQL Managed Instance?",
+      "answer": "A managed SQL offering with high SQL Server compatibility",
+      "explanation": "It fits migrations needing more instance-level functionality. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-managed-instance",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure SQL Managed Instance is relevant. What is the key explanation?",
+      "answer": "It fits migrations needing more instance-level functionality.",
+      "explanation": "A managed SQL offering with high SQL Server compatibility. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-managed-instance",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure SQL Managed Instance should an administrator or practitioner remember?",
+      "answer": "A managed SQL offering with high SQL Server compatibility",
+      "explanation": "It fits migrations needing more instance-level functionality. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-sql-managed-instance",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Cosmos DB mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A globally distributed database service for supported NoSQL models",
+      "explanation": "Partitioning and consistency decisions affect scalability and application behavior. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cosmos-db",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Cosmos DB. What capability should they expect?",
+      "answer": "A globally distributed database service for supported NoSQL models",
+      "explanation": "The expected capability is a globally distributed database service for supported NoSQL models. Partitioning and consistency decisions affect scalability and application behavior.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cosmos-db",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Cosmos DB?",
+      "answer": "A globally distributed database service for supported NoSQL models",
+      "explanation": "Partitioning and consistency decisions affect scalability and application behavior. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cosmos-db",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Cosmos DB is relevant. What is the key explanation?",
+      "answer": "Partitioning and consistency decisions affect scalability and application behavior.",
+      "explanation": "A globally distributed database service for supported NoSQL models. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cosmos-db",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Cosmos DB should an administrator or practitioner remember?",
+      "answer": "A globally distributed database service for supported NoSQL models",
+      "explanation": "Partitioning and consistency decisions affect scalability and application behavior. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cosmos-db",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Storage redundancy mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Replication choices such as LRS, ZRS, GRS, and GZRS",
+      "explanation": "Redundancy should reflect durability and regional recovery needs. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-storage-redundancy",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Storage redundancy. What capability should they expect?",
+      "answer": "Replication choices such as LRS, ZRS, GRS, and GZRS",
+      "explanation": "The expected capability is replication choices such as LRS, ZRS, GRS, and GZRS. Redundancy should reflect durability and regional recovery needs.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-storage-redundancy",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Storage redundancy?",
+      "answer": "Replication choices such as LRS, ZRS, GRS, and GZRS",
+      "explanation": "Redundancy should reflect durability and regional recovery needs. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-storage-redundancy",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Storage redundancy is relevant. What is the key explanation?",
+      "answer": "Redundancy should reflect durability and regional recovery needs.",
+      "explanation": "Replication choices such as LRS, ZRS, GRS, and GZRS. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-storage-redundancy",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Storage redundancy should an administrator or practitioner remember?",
+      "answer": "Replication choices such as LRS, ZRS, GRS, and GZRS",
+      "explanation": "Redundancy should reflect durability and regional recovery needs. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-storage-redundancy",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Blob Storage mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Object storage for unstructured data",
+      "explanation": "Access tiers and lifecycle policies can optimize cost. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-blob-storage",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Blob Storage. What capability should they expect?",
+      "answer": "Object storage for unstructured data",
+      "explanation": "The expected capability is object storage for unstructured data. Access tiers and lifecycle policies can optimize cost.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-blob-storage",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Blob Storage?",
+      "answer": "Object storage for unstructured data",
+      "explanation": "Access tiers and lifecycle policies can optimize cost. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-blob-storage",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Blob Storage is relevant. What is the key explanation?",
+      "answer": "Access tiers and lifecycle policies can optimize cost.",
+      "explanation": "Object storage for unstructured data. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-blob-storage",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Blob Storage should an administrator or practitioner remember?",
+      "answer": "Object storage for unstructured data",
+      "explanation": "Access tiers and lifecycle policies can optimize cost. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-blob-storage",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Files mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Managed SMB/NFS file shares in supported configurations",
+      "explanation": "It can provide shared file access without managing file servers. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-files",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Files. What capability should they expect?",
+      "answer": "Managed SMB/NFS file shares in supported configurations",
+      "explanation": "The expected capability is managed SMB/NFS file shares in supported configurations. It can provide shared file access without managing file servers.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-files",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Files?",
+      "answer": "Managed SMB/NFS file shares in supported configurations",
+      "explanation": "It can provide shared file access without managing file servers. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-files",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Files is relevant. What is the key explanation?",
+      "answer": "It can provide shared file access without managing file servers.",
+      "explanation": "Managed SMB/NFS file shares in supported configurations. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-files",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Files should an administrator or practitioner remember?",
+      "answer": "Managed SMB/NFS file shares in supported configurations",
+      "explanation": "It can provide shared file access without managing file servers. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-files",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Kubernetes Service (AKS) mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Managed Kubernetes for orchestrating containers",
+      "explanation": "AKS suits workloads needing Kubernetes scheduling and operations. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-kubernetes-service-aks",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Kubernetes Service (AKS). What capability should they expect?",
+      "answer": "Managed Kubernetes for orchestrating containers",
+      "explanation": "The expected capability is managed Kubernetes for orchestrating containers. AKS suits workloads needing Kubernetes scheduling and operations.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-kubernetes-service-aks",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Kubernetes Service (AKS)?",
+      "answer": "Managed Kubernetes for orchestrating containers",
+      "explanation": "AKS suits workloads needing Kubernetes scheduling and operations. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-kubernetes-service-aks",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Kubernetes Service (AKS) is relevant. What is the key explanation?",
+      "answer": "AKS suits workloads needing Kubernetes scheduling and operations.",
+      "explanation": "Managed Kubernetes for orchestrating containers. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-kubernetes-service-aks",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Kubernetes Service (AKS) should an administrator or practitioner remember?",
+      "answer": "Managed Kubernetes for orchestrating containers",
+      "explanation": "AKS suits workloads needing Kubernetes scheduling and operations. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-kubernetes-service-aks",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Container Apps mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Managed container hosting with event-driven scaling capabilities",
+      "explanation": "It often reduces Kubernetes administration for compatible workloads. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-container-apps",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Container Apps. What capability should they expect?",
+      "answer": "Managed container hosting with event-driven scaling capabilities",
+      "explanation": "The expected capability is managed container hosting with event-driven scaling capabilities. It often reduces Kubernetes administration for compatible workloads.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-container-apps",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Container Apps?",
+      "answer": "Managed container hosting with event-driven scaling capabilities",
+      "explanation": "It often reduces Kubernetes administration for compatible workloads. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-container-apps",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Container Apps is relevant. What is the key explanation?",
+      "answer": "It often reduces Kubernetes administration for compatible workloads.",
+      "explanation": "Managed container hosting with event-driven scaling capabilities. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-container-apps",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Container Apps should an administrator or practitioner remember?",
+      "answer": "Managed container hosting with event-driven scaling capabilities",
+      "explanation": "It often reduces Kubernetes administration for compatible workloads. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-container-apps",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure App Service mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Managed hosting for web applications and APIs",
+      "explanation": "It handles infrastructure concerns such as platform patching. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-app-service",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure App Service. What capability should they expect?",
+      "answer": "Managed hosting for web applications and APIs",
+      "explanation": "The expected capability is managed hosting for web applications and APIs. It handles infrastructure concerns such as platform patching.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-app-service",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure App Service?",
+      "answer": "Managed hosting for web applications and APIs",
+      "explanation": "It handles infrastructure concerns such as platform patching. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-app-service",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure App Service is relevant. What is the key explanation?",
+      "answer": "It handles infrastructure concerns such as platform patching.",
+      "explanation": "Managed hosting for web applications and APIs. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-app-service",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure App Service should an administrator or practitioner remember?",
+      "answer": "Managed hosting for web applications and APIs",
+      "explanation": "It handles infrastructure concerns such as platform patching. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-app-service",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Functions mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Event-driven serverless compute",
+      "explanation": "It is suited to discrete functions triggered by events or schedules. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-functions",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Functions. What capability should they expect?",
+      "answer": "Event-driven serverless compute",
+      "explanation": "The expected capability is event-driven serverless compute. It is suited to discrete functions triggered by events or schedules.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-functions",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Functions?",
+      "answer": "Event-driven serverless compute",
+      "explanation": "It is suited to discrete functions triggered by events or schedules. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-functions",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Functions is relevant. What is the key explanation?",
+      "answer": "It is suited to discrete functions triggered by events or schedules.",
+      "explanation": "Event-driven serverless compute. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-functions",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Functions should an administrator or practitioner remember?",
+      "answer": "Event-driven serverless compute",
+      "explanation": "It is suited to discrete functions triggered by events or schedules. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-functions",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Key Vault mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A service for securely managing secrets, keys, and certificates",
+      "explanation": "It centralizes sensitive material with access controls and auditing. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-key-vault",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Key Vault. What capability should they expect?",
+      "answer": "A service for securely managing secrets, keys, and certificates",
+      "explanation": "The expected capability is a service for securely managing secrets, keys, and certificates. It centralizes sensitive material with access controls and auditing.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-key-vault",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Key Vault?",
+      "answer": "A service for securely managing secrets, keys, and certificates",
+      "explanation": "It centralizes sensitive material with access controls and auditing. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-key-vault",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Key Vault is relevant. What is the key explanation?",
+      "answer": "It centralizes sensitive material with access controls and auditing.",
+      "explanation": "A service for securely managing secrets, keys, and certificates. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-key-vault",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Key Vault should an administrator or practitioner remember?",
+      "answer": "A service for securely managing secrets, keys, and certificates",
+      "explanation": "It centralizes sensitive material with access controls and auditing. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-key-vault",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Microsoft Entra ID mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Cloud identity and authentication services",
+      "explanation": "Identity architecture affects sign-in, service access, and governance. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "microsoft-entra-id",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Microsoft Entra ID. What capability should they expect?",
+      "answer": "Cloud identity and authentication services",
+      "explanation": "The expected capability is cloud identity and authentication services. Identity architecture affects sign-in, service access, and governance.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "microsoft-entra-id",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Microsoft Entra ID?",
+      "answer": "Cloud identity and authentication services",
+      "explanation": "Identity architecture affects sign-in, service access, and governance. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "microsoft-entra-id",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Microsoft Entra ID is relevant. What is the key explanation?",
+      "answer": "Identity architecture affects sign-in, service access, and governance.",
+      "explanation": "Cloud identity and authentication services. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "microsoft-entra-id",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Microsoft Entra ID should an administrator or practitioner remember?",
+      "answer": "Cloud identity and authentication services",
+      "explanation": "Identity architecture affects sign-in, service access, and governance. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "microsoft-entra-id",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Monitor mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A platform for telemetry, metrics, logs, and alerting",
+      "explanation": "Good architecture includes observability before incidents occur. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-monitor",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Monitor. What capability should they expect?",
+      "answer": "A platform for telemetry, metrics, logs, and alerting",
+      "explanation": "The expected capability is a platform for telemetry, metrics, logs, and alerting. Good architecture includes observability before incidents occur.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-monitor",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Monitor?",
+      "answer": "A platform for telemetry, metrics, logs, and alerting",
+      "explanation": "Good architecture includes observability before incidents occur. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-monitor",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Monitor is relevant. What is the key explanation?",
+      "answer": "Good architecture includes observability before incidents occur.",
+      "explanation": "A platform for telemetry, metrics, logs, and alerting. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-monitor",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Monitor should an administrator or practitioner remember?",
+      "answer": "A platform for telemetry, metrics, logs, and alerting",
+      "explanation": "Good architecture includes observability before incidents occur. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-monitor",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Cost Management mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "Tools to analyze and manage Azure expenditure",
+      "explanation": "Budgets, tagging, and monitoring support financial governance. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cost-management",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Cost Management. What capability should they expect?",
+      "answer": "Tools to analyze and manage Azure expenditure",
+      "explanation": "The expected capability is tools to analyze and manage Azure expenditure. Budgets, tagging, and monitoring support financial governance.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cost-management",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Cost Management?",
+      "answer": "Tools to analyze and manage Azure expenditure",
+      "explanation": "Budgets, tagging, and monitoring support financial governance. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cost-management",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Cost Management is relevant. What is the key explanation?",
+      "answer": "Budgets, tagging, and monitoring support financial governance.",
+      "explanation": "Tools to analyze and manage Azure expenditure. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cost-management",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Cost Management should an administrator or practitioner remember?",
+      "answer": "Tools to analyze and manage Azure expenditure",
+      "explanation": "Budgets, tagging, and monitoring support financial governance. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-cost-management",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Azure Advisor mean in the context of AZ-305 Designing Microsoft Azure Infrastructure Solutions?",
+      "answer": "A service that provides Azure best-practice recommendations",
+      "explanation": "Advisor identifies opportunities in cost, performance, security, reliability, and operations. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-advisor",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Azure Advisor. What capability should they expect?",
+      "answer": "A service that provides Azure best-practice recommendations",
+      "explanation": "The expected capability is a service that provides Azure best-practice recommendations. Advisor identifies opportunities in cost, performance, security, reliability, and operations.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-advisor",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Azure Advisor?",
+      "answer": "A service that provides Azure best-practice recommendations",
+      "explanation": "Advisor identifies opportunities in cost, performance, security, reliability, and operations. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-advisor",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Azure Advisor is relevant. What is the key explanation?",
+      "answer": "Advisor identifies opportunities in cost, performance, security, reliability, and operations.",
+      "explanation": "A service that provides Azure best-practice recommendations. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-advisor",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Azure Advisor should an administrator or practitioner remember?",
+      "answer": "A service that provides Azure best-practice recommendations",
+      "explanation": "Advisor identifies opportunities in cost, performance, security, reliability, and operations. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "az305",
+        "azure-advisor",
+        "recall"
+      ]
+    }
+  ]
+}

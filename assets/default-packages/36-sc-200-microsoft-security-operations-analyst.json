@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "SC-200 Microsoft Security Operations Analyst",
+  "cards": [
+    {
+      "question": "What does Microsoft Sentinel mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A cloud-native SIEM and SOAR platform",
+      "explanation": "It collects security signals, supports investigation, and can automate response workflows. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-sentinel",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Microsoft Sentinel. What capability should they expect?",
+      "answer": "A cloud-native SIEM and SOAR platform",
+      "explanation": "The expected capability is a cloud-native SIEM and SOAR platform. It collects security signals, supports investigation, and can automate response workflows.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-sentinel",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Microsoft Sentinel?",
+      "answer": "A cloud-native SIEM and SOAR platform",
+      "explanation": "It collects security signals, supports investigation, and can automate response workflows. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-sentinel",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Microsoft Sentinel is relevant. What is the key explanation?",
+      "answer": "It collects security signals, supports investigation, and can automate response workflows.",
+      "explanation": "A cloud-native SIEM and SOAR platform. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-sentinel",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Microsoft Sentinel should an administrator or practitioner remember?",
+      "answer": "A cloud-native SIEM and SOAR platform",
+      "explanation": "It collects security signals, supports investigation, and can automate response workflows. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-sentinel",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Microsoft Defender XDR mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A unified extended detection and response solution",
+      "explanation": "It correlates signals across endpoints, identities, email, and applications. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-xdr",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Microsoft Defender XDR. What capability should they expect?",
+      "answer": "A unified extended detection and response solution",
+      "explanation": "The expected capability is a unified extended detection and response solution. It correlates signals across endpoints, identities, email, and applications.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-xdr",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Microsoft Defender XDR?",
+      "answer": "A unified extended detection and response solution",
+      "explanation": "It correlates signals across endpoints, identities, email, and applications. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-xdr",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Microsoft Defender XDR is relevant. What is the key explanation?",
+      "answer": "It correlates signals across endpoints, identities, email, and applications.",
+      "explanation": "A unified extended detection and response solution. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-xdr",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Microsoft Defender XDR should an administrator or practitioner remember?",
+      "answer": "A unified extended detection and response solution",
+      "explanation": "It correlates signals across endpoints, identities, email, and applications. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-xdr",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Microsoft Defender for Endpoint mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Endpoint detection, investigation, and response",
+      "explanation": "It provides device alerts, attack-surface reduction capabilities, and response actions. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-endpoint",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Microsoft Defender for Endpoint. What capability should they expect?",
+      "answer": "Endpoint detection, investigation, and response",
+      "explanation": "The expected capability is endpoint detection, investigation, and response. It provides device alerts, attack-surface reduction capabilities, and response actions.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-endpoint",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Microsoft Defender for Endpoint?",
+      "answer": "Endpoint detection, investigation, and response",
+      "explanation": "It provides device alerts, attack-surface reduction capabilities, and response actions. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-endpoint",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Microsoft Defender for Endpoint is relevant. What is the key explanation?",
+      "answer": "It provides device alerts, attack-surface reduction capabilities, and response actions.",
+      "explanation": "Endpoint detection, investigation, and response. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-endpoint",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Microsoft Defender for Endpoint should an administrator or practitioner remember?",
+      "answer": "Endpoint detection, investigation, and response",
+      "explanation": "It provides device alerts, attack-surface reduction capabilities, and response actions. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-endpoint",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Microsoft Defender for Office 365 mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Protection and investigation for email and collaboration threats",
+      "explanation": "It detects malicious messages, links, and attachments within supported Microsoft 365 workloads. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-office-365",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Microsoft Defender for Office 365. What capability should they expect?",
+      "answer": "Protection and investigation for email and collaboration threats",
+      "explanation": "The expected capability is protection and investigation for email and collaboration threats. It detects malicious messages, links, and attachments within supported Microsoft 365 workloads.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-office-365",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Microsoft Defender for Office 365?",
+      "answer": "Protection and investigation for email and collaboration threats",
+      "explanation": "It detects malicious messages, links, and attachments within supported Microsoft 365 workloads. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-office-365",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Microsoft Defender for Office 365 is relevant. What is the key explanation?",
+      "answer": "It detects malicious messages, links, and attachments within supported Microsoft 365 workloads.",
+      "explanation": "Protection and investigation for email and collaboration threats. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-office-365",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Microsoft Defender for Office 365 should an administrator or practitioner remember?",
+      "answer": "Protection and investigation for email and collaboration threats",
+      "explanation": "It detects malicious messages, links, and attachments within supported Microsoft 365 workloads. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-office-365",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Microsoft Defender for Identity mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Identity-focused threat detection using identity signals",
+      "explanation": "It helps detect suspicious on-premises identity activities and lateral movement. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-identity",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Microsoft Defender for Identity. What capability should they expect?",
+      "answer": "Identity-focused threat detection using identity signals",
+      "explanation": "The expected capability is identity-focused threat detection using identity signals. It helps detect suspicious on-premises identity activities and lateral movement.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-identity",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Microsoft Defender for Identity?",
+      "answer": "Identity-focused threat detection using identity signals",
+      "explanation": "It helps detect suspicious on-premises identity activities and lateral movement. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-identity",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Microsoft Defender for Identity is relevant. What is the key explanation?",
+      "answer": "It helps detect suspicious on-premises identity activities and lateral movement.",
+      "explanation": "Identity-focused threat detection using identity signals. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-identity",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Microsoft Defender for Identity should an administrator or practitioner remember?",
+      "answer": "Identity-focused threat detection using identity signals",
+      "explanation": "It helps detect suspicious on-premises identity activities and lateral movement. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-identity",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Microsoft Defender for Cloud Apps mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Visibility, governance, and threat detection for cloud app usage",
+      "explanation": "It can assess application risk and investigate suspicious cloud activity. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-cloud-apps",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Microsoft Defender for Cloud Apps. What capability should they expect?",
+      "answer": "Visibility, governance, and threat detection for cloud app usage",
+      "explanation": "The expected capability is visibility, governance, and threat detection for cloud app usage. It can assess application risk and investigate suspicious cloud activity.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-cloud-apps",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Microsoft Defender for Cloud Apps?",
+      "answer": "Visibility, governance, and threat detection for cloud app usage",
+      "explanation": "It can assess application risk and investigate suspicious cloud activity. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-cloud-apps",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Microsoft Defender for Cloud Apps is relevant. What is the key explanation?",
+      "answer": "It can assess application risk and investigate suspicious cloud activity.",
+      "explanation": "Visibility, governance, and threat detection for cloud app usage. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-cloud-apps",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Microsoft Defender for Cloud Apps should an administrator or practitioner remember?",
+      "answer": "Visibility, governance, and threat detection for cloud app usage",
+      "explanation": "It can assess application risk and investigate suspicious cloud activity. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "microsoft-defender-for-cloud-apps",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Log Analytics workspace mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "An Azure resource that stores and queries logs",
+      "explanation": "Sentinel commonly uses a Log Analytics workspace as its data foundation. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "log-analytics-workspace",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Log Analytics workspace. What capability should they expect?",
+      "answer": "An Azure resource that stores and queries logs",
+      "explanation": "The expected capability is an Azure resource that stores and queries logs. Sentinel commonly uses a Log Analytics workspace as its data foundation.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "log-analytics-workspace",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Log Analytics workspace?",
+      "answer": "An Azure resource that stores and queries logs",
+      "explanation": "Sentinel commonly uses a Log Analytics workspace as its data foundation. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "log-analytics-workspace",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Log Analytics workspace is relevant. What is the key explanation?",
+      "answer": "Sentinel commonly uses a Log Analytics workspace as its data foundation.",
+      "explanation": "An Azure resource that stores and queries logs. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "log-analytics-workspace",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Log Analytics workspace should an administrator or practitioner remember?",
+      "answer": "An Azure resource that stores and queries logs",
+      "explanation": "Sentinel commonly uses a Log Analytics workspace as its data foundation. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "log-analytics-workspace",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Kusto Query Language (KQL) mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "The query language used to analyze many Microsoft security logs",
+      "explanation": "KQL filters, joins, summarizes, and correlates event data. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kusto-query-language-kql",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Kusto Query Language (KQL). What capability should they expect?",
+      "answer": "The query language used to analyze many Microsoft security logs",
+      "explanation": "The expected capability is the query language used to analyze many Microsoft security logs. KQL filters, joins, summarizes, and correlates event data.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kusto-query-language-kql",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Kusto Query Language (KQL)?",
+      "answer": "The query language used to analyze many Microsoft security logs",
+      "explanation": "KQL filters, joins, summarizes, and correlates event data. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kusto-query-language-kql",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Kusto Query Language (KQL) is relevant. What is the key explanation?",
+      "answer": "KQL filters, joins, summarizes, and correlates event data.",
+      "explanation": "The query language used to analyze many Microsoft security logs. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kusto-query-language-kql",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Kusto Query Language (KQL) should an administrator or practitioner remember?",
+      "answer": "The query language used to analyze many Microsoft security logs",
+      "explanation": "KQL filters, joins, summarizes, and correlates event data. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kusto-query-language-kql",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does KQL where operator mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Filters rows based on conditions",
+      "explanation": "Filtering early can improve clarity and reduce unnecessary processing. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-where-operator",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions KQL where operator. What capability should they expect?",
+      "answer": "Filters rows based on conditions",
+      "explanation": "The expected capability is filters rows based on conditions. Filtering early can improve clarity and reduce unnecessary processing.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-where-operator",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of KQL where operator?",
+      "answer": "Filters rows based on conditions",
+      "explanation": "Filtering early can improve clarity and reduce unnecessary processing. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-where-operator",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why KQL where operator is relevant. What is the key explanation?",
+      "answer": "Filtering early can improve clarity and reduce unnecessary processing.",
+      "explanation": "Filters rows based on conditions. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-where-operator",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about KQL where operator should an administrator or practitioner remember?",
+      "answer": "Filters rows based on conditions",
+      "explanation": "Filtering early can improve clarity and reduce unnecessary processing. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-where-operator",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does KQL summarize operator mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Aggregates rows into counts or statistics",
+      "explanation": "Summarize supports grouping and identifying spikes and patterns. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-summarize-operator",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions KQL summarize operator. What capability should they expect?",
+      "answer": "Aggregates rows into counts or statistics",
+      "explanation": "The expected capability is aggregates rows into counts or statistics. Summarize supports grouping and identifying spikes and patterns.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-summarize-operator",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of KQL summarize operator?",
+      "answer": "Aggregates rows into counts or statistics",
+      "explanation": "Summarize supports grouping and identifying spikes and patterns. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-summarize-operator",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why KQL summarize operator is relevant. What is the key explanation?",
+      "answer": "Summarize supports grouping and identifying spikes and patterns.",
+      "explanation": "Aggregates rows into counts or statistics. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-summarize-operator",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about KQL summarize operator should an administrator or practitioner remember?",
+      "answer": "Aggregates rows into counts or statistics",
+      "explanation": "Summarize supports grouping and identifying spikes and patterns. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-summarize-operator",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does KQL join operator mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Combines related records from separate tables",
+      "explanation": "Joining security events can reveal linked activities across sources. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-join-operator",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions KQL join operator. What capability should they expect?",
+      "answer": "Combines related records from separate tables",
+      "explanation": "The expected capability is combines related records from separate tables. Joining security events can reveal linked activities across sources.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-join-operator",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of KQL join operator?",
+      "answer": "Combines related records from separate tables",
+      "explanation": "Joining security events can reveal linked activities across sources. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-join-operator",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why KQL join operator is relevant. What is the key explanation?",
+      "answer": "Joining security events can reveal linked activities across sources.",
+      "explanation": "Combines related records from separate tables. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-join-operator",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about KQL join operator should an administrator or practitioner remember?",
+      "answer": "Combines related records from separate tables",
+      "explanation": "Joining security events can reveal linked activities across sources. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "kql-join-operator",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Analytics rule mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A detection rule that generates alerts or incidents",
+      "explanation": "Rules turn defined suspicious patterns into actionable security signals. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "analytics-rule",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Analytics rule. What capability should they expect?",
+      "answer": "A detection rule that generates alerts or incidents",
+      "explanation": "The expected capability is a detection rule that generates alerts or incidents. Rules turn defined suspicious patterns into actionable security signals.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "analytics-rule",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Analytics rule?",
+      "answer": "A detection rule that generates alerts or incidents",
+      "explanation": "Rules turn defined suspicious patterns into actionable security signals. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "analytics-rule",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Analytics rule is relevant. What is the key explanation?",
+      "answer": "Rules turn defined suspicious patterns into actionable security signals.",
+      "explanation": "A detection rule that generates alerts or incidents. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "analytics-rule",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Analytics rule should an administrator or practitioner remember?",
+      "answer": "A detection rule that generates alerts or incidents",
+      "explanation": "Rules turn defined suspicious patterns into actionable security signals. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "analytics-rule",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Scheduled analytics rule mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A rule that runs a query on a schedule",
+      "explanation": "Scheduled detection is useful for recurring queries over recent events. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "scheduled-analytics-rule",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Scheduled analytics rule. What capability should they expect?",
+      "answer": "A rule that runs a query on a schedule",
+      "explanation": "The expected capability is a rule that runs a query on a schedule. Scheduled detection is useful for recurring queries over recent events.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "scheduled-analytics-rule",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Scheduled analytics rule?",
+      "answer": "A rule that runs a query on a schedule",
+      "explanation": "Scheduled detection is useful for recurring queries over recent events. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "scheduled-analytics-rule",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Scheduled analytics rule is relevant. What is the key explanation?",
+      "answer": "Scheduled detection is useful for recurring queries over recent events.",
+      "explanation": "A rule that runs a query on a schedule. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "scheduled-analytics-rule",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Scheduled analytics rule should an administrator or practitioner remember?",
+      "answer": "A rule that runs a query on a schedule",
+      "explanation": "Scheduled detection is useful for recurring queries over recent events. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "scheduled-analytics-rule",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Near-real-time analytics rule mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A detection rule designed for frequent evaluation",
+      "explanation": "It reduces the delay between a matching event and alert generation. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "near-real-time-analytics-rule",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Near-real-time analytics rule. What capability should they expect?",
+      "answer": "A detection rule designed for frequent evaluation",
+      "explanation": "The expected capability is a detection rule designed for frequent evaluation. It reduces the delay between a matching event and alert generation.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "near-real-time-analytics-rule",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Near-real-time analytics rule?",
+      "answer": "A detection rule designed for frequent evaluation",
+      "explanation": "It reduces the delay between a matching event and alert generation. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "near-real-time-analytics-rule",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Near-real-time analytics rule is relevant. What is the key explanation?",
+      "answer": "It reduces the delay between a matching event and alert generation.",
+      "explanation": "A detection rule designed for frequent evaluation. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "near-real-time-analytics-rule",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Near-real-time analytics rule should an administrator or practitioner remember?",
+      "answer": "A detection rule designed for frequent evaluation",
+      "explanation": "It reduces the delay between a matching event and alert generation. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "near-real-time-analytics-rule",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Incident mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A grouping of related security alerts or evidence",
+      "explanation": "Analysts triage incidents rather than treating every alert as unrelated. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Incident. What capability should they expect?",
+      "answer": "A grouping of related security alerts or evidence",
+      "explanation": "The expected capability is a grouping of related security alerts or evidence. Analysts triage incidents rather than treating every alert as unrelated.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Incident?",
+      "answer": "A grouping of related security alerts or evidence",
+      "explanation": "Analysts triage incidents rather than treating every alert as unrelated. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Incident is relevant. What is the key explanation?",
+      "answer": "Analysts triage incidents rather than treating every alert as unrelated.",
+      "explanation": "A grouping of related security alerts or evidence. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Incident should an administrator or practitioner remember?",
+      "answer": "A grouping of related security alerts or evidence",
+      "explanation": "Analysts triage incidents rather than treating every alert as unrelated. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Alert severity mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A classification of potential security impact",
+      "explanation": "Severity helps prioritize but must be assessed alongside context and confidence. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "alert-severity",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Alert severity. What capability should they expect?",
+      "answer": "A classification of potential security impact",
+      "explanation": "The expected capability is a classification of potential security impact. Severity helps prioritize but must be assessed alongside context and confidence.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "alert-severity",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Alert severity?",
+      "answer": "A classification of potential security impact",
+      "explanation": "Severity helps prioritize but must be assessed alongside context and confidence. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "alert-severity",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Alert severity is relevant. What is the key explanation?",
+      "answer": "Severity helps prioritize but must be assessed alongside context and confidence.",
+      "explanation": "A classification of potential security impact. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "alert-severity",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Alert severity should an administrator or practitioner remember?",
+      "answer": "A classification of potential security impact",
+      "explanation": "Severity helps prioritize but must be assessed alongside context and confidence. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "alert-severity",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Entity mapping mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Linking alert results to users, hosts, IP addresses, or other entities",
+      "explanation": "Mapped entities make investigation graphs and correlations more useful. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "entity-mapping",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Entity mapping. What capability should they expect?",
+      "answer": "Linking alert results to users, hosts, IP addresses, or other entities",
+      "explanation": "The expected capability is linking alert results to users, hosts, IP addresses, or other entities. Mapped entities make investigation graphs and correlations more useful.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "entity-mapping",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Entity mapping?",
+      "answer": "Linking alert results to users, hosts, IP addresses, or other entities",
+      "explanation": "Mapped entities make investigation graphs and correlations more useful. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "entity-mapping",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Entity mapping is relevant. What is the key explanation?",
+      "answer": "Mapped entities make investigation graphs and correlations more useful.",
+      "explanation": "Linking alert results to users, hosts, IP addresses, or other entities. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "entity-mapping",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Entity mapping should an administrator or practitioner remember?",
+      "answer": "Linking alert results to users, hosts, IP addresses, or other entities",
+      "explanation": "Mapped entities make investigation graphs and correlations more useful. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "entity-mapping",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Threat hunting mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Proactively searching for suspicious behavior not yet confirmed by alerts",
+      "explanation": "Hunts use hypotheses and telemetry to uncover hidden activity. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-hunting",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Threat hunting. What capability should they expect?",
+      "answer": "Proactively searching for suspicious behavior not yet confirmed by alerts",
+      "explanation": "The expected capability is proactively searching for suspicious behavior not yet confirmed by alerts. Hunts use hypotheses and telemetry to uncover hidden activity.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-hunting",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Threat hunting?",
+      "answer": "Proactively searching for suspicious behavior not yet confirmed by alerts",
+      "explanation": "Hunts use hypotheses and telemetry to uncover hidden activity. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-hunting",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Threat hunting is relevant. What is the key explanation?",
+      "answer": "Hunts use hypotheses and telemetry to uncover hidden activity.",
+      "explanation": "Proactively searching for suspicious behavior not yet confirmed by alerts. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-hunting",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Threat hunting should an administrator or practitioner remember?",
+      "answer": "Proactively searching for suspicious behavior not yet confirmed by alerts",
+      "explanation": "Hunts use hypotheses and telemetry to uncover hidden activity. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-hunting",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Hunting query mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A reusable query for investigating threat hypotheses",
+      "explanation": "Analysts can adapt query logic and time scope to new evidence. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "hunting-query",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Hunting query. What capability should they expect?",
+      "answer": "A reusable query for investigating threat hypotheses",
+      "explanation": "The expected capability is a reusable query for investigating threat hypotheses. Analysts can adapt query logic and time scope to new evidence.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "hunting-query",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Hunting query?",
+      "answer": "A reusable query for investigating threat hypotheses",
+      "explanation": "Analysts can adapt query logic and time scope to new evidence. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "hunting-query",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Hunting query is relevant. What is the key explanation?",
+      "answer": "Analysts can adapt query logic and time scope to new evidence.",
+      "explanation": "A reusable query for investigating threat hypotheses. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "hunting-query",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Hunting query should an administrator or practitioner remember?",
+      "answer": "A reusable query for investigating threat hypotheses",
+      "explanation": "Analysts can adapt query logic and time scope to new evidence. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "hunting-query",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Watchlist mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Reference data used to enrich Sentinel analysis",
+      "explanation": "Watchlists can hold monitored assets or business-sensitive identifiers. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "watchlist",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Watchlist. What capability should they expect?",
+      "answer": "Reference data used to enrich Sentinel analysis",
+      "explanation": "The expected capability is reference data used to enrich Sentinel analysis. Watchlists can hold monitored assets or business-sensitive identifiers.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "watchlist",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Watchlist?",
+      "answer": "Reference data used to enrich Sentinel analysis",
+      "explanation": "Watchlists can hold monitored assets or business-sensitive identifiers. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "watchlist",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Watchlist is relevant. What is the key explanation?",
+      "answer": "Watchlists can hold monitored assets or business-sensitive identifiers.",
+      "explanation": "Reference data used to enrich Sentinel analysis. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "watchlist",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Watchlist should an administrator or practitioner remember?",
+      "answer": "Reference data used to enrich Sentinel analysis",
+      "explanation": "Watchlists can hold monitored assets or business-sensitive identifiers. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "watchlist",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Workbook mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "An interactive security data visualization",
+      "explanation": "Workbooks help communicate trends, key indicators, and investigations. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "workbook",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Workbook. What capability should they expect?",
+      "answer": "An interactive security data visualization",
+      "explanation": "The expected capability is an interactive security data visualization. Workbooks help communicate trends, key indicators, and investigations.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "workbook",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Workbook?",
+      "answer": "An interactive security data visualization",
+      "explanation": "Workbooks help communicate trends, key indicators, and investigations. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "workbook",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Workbook is relevant. What is the key explanation?",
+      "answer": "Workbooks help communicate trends, key indicators, and investigations.",
+      "explanation": "An interactive security data visualization. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "workbook",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Workbook should an administrator or practitioner remember?",
+      "answer": "An interactive security data visualization",
+      "explanation": "Workbooks help communicate trends, key indicators, and investigations. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "workbook",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Playbook mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "An automation workflow commonly implemented with Azure Logic Apps",
+      "explanation": "Sentinel playbooks can orchestrate approved incident-response actions. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "playbook",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Playbook. What capability should they expect?",
+      "answer": "An automation workflow commonly implemented with Azure Logic Apps",
+      "explanation": "The expected capability is an automation workflow commonly implemented with Azure Logic Apps. Sentinel playbooks can orchestrate approved incident-response actions.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "playbook",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Playbook?",
+      "answer": "An automation workflow commonly implemented with Azure Logic Apps",
+      "explanation": "Sentinel playbooks can orchestrate approved incident-response actions. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "playbook",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Playbook is relevant. What is the key explanation?",
+      "answer": "Sentinel playbooks can orchestrate approved incident-response actions.",
+      "explanation": "An automation workflow commonly implemented with Azure Logic Apps. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "playbook",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Playbook should an administrator or practitioner remember?",
+      "answer": "An automation workflow commonly implemented with Azure Logic Apps",
+      "explanation": "Sentinel playbooks can orchestrate approved incident-response actions. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "playbook",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Automation rule mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A Sentinel rule for incident handling and orchestration",
+      "explanation": "It can assign, tag, or trigger response workflows under set conditions. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "automation-rule",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Automation rule. What capability should they expect?",
+      "answer": "A Sentinel rule for incident handling and orchestration",
+      "explanation": "The expected capability is a Sentinel rule for incident handling and orchestration. It can assign, tag, or trigger response workflows under set conditions.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "automation-rule",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Automation rule?",
+      "answer": "A Sentinel rule for incident handling and orchestration",
+      "explanation": "It can assign, tag, or trigger response workflows under set conditions. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "automation-rule",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Automation rule is relevant. What is the key explanation?",
+      "answer": "It can assign, tag, or trigger response workflows under set conditions.",
+      "explanation": "A Sentinel rule for incident handling and orchestration. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "automation-rule",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Automation rule should an administrator or practitioner remember?",
+      "answer": "A Sentinel rule for incident handling and orchestration",
+      "explanation": "It can assign, tag, or trigger response workflows under set conditions. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "automation-rule",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does MITRE ATT&CK mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A knowledge base of adversary tactics and techniques",
+      "explanation": "Mapping detections to tactics and techniques helps expose coverage gaps. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "mitre-att-ck",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions MITRE ATT&CK. What capability should they expect?",
+      "answer": "A knowledge base of adversary tactics and techniques",
+      "explanation": "The expected capability is a knowledge base of adversary tactics and techniques. Mapping detections to tactics and techniques helps expose coverage gaps.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "mitre-att-ck",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of MITRE ATT&CK?",
+      "answer": "A knowledge base of adversary tactics and techniques",
+      "explanation": "Mapping detections to tactics and techniques helps expose coverage gaps. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "mitre-att-ck",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why MITRE ATT&CK is relevant. What is the key explanation?",
+      "answer": "Mapping detections to tactics and techniques helps expose coverage gaps.",
+      "explanation": "A knowledge base of adversary tactics and techniques. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "mitre-att-ck",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about MITRE ATT&CK should an administrator or practitioner remember?",
+      "answer": "A knowledge base of adversary tactics and techniques",
+      "explanation": "Mapping detections to tactics and techniques helps expose coverage gaps. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "mitre-att-ck",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Incident triage mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Evaluating alerts for validity, scope, and urgency",
+      "explanation": "Triage avoids treating a benign signal and a major compromise identically. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident-triage",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Incident triage. What capability should they expect?",
+      "answer": "Evaluating alerts for validity, scope, and urgency",
+      "explanation": "The expected capability is evaluating alerts for validity, scope, and urgency. Triage avoids treating a benign signal and a major compromise identically.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident-triage",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Incident triage?",
+      "answer": "Evaluating alerts for validity, scope, and urgency",
+      "explanation": "Triage avoids treating a benign signal and a major compromise identically. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident-triage",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Incident triage is relevant. What is the key explanation?",
+      "answer": "Triage avoids treating a benign signal and a major compromise identically.",
+      "explanation": "Evaluating alerts for validity, scope, and urgency. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident-triage",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Incident triage should an administrator or practitioner remember?",
+      "answer": "Evaluating alerts for validity, scope, and urgency",
+      "explanation": "Triage avoids treating a benign signal and a major compromise identically. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "incident-triage",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does False positive mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A detection that incorrectly identifies benign activity as a threat",
+      "explanation": "Tuning rules and analyzing context can reduce needless investigations. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "false-positive",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions False positive. What capability should they expect?",
+      "answer": "A detection that incorrectly identifies benign activity as a threat",
+      "explanation": "The expected capability is a detection that incorrectly identifies benign activity as a threat. Tuning rules and analyzing context can reduce needless investigations.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "false-positive",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of False positive?",
+      "answer": "A detection that incorrectly identifies benign activity as a threat",
+      "explanation": "Tuning rules and analyzing context can reduce needless investigations. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "false-positive",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why False positive is relevant. What is the key explanation?",
+      "answer": "Tuning rules and analyzing context can reduce needless investigations.",
+      "explanation": "A detection that incorrectly identifies benign activity as a threat. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "false-positive",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about False positive should an administrator or practitioner remember?",
+      "answer": "A detection that incorrectly identifies benign activity as a threat",
+      "explanation": "Tuning rules and analyzing context can reduce needless investigations. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "false-positive",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does True positive mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A detection corresponding to genuine malicious activity",
+      "explanation": "A confirmed true positive may justify containment and deeper scoping. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "true-positive",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions True positive. What capability should they expect?",
+      "answer": "A detection corresponding to genuine malicious activity",
+      "explanation": "The expected capability is a detection corresponding to genuine malicious activity. A confirmed true positive may justify containment and deeper scoping.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "true-positive",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of True positive?",
+      "answer": "A detection corresponding to genuine malicious activity",
+      "explanation": "A confirmed true positive may justify containment and deeper scoping. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "true-positive",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why True positive is relevant. What is the key explanation?",
+      "answer": "A confirmed true positive may justify containment and deeper scoping.",
+      "explanation": "A detection corresponding to genuine malicious activity. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "true-positive",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about True positive should an administrator or practitioner remember?",
+      "answer": "A detection corresponding to genuine malicious activity",
+      "explanation": "A confirmed true positive may justify containment and deeper scoping. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "true-positive",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Investigation graph mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A visual view of relationships among incidents and entities",
+      "explanation": "Connections can highlight affected devices, identities, and indicators. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "investigation-graph",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Investigation graph. What capability should they expect?",
+      "answer": "A visual view of relationships among incidents and entities",
+      "explanation": "The expected capability is a visual view of relationships among incidents and entities. Connections can highlight affected devices, identities, and indicators.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "investigation-graph",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Investigation graph?",
+      "answer": "A visual view of relationships among incidents and entities",
+      "explanation": "Connections can highlight affected devices, identities, and indicators. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "investigation-graph",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Investigation graph is relevant. What is the key explanation?",
+      "answer": "Connections can highlight affected devices, identities, and indicators.",
+      "explanation": "A visual view of relationships among incidents and entities. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "investigation-graph",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Investigation graph should an administrator or practitioner remember?",
+      "answer": "A visual view of relationships among incidents and entities",
+      "explanation": "Connections can highlight affected devices, identities, and indicators. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "investigation-graph",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Endpoint isolation mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Disconnecting a compromised device from most network traffic",
+      "explanation": "This containment action can limit spread while enabling investigation. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "endpoint-isolation",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Endpoint isolation. What capability should they expect?",
+      "answer": "Disconnecting a compromised device from most network traffic",
+      "explanation": "The expected capability is disconnecting a compromised device from most network traffic. This containment action can limit spread while enabling investigation.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "endpoint-isolation",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Endpoint isolation?",
+      "answer": "Disconnecting a compromised device from most network traffic",
+      "explanation": "This containment action can limit spread while enabling investigation. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "endpoint-isolation",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Endpoint isolation is relevant. What is the key explanation?",
+      "answer": "This containment action can limit spread while enabling investigation.",
+      "explanation": "Disconnecting a compromised device from most network traffic. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "endpoint-isolation",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Endpoint isolation should an administrator or practitioner remember?",
+      "answer": "Disconnecting a compromised device from most network traffic",
+      "explanation": "This containment action can limit spread while enabling investigation. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "endpoint-isolation",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Live response mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Remote investigation and remediation actions on supported endpoints",
+      "explanation": "It supports analyst-driven response subject to access controls. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "live-response",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Live response. What capability should they expect?",
+      "answer": "Remote investigation and remediation actions on supported endpoints",
+      "explanation": "The expected capability is remote investigation and remediation actions on supported endpoints. It supports analyst-driven response subject to access controls.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "live-response",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Live response?",
+      "answer": "Remote investigation and remediation actions on supported endpoints",
+      "explanation": "It supports analyst-driven response subject to access controls. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "live-response",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Live response is relevant. What is the key explanation?",
+      "answer": "It supports analyst-driven response subject to access controls.",
+      "explanation": "Remote investigation and remediation actions on supported endpoints. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "live-response",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Live response should an administrator or practitioner remember?",
+      "answer": "Remote investigation and remediation actions on supported endpoints",
+      "explanation": "It supports analyst-driven response subject to access controls. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "live-response",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Attack surface reduction rules mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Endpoint rules restricting common risky behaviors",
+      "explanation": "They reduce the opportunities available to common attack methods. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "attack-surface-reduction-rules",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Attack surface reduction rules. What capability should they expect?",
+      "answer": "Endpoint rules restricting common risky behaviors",
+      "explanation": "The expected capability is endpoint rules restricting common risky behaviors. They reduce the opportunities available to common attack methods.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "attack-surface-reduction-rules",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Attack surface reduction rules?",
+      "answer": "Endpoint rules restricting common risky behaviors",
+      "explanation": "They reduce the opportunities available to common attack methods. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "attack-surface-reduction-rules",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Attack surface reduction rules is relevant. What is the key explanation?",
+      "answer": "They reduce the opportunities available to common attack methods.",
+      "explanation": "Endpoint rules restricting common risky behaviors. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "attack-surface-reduction-rules",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Attack surface reduction rules should an administrator or practitioner remember?",
+      "answer": "Endpoint rules restricting common risky behaviors",
+      "explanation": "They reduce the opportunities available to common attack methods. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "attack-surface-reduction-rules",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Advanced hunting mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Proactive querying of security telemetry across available data",
+      "explanation": "It helps find activity that might not yet be part of an incident. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "advanced-hunting",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Advanced hunting. What capability should they expect?",
+      "answer": "Proactive querying of security telemetry across available data",
+      "explanation": "The expected capability is proactive querying of security telemetry across available data. It helps find activity that might not yet be part of an incident.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "advanced-hunting",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Advanced hunting?",
+      "answer": "Proactive querying of security telemetry across available data",
+      "explanation": "It helps find activity that might not yet be part of an incident. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "advanced-hunting",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Advanced hunting is relevant. What is the key explanation?",
+      "answer": "It helps find activity that might not yet be part of an incident.",
+      "explanation": "Proactive querying of security telemetry across available data. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "advanced-hunting",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Advanced hunting should an administrator or practitioner remember?",
+      "answer": "Proactive querying of security telemetry across available data",
+      "explanation": "It helps find activity that might not yet be part of an incident. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "advanced-hunting",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Custom detection mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A detection built from a defined hunting query or logic",
+      "explanation": "Custom logic can surface organization-specific suspicious activity. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "custom-detection",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Custom detection. What capability should they expect?",
+      "answer": "A detection built from a defined hunting query or logic",
+      "explanation": "The expected capability is a detection built from a defined hunting query or logic. Custom logic can surface organization-specific suspicious activity.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "custom-detection",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Custom detection?",
+      "answer": "A detection built from a defined hunting query or logic",
+      "explanation": "Custom logic can surface organization-specific suspicious activity. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "custom-detection",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Custom detection is relevant. What is the key explanation?",
+      "answer": "Custom logic can surface organization-specific suspicious activity.",
+      "explanation": "A detection built from a defined hunting query or logic. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "custom-detection",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Custom detection should an administrator or practitioner remember?",
+      "answer": "A detection built from a defined hunting query or logic",
+      "explanation": "Custom logic can surface organization-specific suspicious activity. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "custom-detection",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Data connector mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "An integration that ingests data from a source into Sentinel",
+      "explanation": "Connectors determine which events are available for detection. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "data-connector",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Data connector. What capability should they expect?",
+      "answer": "An integration that ingests data from a source into Sentinel",
+      "explanation": "The expected capability is an integration that ingests data from a source into Sentinel. Connectors determine which events are available for detection.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "data-connector",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Data connector?",
+      "answer": "An integration that ingests data from a source into Sentinel",
+      "explanation": "Connectors determine which events are available for detection. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "data-connector",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Data connector is relevant. What is the key explanation?",
+      "answer": "Connectors determine which events are available for detection.",
+      "explanation": "An integration that ingests data from a source into Sentinel. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "data-connector",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Data connector should an administrator or practitioner remember?",
+      "answer": "An integration that ingests data from a source into Sentinel",
+      "explanation": "Connectors determine which events are available for detection. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "data-connector",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Retention policy mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A rule controlling how long log data remains available",
+      "explanation": "Retention affects investigation history, compliance, and cost. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "retention-policy",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Retention policy. What capability should they expect?",
+      "answer": "A rule controlling how long log data remains available",
+      "explanation": "The expected capability is a rule controlling how long log data remains available. Retention affects investigation history, compliance, and cost.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "retention-policy",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Retention policy?",
+      "answer": "A rule controlling how long log data remains available",
+      "explanation": "Retention affects investigation history, compliance, and cost. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "retention-policy",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Retention policy is relevant. What is the key explanation?",
+      "answer": "Retention affects investigation history, compliance, and cost.",
+      "explanation": "A rule controlling how long log data remains available. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "retention-policy",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Retention policy should an administrator or practitioner remember?",
+      "answer": "A rule controlling how long log data remains available",
+      "explanation": "Retention affects investigation history, compliance, and cost. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "retention-policy",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Least privilege mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Granting only permissions necessary for security duties",
+      "explanation": "Reduced privileges limit damage from mistakes or compromised accounts. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "least-privilege",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Least privilege. What capability should they expect?",
+      "answer": "Granting only permissions necessary for security duties",
+      "explanation": "The expected capability is granting only permissions necessary for security duties. Reduced privileges limit damage from mistakes or compromised accounts.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "least-privilege",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Least privilege?",
+      "answer": "Granting only permissions necessary for security duties",
+      "explanation": "Reduced privileges limit damage from mistakes or compromised accounts. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "least-privilege",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Least privilege is relevant. What is the key explanation?",
+      "answer": "Reduced privileges limit damage from mistakes or compromised accounts.",
+      "explanation": "Granting only permissions necessary for security duties. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "least-privilege",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Least privilege should an administrator or practitioner remember?",
+      "answer": "Granting only permissions necessary for security duties",
+      "explanation": "Reduced privileges limit damage from mistakes or compromised accounts. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "least-privilege",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Role-based access control (RBAC) mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Granting permissions through assigned roles",
+      "explanation": "RBAC helps separate analysts, responders, and administrators. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "role-based-access-control-rbac",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Role-based access control (RBAC). What capability should they expect?",
+      "answer": "Granting permissions through assigned roles",
+      "explanation": "The expected capability is granting permissions through assigned roles. RBAC helps separate analysts, responders, and administrators.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "role-based-access-control-rbac",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Role-based access control (RBAC)?",
+      "answer": "Granting permissions through assigned roles",
+      "explanation": "RBAC helps separate analysts, responders, and administrators. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "role-based-access-control-rbac",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Role-based access control (RBAC) is relevant. What is the key explanation?",
+      "answer": "RBAC helps separate analysts, responders, and administrators.",
+      "explanation": "Granting permissions through assigned roles. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "role-based-access-control-rbac",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Role-based access control (RBAC) should an administrator or practitioner remember?",
+      "answer": "Granting permissions through assigned roles",
+      "explanation": "RBAC helps separate analysts, responders, and administrators. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "role-based-access-control-rbac",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Threat intelligence indicator mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A contextual artifact such as a suspicious IP, domain, or hash",
+      "explanation": "Indicators enrich investigations but require validation and freshness checks. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-intelligence-indicator",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Threat intelligence indicator. What capability should they expect?",
+      "answer": "A contextual artifact such as a suspicious IP, domain, or hash",
+      "explanation": "The expected capability is a contextual artifact such as a suspicious IP, domain, or hash. Indicators enrich investigations but require validation and freshness checks.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-intelligence-indicator",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Threat intelligence indicator?",
+      "answer": "A contextual artifact such as a suspicious IP, domain, or hash",
+      "explanation": "Indicators enrich investigations but require validation and freshness checks. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-intelligence-indicator",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Threat intelligence indicator is relevant. What is the key explanation?",
+      "answer": "Indicators enrich investigations but require validation and freshness checks.",
+      "explanation": "A contextual artifact such as a suspicious IP, domain, or hash. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-intelligence-indicator",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Threat intelligence indicator should an administrator or practitioner remember?",
+      "answer": "A contextual artifact such as a suspicious IP, domain, or hash",
+      "explanation": "Indicators enrich investigations but require validation and freshness checks. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "threat-intelligence-indicator",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Security orchestration mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "Coordinating security tools and response steps in a workflow",
+      "explanation": "Orchestration improves consistency without removing the need for approvals. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "security-orchestration",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Security orchestration. What capability should they expect?",
+      "answer": "Coordinating security tools and response steps in a workflow",
+      "explanation": "The expected capability is coordinating security tools and response steps in a workflow. Orchestration improves consistency without removing the need for approvals.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "security-orchestration",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Security orchestration?",
+      "answer": "Coordinating security tools and response steps in a workflow",
+      "explanation": "Orchestration improves consistency without removing the need for approvals. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "security-orchestration",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Security orchestration is relevant. What is the key explanation?",
+      "answer": "Orchestration improves consistency without removing the need for approvals.",
+      "explanation": "Coordinating security tools and response steps in a workflow. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "security-orchestration",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Security orchestration should an administrator or practitioner remember?",
+      "answer": "Coordinating security tools and response steps in a workflow",
+      "explanation": "Orchestration improves consistency without removing the need for approvals. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "security-orchestration",
+        "recall"
+      ]
+    },
+    {
+      "question": "What does Post-incident review mean in the context of SC-200 Microsoft Security Operations Analyst?",
+      "answer": "A retrospective examination of detection and response performance",
+      "explanation": "Lessons learned lead to better rules, playbooks, and response procedures. In exam questions, identify the purpose of the capability rather than relying on its name alone.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "post-incident-review",
+        "definition"
+      ]
+    },
+    {
+      "question": "A team is planning an implementation and mentions Post-incident review. What capability should they expect?",
+      "answer": "A retrospective examination of detection and response performance",
+      "explanation": "The expected capability is a retrospective examination of detection and response performance. Lessons learned lead to better rules, playbooks, and response procedures.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "post-incident-review",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which statement best describes the role of Post-incident review?",
+      "answer": "A retrospective examination of detection and response performance",
+      "explanation": "Lessons learned lead to better rules, playbooks, and response procedures. Choose this description over alternatives that describe unrelated Azure or Microsoft services.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "post-incident-review",
+        "description"
+      ]
+    },
+    {
+      "question": "In a design review, an engineer asks why Post-incident review is relevant. What is the key explanation?",
+      "answer": "Lessons learned lead to better rules, playbooks, and response procedures.",
+      "explanation": "A retrospective examination of detection and response performance. The rationale describes the practical design or operational value.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "post-incident-review",
+        "rationale"
+      ]
+    },
+    {
+      "question": "What core fact about Post-incident review should an administrator or practitioner remember?",
+      "answer": "A retrospective examination of detection and response performance",
+      "explanation": "Lessons learned lead to better rules, playbooks, and response procedures. Its applicability depends on the workload requirements and the service configuration.",
+      "language": "en",
+      "tags": [
+        "sc200",
+        "post-incident-review",
+        "recall"
+      ]
+    }
+  ]
+}

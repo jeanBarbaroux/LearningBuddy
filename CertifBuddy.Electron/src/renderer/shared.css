@@ -1,0 +1,82 @@
+:root {
+  color-scheme: light dark;
+  --azure: #0b6bcb;
+  --azure-strong: #08539e;
+  --azure-soft: #e5f0fb;
+  --success: #1f7a43;
+  --danger: #b42318;
+  --warning: #a15c07;
+  --page: #f5f7fa;
+  --surface: #ffffff;
+  --text: #1b2430;
+  --muted: #5b6675;
+  --border: #d6dde6;
+  --radius: 8px;
+  --shadow: 0 4px 18px rgb(16 32 64 / 14%);
+  font-family: "Segoe UI Variable", "Segoe UI", system-ui, sans-serif;
+  font-size: 14px;
+  color: var(--text);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --azure: #4aa3ff;
+    --azure-strong: #7dbcff;
+    --azure-soft: #18324d;
+    --success: #4cc27b;
+    --danger: #ff7b72;
+    --page: #11161d;
+    --surface: #1a212b;
+    --text: #e8edf3;
+    --muted: #a0abb8;
+    --border: #2d3846;
+    --shadow: 0 4px 18px rgb(0 0 0 / 45%);
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  font: inherit;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 7px 14px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+
+button:hover:not(:disabled) {
+  border-color: var(--azure);
+}
+
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--azure);
+  outline-offset: 2px;
+}
+
+button:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
+
+button.primary {
+  background: var(--azure);
+  border-color: var(--azure);
+  color: #fff;
+}
+
+button.primary:hover:not(:disabled) {
+  background: var(--azure-strong);
+}
+
+button.danger {
+  color: var(--danger);
+}
+
+.muted {
+  color: var(--muted);
+}

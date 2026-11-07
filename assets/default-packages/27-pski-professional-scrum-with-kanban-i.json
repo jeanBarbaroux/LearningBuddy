@@ -1,0 +1,2007 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "PSKI Professional Scrum with Kanban I",
+  "cards": [
+    {
+      "question": "What is the recommended approach to kanban within scrum in professional Scrum practice?",
+      "answer": "Complement Scrum with Kanban practices without removing Scrum roles, events, or artifacts.",
+      "explanation": "Kanban improves flow inside the Scrum framework.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-within-scrum"
+      ]
+    },
+    {
+      "question": "A team wants to improve kanban within scrum. What principle should guide its next action?",
+      "answer": "Complement Scrum with Kanban practices without removing Scrum roles, events, or artifacts.",
+      "explanation": "Kanban improves flow inside the Scrum framework.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-within-scrum"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about kanban within scrum, what should practitioners emphasize?",
+      "answer": "Complement Scrum with Kanban practices without removing Scrum roles, events, or artifacts.",
+      "explanation": "Kanban improves flow inside the Scrum framework.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-within-scrum"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding kanban within scrum?",
+      "answer": "Complement Scrum with Kanban practices without removing Scrum roles, events, or artifacts.",
+      "explanation": "Kanban improves flow inside the Scrum framework.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-within-scrum"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for kanban within scrum?",
+      "answer": "Complement Scrum with Kanban practices without removing Scrum roles, events, or artifacts.",
+      "explanation": "Kanban improves flow inside the Scrum framework.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-within-scrum"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to visualize workflow in professional Scrum practice?",
+      "answer": "Show workflow states and work items so bottlenecks and blocked work are visible.",
+      "explanation": "Visibility enables flow conversations.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "visualize-workflow"
+      ]
+    },
+    {
+      "question": "A team wants to improve visualize workflow. What principle should guide its next action?",
+      "answer": "Show workflow states and work items so bottlenecks and blocked work are visible.",
+      "explanation": "Visibility enables flow conversations.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "visualize-workflow"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about visualize workflow, what should practitioners emphasize?",
+      "answer": "Show workflow states and work items so bottlenecks and blocked work are visible.",
+      "explanation": "Visibility enables flow conversations.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "visualize-workflow"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding visualize workflow?",
+      "answer": "Show workflow states and work items so bottlenecks and blocked work are visible.",
+      "explanation": "Visibility enables flow conversations.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "visualize-workflow"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for visualize workflow?",
+      "answer": "Show workflow states and work items so bottlenecks and blocked work are visible.",
+      "explanation": "Visibility enables flow conversations.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "visualize-workflow"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to work in progress limits in professional Scrum practice?",
+      "answer": "Set explicit WIP limits to encourage finishing and expose capacity constraints.",
+      "explanation": "WIP limits are policies for learning, not arbitrary punishments.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-in-progress-limits"
+      ]
+    },
+    {
+      "question": "A team wants to improve work in progress limits. What principle should guide its next action?",
+      "answer": "Set explicit WIP limits to encourage finishing and expose capacity constraints.",
+      "explanation": "WIP limits are policies for learning, not arbitrary punishments.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-in-progress-limits"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about work in progress limits, what should practitioners emphasize?",
+      "answer": "Set explicit WIP limits to encourage finishing and expose capacity constraints.",
+      "explanation": "WIP limits are policies for learning, not arbitrary punishments.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-in-progress-limits"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding work in progress limits?",
+      "answer": "Set explicit WIP limits to encourage finishing and expose capacity constraints.",
+      "explanation": "WIP limits are policies for learning, not arbitrary punishments.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-in-progress-limits"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for work in progress limits?",
+      "answer": "Set explicit WIP limits to encourage finishing and expose capacity constraints.",
+      "explanation": "WIP limits are policies for learning, not arbitrary punishments.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-in-progress-limits"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to flow management in professional Scrum practice?",
+      "answer": "Actively move work toward completion instead of maximizing utilization.",
+      "explanation": "Flow focuses on finishing valuable work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-management"
+      ]
+    },
+    {
+      "question": "A team wants to improve flow management. What principle should guide its next action?",
+      "answer": "Actively move work toward completion instead of maximizing utilization.",
+      "explanation": "Flow focuses on finishing valuable work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-management"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about flow management, what should practitioners emphasize?",
+      "answer": "Actively move work toward completion instead of maximizing utilization.",
+      "explanation": "Flow focuses on finishing valuable work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-management"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding flow management?",
+      "answer": "Actively move work toward completion instead of maximizing utilization.",
+      "explanation": "Flow focuses on finishing valuable work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-management"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for flow management?",
+      "answer": "Actively move work toward completion instead of maximizing utilization.",
+      "explanation": "Flow focuses on finishing valuable work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-management"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to active wip in professional Scrum practice?",
+      "answer": "Count started but not finished work when assessing WIP.",
+      "explanation": "Hidden unfinished tasks distort capacity signals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "active-wip"
+      ]
+    },
+    {
+      "question": "A team wants to improve active wip. What principle should guide its next action?",
+      "answer": "Count started but not finished work when assessing WIP.",
+      "explanation": "Hidden unfinished tasks distort capacity signals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "active-wip"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about active wip, what should practitioners emphasize?",
+      "answer": "Count started but not finished work when assessing WIP.",
+      "explanation": "Hidden unfinished tasks distort capacity signals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "active-wip"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding active wip?",
+      "answer": "Count started but not finished work when assessing WIP.",
+      "explanation": "Hidden unfinished tasks distort capacity signals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "active-wip"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for active wip?",
+      "answer": "Count started but not finished work when assessing WIP.",
+      "explanation": "Hidden unfinished tasks distort capacity signals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "active-wip"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to work item age in professional Scrum practice?",
+      "answer": "Monitor elapsed time since a started item began.",
+      "explanation": "Aging items help identify risk before completion.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-age"
+      ]
+    },
+    {
+      "question": "A team wants to improve work item age. What principle should guide its next action?",
+      "answer": "Monitor elapsed time since a started item began.",
+      "explanation": "Aging items help identify risk before completion.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-age"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about work item age, what should practitioners emphasize?",
+      "answer": "Monitor elapsed time since a started item began.",
+      "explanation": "Aging items help identify risk before completion.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-age"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding work item age?",
+      "answer": "Monitor elapsed time since a started item began.",
+      "explanation": "Aging items help identify risk before completion.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-age"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for work item age?",
+      "answer": "Monitor elapsed time since a started item began.",
+      "explanation": "Aging items help identify risk before completion.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-age"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to cycle time in professional Scrum practice?",
+      "answer": "Measure elapsed time from work-item start to finish using consistent workflow boundaries.",
+      "explanation": "Cycle time describes completed work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time"
+      ]
+    },
+    {
+      "question": "A team wants to improve cycle time. What principle should guide its next action?",
+      "answer": "Measure elapsed time from work-item start to finish using consistent workflow boundaries.",
+      "explanation": "Cycle time describes completed work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about cycle time, what should practitioners emphasize?",
+      "answer": "Measure elapsed time from work-item start to finish using consistent workflow boundaries.",
+      "explanation": "Cycle time describes completed work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding cycle time?",
+      "answer": "Measure elapsed time from work-item start to finish using consistent workflow boundaries.",
+      "explanation": "Cycle time describes completed work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for cycle time?",
+      "answer": "Measure elapsed time from work-item start to finish using consistent workflow boundaries.",
+      "explanation": "Cycle time describes completed work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to throughput in professional Scrum practice?",
+      "answer": "Count items finished per unit of time.",
+      "explanation": "Throughput is an observed flow measure, not a points estimate.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput"
+      ]
+    },
+    {
+      "question": "A team wants to improve throughput. What principle should guide its next action?",
+      "answer": "Count items finished per unit of time.",
+      "explanation": "Throughput is an observed flow measure, not a points estimate.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about throughput, what should practitioners emphasize?",
+      "answer": "Count items finished per unit of time.",
+      "explanation": "Throughput is an observed flow measure, not a points estimate.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding throughput?",
+      "answer": "Count items finished per unit of time.",
+      "explanation": "Throughput is an observed flow measure, not a points estimate.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for throughput?",
+      "answer": "Count items finished per unit of time.",
+      "explanation": "Throughput is an observed flow measure, not a points estimate.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to service level expectation in professional Scrum practice?",
+      "answer": "Use a probabilistic expectation for how long work usually takes.",
+      "explanation": "An SLE guides forecasting; it is not a guarantee.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "service-level-expectation"
+      ]
+    },
+    {
+      "question": "A team wants to improve service level expectation. What principle should guide its next action?",
+      "answer": "Use a probabilistic expectation for how long work usually takes.",
+      "explanation": "An SLE guides forecasting; it is not a guarantee.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "service-level-expectation"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about service level expectation, what should practitioners emphasize?",
+      "answer": "Use a probabilistic expectation for how long work usually takes.",
+      "explanation": "An SLE guides forecasting; it is not a guarantee.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "service-level-expectation"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding service level expectation?",
+      "answer": "Use a probabilistic expectation for how long work usually takes.",
+      "explanation": "An SLE guides forecasting; it is not a guarantee.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "service-level-expectation"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for service level expectation?",
+      "answer": "Use a probabilistic expectation for how long work usually takes.",
+      "explanation": "An SLE guides forecasting; it is not a guarantee.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "service-level-expectation"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to explicit policies in professional Scrum practice?",
+      "answer": "Document clear entry, exit, pull, and WIP rules for workflow states.",
+      "explanation": "Explicit agreements enable inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "explicit-policies"
+      ]
+    },
+    {
+      "question": "A team wants to improve explicit policies. What principle should guide its next action?",
+      "answer": "Document clear entry, exit, pull, and WIP rules for workflow states.",
+      "explanation": "Explicit agreements enable inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "explicit-policies"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about explicit policies, what should practitioners emphasize?",
+      "answer": "Document clear entry, exit, pull, and WIP rules for workflow states.",
+      "explanation": "Explicit agreements enable inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "explicit-policies"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding explicit policies?",
+      "answer": "Document clear entry, exit, pull, and WIP rules for workflow states.",
+      "explanation": "Explicit agreements enable inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "explicit-policies"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for explicit policies?",
+      "answer": "Document clear entry, exit, pull, and WIP rules for workflow states.",
+      "explanation": "Explicit agreements enable inspection and adaptation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "explicit-policies"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to pull system in professional Scrum practice?",
+      "answer": "Start new work only when capacity exists according to agreed policies.",
+      "explanation": "Pull reduces excessive work in progress.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "pull-system"
+      ]
+    },
+    {
+      "question": "A team wants to improve pull system. What principle should guide its next action?",
+      "answer": "Start new work only when capacity exists according to agreed policies.",
+      "explanation": "Pull reduces excessive work in progress.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "pull-system"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about pull system, what should practitioners emphasize?",
+      "answer": "Start new work only when capacity exists according to agreed policies.",
+      "explanation": "Pull reduces excessive work in progress.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "pull-system"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding pull system?",
+      "answer": "Start new work only when capacity exists according to agreed policies.",
+      "explanation": "Pull reduces excessive work in progress.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "pull-system"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for pull system?",
+      "answer": "Start new work only when capacity exists according to agreed policies.",
+      "explanation": "Pull reduces excessive work in progress.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "pull-system"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to cumulative flow diagram in professional Scrum practice?",
+      "answer": "Use cumulative flow areas to see throughput, WIP, and potential bottlenecks over time.",
+      "explanation": "Widening bands can reveal accumulating work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cumulative-flow-diagram"
+      ]
+    },
+    {
+      "question": "A team wants to improve cumulative flow diagram. What principle should guide its next action?",
+      "answer": "Use cumulative flow areas to see throughput, WIP, and potential bottlenecks over time.",
+      "explanation": "Widening bands can reveal accumulating work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cumulative-flow-diagram"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about cumulative flow diagram, what should practitioners emphasize?",
+      "answer": "Use cumulative flow areas to see throughput, WIP, and potential bottlenecks over time.",
+      "explanation": "Widening bands can reveal accumulating work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cumulative-flow-diagram"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding cumulative flow diagram?",
+      "answer": "Use cumulative flow areas to see throughput, WIP, and potential bottlenecks over time.",
+      "explanation": "Widening bands can reveal accumulating work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cumulative-flow-diagram"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for cumulative flow diagram?",
+      "answer": "Use cumulative flow areas to see throughput, WIP, and potential bottlenecks over time.",
+      "explanation": "Widening bands can reveal accumulating work.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cumulative-flow-diagram"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to little law caution in professional Scrum practice?",
+      "answer": "Relate average WIP, throughput, and cycle time when assumptions are appropriate.",
+      "explanation": "Stable systems make this relationship more useful.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "little-law-caution"
+      ]
+    },
+    {
+      "question": "A team wants to improve little law caution. What principle should guide its next action?",
+      "answer": "Relate average WIP, throughput, and cycle time when assumptions are appropriate.",
+      "explanation": "Stable systems make this relationship more useful.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "little-law-caution"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about little law caution, what should practitioners emphasize?",
+      "answer": "Relate average WIP, throughput, and cycle time when assumptions are appropriate.",
+      "explanation": "Stable systems make this relationship more useful.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "little-law-caution"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding little law caution?",
+      "answer": "Relate average WIP, throughput, and cycle time when assumptions are appropriate.",
+      "explanation": "Stable systems make this relationship more useful.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "little-law-caution"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for little law caution?",
+      "answer": "Relate average WIP, throughput, and cycle time when assumptions are appropriate.",
+      "explanation": "Stable systems make this relationship more useful.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "little-law-caution"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to blocked item visibility in professional Scrum practice?",
+      "answer": "Mark blocked work and address its cause promptly.",
+      "explanation": "Ignoring blockers hides flow risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "blocked-item-visibility"
+      ]
+    },
+    {
+      "question": "A team wants to improve blocked item visibility. What principle should guide its next action?",
+      "answer": "Mark blocked work and address its cause promptly.",
+      "explanation": "Ignoring blockers hides flow risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "blocked-item-visibility"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about blocked item visibility, what should practitioners emphasize?",
+      "answer": "Mark blocked work and address its cause promptly.",
+      "explanation": "Ignoring blockers hides flow risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "blocked-item-visibility"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding blocked item visibility?",
+      "answer": "Mark blocked work and address its cause promptly.",
+      "explanation": "Ignoring blockers hides flow risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "blocked-item-visibility"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for blocked item visibility?",
+      "answer": "Mark blocked work and address its cause promptly.",
+      "explanation": "Ignoring blockers hides flow risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "blocked-item-visibility"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to flow efficiency in professional Scrum practice?",
+      "answer": "Contrast active work time with total elapsed time to expose waiting.",
+      "explanation": "Waiting often dominates cycle time.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-efficiency"
+      ]
+    },
+    {
+      "question": "A team wants to improve flow efficiency. What principle should guide its next action?",
+      "answer": "Contrast active work time with total elapsed time to expose waiting.",
+      "explanation": "Waiting often dominates cycle time.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-efficiency"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about flow efficiency, what should practitioners emphasize?",
+      "answer": "Contrast active work time with total elapsed time to expose waiting.",
+      "explanation": "Waiting often dominates cycle time.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-efficiency"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding flow efficiency?",
+      "answer": "Contrast active work time with total elapsed time to expose waiting.",
+      "explanation": "Waiting often dominates cycle time.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-efficiency"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for flow efficiency?",
+      "answer": "Contrast active work time with total elapsed time to expose waiting.",
+      "explanation": "Waiting often dominates cycle time.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-efficiency"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to batch size in professional Scrum practice?",
+      "answer": "Prefer smaller valuable work items to reduce delay and feedback latency.",
+      "explanation": "Large batches accumulate risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "batch-size"
+      ]
+    },
+    {
+      "question": "A team wants to improve batch size. What principle should guide its next action?",
+      "answer": "Prefer smaller valuable work items to reduce delay and feedback latency.",
+      "explanation": "Large batches accumulate risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "batch-size"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about batch size, what should practitioners emphasize?",
+      "answer": "Prefer smaller valuable work items to reduce delay and feedback latency.",
+      "explanation": "Large batches accumulate risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "batch-size"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding batch size?",
+      "answer": "Prefer smaller valuable work items to reduce delay and feedback latency.",
+      "explanation": "Large batches accumulate risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "batch-size"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for batch size?",
+      "answer": "Prefer smaller valuable work items to reduce delay and feedback latency.",
+      "explanation": "Large batches accumulate risk.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "batch-size"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to swarming in professional Scrum practice?",
+      "answer": "Collaborate to finish aging high-value items instead of starting more work.",
+      "explanation": "Swarming lowers WIP and supports Sprint Goals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "swarming"
+      ]
+    },
+    {
+      "question": "A team wants to improve swarming. What principle should guide its next action?",
+      "answer": "Collaborate to finish aging high-value items instead of starting more work.",
+      "explanation": "Swarming lowers WIP and supports Sprint Goals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "swarming"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about swarming, what should practitioners emphasize?",
+      "answer": "Collaborate to finish aging high-value items instead of starting more work.",
+      "explanation": "Swarming lowers WIP and supports Sprint Goals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "swarming"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding swarming?",
+      "answer": "Collaborate to finish aging high-value items instead of starting more work.",
+      "explanation": "Swarming lowers WIP and supports Sprint Goals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "swarming"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for swarming?",
+      "answer": "Collaborate to finish aging high-value items instead of starting more work.",
+      "explanation": "Swarming lowers WIP and supports Sprint Goals.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "swarming"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint goal with kanban in professional Scrum practice?",
+      "answer": "Use flow practices to support, not replace, commitment to the Sprint Goal.",
+      "explanation": "Good flow is a means to create value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-goal-with-kanban"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint goal with kanban. What principle should guide its next action?",
+      "answer": "Use flow practices to support, not replace, commitment to the Sprint Goal.",
+      "explanation": "Good flow is a means to create value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-goal-with-kanban"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint goal with kanban, what should practitioners emphasize?",
+      "answer": "Use flow practices to support, not replace, commitment to the Sprint Goal.",
+      "explanation": "Good flow is a means to create value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-goal-with-kanban"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint goal with kanban?",
+      "answer": "Use flow practices to support, not replace, commitment to the Sprint Goal.",
+      "explanation": "Good flow is a means to create value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-goal-with-kanban"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint goal with kanban?",
+      "answer": "Use flow practices to support, not replace, commitment to the Sprint Goal.",
+      "explanation": "Good flow is a means to create value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-goal-with-kanban"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to daily scrum flow focus in professional Scrum practice?",
+      "answer": "Discuss blocked and aging work and adapt the plan toward the Sprint Goal.",
+      "explanation": "The Daily Scrum is not limited to individual status updates.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "daily-scrum-flow-focus"
+      ]
+    },
+    {
+      "question": "A team wants to improve daily scrum flow focus. What principle should guide its next action?",
+      "answer": "Discuss blocked and aging work and adapt the plan toward the Sprint Goal.",
+      "explanation": "The Daily Scrum is not limited to individual status updates.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "daily-scrum-flow-focus"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about daily scrum flow focus, what should practitioners emphasize?",
+      "answer": "Discuss blocked and aging work and adapt the plan toward the Sprint Goal.",
+      "explanation": "The Daily Scrum is not limited to individual status updates.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "daily-scrum-flow-focus"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding daily scrum flow focus?",
+      "answer": "Discuss blocked and aging work and adapt the plan toward the Sprint Goal.",
+      "explanation": "The Daily Scrum is not limited to individual status updates.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "daily-scrum-flow-focus"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for daily scrum flow focus?",
+      "answer": "Discuss blocked and aging work and adapt the plan toward the Sprint Goal.",
+      "explanation": "The Daily Scrum is not limited to individual status updates.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "daily-scrum-flow-focus"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint planning flow evidence in professional Scrum practice?",
+      "answer": "Use historical throughput and cycle time to inform realistic Sprint forecasts.",
+      "explanation": "Evidence improves planning without removing uncertainty.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-planning-flow-evidence"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint planning flow evidence. What principle should guide its next action?",
+      "answer": "Use historical throughput and cycle time to inform realistic Sprint forecasts.",
+      "explanation": "Evidence improves planning without removing uncertainty.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-planning-flow-evidence"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint planning flow evidence, what should practitioners emphasize?",
+      "answer": "Use historical throughput and cycle time to inform realistic Sprint forecasts.",
+      "explanation": "Evidence improves planning without removing uncertainty.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-planning-flow-evidence"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint planning flow evidence?",
+      "answer": "Use historical throughput and cycle time to inform realistic Sprint forecasts.",
+      "explanation": "Evidence improves planning without removing uncertainty.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-planning-flow-evidence"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint planning flow evidence?",
+      "answer": "Use historical throughput and cycle time to inform realistic Sprint forecasts.",
+      "explanation": "Evidence improves planning without removing uncertainty.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-planning-flow-evidence"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint review flow learning in professional Scrum practice?",
+      "answer": "Inspect outcomes and flow data together to guide the next decisions.",
+      "explanation": "Flow measures support, but do not define, value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-review-flow-learning"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint review flow learning. What principle should guide its next action?",
+      "answer": "Inspect outcomes and flow data together to guide the next decisions.",
+      "explanation": "Flow measures support, but do not define, value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-review-flow-learning"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint review flow learning, what should practitioners emphasize?",
+      "answer": "Inspect outcomes and flow data together to guide the next decisions.",
+      "explanation": "Flow measures support, but do not define, value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-review-flow-learning"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint review flow learning?",
+      "answer": "Inspect outcomes and flow data together to guide the next decisions.",
+      "explanation": "Flow measures support, but do not define, value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-review-flow-learning"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint review flow learning?",
+      "answer": "Inspect outcomes and flow data together to guide the next decisions.",
+      "explanation": "Flow measures support, but do not define, value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-review-flow-learning"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to retrospective flow policy changes in professional Scrum practice?",
+      "answer": "Experiment with WIP limits and workflow policies based on observed patterns.",
+      "explanation": "Policies should evolve through empirical inspection.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "retrospective-flow-policy-changes"
+      ]
+    },
+    {
+      "question": "A team wants to improve retrospective flow policy changes. What principle should guide its next action?",
+      "answer": "Experiment with WIP limits and workflow policies based on observed patterns.",
+      "explanation": "Policies should evolve through empirical inspection.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "retrospective-flow-policy-changes"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about retrospective flow policy changes, what should practitioners emphasize?",
+      "answer": "Experiment with WIP limits and workflow policies based on observed patterns.",
+      "explanation": "Policies should evolve through empirical inspection.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "retrospective-flow-policy-changes"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding retrospective flow policy changes?",
+      "answer": "Experiment with WIP limits and workflow policies based on observed patterns.",
+      "explanation": "Policies should evolve through empirical inspection.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "retrospective-flow-policy-changes"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for retrospective flow policy changes?",
+      "answer": "Experiment with WIP limits and workflow policies based on observed patterns.",
+      "explanation": "Policies should evolve through empirical inspection.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "retrospective-flow-policy-changes"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to sprint backlog visualization in professional Scrum practice?",
+      "answer": "Make Sprint Goal, work states, and flow policies visible in one adaptable plan.",
+      "explanation": "Visualization should remain owned by Developers.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-backlog-visualization"
+      ]
+    },
+    {
+      "question": "A team wants to improve sprint backlog visualization. What principle should guide its next action?",
+      "answer": "Make Sprint Goal, work states, and flow policies visible in one adaptable plan.",
+      "explanation": "Visualization should remain owned by Developers.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-backlog-visualization"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about sprint backlog visualization, what should practitioners emphasize?",
+      "answer": "Make Sprint Goal, work states, and flow policies visible in one adaptable plan.",
+      "explanation": "Visualization should remain owned by Developers.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-backlog-visualization"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding sprint backlog visualization?",
+      "answer": "Make Sprint Goal, work states, and flow policies visible in one adaptable plan.",
+      "explanation": "Visualization should remain owned by Developers.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-backlog-visualization"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for sprint backlog visualization?",
+      "answer": "Make Sprint Goal, work states, and flow policies visible in one adaptable plan.",
+      "explanation": "Visualization should remain owned by Developers.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "sprint-backlog-visualization"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to aging work intervention in professional Scrum practice?",
+      "answer": "Investigate stalled work rather than waiting until it violates historical expectations.",
+      "explanation": "Early action can prevent long delays.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "aging-work-intervention"
+      ]
+    },
+    {
+      "question": "A team wants to improve aging work intervention. What principle should guide its next action?",
+      "answer": "Investigate stalled work rather than waiting until it violates historical expectations.",
+      "explanation": "Early action can prevent long delays.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "aging-work-intervention"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about aging work intervention, what should practitioners emphasize?",
+      "answer": "Investigate stalled work rather than waiting until it violates historical expectations.",
+      "explanation": "Early action can prevent long delays.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "aging-work-intervention"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding aging work intervention?",
+      "answer": "Investigate stalled work rather than waiting until it violates historical expectations.",
+      "explanation": "Early action can prevent long delays.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "aging-work-intervention"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for aging work intervention?",
+      "answer": "Investigate stalled work rather than waiting until it violates historical expectations.",
+      "explanation": "Early action can prevent long delays.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "aging-work-intervention"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to percentile forecast in professional Scrum practice?",
+      "answer": "Use observed cycle-time percentiles to communicate likelihoods instead of precise promises.",
+      "explanation": "Probabilistic language reflects variation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "percentile-forecast"
+      ]
+    },
+    {
+      "question": "A team wants to improve percentile forecast. What principle should guide its next action?",
+      "answer": "Use observed cycle-time percentiles to communicate likelihoods instead of precise promises.",
+      "explanation": "Probabilistic language reflects variation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "percentile-forecast"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about percentile forecast, what should practitioners emphasize?",
+      "answer": "Use observed cycle-time percentiles to communicate likelihoods instead of precise promises.",
+      "explanation": "Probabilistic language reflects variation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "percentile-forecast"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding percentile forecast?",
+      "answer": "Use observed cycle-time percentiles to communicate likelihoods instead of precise promises.",
+      "explanation": "Probabilistic language reflects variation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "percentile-forecast"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for percentile forecast?",
+      "answer": "Use observed cycle-time percentiles to communicate likelihoods instead of precise promises.",
+      "explanation": "Probabilistic language reflects variation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "percentile-forecast"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to work item splitting in professional Scrum practice?",
+      "answer": "Split large work into smaller meaningful items to improve flow.",
+      "explanation": "Tiny technical tasks alone may not deliver user value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-splitting"
+      ]
+    },
+    {
+      "question": "A team wants to improve work item splitting. What principle should guide its next action?",
+      "answer": "Split large work into smaller meaningful items to improve flow.",
+      "explanation": "Tiny technical tasks alone may not deliver user value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-splitting"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about work item splitting, what should practitioners emphasize?",
+      "answer": "Split large work into smaller meaningful items to improve flow.",
+      "explanation": "Tiny technical tasks alone may not deliver user value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-splitting"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding work item splitting?",
+      "answer": "Split large work into smaller meaningful items to improve flow.",
+      "explanation": "Tiny technical tasks alone may not deliver user value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-splitting"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for work item splitting?",
+      "answer": "Split large work into smaller meaningful items to improve flow.",
+      "explanation": "Tiny technical tasks alone may not deliver user value.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "work-item-splitting"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to bottleneck identification in professional Scrum practice?",
+      "answer": "Inspect queue growth and stage durations to locate constraints.",
+      "explanation": "Optimizing the wrong stage can worsen the system.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "bottleneck-identification"
+      ]
+    },
+    {
+      "question": "A team wants to improve bottleneck identification. What principle should guide its next action?",
+      "answer": "Inspect queue growth and stage durations to locate constraints.",
+      "explanation": "Optimizing the wrong stage can worsen the system.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "bottleneck-identification"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about bottleneck identification, what should practitioners emphasize?",
+      "answer": "Inspect queue growth and stage durations to locate constraints.",
+      "explanation": "Optimizing the wrong stage can worsen the system.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "bottleneck-identification"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding bottleneck identification?",
+      "answer": "Inspect queue growth and stage durations to locate constraints.",
+      "explanation": "Optimizing the wrong stage can worsen the system.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "bottleneck-identification"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for bottleneck identification?",
+      "answer": "Inspect queue growth and stage durations to locate constraints.",
+      "explanation": "Optimizing the wrong stage can worsen the system.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "bottleneck-identification"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to wip limit violation in professional Scrum practice?",
+      "answer": "Make violations explicit and decide collaboratively whether to finish or address an exception.",
+      "explanation": "Silent overrides remove learning opportunities.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "wip-limit-violation"
+      ]
+    },
+    {
+      "question": "A team wants to improve wip limit violation. What principle should guide its next action?",
+      "answer": "Make violations explicit and decide collaboratively whether to finish or address an exception.",
+      "explanation": "Silent overrides remove learning opportunities.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "wip-limit-violation"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about wip limit violation, what should practitioners emphasize?",
+      "answer": "Make violations explicit and decide collaboratively whether to finish or address an exception.",
+      "explanation": "Silent overrides remove learning opportunities.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "wip-limit-violation"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding wip limit violation?",
+      "answer": "Make violations explicit and decide collaboratively whether to finish or address an exception.",
+      "explanation": "Silent overrides remove learning opportunities.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "wip-limit-violation"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for wip limit violation?",
+      "answer": "Make violations explicit and decide collaboratively whether to finish or address an exception.",
+      "explanation": "Silent overrides remove learning opportunities.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "wip-limit-violation"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to expedite policies in professional Scrum practice?",
+      "answer": "Define how urgent items enter and how their impact on other work is handled.",
+      "explanation": "Uncontrolled expedites undermine predictability.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "expedite-policies"
+      ]
+    },
+    {
+      "question": "A team wants to improve expedite policies. What principle should guide its next action?",
+      "answer": "Define how urgent items enter and how their impact on other work is handled.",
+      "explanation": "Uncontrolled expedites undermine predictability.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "expedite-policies"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about expedite policies, what should practitioners emphasize?",
+      "answer": "Define how urgent items enter and how their impact on other work is handled.",
+      "explanation": "Uncontrolled expedites undermine predictability.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "expedite-policies"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding expedite policies?",
+      "answer": "Define how urgent items enter and how their impact on other work is handled.",
+      "explanation": "Uncontrolled expedites undermine predictability.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "expedite-policies"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for expedite policies?",
+      "answer": "Define how urgent items enter and how their impact on other work is handled.",
+      "explanation": "Uncontrolled expedites undermine predictability.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "expedite-policies"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to throughput misuse in professional Scrum practice?",
+      "answer": "Avoid comparing teams solely on item counts because item sizes and context differ.",
+      "explanation": "Flow metrics need interpretation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput-misuse"
+      ]
+    },
+    {
+      "question": "A team wants to improve throughput misuse. What principle should guide its next action?",
+      "answer": "Avoid comparing teams solely on item counts because item sizes and context differ.",
+      "explanation": "Flow metrics need interpretation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput-misuse"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about throughput misuse, what should practitioners emphasize?",
+      "answer": "Avoid comparing teams solely on item counts because item sizes and context differ.",
+      "explanation": "Flow metrics need interpretation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput-misuse"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding throughput misuse?",
+      "answer": "Avoid comparing teams solely on item counts because item sizes and context differ.",
+      "explanation": "Flow metrics need interpretation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput-misuse"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for throughput misuse?",
+      "answer": "Avoid comparing teams solely on item counts because item sizes and context differ.",
+      "explanation": "Flow metrics need interpretation.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "throughput-misuse"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to cycle time scatterplot in professional Scrum practice?",
+      "answer": "Plot individual item durations to see variability and outliers.",
+      "explanation": "Averages alone can hide long tails.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time-scatterplot"
+      ]
+    },
+    {
+      "question": "A team wants to improve cycle time scatterplot. What principle should guide its next action?",
+      "answer": "Plot individual item durations to see variability and outliers.",
+      "explanation": "Averages alone can hide long tails.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time-scatterplot"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about cycle time scatterplot, what should practitioners emphasize?",
+      "answer": "Plot individual item durations to see variability and outliers.",
+      "explanation": "Averages alone can hide long tails.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time-scatterplot"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding cycle time scatterplot?",
+      "answer": "Plot individual item durations to see variability and outliers.",
+      "explanation": "Averages alone can hide long tails.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time-scatterplot"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for cycle time scatterplot?",
+      "answer": "Plot individual item durations to see variability and outliers.",
+      "explanation": "Averages alone can hide long tails.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "cycle-time-scatterplot"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to forecast uncertainty in professional Scrum practice?",
+      "answer": "Adjust forecasts as new delivery evidence arrives.",
+      "explanation": "Flow forecasts remain probabilistic.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "forecast-uncertainty"
+      ]
+    },
+    {
+      "question": "A team wants to improve forecast uncertainty. What principle should guide its next action?",
+      "answer": "Adjust forecasts as new delivery evidence arrives.",
+      "explanation": "Flow forecasts remain probabilistic.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "forecast-uncertainty"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about forecast uncertainty, what should practitioners emphasize?",
+      "answer": "Adjust forecasts as new delivery evidence arrives.",
+      "explanation": "Flow forecasts remain probabilistic.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "forecast-uncertainty"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding forecast uncertainty?",
+      "answer": "Adjust forecasts as new delivery evidence arrives.",
+      "explanation": "Flow forecasts remain probabilistic.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "forecast-uncertainty"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for forecast uncertainty?",
+      "answer": "Adjust forecasts as new delivery evidence arrives.",
+      "explanation": "Flow forecasts remain probabilistic.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "forecast-uncertainty"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to definition of workflow in professional Scrum practice?",
+      "answer": "Agree what work is tracked, where it starts and ends, and how it moves.",
+      "explanation": "Without boundaries, flow metrics become inconsistent.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "definition-of-workflow"
+      ]
+    },
+    {
+      "question": "A team wants to improve definition of workflow. What principle should guide its next action?",
+      "answer": "Agree what work is tracked, where it starts and ends, and how it moves.",
+      "explanation": "Without boundaries, flow metrics become inconsistent.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "definition-of-workflow"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about definition of workflow, what should practitioners emphasize?",
+      "answer": "Agree what work is tracked, where it starts and ends, and how it moves.",
+      "explanation": "Without boundaries, flow metrics become inconsistent.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "definition-of-workflow"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding definition of workflow?",
+      "answer": "Agree what work is tracked, where it starts and ends, and how it moves.",
+      "explanation": "Without boundaries, flow metrics become inconsistent.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "definition-of-workflow"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for definition of workflow?",
+      "answer": "Agree what work is tracked, where it starts and ends, and how it moves.",
+      "explanation": "Without boundaries, flow metrics become inconsistent.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "definition-of-workflow"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to waiting state in professional Scrum practice?",
+      "answer": "Represent meaningful queues and waiting explicitly in the workflow.",
+      "explanation": "Hidden wait masks bottlenecks.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "waiting-state"
+      ]
+    },
+    {
+      "question": "A team wants to improve waiting state. What principle should guide its next action?",
+      "answer": "Represent meaningful queues and waiting explicitly in the workflow.",
+      "explanation": "Hidden wait masks bottlenecks.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "waiting-state"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about waiting state, what should practitioners emphasize?",
+      "answer": "Represent meaningful queues and waiting explicitly in the workflow.",
+      "explanation": "Hidden wait masks bottlenecks.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "waiting-state"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding waiting state?",
+      "answer": "Represent meaningful queues and waiting explicitly in the workflow.",
+      "explanation": "Hidden wait masks bottlenecks.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "waiting-state"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for waiting state?",
+      "answer": "Represent meaningful queues and waiting explicitly in the workflow.",
+      "explanation": "Hidden wait masks bottlenecks.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "waiting-state"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to continuous improvement in professional Scrum practice?",
+      "answer": "Evolve flow policies based on experiments, not fixed universal WIP numbers.",
+      "explanation": "Kanban is empirical in use.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "A team wants to improve continuous improvement. What principle should guide its next action?",
+      "answer": "Evolve flow policies based on experiments, not fixed universal WIP numbers.",
+      "explanation": "Kanban is empirical in use.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about continuous improvement, what should practitioners emphasize?",
+      "answer": "Evolve flow policies based on experiments, not fixed universal WIP numbers.",
+      "explanation": "Kanban is empirical in use.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding continuous improvement?",
+      "answer": "Evolve flow policies based on experiments, not fixed universal WIP numbers.",
+      "explanation": "Kanban is empirical in use.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for continuous improvement?",
+      "answer": "Evolve flow policies based on experiments, not fixed universal WIP numbers.",
+      "explanation": "Kanban is empirical in use.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "continuous-improvement"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to kanban and definition of done in professional Scrum practice?",
+      "answer": "Do not change Scrum's quality commitment when optimizing flow.",
+      "explanation": "Faster delivery of unfinished work is not success.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-and-definition-of-done"
+      ]
+    },
+    {
+      "question": "A team wants to improve kanban and definition of done. What principle should guide its next action?",
+      "answer": "Do not change Scrum's quality commitment when optimizing flow.",
+      "explanation": "Faster delivery of unfinished work is not success.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-and-definition-of-done"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about kanban and definition of done, what should practitioners emphasize?",
+      "answer": "Do not change Scrum's quality commitment when optimizing flow.",
+      "explanation": "Faster delivery of unfinished work is not success.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-and-definition-of-done"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding kanban and definition of done?",
+      "answer": "Do not change Scrum's quality commitment when optimizing flow.",
+      "explanation": "Faster delivery of unfinished work is not success.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-and-definition-of-done"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for kanban and definition of done?",
+      "answer": "Do not change Scrum's quality commitment when optimizing flow.",
+      "explanation": "Faster delivery of unfinished work is not success.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "kanban-and-definition-of-done"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to flow versus resource utilization in professional Scrum practice?",
+      "answer": "Optimize total value delivered with low delay rather than keeping everyone busy.",
+      "explanation": "High utilization often creates queues.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-versus-resource-utilization"
+      ]
+    },
+    {
+      "question": "A team wants to improve flow versus resource utilization. What principle should guide its next action?",
+      "answer": "Optimize total value delivered with low delay rather than keeping everyone busy.",
+      "explanation": "High utilization often creates queues.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-versus-resource-utilization"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about flow versus resource utilization, what should practitioners emphasize?",
+      "answer": "Optimize total value delivered with low delay rather than keeping everyone busy.",
+      "explanation": "High utilization often creates queues.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-versus-resource-utilization"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding flow versus resource utilization?",
+      "answer": "Optimize total value delivered with low delay rather than keeping everyone busy.",
+      "explanation": "High utilization often creates queues.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-versus-resource-utilization"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for flow versus resource utilization?",
+      "answer": "Optimize total value delivered with low delay rather than keeping everyone busy.",
+      "explanation": "High utilization often creates queues.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-versus-resource-utilization"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to multiple service classes in professional Scrum practice?",
+      "answer": "Differentiate urgent and standard work with explicit transparent policies.",
+      "explanation": "Different classes create trade-offs and should be controlled.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "multiple-service-classes"
+      ]
+    },
+    {
+      "question": "A team wants to improve multiple service classes. What principle should guide its next action?",
+      "answer": "Differentiate urgent and standard work with explicit transparent policies.",
+      "explanation": "Different classes create trade-offs and should be controlled.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "multiple-service-classes"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about multiple service classes, what should practitioners emphasize?",
+      "answer": "Differentiate urgent and standard work with explicit transparent policies.",
+      "explanation": "Different classes create trade-offs and should be controlled.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "multiple-service-classes"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding multiple service classes?",
+      "answer": "Differentiate urgent and standard work with explicit transparent policies.",
+      "explanation": "Different classes create trade-offs and should be controlled.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "multiple-service-classes"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for multiple service classes?",
+      "answer": "Differentiate urgent and standard work with explicit transparent policies.",
+      "explanation": "Different classes create trade-offs and should be controlled.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "multiple-service-classes"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to team-owned policies in professional Scrum practice?",
+      "answer": "Have the Scrum Team inspect and agree flow rules rather than relying on unilateral external mandates.",
+      "explanation": "Self-management remains central.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "team-owned-policies"
+      ]
+    },
+    {
+      "question": "A team wants to improve team-owned policies. What principle should guide its next action?",
+      "answer": "Have the Scrum Team inspect and agree flow rules rather than relying on unilateral external mandates.",
+      "explanation": "Self-management remains central.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "team-owned-policies"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about team-owned policies, what should practitioners emphasize?",
+      "answer": "Have the Scrum Team inspect and agree flow rules rather than relying on unilateral external mandates.",
+      "explanation": "Self-management remains central.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "team-owned-policies"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding team-owned policies?",
+      "answer": "Have the Scrum Team inspect and agree flow rules rather than relying on unilateral external mandates.",
+      "explanation": "Self-management remains central.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "team-owned-policies"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for team-owned policies?",
+      "answer": "Have the Scrum Team inspect and agree flow rules rather than relying on unilateral external mandates.",
+      "explanation": "Self-management remains central.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "team-owned-policies"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to flow metrics interpretation in professional Scrum practice?",
+      "answer": "Read flow metrics together with context, quality, and customer value rather than as universal performance scores.",
+      "explanation": "Metrics inform discussion but cannot replace judgment.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-metrics-interpretation"
+      ]
+    },
+    {
+      "question": "A team wants to improve flow metrics interpretation. What principle should guide its next action?",
+      "answer": "Read flow metrics together with context, quality, and customer value rather than as universal performance scores.",
+      "explanation": "Metrics inform discussion but cannot replace judgment.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-metrics-interpretation"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about flow metrics interpretation, what should practitioners emphasize?",
+      "answer": "Read flow metrics together with context, quality, and customer value rather than as universal performance scores.",
+      "explanation": "Metrics inform discussion but cannot replace judgment.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-metrics-interpretation"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding flow metrics interpretation?",
+      "answer": "Read flow metrics together with context, quality, and customer value rather than as universal performance scores.",
+      "explanation": "Metrics inform discussion but cannot replace judgment.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-metrics-interpretation"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for flow metrics interpretation?",
+      "answer": "Read flow metrics together with context, quality, and customer value rather than as universal performance scores.",
+      "explanation": "Metrics inform discussion but cannot replace judgment.",
+      "language": "en",
+      "tags": [
+        "pski",
+        "flow-metrics-interpretation"
+      ]
+    }
+  ]
+}

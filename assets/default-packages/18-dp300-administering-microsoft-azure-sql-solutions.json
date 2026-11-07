@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "DP300 Administering Microsoft Azure SQL Solutions",
+  "cards": [
+    {
+      "question": "What is Azure SQL Database?",
+      "answer": "A managed relational database service that removes much of the database-server administration burden.",
+      "explanation": "A managed relational database service that removes much of the database-server administration burden. This is a core concept within azure sql database.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "azure-sql-database",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing azure sql database. What is Azure SQL Database?",
+      "answer": "A managed relational database service that removes much of the database-server administration burden.",
+      "explanation": "The correct consideration is: A managed relational database service that removes much of the database-server administration burden. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "azure-sql-database",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about azure sql database: What is Azure SQL Database?",
+      "answer": "A managed relational database service that removes much of the database-server administration burden.",
+      "explanation": "A managed relational database service that removes much of the database-server administration burden. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "azure-sql-database",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on azure sql database, answer the following: What is Azure SQL Database?",
+      "answer": "A managed relational database service that removes much of the database-server administration burden.",
+      "explanation": "A managed relational database service that removes much of the database-server administration burden. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "azure-sql-database",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is Azure SQL Managed Instance appropriate?",
+      "answer": "When applications need broad SQL Server compatibility with managed platform operations.",
+      "explanation": "When applications need broad SQL Server compatibility with managed platform operations. This is a core concept within sql managed instance.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-managed-instance",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing sql managed instance. When is Azure SQL Managed Instance appropriate?",
+      "answer": "When applications need broad SQL Server compatibility with managed platform operations.",
+      "explanation": "The correct consideration is: When applications need broad SQL Server compatibility with managed platform operations. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-managed-instance",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about sql managed instance: When is Azure SQL Managed Instance appropriate?",
+      "answer": "When applications need broad SQL Server compatibility with managed platform operations.",
+      "explanation": "When applications need broad SQL Server compatibility with managed platform operations. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-managed-instance",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on sql managed instance, answer the following: When is Azure SQL Managed Instance appropriate?",
+      "answer": "When applications need broad SQL Server compatibility with managed platform operations.",
+      "explanation": "When applications need broad SQL Server compatibility with managed platform operations. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-managed-instance",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is SQL Server on an Azure virtual machine useful?",
+      "answer": "When the workload requires operating-system and SQL Server instance-level control.",
+      "explanation": "When the workload requires operating-system and SQL Server instance-level control. This is a core concept within sql on azure vm.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-on-azure-vm",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing sql on azure vm. When is SQL Server on an Azure virtual machine useful?",
+      "answer": "When the workload requires operating-system and SQL Server instance-level control.",
+      "explanation": "The correct consideration is: When the workload requires operating-system and SQL Server instance-level control. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-on-azure-vm",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about sql on azure vm: When is SQL Server on an Azure virtual machine useful?",
+      "answer": "When the workload requires operating-system and SQL Server instance-level control.",
+      "explanation": "When the workload requires operating-system and SQL Server instance-level control. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-on-azure-vm",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on sql on azure vm, answer the following: When is SQL Server on an Azure virtual machine useful?",
+      "answer": "When the workload requires operating-system and SQL Server instance-level control.",
+      "explanation": "When the workload requires operating-system and SQL Server instance-level control. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-on-azure-vm",
+        "practice"
+      ]
+    },
+    {
+      "question": "What determines the Azure SQL deployment model?",
+      "answer": "Required compatibility, administrative control, availability, features, and budget.",
+      "explanation": "Required compatibility, administrative control, availability, features, and budget. This is a core concept within deployment choice.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "deployment-choice",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing deployment choice. What determines the Azure SQL deployment model?",
+      "answer": "Required compatibility, administrative control, availability, features, and budget.",
+      "explanation": "The correct consideration is: Required compatibility, administrative control, availability, features, and budget. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "deployment-choice",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about deployment choice: What determines the Azure SQL deployment model?",
+      "answer": "Required compatibility, administrative control, availability, features, and budget.",
+      "explanation": "Required compatibility, administrative control, availability, features, and budget. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "deployment-choice",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on deployment choice, answer the following: What determines the Azure SQL deployment model?",
+      "answer": "Required compatibility, administrative control, availability, features, and budget.",
+      "explanation": "Required compatibility, administrative control, availability, features, and budget. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "deployment-choice",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why evaluate Azure SQL service tiers?",
+      "answer": "They provide different performance, cost, scale, and availability characteristics.",
+      "explanation": "They provide different performance, cost, scale, and availability characteristics. This is a core concept within service tiers.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "service-tiers",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing service tiers. Why evaluate Azure SQL service tiers?",
+      "answer": "They provide different performance, cost, scale, and availability characteristics.",
+      "explanation": "The correct consideration is: They provide different performance, cost, scale, and availability characteristics. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "service-tiers",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about service tiers: Why evaluate Azure SQL service tiers?",
+      "answer": "They provide different performance, cost, scale, and availability characteristics.",
+      "explanation": "They provide different performance, cost, scale, and availability characteristics. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "service-tiers",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on service tiers, answer the following: Why evaluate Azure SQL service tiers?",
+      "answer": "They provide different performance, cost, scale, and availability characteristics.",
+      "explanation": "They provide different performance, cost, scale, and availability characteristics. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "service-tiers",
+        "practice"
+      ]
+    },
+    {
+      "question": "When does Azure SQL Database serverless help?",
+      "answer": "For intermittent workloads that benefit from automatic compute scaling and pause behavior where supported.",
+      "explanation": "For intermittent workloads that benefit from automatic compute scaling and pause behavior where supported. This is a core concept within serverless compute.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "serverless-compute",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing serverless compute. When does Azure SQL Database serverless help?",
+      "answer": "For intermittent workloads that benefit from automatic compute scaling and pause behavior where supported.",
+      "explanation": "The correct consideration is: For intermittent workloads that benefit from automatic compute scaling and pause behavior where supported. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "serverless-compute",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about serverless compute: When does Azure SQL Database serverless help?",
+      "answer": "For intermittent workloads that benefit from automatic compute scaling and pause behavior where supported.",
+      "explanation": "For intermittent workloads that benefit from automatic compute scaling and pause behavior where supported. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "serverless-compute",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on serverless compute, answer the following: When does Azure SQL Database serverless help?",
+      "answer": "For intermittent workloads that benefit from automatic compute scaling and pause behavior where supported.",
+      "explanation": "For intermittent workloads that benefit from automatic compute scaling and pause behavior where supported. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "serverless-compute",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does an Azure SQL elastic pool optimize?",
+      "answer": "Cost sharing across multiple databases with variable usage patterns.",
+      "explanation": "Cost sharing across multiple databases with variable usage patterns. This is a core concept within elastic pools.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "elastic-pools",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing elastic pools. What does an Azure SQL elastic pool optimize?",
+      "answer": "Cost sharing across multiple databases with variable usage patterns.",
+      "explanation": "The correct consideration is: Cost sharing across multiple databases with variable usage patterns. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "elastic-pools",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about elastic pools: What does an Azure SQL elastic pool optimize?",
+      "answer": "Cost sharing across multiple databases with variable usage patterns.",
+      "explanation": "Cost sharing across multiple databases with variable usage patterns. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "elastic-pools",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on elastic pools, answer the following: What does an Azure SQL elastic pool optimize?",
+      "answer": "Cost sharing across multiple databases with variable usage patterns.",
+      "explanation": "Cost sharing across multiple databases with variable usage patterns. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "elastic-pools",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is the purpose of automated backups in Azure SQL?",
+      "answer": "Enable supported point-in-time restoration and other recovery scenarios.",
+      "explanation": "Enable supported point-in-time restoration and other recovery scenarios. This is a core concept within managed backups.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "managed-backups",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing managed backups. What is the purpose of automated backups in Azure SQL?",
+      "answer": "Enable supported point-in-time restoration and other recovery scenarios.",
+      "explanation": "The correct consideration is: Enable supported point-in-time restoration and other recovery scenarios. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "managed-backups",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about managed backups: What is the purpose of automated backups in Azure SQL?",
+      "answer": "Enable supported point-in-time restoration and other recovery scenarios.",
+      "explanation": "Enable supported point-in-time restoration and other recovery scenarios. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "managed-backups",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on managed backups, answer the following: What is the purpose of automated backups in Azure SQL?",
+      "answer": "Enable supported point-in-time restoration and other recovery scenarios.",
+      "explanation": "Enable supported point-in-time restoration and other recovery scenarios. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "managed-backups",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does point-in-time restore achieve?",
+      "answer": "Restores a database to an eligible earlier moment within the configured retention window.",
+      "explanation": "Restores a database to an eligible earlier moment within the configured retention window. This is a core concept within pitr.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "pitr",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing pitr. What does point-in-time restore achieve?",
+      "answer": "Restores a database to an eligible earlier moment within the configured retention window.",
+      "explanation": "The correct consideration is: Restores a database to an eligible earlier moment within the configured retention window. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "pitr",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about pitr: What does point-in-time restore achieve?",
+      "answer": "Restores a database to an eligible earlier moment within the configured retention window.",
+      "explanation": "Restores a database to an eligible earlier moment within the configured retention window. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "pitr",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on pitr, answer the following: What does point-in-time restore achieve?",
+      "answer": "Restores a database to an eligible earlier moment within the configured retention window.",
+      "explanation": "Restores a database to an eligible earlier moment within the configured retention window. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "pitr",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why configure long-term backup retention?",
+      "answer": "To retain recovery points for extended compliance or business requirements.",
+      "explanation": "To retain recovery points for extended compliance or business requirements. This is a core concept within long-term retention.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "long-term-retention",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing long-term retention. Why configure long-term backup retention?",
+      "answer": "To retain recovery points for extended compliance or business requirements.",
+      "explanation": "The correct consideration is: To retain recovery points for extended compliance or business requirements. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "long-term-retention",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about long-term retention: Why configure long-term backup retention?",
+      "answer": "To retain recovery points for extended compliance or business requirements.",
+      "explanation": "To retain recovery points for extended compliance or business requirements. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "long-term-retention",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on long-term retention, answer the following: Why configure long-term backup retention?",
+      "answer": "To retain recovery points for extended compliance or business requirements.",
+      "explanation": "To retain recovery points for extended compliance or business requirements. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "long-term-retention",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does active geo-replication provide for Azure SQL Database?",
+      "answer": "Asynchronous replication to readable secondary databases in another region.",
+      "explanation": "Asynchronous replication to readable secondary databases in another region. This is a core concept within geo-replication.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "geo-replication",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing geo-replication. What does active geo-replication provide for Azure SQL Database?",
+      "answer": "Asynchronous replication to readable secondary databases in another region.",
+      "explanation": "The correct consideration is: Asynchronous replication to readable secondary databases in another region. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "geo-replication",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about geo-replication: What does active geo-replication provide for Azure SQL Database?",
+      "answer": "Asynchronous replication to readable secondary databases in another region.",
+      "explanation": "Asynchronous replication to readable secondary databases in another region. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "geo-replication",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on geo-replication, answer the following: What does active geo-replication provide for Azure SQL Database?",
+      "answer": "Asynchronous replication to readable secondary databases in another region.",
+      "explanation": "Asynchronous replication to readable secondary databases in another region. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "geo-replication",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does a failover group simplify?",
+      "answer": "Managing failover and stable connection endpoints across supported SQL resources.",
+      "explanation": "Managing failover and stable connection endpoints across supported SQL resources. This is a core concept within failover groups.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "failover-groups",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing failover groups. What does a failover group simplify?",
+      "answer": "Managing failover and stable connection endpoints across supported SQL resources.",
+      "explanation": "The correct consideration is: Managing failover and stable connection endpoints across supported SQL resources. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "failover-groups",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about failover groups: What does a failover group simplify?",
+      "answer": "Managing failover and stable connection endpoints across supported SQL resources.",
+      "explanation": "Managing failover and stable connection endpoints across supported SQL resources. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "failover-groups",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on failover groups, answer the following: What does a failover group simplify?",
+      "answer": "Managing failover and stable connection endpoints across supported SQL resources.",
+      "explanation": "Managing failover and stable connection endpoints across supported SQL resources. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "failover-groups",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does RPO represent for databases?",
+      "answer": "The maximum tolerated time-based data loss after failure.",
+      "explanation": "The maximum tolerated time-based data loss after failure. This is a core concept within rpo.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "rpo",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing rpo. What does RPO represent for databases?",
+      "answer": "The maximum tolerated time-based data loss after failure.",
+      "explanation": "The correct consideration is: The maximum tolerated time-based data loss after failure. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "rpo",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about rpo: What does RPO represent for databases?",
+      "answer": "The maximum tolerated time-based data loss after failure.",
+      "explanation": "The maximum tolerated time-based data loss after failure. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "rpo",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on rpo, answer the following: What does RPO represent for databases?",
+      "answer": "The maximum tolerated time-based data loss after failure.",
+      "explanation": "The maximum tolerated time-based data loss after failure. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "rpo",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does RTO represent for databases?",
+      "answer": "The target time needed to resume service after an outage.",
+      "explanation": "The target time needed to resume service after an outage. This is a core concept within rto.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "rto",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing rto. What does RTO represent for databases?",
+      "answer": "The target time needed to resume service after an outage.",
+      "explanation": "The correct consideration is: The target time needed to resume service after an outage. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "rto",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about rto: What does RTO represent for databases?",
+      "answer": "The target time needed to resume service after an outage.",
+      "explanation": "The target time needed to resume service after an outage. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "rto",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on rto, answer the following: What does RTO represent for databases?",
+      "answer": "The target time needed to resume service after an outage.",
+      "explanation": "The target time needed to resume service after an outage. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "rto",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does transparent data encryption protect?",
+      "answer": "Database files and backups at rest using encryption.",
+      "explanation": "Database files and backups at rest using encryption. This is a core concept within tde.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "tde",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing tde. What does transparent data encryption protect?",
+      "answer": "Database files and backups at rest using encryption.",
+      "explanation": "The correct consideration is: Database files and backups at rest using encryption. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "tde",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about tde: What does transparent data encryption protect?",
+      "answer": "Database files and backups at rest using encryption.",
+      "explanation": "Database files and backups at rest using encryption. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "tde",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on tde, answer the following: What does transparent data encryption protect?",
+      "answer": "Database files and backups at rest using encryption.",
+      "explanation": "Database files and backups at rest using encryption. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "tde",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why require encrypted connections to Azure SQL?",
+      "answer": "To protect data in transit between applications and database services.",
+      "explanation": "To protect data in transit between applications and database services. This is a core concept within tls.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "tls",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing tls. Why require encrypted connections to Azure SQL?",
+      "answer": "To protect data in transit between applications and database services.",
+      "explanation": "The correct consideration is: To protect data in transit between applications and database services. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "tls",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about tls: Why require encrypted connections to Azure SQL?",
+      "answer": "To protect data in transit between applications and database services.",
+      "explanation": "To protect data in transit between applications and database services. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "tls",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on tls, answer the following: Why require encrypted connections to Azure SQL?",
+      "answer": "To protect data in transit between applications and database services.",
+      "explanation": "To protect data in transit between applications and database services. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "tls",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does Microsoft Entra authentication enable for Azure SQL?",
+      "answer": "Identity-based database authentication using managed enterprise identities.",
+      "explanation": "Identity-based database authentication using managed enterprise identities. This is a core concept within microsoft entra authentication.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "microsoft-entra-authentication",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing microsoft entra authentication. What does Microsoft Entra authentication enable for Azure SQL?",
+      "answer": "Identity-based database authentication using managed enterprise identities.",
+      "explanation": "The correct consideration is: Identity-based database authentication using managed enterprise identities. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "microsoft-entra-authentication",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about microsoft entra authentication: What does Microsoft Entra authentication enable for Azure SQL?",
+      "answer": "Identity-based database authentication using managed enterprise identities.",
+      "explanation": "Identity-based database authentication using managed enterprise identities. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "microsoft-entra-authentication",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on microsoft entra authentication, answer the following: What does Microsoft Entra authentication enable for Azure SQL?",
+      "answer": "Identity-based database authentication using managed enterprise identities.",
+      "explanation": "Identity-based database authentication using managed enterprise identities. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "microsoft-entra-authentication",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why use a managed identity for an application connecting to Azure SQL?",
+      "answer": "To avoid embedding long-lived database passwords in application configuration.",
+      "explanation": "To avoid embedding long-lived database passwords in application configuration. This is a core concept within managed identity.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "managed-identity",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing managed identity. Why use a managed identity for an application connecting to Azure SQL?",
+      "answer": "To avoid embedding long-lived database passwords in application configuration.",
+      "explanation": "The correct consideration is: To avoid embedding long-lived database passwords in application configuration. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "managed-identity",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about managed identity: Why use a managed identity for an application connecting to Azure SQL?",
+      "answer": "To avoid embedding long-lived database passwords in application configuration.",
+      "explanation": "To avoid embedding long-lived database passwords in application configuration. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "managed-identity",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on managed identity, answer the following: Why use a managed identity for an application connecting to Azure SQL?",
+      "answer": "To avoid embedding long-lived database passwords in application configuration.",
+      "explanation": "To avoid embedding long-lived database passwords in application configuration. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "managed-identity",
+        "practice"
+      ]
+    },
+    {
+      "question": "How should application database permissions be granted?",
+      "answer": "Grant only the permissions required for the application's actual operations.",
+      "explanation": "Grant only the permissions required for the application's actual operations. This is a core concept within least privilege.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "least-privilege",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing least privilege. How should application database permissions be granted?",
+      "answer": "Grant only the permissions required for the application's actual operations.",
+      "explanation": "The correct consideration is: Grant only the permissions required for the application's actual operations. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "least-privilege",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about least privilege: How should application database permissions be granted?",
+      "answer": "Grant only the permissions required for the application's actual operations.",
+      "explanation": "Grant only the permissions required for the application's actual operations. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "least-privilege",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on least privilege, answer the following: How should application database permissions be granted?",
+      "answer": "Grant only the permissions required for the application's actual operations.",
+      "explanation": "Grant only the permissions required for the application's actual operations. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "least-privilege",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is SQL auditing used for?",
+      "answer": "Recording configured database events for investigation and compliance.",
+      "explanation": "Recording configured database events for investigation and compliance. This is a core concept within sql auditing.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-auditing",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing sql auditing. What is SQL auditing used for?",
+      "answer": "Recording configured database events for investigation and compliance.",
+      "explanation": "The correct consideration is: Recording configured database events for investigation and compliance. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-auditing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about sql auditing: What is SQL auditing used for?",
+      "answer": "Recording configured database events for investigation and compliance.",
+      "explanation": "Recording configured database events for investigation and compliance. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-auditing",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on sql auditing, answer the following: What is SQL auditing used for?",
+      "answer": "Recording configured database events for investigation and compliance.",
+      "explanation": "Recording configured database events for investigation and compliance. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-auditing",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is Microsoft Defender for SQL intended to improve?",
+      "answer": "Security posture and threat detection for eligible SQL deployments.",
+      "explanation": "Security posture and threat detection for eligible SQL deployments. This is a core concept within defender for sql.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "defender-for-sql",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing defender for sql. What is Microsoft Defender for SQL intended to improve?",
+      "answer": "Security posture and threat detection for eligible SQL deployments.",
+      "explanation": "The correct consideration is: Security posture and threat detection for eligible SQL deployments. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "defender-for-sql",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about defender for sql: What is Microsoft Defender for SQL intended to improve?",
+      "answer": "Security posture and threat detection for eligible SQL deployments.",
+      "explanation": "Security posture and threat detection for eligible SQL deployments. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "defender-for-sql",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on defender for sql, answer the following: What is Microsoft Defender for SQL intended to improve?",
+      "answer": "Security posture and threat detection for eligible SQL deployments.",
+      "explanation": "Security posture and threat detection for eligible SQL deployments. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "defender-for-sql",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does dynamic data masking do?",
+      "answer": "Obscures selected query output for nonprivileged users; it is not a substitute for access control.",
+      "explanation": "Obscures selected query output for nonprivileged users; it is not a substitute for access control. This is a core concept within dynamic data masking.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "dynamic-data-masking",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing dynamic data masking. What does dynamic data masking do?",
+      "answer": "Obscures selected query output for nonprivileged users; it is not a substitute for access control.",
+      "explanation": "The correct consideration is: Obscures selected query output for nonprivileged users; it is not a substitute for access control. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "dynamic-data-masking",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about dynamic data masking: What does dynamic data masking do?",
+      "answer": "Obscures selected query output for nonprivileged users; it is not a substitute for access control.",
+      "explanation": "Obscures selected query output for nonprivileged users; it is not a substitute for access control. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "dynamic-data-masking",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on dynamic data masking, answer the following: What does dynamic data masking do?",
+      "answer": "Obscures selected query output for nonprivileged users; it is not a substitute for access control.",
+      "explanation": "Obscures selected query output for nonprivileged users; it is not a substitute for access control. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "dynamic-data-masking",
+        "practice"
+      ]
+    },
+    {
+      "question": "What problem does row-level security solve?",
+      "answer": "Restricts which table rows users can access based on predicates and security policy.",
+      "explanation": "Restricts which table rows users can access based on predicates and security policy. This is a core concept within row-level security.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "row-level-security",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing row-level security. What problem does row-level security solve?",
+      "answer": "Restricts which table rows users can access based on predicates and security policy.",
+      "explanation": "The correct consideration is: Restricts which table rows users can access based on predicates and security policy. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "row-level-security",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about row-level security: What problem does row-level security solve?",
+      "answer": "Restricts which table rows users can access based on predicates and security policy.",
+      "explanation": "Restricts which table rows users can access based on predicates and security policy. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "row-level-security",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on row-level security, answer the following: What problem does row-level security solve?",
+      "answer": "Restricts which table rows users can access based on predicates and security policy.",
+      "explanation": "Restricts which table rows users can access based on predicates and security policy. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "row-level-security",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is Always Encrypted helpful?",
+      "answer": "When sensitive column data should stay encrypted from the database engine in supported scenarios.",
+      "explanation": "When sensitive column data should stay encrypted from the database engine in supported scenarios. This is a core concept within always encrypted.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "always-encrypted",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing always encrypted. When is Always Encrypted helpful?",
+      "answer": "When sensitive column data should stay encrypted from the database engine in supported scenarios.",
+      "explanation": "The correct consideration is: When sensitive column data should stay encrypted from the database engine in supported scenarios. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "always-encrypted",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about always encrypted: When is Always Encrypted helpful?",
+      "answer": "When sensitive column data should stay encrypted from the database engine in supported scenarios.",
+      "explanation": "When sensitive column data should stay encrypted from the database engine in supported scenarios. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "always-encrypted",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on always encrypted, answer the following: When is Always Encrypted helpful?",
+      "answer": "When sensitive column data should stay encrypted from the database engine in supported scenarios.",
+      "explanation": "When sensitive column data should stay encrypted from the database engine in supported scenarios. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "always-encrypted",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do Azure SQL firewall rules control?",
+      "answer": "Which network sources can connect to the database's public endpoint when enabled.",
+      "explanation": "Which network sources can connect to the database's public endpoint when enabled. This is a core concept within firewall rules.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "firewall-rules",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing firewall rules. What do Azure SQL firewall rules control?",
+      "answer": "Which network sources can connect to the database's public endpoint when enabled.",
+      "explanation": "The correct consideration is: Which network sources can connect to the database's public endpoint when enabled. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "firewall-rules",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about firewall rules: What do Azure SQL firewall rules control?",
+      "answer": "Which network sources can connect to the database's public endpoint when enabled.",
+      "explanation": "Which network sources can connect to the database's public endpoint when enabled. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "firewall-rules",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on firewall rules, answer the following: What do Azure SQL firewall rules control?",
+      "answer": "Which network sources can connect to the database's public endpoint when enabled.",
+      "explanation": "Which network sources can connect to the database's public endpoint when enabled. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "firewall-rules",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why use a private endpoint for Azure SQL?",
+      "answer": "To provide private network access to the service and reduce public exposure.",
+      "explanation": "To provide private network access to the service and reduce public exposure. This is a core concept within private endpoint.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "private-endpoint",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing private endpoint. Why use a private endpoint for Azure SQL?",
+      "answer": "To provide private network access to the service and reduce public exposure.",
+      "explanation": "The correct consideration is: To provide private network access to the service and reduce public exposure. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "private-endpoint",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about private endpoint: Why use a private endpoint for Azure SQL?",
+      "answer": "To provide private network access to the service and reduce public exposure.",
+      "explanation": "To provide private network access to the service and reduce public exposure. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "private-endpoint",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on private endpoint, answer the following: Why use a private endpoint for Azure SQL?",
+      "answer": "To provide private network access to the service and reduce public exposure.",
+      "explanation": "To provide private network access to the service and reduce public exposure. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "private-endpoint",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does Query Store help administrators investigate?",
+      "answer": "Query plans and runtime performance history, including regressions.",
+      "explanation": "Query plans and runtime performance history, including regressions. This is a core concept within query store.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "query-store",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing query store. What does Query Store help administrators investigate?",
+      "answer": "Query plans and runtime performance history, including regressions.",
+      "explanation": "The correct consideration is: Query plans and runtime performance history, including regressions. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "query-store",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about query store: What does Query Store help administrators investigate?",
+      "answer": "Query plans and runtime performance history, including regressions.",
+      "explanation": "Query plans and runtime performance history, including regressions. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "query-store",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on query store, answer the following: What does Query Store help administrators investigate?",
+      "answer": "Query plans and runtime performance history, including regressions.",
+      "explanation": "Query plans and runtime performance history, including regressions. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "query-store",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why examine a SQL execution plan?",
+      "answer": "To understand how the optimizer executes a query and identify expensive operations.",
+      "explanation": "To understand how the optimizer executes a query and identify expensive operations. This is a core concept within execution plans.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "execution-plans",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing execution plans. Why examine a SQL execution plan?",
+      "answer": "To understand how the optimizer executes a query and identify expensive operations.",
+      "explanation": "The correct consideration is: To understand how the optimizer executes a query and identify expensive operations. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "execution-plans",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about execution plans: Why examine a SQL execution plan?",
+      "answer": "To understand how the optimizer executes a query and identify expensive operations.",
+      "explanation": "To understand how the optimizer executes a query and identify expensive operations. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "execution-plans",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on execution plans, answer the following: Why examine a SQL execution plan?",
+      "answer": "To understand how the optimizer executes a query and identify expensive operations.",
+      "explanation": "To understand how the optimizer executes a query and identify expensive operations. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "execution-plans",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is an index trade-off?",
+      "answer": "Indexes can improve reads but consume storage and add write maintenance overhead.",
+      "explanation": "Indexes can improve reads but consume storage and add write maintenance overhead. This is a core concept within indexes.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "indexes",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing indexes. What is an index trade-off?",
+      "answer": "Indexes can improve reads but consume storage and add write maintenance overhead.",
+      "explanation": "The correct consideration is: Indexes can improve reads but consume storage and add write maintenance overhead. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "indexes",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about indexes: What is an index trade-off?",
+      "answer": "Indexes can improve reads but consume storage and add write maintenance overhead.",
+      "explanation": "Indexes can improve reads but consume storage and add write maintenance overhead. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "indexes",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on indexes, answer the following: What is an index trade-off?",
+      "answer": "Indexes can improve reads but consume storage and add write maintenance overhead.",
+      "explanation": "Indexes can improve reads but consume storage and add write maintenance overhead. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "indexes",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why do database statistics matter to query performance?",
+      "answer": "The optimizer uses them to estimate data distribution and choose execution plans.",
+      "explanation": "The optimizer uses them to estimate data distribution and choose execution plans. This is a core concept within statistics.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "statistics",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing statistics. Why do database statistics matter to query performance?",
+      "answer": "The optimizer uses them to estimate data distribution and choose execution plans.",
+      "explanation": "The correct consideration is: The optimizer uses them to estimate data distribution and choose execution plans. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "statistics",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about statistics: Why do database statistics matter to query performance?",
+      "answer": "The optimizer uses them to estimate data distribution and choose execution plans.",
+      "explanation": "The optimizer uses them to estimate data distribution and choose execution plans. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "statistics",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on statistics, answer the following: Why do database statistics matter to query performance?",
+      "answer": "The optimizer uses them to estimate data distribution and choose execution plans.",
+      "explanation": "The optimizer uses them to estimate data distribution and choose execution plans. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "statistics",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does SQL blocking indicate?",
+      "answer": "One transaction is waiting for locks held by another transaction.",
+      "explanation": "One transaction is waiting for locks held by another transaction. This is a core concept within blocking.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "blocking",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing blocking. What does SQL blocking indicate?",
+      "answer": "One transaction is waiting for locks held by another transaction.",
+      "explanation": "The correct consideration is: One transaction is waiting for locks held by another transaction. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "blocking",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about blocking: What does SQL blocking indicate?",
+      "answer": "One transaction is waiting for locks held by another transaction.",
+      "explanation": "One transaction is waiting for locks held by another transaction. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "blocking",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on blocking, answer the following: What does SQL blocking indicate?",
+      "answer": "One transaction is waiting for locks held by another transaction.",
+      "explanation": "One transaction is waiting for locks held by another transaction. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "blocking",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a SQL deadlock?",
+      "answer": "Two or more sessions wait in a cycle for resources held by one another.",
+      "explanation": "Two or more sessions wait in a cycle for resources held by one another. This is a core concept within deadlock.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "deadlock",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing deadlock. What is a SQL deadlock?",
+      "answer": "Two or more sessions wait in a cycle for resources held by one another.",
+      "explanation": "The correct consideration is: Two or more sessions wait in a cycle for resources held by one another. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "deadlock",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about deadlock: What is a SQL deadlock?",
+      "answer": "Two or more sessions wait in a cycle for resources held by one another.",
+      "explanation": "Two or more sessions wait in a cycle for resources held by one another. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "deadlock",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on deadlock, answer the following: What is a SQL deadlock?",
+      "answer": "Two or more sessions wait in a cycle for resources held by one another.",
+      "explanation": "Two or more sessions wait in a cycle for resources held by one another. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "deadlock",
+        "practice"
+      ]
+    },
+    {
+      "question": "How can wait statistics help troubleshoot performance?",
+      "answer": "They show classes of delay that may indicate CPU, I/O, or concurrency bottlenecks.",
+      "explanation": "They show classes of delay that may indicate CPU, I/O, or concurrency bottlenecks. This is a core concept within wait stats.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "wait-stats",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing wait stats. How can wait statistics help troubleshoot performance?",
+      "answer": "They show classes of delay that may indicate CPU, I/O, or concurrency bottlenecks.",
+      "explanation": "The correct consideration is: They show classes of delay that may indicate CPU, I/O, or concurrency bottlenecks. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "wait-stats",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about wait stats: How can wait statistics help troubleshoot performance?",
+      "answer": "They show classes of delay that may indicate CPU, I/O, or concurrency bottlenecks.",
+      "explanation": "They show classes of delay that may indicate CPU, I/O, or concurrency bottlenecks. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "wait-stats",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on wait stats, answer the following: How can wait statistics help troubleshoot performance?",
+      "answer": "They show classes of delay that may indicate CPU, I/O, or concurrency bottlenecks.",
+      "explanation": "They show classes of delay that may indicate CPU, I/O, or concurrency bottlenecks. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "wait-stats",
+        "practice"
+      ]
+    },
+    {
+      "question": "What may sustained high database CPU utilization indicate?",
+      "answer": "Demand, inefficient queries, or insufficient compute capacity.",
+      "explanation": "Demand, inefficient queries, or insufficient compute capacity. This is a core concept within cpu saturation.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "cpu-saturation",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing cpu saturation. What may sustained high database CPU utilization indicate?",
+      "answer": "Demand, inefficient queries, or insufficient compute capacity.",
+      "explanation": "The correct consideration is: Demand, inefficient queries, or insufficient compute capacity. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "cpu-saturation",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about cpu saturation: What may sustained high database CPU utilization indicate?",
+      "answer": "Demand, inefficient queries, or insufficient compute capacity.",
+      "explanation": "Demand, inefficient queries, or insufficient compute capacity. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "cpu-saturation",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on cpu saturation, answer the following: What may sustained high database CPU utilization indicate?",
+      "answer": "Demand, inefficient queries, or insufficient compute capacity.",
+      "explanation": "Demand, inefficient queries, or insufficient compute capacity. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "cpu-saturation",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why monitor database I/O latency?",
+      "answer": "Slow storage can increase query and transaction times.",
+      "explanation": "Slow storage can increase query and transaction times. This is a core concept within storage latency.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "storage-latency",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing storage latency. Why monitor database I/O latency?",
+      "answer": "Slow storage can increase query and transaction times.",
+      "explanation": "The correct consideration is: Slow storage can increase query and transaction times. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "storage-latency",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about storage latency: Why monitor database I/O latency?",
+      "answer": "Slow storage can increase query and transaction times.",
+      "explanation": "Slow storage can increase query and transaction times. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "storage-latency",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on storage latency, answer the following: Why monitor database I/O latency?",
+      "answer": "Slow storage can increase query and transaction times.",
+      "explanation": "Slow storage can increase query and transaction times. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "storage-latency",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why should index maintenance be workload-aware?",
+      "answer": "Unnecessary rebuilds consume resources and may not improve performance.",
+      "explanation": "Unnecessary rebuilds consume resources and may not improve performance. This is a core concept within index maintenance.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "index-maintenance",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing index maintenance. Why should index maintenance be workload-aware?",
+      "answer": "Unnecessary rebuilds consume resources and may not improve performance.",
+      "explanation": "The correct consideration is: Unnecessary rebuilds consume resources and may not improve performance. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "index-maintenance",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about index maintenance: Why should index maintenance be workload-aware?",
+      "answer": "Unnecessary rebuilds consume resources and may not improve performance.",
+      "explanation": "Unnecessary rebuilds consume resources and may not improve performance. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "index-maintenance",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on index maintenance, answer the following: Why should index maintenance be workload-aware?",
+      "answer": "Unnecessary rebuilds consume resources and may not improve performance.",
+      "explanation": "Unnecessary rebuilds consume resources and may not improve performance. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "index-maintenance",
+        "practice"
+      ]
+    },
+    {
+      "question": "What data supports SQL capacity planning?",
+      "answer": "Historical CPU, I/O, storage, memory, and workload growth trends.",
+      "explanation": "Historical CPU, I/O, storage, memory, and workload growth trends. This is a core concept within capacity planning.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "capacity-planning",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing capacity planning. What data supports SQL capacity planning?",
+      "answer": "Historical CPU, I/O, storage, memory, and workload growth trends.",
+      "explanation": "The correct consideration is: Historical CPU, I/O, storage, memory, and workload growth trends. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "capacity-planning",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about capacity planning: What data supports SQL capacity planning?",
+      "answer": "Historical CPU, I/O, storage, memory, and workload growth trends.",
+      "explanation": "Historical CPU, I/O, storage, memory, and workload growth trends. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "capacity-planning",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on capacity planning, answer the following: What data supports SQL capacity planning?",
+      "answer": "Historical CPU, I/O, storage, memory, and workload growth trends.",
+      "explanation": "Historical CPU, I/O, storage, memory, and workload growth trends. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "capacity-planning",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why automate recurring database maintenance tasks?",
+      "answer": "To improve repeatability, reduce manual error, and standardize operations.",
+      "explanation": "To improve repeatability, reduce manual error, and standardize operations. This is a core concept within automation.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "automation",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing automation. Why automate recurring database maintenance tasks?",
+      "answer": "To improve repeatability, reduce manual error, and standardize operations.",
+      "explanation": "The correct consideration is: To improve repeatability, reduce manual error, and standardize operations. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "automation",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about automation: Why automate recurring database maintenance tasks?",
+      "answer": "To improve repeatability, reduce manual error, and standardize operations.",
+      "explanation": "To improve repeatability, reduce manual error, and standardize operations. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "automation",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on automation, answer the following: Why automate recurring database maintenance tasks?",
+      "answer": "To improve repeatability, reduce manual error, and standardize operations.",
+      "explanation": "To improve repeatability, reduce manual error, and standardize operations. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "automation",
+        "practice"
+      ]
+    },
+    {
+      "question": "Where is SQL Server Agent relevant?",
+      "answer": "Scheduling supported database maintenance and operational jobs in compatible SQL deployments.",
+      "explanation": "Scheduling supported database maintenance and operational jobs in compatible SQL deployments. This is a core concept within sql agent.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-agent",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing sql agent. Where is SQL Server Agent relevant?",
+      "answer": "Scheduling supported database maintenance and operational jobs in compatible SQL deployments.",
+      "explanation": "The correct consideration is: Scheduling supported database maintenance and operational jobs in compatible SQL deployments. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-agent",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about sql agent: Where is SQL Server Agent relevant?",
+      "answer": "Scheduling supported database maintenance and operational jobs in compatible SQL deployments.",
+      "explanation": "Scheduling supported database maintenance and operational jobs in compatible SQL deployments. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-agent",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on sql agent, answer the following: Where is SQL Server Agent relevant?",
+      "answer": "Scheduling supported database maintenance and operational jobs in compatible SQL deployments.",
+      "explanation": "Scheduling supported database maintenance and operational jobs in compatible SQL deployments. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "sql-agent",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why assess SQL Server compatibility before migration?",
+      "answer": "Unsupported features and behavioral differences can affect the target deployment.",
+      "explanation": "Unsupported features and behavioral differences can affect the target deployment. This is a core concept within migration assessment.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "migration-assessment",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing migration assessment. Why assess SQL Server compatibility before migration?",
+      "answer": "Unsupported features and behavioral differences can affect the target deployment.",
+      "explanation": "The correct consideration is: Unsupported features and behavioral differences can affect the target deployment. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "migration-assessment",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about migration assessment: Why assess SQL Server compatibility before migration?",
+      "answer": "Unsupported features and behavioral differences can affect the target deployment.",
+      "explanation": "Unsupported features and behavioral differences can affect the target deployment. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "migration-assessment",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on migration assessment, answer the following: Why assess SQL Server compatibility before migration?",
+      "answer": "Unsupported features and behavioral differences can affect the target deployment.",
+      "explanation": "Unsupported features and behavioral differences can affect the target deployment. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "migration-assessment",
+        "practice"
+      ]
+    },
+    {
+      "question": "What should be validated after a database migration?",
+      "answer": "Data completeness, schema, permissions, application connectivity, and performance.",
+      "explanation": "Data completeness, schema, permissions, application connectivity, and performance. This is a core concept within data migration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "data-migration",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing data migration. What should be validated after a database migration?",
+      "answer": "Data completeness, schema, permissions, application connectivity, and performance.",
+      "explanation": "The correct consideration is: Data completeness, schema, permissions, application connectivity, and performance. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "data-migration",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about data migration: What should be validated after a database migration?",
+      "answer": "Data completeness, schema, permissions, application connectivity, and performance.",
+      "explanation": "Data completeness, schema, permissions, application connectivity, and performance. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "data-migration",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on data migration, answer the following: What should be validated after a database migration?",
+      "answer": "Data completeness, schema, permissions, application connectivity, and performance.",
+      "explanation": "Data completeness, schema, permissions, application connectivity, and performance. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "data-migration",
+        "practice"
+      ]
+    },
+    {
+      "question": "When consider Azure SQL Database Hyperscale?",
+      "answer": "For supported workloads needing large-scale storage and scalable database architecture.",
+      "explanation": "For supported workloads needing large-scale storage and scalable database architecture. This is a core concept within hyperscale.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "hyperscale",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing hyperscale. When consider Azure SQL Database Hyperscale?",
+      "answer": "For supported workloads needing large-scale storage and scalable database architecture.",
+      "explanation": "The correct consideration is: For supported workloads needing large-scale storage and scalable database architecture. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "hyperscale",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about hyperscale: When consider Azure SQL Database Hyperscale?",
+      "answer": "For supported workloads needing large-scale storage and scalable database architecture.",
+      "explanation": "For supported workloads needing large-scale storage and scalable database architecture. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "hyperscale",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on hyperscale, answer the following: When consider Azure SQL Database Hyperscale?",
+      "answer": "For supported workloads needing large-scale storage and scalable database architecture.",
+      "explanation": "For supported workloads needing large-scale storage and scalable database architecture. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "hyperscale",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why use read-only replicas where supported?",
+      "answer": "To offload appropriate read workloads from the primary database.",
+      "explanation": "To offload appropriate read workloads from the primary database. This is a core concept within read replicas.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "read-replicas",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing read replicas. Why use read-only replicas where supported?",
+      "answer": "To offload appropriate read workloads from the primary database.",
+      "explanation": "The correct consideration is: To offload appropriate read workloads from the primary database. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "read-replicas",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about read replicas: Why use read-only replicas where supported?",
+      "answer": "To offload appropriate read workloads from the primary database.",
+      "explanation": "To offload appropriate read workloads from the primary database. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "read-replicas",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on read replicas, answer the following: Why use read-only replicas where supported?",
+      "answer": "To offload appropriate read workloads from the primary database.",
+      "explanation": "To offload appropriate read workloads from the primary database. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "read-replicas",
+        "practice"
+      ]
+    },
+    {
+      "question": "What makes a useful database alert?",
+      "answer": "Clear thresholds or signals tied to an actionable response.",
+      "explanation": "Clear thresholds or signals tied to an actionable response. This is a core concept within alerts.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "alerts",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing alerts. What makes a useful database alert?",
+      "answer": "Clear thresholds or signals tied to an actionable response.",
+      "explanation": "The correct consideration is: Clear thresholds or signals tied to an actionable response. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "alerts",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about alerts: What makes a useful database alert?",
+      "answer": "Clear thresholds or signals tied to an actionable response.",
+      "explanation": "Clear thresholds or signals tied to an actionable response. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "alerts",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on alerts, answer the following: What makes a useful database alert?",
+      "answer": "Clear thresholds or signals tied to an actionable response.",
+      "explanation": "Clear thresholds or signals tied to an actionable response. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "alerts",
+        "practice"
+      ]
+    },
+    {
+      "question": "How can Azure Monitor support Azure SQL administration?",
+      "answer": "Collect platform metrics, diagnostics, and alerts for SQL resources.",
+      "explanation": "Collect platform metrics, diagnostics, and alerts for SQL resources. This is a core concept within azure monitor.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "azure-monitor",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing azure monitor. How can Azure Monitor support Azure SQL administration?",
+      "answer": "Collect platform metrics, diagnostics, and alerts for SQL resources.",
+      "explanation": "The correct consideration is: Collect platform metrics, diagnostics, and alerts for SQL resources. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "azure-monitor",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about azure monitor: How can Azure Monitor support Azure SQL administration?",
+      "answer": "Collect platform metrics, diagnostics, and alerts for SQL resources.",
+      "explanation": "Collect platform metrics, diagnostics, and alerts for SQL resources. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "azure-monitor",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on azure monitor, answer the following: How can Azure Monitor support Azure SQL administration?",
+      "answer": "Collect platform metrics, diagnostics, and alerts for SQL resources.",
+      "explanation": "Collect platform metrics, diagnostics, and alerts for SQL resources. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "azure-monitor",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why run appropriate database integrity checks?",
+      "answer": "To detect potential logical or physical database corruption in supported deployments.",
+      "explanation": "To detect potential logical or physical database corruption in supported deployments. This is a core concept within database consistency.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "database-consistency",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing database consistency. Why run appropriate database integrity checks?",
+      "answer": "To detect potential logical or physical database corruption in supported deployments.",
+      "explanation": "The correct consideration is: To detect potential logical or physical database corruption in supported deployments. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "database-consistency",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about database consistency: Why run appropriate database integrity checks?",
+      "answer": "To detect potential logical or physical database corruption in supported deployments.",
+      "explanation": "To detect potential logical or physical database corruption in supported deployments. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "database-consistency",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on database consistency, answer the following: Why run appropriate database integrity checks?",
+      "answer": "To detect potential logical or physical database corruption in supported deployments.",
+      "explanation": "To detect potential logical or physical database corruption in supported deployments. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "database-consistency",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why conduct database failover and restore exercises?",
+      "answer": "To verify procedures and real recovery behavior before incidents occur.",
+      "explanation": "To verify procedures and real recovery behavior before incidents occur. This is a core concept within dr testing.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "dr-testing",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing dr testing. Why conduct database failover and restore exercises?",
+      "answer": "To verify procedures and real recovery behavior before incidents occur.",
+      "explanation": "The correct consideration is: To verify procedures and real recovery behavior before incidents occur. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "dr-testing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about dr testing: Why conduct database failover and restore exercises?",
+      "answer": "To verify procedures and real recovery behavior before incidents occur.",
+      "explanation": "To verify procedures and real recovery behavior before incidents occur. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "dr-testing",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on dr testing, answer the following: Why conduct database failover and restore exercises?",
+      "answer": "To verify procedures and real recovery behavior before incidents occur.",
+      "explanation": "To verify procedures and real recovery behavior before incidents occur. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "dr-testing",
+        "practice"
+      ]
+    },
+    {
+      "question": "How can SQL platform costs be reduced responsibly?",
+      "answer": "Right-size compute, review service tiers, consolidate suitable workloads, and monitor consumption.",
+      "explanation": "Right-size compute, review service tiers, consolidate suitable workloads, and monitor consumption. This is a core concept within cost optimization.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "cost-optimization",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing cost optimization. How can SQL platform costs be reduced responsibly?",
+      "answer": "Right-size compute, review service tiers, consolidate suitable workloads, and monitor consumption.",
+      "explanation": "The correct consideration is: Right-size compute, review service tiers, consolidate suitable workloads, and monitor consumption. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "cost-optimization",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about cost optimization: How can SQL platform costs be reduced responsibly?",
+      "answer": "Right-size compute, review service tiers, consolidate suitable workloads, and monitor consumption.",
+      "explanation": "Right-size compute, review service tiers, consolidate suitable workloads, and monitor consumption. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "cost-optimization",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on cost optimization, answer the following: How can SQL platform costs be reduced responsibly?",
+      "answer": "Right-size compute, review service tiers, consolidate suitable workloads, and monitor consumption.",
+      "explanation": "Right-size compute, review service tiers, consolidate suitable workloads, and monitor consumption. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "cost-optimization",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why define a maintenance window for database changes?",
+      "answer": "To reduce disruption and coordinate operational impact with stakeholders.",
+      "explanation": "To reduce disruption and coordinate operational impact with stakeholders. This is a core concept within maintenance windows.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "maintenance-windows",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing maintenance windows. Why define a maintenance window for database changes?",
+      "answer": "To reduce disruption and coordinate operational impact with stakeholders.",
+      "explanation": "The correct consideration is: To reduce disruption and coordinate operational impact with stakeholders. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "maintenance-windows",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about maintenance windows: Why define a maintenance window for database changes?",
+      "answer": "To reduce disruption and coordinate operational impact with stakeholders.",
+      "explanation": "To reduce disruption and coordinate operational impact with stakeholders. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "maintenance-windows",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on maintenance windows, answer the following: Why define a maintenance window for database changes?",
+      "answer": "To reduce disruption and coordinate operational impact with stakeholders.",
+      "explanation": "To reduce disruption and coordinate operational impact with stakeholders. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "maintenance-windows",
+        "practice"
+      ]
+    },
+    {
+      "question": "What should be verified after modifying an expensive query?",
+      "answer": "Correctness and measurable performance improvement under representative conditions.",
+      "explanation": "Correctness and measurable performance improvement under representative conditions. This is a core concept within query tuning.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "query-tuning",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing query tuning. What should be verified after modifying an expensive query?",
+      "answer": "Correctness and measurable performance improvement under representative conditions.",
+      "explanation": "The correct consideration is: Correctness and measurable performance improvement under representative conditions. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "query-tuning",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about query tuning: What should be verified after modifying an expensive query?",
+      "answer": "Correctness and measurable performance improvement under representative conditions.",
+      "explanation": "Correctness and measurable performance improvement under representative conditions. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "query-tuning",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on query tuning, answer the following: What should be verified after modifying an expensive query?",
+      "answer": "Correctness and measurable performance improvement under representative conditions.",
+      "explanation": "Correctness and measurable performance improvement under representative conditions. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp300",
+        "query-tuning",
+        "practice"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "AI-901 Azure AI Fundamentals",
+  "cards": [
+    {
+      "question": "What does Responsible AI fairness mean in the context of AI901?",
+      "answer": "Fairness means evaluating and mitigating systematic differences in AI outcomes across affected groups.",
+      "explanation": "This is a foundational concept assessed in AI901. Compare model error rates across demographic groups before deployment.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-fairness",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Compare model error rates across demographic groups before deployment.",
+      "answer": "Responsible AI fairness",
+      "explanation": "Fairness means evaluating and mitigating systematic differences in AI outcomes across affected groups. This is why responsible AI fairness fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-fairness",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is responsible AI fairness important when designing or operating a Microsoft solution?",
+      "answer": "Fairness means evaluating and mitigating systematic differences in AI outcomes across affected groups. Compare model error rates across demographic groups before deployment.",
+      "explanation": "Applying responsible AI fairness helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-fairness",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing responsible AI fairness. Give one concrete use case and explain the underlying idea.",
+      "answer": "Compare model error rates across demographic groups before deployment. Fairness means evaluating and mitigating systematic differences in AI outcomes across affected groups.",
+      "explanation": "The use case demonstrates responsible AI fairness; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-fairness",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Responsible AI reliability mean in the context of AI901?",
+      "answer": "Reliability and safety require a system to behave consistently and avoid harmful failures.",
+      "explanation": "This is a foundational concept assessed in AI901. Test edge cases and create a safe fallback when model confidence is low.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-reliability",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Test edge cases and create a safe fallback when model confidence is low.",
+      "answer": "Responsible AI reliability",
+      "explanation": "Reliability and safety require a system to behave consistently and avoid harmful failures. This is why responsible AI reliability fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-reliability",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is responsible AI reliability important when designing or operating a Microsoft solution?",
+      "answer": "Reliability and safety require a system to behave consistently and avoid harmful failures. Test edge cases and create a safe fallback when model confidence is low.",
+      "explanation": "Applying responsible AI reliability helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-reliability",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing responsible AI reliability. Give one concrete use case and explain the underlying idea.",
+      "answer": "Test edge cases and create a safe fallback when model confidence is low. Reliability and safety require a system to behave consistently and avoid harmful failures.",
+      "explanation": "The use case demonstrates responsible AI reliability; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-reliability",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Responsible AI privacy mean in the context of AI901?",
+      "answer": "Privacy means limiting collection, exposure, and retention of personal data in an AI solution.",
+      "explanation": "This is a foundational concept assessed in AI901. Redact personal identifiers before submitting customer records to a model.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-privacy",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Redact personal identifiers before submitting customer records to a model.",
+      "answer": "Responsible AI privacy",
+      "explanation": "Privacy means limiting collection, exposure, and retention of personal data in an AI solution. This is why responsible AI privacy fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-privacy",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is responsible AI privacy important when designing or operating a Microsoft solution?",
+      "answer": "Privacy means limiting collection, exposure, and retention of personal data in an AI solution. Redact personal identifiers before submitting customer records to a model.",
+      "explanation": "Applying responsible AI privacy helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-privacy",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing responsible AI privacy. Give one concrete use case and explain the underlying idea.",
+      "answer": "Redact personal identifiers before submitting customer records to a model. Privacy means limiting collection, exposure, and retention of personal data in an AI solution.",
+      "explanation": "The use case demonstrates responsible AI privacy; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-privacy",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Responsible AI transparency mean in the context of AI901?",
+      "answer": "Transparency explains AI capabilities, limitations, and the fact that users interact with AI.",
+      "explanation": "This is a foundational concept assessed in AI901. Disclose that a support answer is AI-generated and may require verification.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-transparency",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Disclose that a support answer is AI-generated and may require verification.",
+      "answer": "Responsible AI transparency",
+      "explanation": "Transparency explains AI capabilities, limitations, and the fact that users interact with AI. This is why responsible AI transparency fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-transparency",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is responsible AI transparency important when designing or operating a Microsoft solution?",
+      "answer": "Transparency explains AI capabilities, limitations, and the fact that users interact with AI. Disclose that a support answer is AI-generated and may require verification.",
+      "explanation": "Applying responsible AI transparency helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-transparency",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing responsible AI transparency. Give one concrete use case and explain the underlying idea.",
+      "answer": "Disclose that a support answer is AI-generated and may require verification. Transparency explains AI capabilities, limitations, and the fact that users interact with AI.",
+      "explanation": "The use case demonstrates responsible AI transparency; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-transparency",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Responsible AI accountability mean in the context of AI901?",
+      "answer": "Accountability requires people and organizations to remain responsible for AI decisions and oversight.",
+      "explanation": "This is a foundational concept assessed in AI901. Assign an owner to review incidents and approve high-impact automation.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-accountability",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Assign an owner to review incidents and approve high-impact automation.",
+      "answer": "Responsible AI accountability",
+      "explanation": "Accountability requires people and organizations to remain responsible for AI decisions and oversight. This is why responsible AI accountability fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-accountability",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is responsible AI accountability important when designing or operating a Microsoft solution?",
+      "answer": "Accountability requires people and organizations to remain responsible for AI decisions and oversight. Assign an owner to review incidents and approve high-impact automation.",
+      "explanation": "Applying responsible AI accountability helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-accountability",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing responsible AI accountability. Give one concrete use case and explain the underlying idea.",
+      "answer": "Assign an owner to review incidents and approve high-impact automation. Accountability requires people and organizations to remain responsible for AI decisions and oversight.",
+      "explanation": "The use case demonstrates responsible AI accountability; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-accountability",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Responsible AI inclusiveness mean in the context of AI901?",
+      "answer": "Inclusiveness requires AI to work for users with diverse abilities and needs.",
+      "explanation": "This is a foundational concept assessed in AI901. Test an assistant with screen readers and accessible input methods.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-inclusiveness",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Test an assistant with screen readers and accessible input methods.",
+      "answer": "Responsible AI inclusiveness",
+      "explanation": "Inclusiveness requires AI to work for users with diverse abilities and needs. This is why responsible AI inclusiveness fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-inclusiveness",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is responsible AI inclusiveness important when designing or operating a Microsoft solution?",
+      "answer": "Inclusiveness requires AI to work for users with diverse abilities and needs. Test an assistant with screen readers and accessible input methods.",
+      "explanation": "Applying responsible AI inclusiveness helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-inclusiveness",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing responsible AI inclusiveness. Give one concrete use case and explain the underlying idea.",
+      "answer": "Test an assistant with screen readers and accessible input methods. Inclusiveness requires AI to work for users with diverse abilities and needs.",
+      "explanation": "The use case demonstrates responsible AI inclusiveness; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-ai-inclusiveness",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Large language model mean in the context of AI901?",
+      "answer": "A large language model predicts sequences of tokens based on patterns learned during training.",
+      "explanation": "This is a foundational concept assessed in AI901. Use an LLM to draft or summarize text, then verify factual claims.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "large-language-model",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Use an LLM to draft or summarize text, then verify factual claims.",
+      "answer": "Large language model",
+      "explanation": "A large language model predicts sequences of tokens based on patterns learned during training. This is why large language model fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "large-language-model",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is large language model important when designing or operating a Microsoft solution?",
+      "answer": "A large language model predicts sequences of tokens based on patterns learned during training. Use an LLM to draft or summarize text, then verify factual claims.",
+      "explanation": "Applying large language model helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "large-language-model",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing large language model. Give one concrete use case and explain the underlying idea.",
+      "answer": "Use an LLM to draft or summarize text, then verify factual claims. A large language model predicts sequences of tokens based on patterns learned during training.",
+      "explanation": "The use case demonstrates large language model; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "large-language-model",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Tokens mean in the context of AI901?",
+      "answer": "Tokens are text fragments processed by a language model and counted against context and usage limits.",
+      "explanation": "This is a foundational concept assessed in AI901. Estimate whether a long document fits the model context window.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "tokens",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Estimate whether a long document fits the model context window.",
+      "answer": "Tokens",
+      "explanation": "Tokens are text fragments processed by a language model and counted against context and usage limits. This is why tokens fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "tokens",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is tokens important when designing or operating a Microsoft solution?",
+      "answer": "Tokens are text fragments processed by a language model and counted against context and usage limits. Estimate whether a long document fits the model context window.",
+      "explanation": "Applying tokens helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "tokens",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing tokens. Give one concrete use case and explain the underlying idea.",
+      "answer": "Estimate whether a long document fits the model context window. Tokens are text fragments processed by a language model and counted against context and usage limits.",
+      "explanation": "The use case demonstrates tokens; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "tokens",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Context window mean in the context of AI901?",
+      "answer": "A context window is the amount of input and output context a model can consider in one interaction.",
+      "explanation": "This is a foundational concept assessed in AI901. Chunk lengthy transcripts when they exceed available context.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "context-window",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Chunk lengthy transcripts when they exceed available context.",
+      "answer": "Context window",
+      "explanation": "A context window is the amount of input and output context a model can consider in one interaction. This is why context window fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "context-window",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is context window important when designing or operating a Microsoft solution?",
+      "answer": "A context window is the amount of input and output context a model can consider in one interaction. Chunk lengthy transcripts when they exceed available context.",
+      "explanation": "Applying context window helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "context-window",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing context window. Give one concrete use case and explain the underlying idea.",
+      "answer": "Chunk lengthy transcripts when they exceed available context. A context window is the amount of input and output context a model can consider in one interaction.",
+      "explanation": "The use case demonstrates context window; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "context-window",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Temperature mean in the context of AI901?",
+      "answer": "Temperature controls randomness in generation; lower settings tend to produce more consistent output.",
+      "explanation": "This is a foundational concept assessed in AI901. Prefer a low temperature for repeatable structured extraction.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "temperature",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Prefer a low temperature for repeatable structured extraction.",
+      "answer": "Temperature",
+      "explanation": "Temperature controls randomness in generation; lower settings tend to produce more consistent output. This is why temperature fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "temperature",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is temperature important when designing or operating a Microsoft solution?",
+      "answer": "Temperature controls randomness in generation; lower settings tend to produce more consistent output. Prefer a low temperature for repeatable structured extraction.",
+      "explanation": "Applying temperature helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "temperature",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing temperature. Give one concrete use case and explain the underlying idea.",
+      "answer": "Prefer a low temperature for repeatable structured extraction. Temperature controls randomness in generation; lower settings tend to produce more consistent output.",
+      "explanation": "The use case demonstrates temperature; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "temperature",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Grounding mean in the context of AI901?",
+      "answer": "Grounding supplies trusted source information for a model's response.",
+      "explanation": "This is a foundational concept assessed in AI901. Provide approved policy excerpts before asking an assistant to answer policy questions.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "grounding",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Provide approved policy excerpts before asking an assistant to answer policy questions.",
+      "answer": "Grounding",
+      "explanation": "Grounding supplies trusted source information for a model's response. This is why grounding fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "grounding",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is grounding important when designing or operating a Microsoft solution?",
+      "answer": "Grounding supplies trusted source information for a model's response. Provide approved policy excerpts before asking an assistant to answer policy questions.",
+      "explanation": "Applying grounding helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "grounding",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing grounding. Give one concrete use case and explain the underlying idea.",
+      "answer": "Provide approved policy excerpts before asking an assistant to answer policy questions. Grounding supplies trusted source information for a model's response.",
+      "explanation": "The use case demonstrates grounding; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "grounding",
+        "application"
+      ]
+    },
+    {
+      "question": "What does RAG mean in the context of AI901?",
+      "answer": "Retrieval-augmented generation retrieves relevant content before a model composes an answer.",
+      "explanation": "This is a foundational concept assessed in AI901. Search an internal knowledge base and pass matching passages to the model.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "rag",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Search an internal knowledge base and pass matching passages to the model.",
+      "answer": "RAG",
+      "explanation": "Retrieval-augmented generation retrieves relevant content before a model composes an answer. This is why rAG fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "rag",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is rAG important when designing or operating a Microsoft solution?",
+      "answer": "Retrieval-augmented generation retrieves relevant content before a model composes an answer. Search an internal knowledge base and pass matching passages to the model.",
+      "explanation": "Applying rAG helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "rag",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing rAG. Give one concrete use case and explain the underlying idea.",
+      "answer": "Search an internal knowledge base and pass matching passages to the model. Retrieval-augmented generation retrieves relevant content before a model composes an answer.",
+      "explanation": "The use case demonstrates rAG; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "rag",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Hallucination mean in the context of AI901?",
+      "answer": "A hallucination is plausible-sounding generated content that is unsupported or incorrect.",
+      "explanation": "This is a foundational concept assessed in AI901. Require source citations and evaluate answers against trusted records.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "hallucination",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Require source citations and evaluate answers against trusted records.",
+      "answer": "Hallucination",
+      "explanation": "A hallucination is plausible-sounding generated content that is unsupported or incorrect. This is why hallucination fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "hallucination",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is hallucination important when designing or operating a Microsoft solution?",
+      "answer": "A hallucination is plausible-sounding generated content that is unsupported or incorrect. Require source citations and evaluate answers against trusted records.",
+      "explanation": "Applying hallucination helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "hallucination",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing hallucination. Give one concrete use case and explain the underlying idea.",
+      "answer": "Require source citations and evaluate answers against trusted records. A hallucination is plausible-sounding generated content that is unsupported or incorrect.",
+      "explanation": "The use case demonstrates hallucination; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "hallucination",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Prompt injection mean in the context of AI901?",
+      "answer": "Prompt injection is an attempt to redirect an AI system through untrusted input.",
+      "explanation": "This is a foundational concept assessed in AI901. Treat retrieved web text as data, not as instructions with higher priority.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "prompt-injection",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Treat retrieved web text as data, not as instructions with higher priority.",
+      "answer": "Prompt injection",
+      "explanation": "Prompt injection is an attempt to redirect an AI system through untrusted input. This is why prompt injection fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "prompt-injection",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is prompt injection important when designing or operating a Microsoft solution?",
+      "answer": "Prompt injection is an attempt to redirect an AI system through untrusted input. Treat retrieved web text as data, not as instructions with higher priority.",
+      "explanation": "Applying prompt injection helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "prompt-injection",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing prompt injection. Give one concrete use case and explain the underlying idea.",
+      "answer": "Treat retrieved web text as data, not as instructions with higher priority. Prompt injection is an attempt to redirect an AI system through untrusted input.",
+      "explanation": "The use case demonstrates prompt injection; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "prompt-injection",
+        "application"
+      ]
+    },
+    {
+      "question": "What does System instructions mean in the context of AI901?",
+      "answer": "System instructions define the assistant's role and persistent behavioral constraints.",
+      "explanation": "This is a foundational concept assessed in AI901. Set a system instruction to return concise, structured responses.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "system-instructions",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Set a system instruction to return concise, structured responses.",
+      "answer": "System instructions",
+      "explanation": "System instructions define the assistant's role and persistent behavioral constraints. This is why system instructions fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "system-instructions",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is system instructions important when designing or operating a Microsoft solution?",
+      "answer": "System instructions define the assistant's role and persistent behavioral constraints. Set a system instruction to return concise, structured responses.",
+      "explanation": "Applying system instructions helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "system-instructions",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing system instructions. Give one concrete use case and explain the underlying idea.",
+      "answer": "Set a system instruction to return concise, structured responses. System instructions define the assistant's role and persistent behavioral constraints.",
+      "explanation": "The use case demonstrates system instructions; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "system-instructions",
+        "application"
+      ]
+    },
+    {
+      "question": "What does User prompt mean in the context of AI901?",
+      "answer": "A user prompt expresses the immediate request sent to the model.",
+      "explanation": "This is a foundational concept assessed in AI901. Ask a deployed model to classify a supplied customer message.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "user-prompt",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Ask a deployed model to classify a supplied customer message.",
+      "answer": "User prompt",
+      "explanation": "A user prompt expresses the immediate request sent to the model. This is why user prompt fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "user-prompt",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is user prompt important when designing or operating a Microsoft solution?",
+      "answer": "A user prompt expresses the immediate request sent to the model. Ask a deployed model to classify a supplied customer message.",
+      "explanation": "Applying user prompt helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "user-prompt",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing user prompt. Give one concrete use case and explain the underlying idea.",
+      "answer": "Ask a deployed model to classify a supplied customer message. A user prompt expresses the immediate request sent to the model.",
+      "explanation": "The use case demonstrates user prompt; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "user-prompt",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Few-shot prompting mean in the context of AI901?",
+      "answer": "Few-shot prompting includes examples of desired inputs and outputs.",
+      "explanation": "This is a foundational concept assessed in AI901. Include two labeled examples to guide a consistent classification format.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "few-shot-prompting",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Include two labeled examples to guide a consistent classification format.",
+      "answer": "Few-shot prompting",
+      "explanation": "Few-shot prompting includes examples of desired inputs and outputs. This is why few-shot prompting fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "few-shot-prompting",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is few-shot prompting important when designing or operating a Microsoft solution?",
+      "answer": "Few-shot prompting includes examples of desired inputs and outputs. Include two labeled examples to guide a consistent classification format.",
+      "explanation": "Applying few-shot prompting helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "few-shot-prompting",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing few-shot prompting. Give one concrete use case and explain the underlying idea.",
+      "answer": "Include two labeled examples to guide a consistent classification format. Few-shot prompting includes examples of desired inputs and outputs.",
+      "explanation": "The use case demonstrates few-shot prompting; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "few-shot-prompting",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Model deployment mean in the context of AI901?",
+      "answer": "A model deployment makes a selected model available through an endpoint and configuration.",
+      "explanation": "This is a foundational concept assessed in AI901. Deploy a suitable model in Microsoft Foundry before calling it from an app.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-deployment",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Deploy a suitable model in Microsoft Foundry before calling it from an app.",
+      "answer": "Model deployment",
+      "explanation": "A model deployment makes a selected model available through an endpoint and configuration. This is why model deployment fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-deployment",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is model deployment important when designing or operating a Microsoft solution?",
+      "answer": "A model deployment makes a selected model available through an endpoint and configuration. Deploy a suitable model in Microsoft Foundry before calling it from an app.",
+      "explanation": "Applying model deployment helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-deployment",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing model deployment. Give one concrete use case and explain the underlying idea.",
+      "answer": "Deploy a suitable model in Microsoft Foundry before calling it from an app. A model deployment makes a selected model available through an endpoint and configuration.",
+      "explanation": "The use case demonstrates model deployment; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-deployment",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Model capability selection mean in the context of AI901?",
+      "answer": "Model selection should consider modalities, quality, latency, context size, cost, and constraints.",
+      "explanation": "This is a foundational concept assessed in AI901. Choose a multimodal model for questions about images and text together.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-capability-selection",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Choose a multimodal model for questions about images and text together.",
+      "answer": "Model capability selection",
+      "explanation": "Model selection should consider modalities, quality, latency, context size, cost, and constraints. This is why model capability selection fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-capability-selection",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is model capability selection important when designing or operating a Microsoft solution?",
+      "answer": "Model selection should consider modalities, quality, latency, context size, cost, and constraints. Choose a multimodal model for questions about images and text together.",
+      "explanation": "Applying model capability selection helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-capability-selection",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing model capability selection. Give one concrete use case and explain the underlying idea.",
+      "answer": "Choose a multimodal model for questions about images and text together. Model selection should consider modalities, quality, latency, context size, cost, and constraints.",
+      "explanation": "The use case demonstrates model capability selection; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-capability-selection",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Microsoft Foundry portal mean in the context of AI901?",
+      "answer": "Microsoft Foundry provides experiences for discovering, deploying, testing, and building with AI models and agents.",
+      "explanation": "This is a foundational concept assessed in AI901. Use the portal playground to assess a deployed model before writing code.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "microsoft-foundry-portal",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Use the portal playground to assess a deployed model before writing code.",
+      "answer": "Microsoft Foundry portal",
+      "explanation": "Microsoft Foundry provides experiences for discovering, deploying, testing, and building with AI models and agents. This is why microsoft Foundry portal fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "microsoft-foundry-portal",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is microsoft Foundry portal important when designing or operating a Microsoft solution?",
+      "answer": "Microsoft Foundry provides experiences for discovering, deploying, testing, and building with AI models and agents. Use the portal playground to assess a deployed model before writing code.",
+      "explanation": "Applying microsoft Foundry portal helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "microsoft-foundry-portal",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing microsoft Foundry portal. Give one concrete use case and explain the underlying idea.",
+      "answer": "Use the portal playground to assess a deployed model before writing code. Microsoft Foundry provides experiences for discovering, deploying, testing, and building with AI models and agents.",
+      "explanation": "The use case demonstrates microsoft Foundry portal; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "microsoft-foundry-portal",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Foundry SDK mean in the context of AI901?",
+      "answer": "The Foundry SDK lets a client application interact programmatically with supported AI resources.",
+      "explanation": "This is a foundational concept assessed in AI901. Write a lightweight Python client to call a deployment.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "foundry-sdk",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Write a lightweight Python client to call a deployment.",
+      "answer": "Foundry SDK",
+      "explanation": "The Foundry SDK lets a client application interact programmatically with supported AI resources. This is why foundry SDK fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "foundry-sdk",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is foundry SDK important when designing or operating a Microsoft solution?",
+      "answer": "The Foundry SDK lets a client application interact programmatically with supported AI resources. Write a lightweight Python client to call a deployment.",
+      "explanation": "Applying foundry SDK helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "foundry-sdk",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing foundry SDK. Give one concrete use case and explain the underlying idea.",
+      "answer": "Write a lightweight Python client to call a deployment. The Foundry SDK lets a client application interact programmatically with supported AI resources.",
+      "explanation": "The use case demonstrates foundry SDK; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "foundry-sdk",
+        "application"
+      ]
+    },
+    {
+      "question": "What does REST endpoint mean in the context of AI901?",
+      "answer": "A REST endpoint exposes an AI capability over HTTP with defined inputs and outputs.",
+      "explanation": "This is a foundational concept assessed in AI901. Send an authenticated request to a deployed inference endpoint.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "rest-endpoint",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Send an authenticated request to a deployed inference endpoint.",
+      "answer": "REST endpoint",
+      "explanation": "A REST endpoint exposes an AI capability over HTTP with defined inputs and outputs. This is why rEST endpoint fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "rest-endpoint",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is rEST endpoint important when designing or operating a Microsoft solution?",
+      "answer": "A REST endpoint exposes an AI capability over HTTP with defined inputs and outputs. Send an authenticated request to a deployed inference endpoint.",
+      "explanation": "Applying rEST endpoint helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "rest-endpoint",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing rEST endpoint. Give one concrete use case and explain the underlying idea.",
+      "answer": "Send an authenticated request to a deployed inference endpoint. A REST endpoint exposes an AI capability over HTTP with defined inputs and outputs.",
+      "explanation": "The use case demonstrates rEST endpoint; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "rest-endpoint",
+        "application"
+      ]
+    },
+    {
+      "question": "What does API credentials mean in the context of AI901?",
+      "answer": "API credentials authenticate application access and should be secured rather than hardcoded.",
+      "explanation": "This is a foundational concept assessed in AI901. Store credentials in a secret store and avoid committing them to source control.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "api-credentials",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Store credentials in a secret store and avoid committing them to source control.",
+      "answer": "API credentials",
+      "explanation": "API credentials authenticate application access and should be secured rather than hardcoded. This is why aPI credentials fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "api-credentials",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is aPI credentials important when designing or operating a Microsoft solution?",
+      "answer": "API credentials authenticate application access and should be secured rather than hardcoded. Store credentials in a secret store and avoid committing them to source control.",
+      "explanation": "Applying aPI credentials helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "api-credentials",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing aPI credentials. Give one concrete use case and explain the underlying idea.",
+      "answer": "Store credentials in a secret store and avoid committing them to source control. API credentials authenticate application access and should be secured rather than hardcoded.",
+      "explanation": "The use case demonstrates aPI credentials; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "api-credentials",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Single agent mean in the context of AI901?",
+      "answer": "A single agent combines instructions, context, and available tools to perform a bounded task.",
+      "explanation": "This is a foundational concept assessed in AI901. Build one agent that answers internal IT support questions.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "single-agent",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Build one agent that answers internal IT support questions.",
+      "answer": "Single agent",
+      "explanation": "A single agent combines instructions, context, and available tools to perform a bounded task. This is why single agent fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "single-agent",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is single agent important when designing or operating a Microsoft solution?",
+      "answer": "A single agent combines instructions, context, and available tools to perform a bounded task. Build one agent that answers internal IT support questions.",
+      "explanation": "Applying single agent helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "single-agent",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing single agent. Give one concrete use case and explain the underlying idea.",
+      "answer": "Build one agent that answers internal IT support questions. A single agent combines instructions, context, and available tools to perform a bounded task.",
+      "explanation": "The use case demonstrates single agent; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "single-agent",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Agent tools mean in the context of AI901?",
+      "answer": "Agent tools let an agent call external functions, APIs, or data systems.",
+      "explanation": "This is a foundational concept assessed in AI901. Attach an approved ticket-lookup tool to a helpdesk agent.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-tools",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Attach an approved ticket-lookup tool to a helpdesk agent.",
+      "answer": "Agent tools",
+      "explanation": "Agent tools let an agent call external functions, APIs, or data systems. This is why agent tools fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-tools",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is agent tools important when designing or operating a Microsoft solution?",
+      "answer": "Agent tools let an agent call external functions, APIs, or data systems. Attach an approved ticket-lookup tool to a helpdesk agent.",
+      "explanation": "Applying agent tools helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-tools",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing agent tools. Give one concrete use case and explain the underlying idea.",
+      "answer": "Attach an approved ticket-lookup tool to a helpdesk agent. Agent tools let an agent call external functions, APIs, or data systems.",
+      "explanation": "The use case demonstrates agent tools; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-tools",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Agent testing mean in the context of AI901?",
+      "answer": "Agent testing evaluates task completion, safety, and tool use under representative prompts.",
+      "explanation": "This is a foundational concept assessed in AI901. Run tests covering missing data, malicious input, and tool errors.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-testing",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Run tests covering missing data, malicious input, and tool errors.",
+      "answer": "Agent testing",
+      "explanation": "Agent testing evaluates task completion, safety, and tool use under representative prompts. This is why agent testing fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-testing",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is agent testing important when designing or operating a Microsoft solution?",
+      "answer": "Agent testing evaluates task completion, safety, and tool use under representative prompts. Run tests covering missing data, malicious input, and tool errors.",
+      "explanation": "Applying agent testing helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-testing",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing agent testing. Give one concrete use case and explain the underlying idea.",
+      "answer": "Run tests covering missing data, malicious input, and tool errors. Agent testing evaluates task completion, safety, and tool use under representative prompts.",
+      "explanation": "The use case demonstrates agent testing; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-testing",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Agent client application mean in the context of AI901?",
+      "answer": "An agent client sends user messages and receives agent replies through an SDK or API.",
+      "explanation": "This is a foundational concept assessed in AI901. Create a simple chat interface for an existing Foundry agent.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-client-application",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Create a simple chat interface for an existing Foundry agent.",
+      "answer": "Agent client application",
+      "explanation": "An agent client sends user messages and receives agent replies through an SDK or API. This is why agent client application fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-client-application",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is agent client application important when designing or operating a Microsoft solution?",
+      "answer": "An agent client sends user messages and receives agent replies through an SDK or API. Create a simple chat interface for an existing Foundry agent.",
+      "explanation": "Applying agent client application helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-client-application",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing agent client application. Give one concrete use case and explain the underlying idea.",
+      "answer": "Create a simple chat interface for an existing Foundry agent. An agent client sends user messages and receives agent replies through an SDK or API.",
+      "explanation": "The use case demonstrates agent client application; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "agent-client-application",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Text sentiment analysis mean in the context of AI901?",
+      "answer": "Sentiment analysis estimates the emotional polarity expressed in text.",
+      "explanation": "This is a foundational concept assessed in AI901. Identify whether product feedback is positive, negative, or neutral.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-sentiment-analysis",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Identify whether product feedback is positive, negative, or neutral.",
+      "answer": "Text sentiment analysis",
+      "explanation": "Sentiment analysis estimates the emotional polarity expressed in text. This is why text sentiment analysis fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-sentiment-analysis",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is text sentiment analysis important when designing or operating a Microsoft solution?",
+      "answer": "Sentiment analysis estimates the emotional polarity expressed in text. Identify whether product feedback is positive, negative, or neutral.",
+      "explanation": "Applying text sentiment analysis helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-sentiment-analysis",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing text sentiment analysis. Give one concrete use case and explain the underlying idea.",
+      "answer": "Identify whether product feedback is positive, negative, or neutral. Sentiment analysis estimates the emotional polarity expressed in text.",
+      "explanation": "The use case demonstrates text sentiment analysis; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-sentiment-analysis",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Named entity recognition mean in the context of AI901?",
+      "answer": "Named entity recognition finds mentions such as people, places, and organizations in text.",
+      "explanation": "This is a foundational concept assessed in AI901. Extract organization names from a support ticket.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "named-entity-recognition",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Extract organization names from a support ticket.",
+      "answer": "Named entity recognition",
+      "explanation": "Named entity recognition finds mentions such as people, places, and organizations in text. This is why named entity recognition fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "named-entity-recognition",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is named entity recognition important when designing or operating a Microsoft solution?",
+      "answer": "Named entity recognition finds mentions such as people, places, and organizations in text. Extract organization names from a support ticket.",
+      "explanation": "Applying named entity recognition helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "named-entity-recognition",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing named entity recognition. Give one concrete use case and explain the underlying idea.",
+      "answer": "Extract organization names from a support ticket. Named entity recognition finds mentions such as people, places, and organizations in text.",
+      "explanation": "The use case demonstrates named entity recognition; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "named-entity-recognition",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Key phrase extraction mean in the context of AI901?",
+      "answer": "Key phrase extraction identifies important subjects or phrases in text.",
+      "explanation": "This is a foundational concept assessed in AI901. Tag thousands of survey comments with their main themes.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "key-phrase-extraction",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Tag thousands of survey comments with their main themes.",
+      "answer": "Key phrase extraction",
+      "explanation": "Key phrase extraction identifies important subjects or phrases in text. This is why key phrase extraction fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "key-phrase-extraction",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is key phrase extraction important when designing or operating a Microsoft solution?",
+      "answer": "Key phrase extraction identifies important subjects or phrases in text. Tag thousands of survey comments with their main themes.",
+      "explanation": "Applying key phrase extraction helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "key-phrase-extraction",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing key phrase extraction. Give one concrete use case and explain the underlying idea.",
+      "answer": "Tag thousands of survey comments with their main themes. Key phrase extraction identifies important subjects or phrases in text.",
+      "explanation": "The use case demonstrates key phrase extraction; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "key-phrase-extraction",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Text summarization mean in the context of AI901?",
+      "answer": "Summarization condenses source content while preserving important information.",
+      "explanation": "This is a foundational concept assessed in AI901. Create a short summary of a lengthy customer call transcript.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-summarization",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Create a short summary of a lengthy customer call transcript.",
+      "answer": "Text summarization",
+      "explanation": "Summarization condenses source content while preserving important information. This is why text summarization fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-summarization",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is text summarization important when designing or operating a Microsoft solution?",
+      "answer": "Summarization condenses source content while preserving important information. Create a short summary of a lengthy customer call transcript.",
+      "explanation": "Applying text summarization helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-summarization",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing text summarization. Give one concrete use case and explain the underlying idea.",
+      "answer": "Create a short summary of a lengthy customer call transcript. Summarization condenses source content while preserving important information.",
+      "explanation": "The use case demonstrates text summarization; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-summarization",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Speech to text mean in the context of AI901?",
+      "answer": "Speech-to-text technology transcribes spoken audio into written text.",
+      "explanation": "This is a foundational concept assessed in AI901. Transcribe a recorded meeting for searchable notes.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "speech-to-text",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Transcribe a recorded meeting for searchable notes.",
+      "answer": "Speech to text",
+      "explanation": "Speech-to-text technology transcribes spoken audio into written text. This is why speech to text fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "speech-to-text",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is speech to text important when designing or operating a Microsoft solution?",
+      "answer": "Speech-to-text technology transcribes spoken audio into written text. Transcribe a recorded meeting for searchable notes.",
+      "explanation": "Applying speech to text helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "speech-to-text",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing speech to text. Give one concrete use case and explain the underlying idea.",
+      "answer": "Transcribe a recorded meeting for searchable notes. Speech-to-text technology transcribes spoken audio into written text.",
+      "explanation": "The use case demonstrates speech to text; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "speech-to-text",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Text to speech mean in the context of AI901?",
+      "answer": "Text-to-speech technology converts written text into synthetic spoken audio.",
+      "explanation": "This is a foundational concept assessed in AI901. Read an assistant's response aloud for accessibility.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-to-speech",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Read an assistant's response aloud for accessibility.",
+      "answer": "Text to speech",
+      "explanation": "Text-to-speech technology converts written text into synthetic spoken audio. This is why text to speech fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-to-speech",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is text to speech important when designing or operating a Microsoft solution?",
+      "answer": "Text-to-speech technology converts written text into synthetic spoken audio. Read an assistant's response aloud for accessibility.",
+      "explanation": "Applying text to speech helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-to-speech",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing text to speech. Give one concrete use case and explain the underlying idea.",
+      "answer": "Read an assistant's response aloud for accessibility. Text-to-speech technology converts written text into synthetic spoken audio.",
+      "explanation": "The use case demonstrates text to speech; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "text-to-speech",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Speech translation mean in the context of AI901?",
+      "answer": "Speech translation converts speech in one language into another language.",
+      "explanation": "This is a foundational concept assessed in AI901. Translate spoken meeting content for multilingual participants.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "speech-translation",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Translate spoken meeting content for multilingual participants.",
+      "answer": "Speech translation",
+      "explanation": "Speech translation converts speech in one language into another language. This is why speech translation fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "speech-translation",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is speech translation important when designing or operating a Microsoft solution?",
+      "answer": "Speech translation converts speech in one language into another language. Translate spoken meeting content for multilingual participants.",
+      "explanation": "Applying speech translation helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "speech-translation",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing speech translation. Give one concrete use case and explain the underlying idea.",
+      "answer": "Translate spoken meeting content for multilingual participants. Speech translation converts speech in one language into another language.",
+      "explanation": "The use case demonstrates speech translation; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "speech-translation",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Multimodal models mean in the context of AI901?",
+      "answer": "Multimodal models can process or generate more than one type of content such as text and images.",
+      "explanation": "This is a foundational concept assessed in AI901. Ask a model to describe a chart supplied as an image.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "multimodal-models",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Ask a model to describe a chart supplied as an image.",
+      "answer": "Multimodal models",
+      "explanation": "Multimodal models can process or generate more than one type of content such as text and images. This is why multimodal models fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "multimodal-models",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is multimodal models important when designing or operating a Microsoft solution?",
+      "answer": "Multimodal models can process or generate more than one type of content such as text and images. Ask a model to describe a chart supplied as an image.",
+      "explanation": "Applying multimodal models helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "multimodal-models",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing multimodal models. Give one concrete use case and explain the underlying idea.",
+      "answer": "Ask a model to describe a chart supplied as an image. Multimodal models can process or generate more than one type of content such as text and images.",
+      "explanation": "The use case demonstrates multimodal models; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "multimodal-models",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Image understanding mean in the context of AI901?",
+      "answer": "Image understanding identifies or describes visual content without necessarily generating new images.",
+      "explanation": "This is a foundational concept assessed in AI901. Extract observations from a photographed equipment panel.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "image-understanding",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Extract observations from a photographed equipment panel.",
+      "answer": "Image understanding",
+      "explanation": "Image understanding identifies or describes visual content without necessarily generating new images. This is why image understanding fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "image-understanding",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is image understanding important when designing or operating a Microsoft solution?",
+      "answer": "Image understanding identifies or describes visual content without necessarily generating new images. Extract observations from a photographed equipment panel.",
+      "explanation": "Applying image understanding helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "image-understanding",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing image understanding. Give one concrete use case and explain the underlying idea.",
+      "answer": "Extract observations from a photographed equipment panel. Image understanding identifies or describes visual content without necessarily generating new images.",
+      "explanation": "The use case demonstrates image understanding; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "image-understanding",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Image generation mean in the context of AI901?",
+      "answer": "Image generation models synthesize new visual content from text or other inputs.",
+      "explanation": "This is a foundational concept assessed in AI901. Generate a draft illustration from a creative brief.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "image-generation",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Generate a draft illustration from a creative brief.",
+      "answer": "Image generation",
+      "explanation": "Image generation models synthesize new visual content from text or other inputs. This is why image generation fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "image-generation",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is image generation important when designing or operating a Microsoft solution?",
+      "answer": "Image generation models synthesize new visual content from text or other inputs. Generate a draft illustration from a creative brief.",
+      "explanation": "Applying image generation helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "image-generation",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing image generation. Give one concrete use case and explain the underlying idea.",
+      "answer": "Generate a draft illustration from a creative brief. Image generation models synthesize new visual content from text or other inputs.",
+      "explanation": "The use case demonstrates image generation; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "image-generation",
+        "application"
+      ]
+    },
+    {
+      "question": "What does OCR mean in the context of AI901?",
+      "answer": "Optical character recognition turns visible characters in images into machine-readable text.",
+      "explanation": "This is a foundational concept assessed in AI901. Read printed text from a scanned receipt.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "ocr",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Read printed text from a scanned receipt.",
+      "answer": "OCR",
+      "explanation": "Optical character recognition turns visible characters in images into machine-readable text. This is why oCR fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "ocr",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is oCR important when designing or operating a Microsoft solution?",
+      "answer": "Optical character recognition turns visible characters in images into machine-readable text. Read printed text from a scanned receipt.",
+      "explanation": "Applying oCR helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "ocr",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing oCR. Give one concrete use case and explain the underlying idea.",
+      "answer": "Read printed text from a scanned receipt. Optical character recognition turns visible characters in images into machine-readable text.",
+      "explanation": "The use case demonstrates oCR; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "ocr",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Content Understanding mean in the context of AI901?",
+      "answer": "Azure Content Understanding extracts structured meaning from documents and multimodal inputs.",
+      "explanation": "This is a foundational concept assessed in AI901. Extract invoice fields from scanned documents with a Foundry tool.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "content-understanding",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Extract invoice fields from scanned documents with a Foundry tool.",
+      "answer": "Content Understanding",
+      "explanation": "Azure Content Understanding extracts structured meaning from documents and multimodal inputs. This is why content Understanding fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "content-understanding",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is content Understanding important when designing or operating a Microsoft solution?",
+      "answer": "Azure Content Understanding extracts structured meaning from documents and multimodal inputs. Extract invoice fields from scanned documents with a Foundry tool.",
+      "explanation": "Applying content Understanding helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "content-understanding",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing content Understanding. Give one concrete use case and explain the underlying idea.",
+      "answer": "Extract invoice fields from scanned documents with a Foundry tool. Azure Content Understanding extracts structured meaning from documents and multimodal inputs.",
+      "explanation": "The use case demonstrates content Understanding; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "content-understanding",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Structured extraction mean in the context of AI901?",
+      "answer": "Structured extraction maps unstructured content into defined fields and types.",
+      "explanation": "This is a foundational concept assessed in AI901. Return invoice date, vendor, and amount as structured values.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "structured-extraction",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Return invoice date, vendor, and amount as structured values.",
+      "answer": "Structured extraction",
+      "explanation": "Structured extraction maps unstructured content into defined fields and types. This is why structured extraction fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "structured-extraction",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is structured extraction important when designing or operating a Microsoft solution?",
+      "answer": "Structured extraction maps unstructured content into defined fields and types. Return invoice date, vendor, and amount as structured values.",
+      "explanation": "Applying structured extraction helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "structured-extraction",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing structured extraction. Give one concrete use case and explain the underlying idea.",
+      "answer": "Return invoice date, vendor, and amount as structured values. Structured extraction maps unstructured content into defined fields and types.",
+      "explanation": "The use case demonstrates structured extraction; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "structured-extraction",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Audio understanding mean in the context of AI901?",
+      "answer": "Audio understanding can extract content and meaning from recorded speech and sounds.",
+      "explanation": "This is a foundational concept assessed in AI901. Identify requested actions from a customer call recording.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "audio-understanding",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Identify requested actions from a customer call recording.",
+      "answer": "Audio understanding",
+      "explanation": "Audio understanding can extract content and meaning from recorded speech and sounds. This is why audio understanding fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "audio-understanding",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is audio understanding important when designing or operating a Microsoft solution?",
+      "answer": "Audio understanding can extract content and meaning from recorded speech and sounds. Identify requested actions from a customer call recording.",
+      "explanation": "Applying audio understanding helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "audio-understanding",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing audio understanding. Give one concrete use case and explain the underlying idea.",
+      "answer": "Identify requested actions from a customer call recording. Audio understanding can extract content and meaning from recorded speech and sounds.",
+      "explanation": "The use case demonstrates audio understanding; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "audio-understanding",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Video understanding mean in the context of AI901?",
+      "answer": "Video understanding uses visual and temporal information to interpret recorded scenes.",
+      "explanation": "This is a foundational concept assessed in AI901. Summarize notable events in a training video.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "video-understanding",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Summarize notable events in a training video.",
+      "answer": "Video understanding",
+      "explanation": "Video understanding uses visual and temporal information to interpret recorded scenes. This is why video understanding fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "video-understanding",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is video understanding important when designing or operating a Microsoft solution?",
+      "answer": "Video understanding uses visual and temporal information to interpret recorded scenes. Summarize notable events in a training video.",
+      "explanation": "Applying video understanding helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "video-understanding",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing video understanding. Give one concrete use case and explain the underlying idea.",
+      "answer": "Summarize notable events in a training video. Video understanding uses visual and temporal information to interpret recorded scenes.",
+      "explanation": "The use case demonstrates video understanding; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "video-understanding",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Confidence and validation mean in the context of AI901?",
+      "answer": "Extraction results should be checked against schemas, confidence signals, and business rules.",
+      "explanation": "This is a foundational concept assessed in AI901. Send uncertain invoice fields to human review before payment.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "confidence-and-validation",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Send uncertain invoice fields to human review before payment.",
+      "answer": "Confidence and validation",
+      "explanation": "Extraction results should be checked against schemas, confidence signals, and business rules. This is why confidence and validation fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "confidence-and-validation",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is confidence and validation important when designing or operating a Microsoft solution?",
+      "answer": "Extraction results should be checked against schemas, confidence signals, and business rules. Send uncertain invoice fields to human review before payment.",
+      "explanation": "Applying confidence and validation helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "confidence-and-validation",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing confidence and validation. Give one concrete use case and explain the underlying idea.",
+      "answer": "Send uncertain invoice fields to human review before payment. Extraction results should be checked against schemas, confidence signals, and business rules.",
+      "explanation": "The use case demonstrates confidence and validation; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "confidence-and-validation",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Model evaluations mean in the context of AI901?",
+      "answer": "Model evaluation measures response quality and safety on representative test cases.",
+      "explanation": "This is a foundational concept assessed in AI901. Compare candidate deployments on groundedness and task accuracy.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-evaluations",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Compare candidate deployments on groundedness and task accuracy.",
+      "answer": "Model evaluations",
+      "explanation": "Model evaluation measures response quality and safety on representative test cases. This is why model evaluations fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-evaluations",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is model evaluations important when designing or operating a Microsoft solution?",
+      "answer": "Model evaluation measures response quality and safety on representative test cases. Compare candidate deployments on groundedness and task accuracy.",
+      "explanation": "Applying model evaluations helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-evaluations",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing model evaluations. Give one concrete use case and explain the underlying idea.",
+      "answer": "Compare candidate deployments on groundedness and task accuracy. Model evaluation measures response quality and safety on representative test cases.",
+      "explanation": "The use case demonstrates model evaluations; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "model-evaluations",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Cost and latency tradeoff mean in the context of AI901?",
+      "answer": "Inference choices balance output quality against response time and token-based costs.",
+      "explanation": "This is a foundational concept assessed in AI901. Use a smaller model for routine classification when it meets accuracy targets.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "cost-and-latency-tradeoff",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Use a smaller model for routine classification when it meets accuracy targets.",
+      "answer": "Cost and latency tradeoff",
+      "explanation": "Inference choices balance output quality against response time and token-based costs. This is why cost and latency tradeoff fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "cost-and-latency-tradeoff",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is cost and latency tradeoff important when designing or operating a Microsoft solution?",
+      "answer": "Inference choices balance output quality against response time and token-based costs. Use a smaller model for routine classification when it meets accuracy targets.",
+      "explanation": "Applying cost and latency tradeoff helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "cost-and-latency-tradeoff",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing cost and latency tradeoff. Give one concrete use case and explain the underlying idea.",
+      "answer": "Use a smaller model for routine classification when it meets accuracy targets. Inference choices balance output quality against response time and token-based costs.",
+      "explanation": "The use case demonstrates cost and latency tradeoff; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "cost-and-latency-tradeoff",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Responsible tool execution mean in the context of AI901?",
+      "answer": "Actions triggered by AI should use least privilege and appropriate approval gates.",
+      "explanation": "This is a foundational concept assessed in AI901. Require confirmation before an agent submits a financial transaction.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-tool-execution",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Require confirmation before an agent submits a financial transaction.",
+      "answer": "Responsible tool execution",
+      "explanation": "Actions triggered by AI should use least privilege and appropriate approval gates. This is why responsible tool execution fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-tool-execution",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is responsible tool execution important when designing or operating a Microsoft solution?",
+      "answer": "Actions triggered by AI should use least privilege and appropriate approval gates. Require confirmation before an agent submits a financial transaction.",
+      "explanation": "Applying responsible tool execution helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-tool-execution",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing responsible tool execution. Give one concrete use case and explain the underlying idea.",
+      "answer": "Require confirmation before an agent submits a financial transaction. Actions triggered by AI should use least privilege and appropriate approval gates.",
+      "explanation": "The use case demonstrates responsible tool execution; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "responsible-tool-execution",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Python client basics mean in the context of AI901?",
+      "answer": "A Python AI client typically supplies authentication, an endpoint, and request payloads.",
+      "explanation": "This is a foundational concept assessed in AI901. Initialize an SDK client and handle its response and exceptions.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "python-client-basics",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Initialize an SDK client and handle its response and exceptions.",
+      "answer": "Python client basics",
+      "explanation": "A Python AI client typically supplies authentication, an endpoint, and request payloads. This is why python client basics fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "python-client-basics",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is python client basics important when designing or operating a Microsoft solution?",
+      "answer": "A Python AI client typically supplies authentication, an endpoint, and request payloads. Initialize an SDK client and handle its response and exceptions.",
+      "explanation": "Applying python client basics helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "python-client-basics",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing python client basics. Give one concrete use case and explain the underlying idea.",
+      "answer": "Initialize an SDK client and handle its response and exceptions. A Python AI client typically supplies authentication, an endpoint, and request payloads.",
+      "explanation": "The use case demonstrates python client basics; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "python-client-basics",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Secrets management mean in the context of AI901?",
+      "answer": "Secrets management protects keys and credentials through restricted storage and rotation.",
+      "explanation": "This is a foundational concept assessed in AI901. Put API keys in Azure Key Vault instead of a shared notebook.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "secrets-management",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Put API keys in Azure Key Vault instead of a shared notebook.",
+      "answer": "Secrets management",
+      "explanation": "Secrets management protects keys and credentials through restricted storage and rotation. This is why secrets management fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "secrets-management",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is secrets management important when designing or operating a Microsoft solution?",
+      "answer": "Secrets management protects keys and credentials through restricted storage and rotation. Put API keys in Azure Key Vault instead of a shared notebook.",
+      "explanation": "Applying secrets management helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "secrets-management",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing secrets management. Give one concrete use case and explain the underlying idea.",
+      "answer": "Put API keys in Azure Key Vault instead of a shared notebook. Secrets management protects keys and credentials through restricted storage and rotation.",
+      "explanation": "The use case demonstrates secrets management; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "secrets-management",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Error handling mean in the context of AI901?",
+      "answer": "Robust AI clients handle timeouts, throttling, invalid input, and service failures.",
+      "explanation": "This is a foundational concept assessed in AI901. Add bounded retries for temporary HTTP errors while respecting rate limits.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "error-handling",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Add bounded retries for temporary HTTP errors while respecting rate limits.",
+      "answer": "Error handling",
+      "explanation": "Robust AI clients handle timeouts, throttling, invalid input, and service failures. This is why error handling fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "error-handling",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is error handling important when designing or operating a Microsoft solution?",
+      "answer": "Robust AI clients handle timeouts, throttling, invalid input, and service failures. Add bounded retries for temporary HTTP errors while respecting rate limits.",
+      "explanation": "Applying error handling helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "error-handling",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing error handling. Give one concrete use case and explain the underlying idea.",
+      "answer": "Add bounded retries for temporary HTTP errors while respecting rate limits. Robust AI clients handle timeouts, throttling, invalid input, and service failures.",
+      "explanation": "The use case demonstrates error handling; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "error-handling",
+        "application"
+      ]
+    },
+    {
+      "question": "What does Information extraction pipeline mean in the context of AI901?",
+      "answer": "An extraction pipeline ingests files, applies AI analysis, validates results, and stores structured output.",
+      "explanation": "This is a foundational concept assessed in AI901. Route extracted document fields to a business workflow after checks.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "information-extraction-pipeline",
+        "concept"
+      ]
+    },
+    {
+      "question": "Which concept best fits this business or technical scenario: Route extracted document fields to a business workflow after checks.",
+      "answer": "Information extraction pipeline",
+      "explanation": "An extraction pipeline ingests files, applies AI analysis, validates results, and stores structured output. This is why information extraction pipeline fits the scenario.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "information-extraction-pipeline",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Why is information extraction pipeline important when designing or operating a Microsoft solution?",
+      "answer": "An extraction pipeline ingests files, applies AI analysis, validates results, and stores structured output. Route extracted document fields to a business workflow after checks.",
+      "explanation": "Applying information extraction pipeline helps teams choose an appropriate design and avoid confusing it with adjacent capabilities.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "information-extraction-pipeline",
+        "rationale"
+      ]
+    },
+    {
+      "question": "An exam candidate is reviewing information extraction pipeline. Give one concrete use case and explain the underlying idea.",
+      "answer": "Route extracted document fields to a business workflow after checks. An extraction pipeline ingests files, applies AI analysis, validates results, and stores structured output.",
+      "explanation": "The use case demonstrates information extraction pipeline; the concept should be applied only where its requirements are satisfied.",
+      "language": "en",
+      "tags": [
+        "ai901",
+        "information-extraction-pipeline",
+        "application"
+      ]
+    }
+  ]
+}

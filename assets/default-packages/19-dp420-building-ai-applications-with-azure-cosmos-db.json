@@ -1,0 +1,2207 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "DP420 Building AI Applications with Azure Cosmos DB",
+  "cards": [
+    {
+      "question": "What type of database is Azure Cosmos DB for NoSQL?",
+      "answer": "A globally distributed, scalable NoSQL database service suitable for low-latency applications.",
+      "explanation": "A globally distributed, scalable NoSQL database service suitable for low-latency applications. This is a core concept within cosmos db role.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cosmos-db-role",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing cosmos db role. What type of database is Azure Cosmos DB for NoSQL?",
+      "answer": "A globally distributed, scalable NoSQL database service suitable for low-latency applications.",
+      "explanation": "The correct consideration is: A globally distributed, scalable NoSQL database service suitable for low-latency applications. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cosmos-db-role",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about cosmos db role: What type of database is Azure Cosmos DB for NoSQL?",
+      "answer": "A globally distributed, scalable NoSQL database service suitable for low-latency applications.",
+      "explanation": "A globally distributed, scalable NoSQL database service suitable for low-latency applications. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cosmos-db-role",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on cosmos db role, answer the following: What type of database is Azure Cosmos DB for NoSQL?",
+      "answer": "A globally distributed, scalable NoSQL database service suitable for low-latency applications.",
+      "explanation": "A globally distributed, scalable NoSQL database service suitable for low-latency applications. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cosmos-db-role",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is an item in an Azure Cosmos DB for NoSQL container?",
+      "answer": "A JSON document stored within a logical partition.",
+      "explanation": "A JSON document stored within a logical partition. This is a core concept within items.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "items",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing items. What is an item in an Azure Cosmos DB for NoSQL container?",
+      "answer": "A JSON document stored within a logical partition.",
+      "explanation": "The correct consideration is: A JSON document stored within a logical partition. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "items",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about items: What is an item in an Azure Cosmos DB for NoSQL container?",
+      "answer": "A JSON document stored within a logical partition.",
+      "explanation": "A JSON document stored within a logical partition. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "items",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on items, answer the following: What is an item in an Azure Cosmos DB for NoSQL container?",
+      "answer": "A JSON document stored within a logical partition.",
+      "explanation": "A JSON document stored within a logical partition. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "items",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does a Cosmos DB container hold?",
+      "answer": "Items grouped under a partitioning and throughput configuration.",
+      "explanation": "Items grouped under a partitioning and throughput configuration. This is a core concept within container.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "container",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing container. What does a Cosmos DB container hold?",
+      "answer": "Items grouped under a partitioning and throughput configuration.",
+      "explanation": "The correct consideration is: Items grouped under a partitioning and throughput configuration. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "container",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about container: What does a Cosmos DB container hold?",
+      "answer": "Items grouped under a partitioning and throughput configuration.",
+      "explanation": "Items grouped under a partitioning and throughput configuration. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "container",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on container, answer the following: What does a Cosmos DB container hold?",
+      "answer": "Items grouped under a partitioning and throughput configuration.",
+      "explanation": "Items grouped under a partitioning and throughput configuration. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "container",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why is the partition key important in Cosmos DB?",
+      "answer": "It determines data distribution and affects scalability and query efficiency.",
+      "explanation": "It determines data distribution and affects scalability and query efficiency. This is a core concept within partition key.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "partition-key",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing partition key. Why is the partition key important in Cosmos DB?",
+      "answer": "It determines data distribution and affects scalability and query efficiency.",
+      "explanation": "The correct consideration is: It determines data distribution and affects scalability and query efficiency. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "partition-key",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about partition key: Why is the partition key important in Cosmos DB?",
+      "answer": "It determines data distribution and affects scalability and query efficiency.",
+      "explanation": "It determines data distribution and affects scalability and query efficiency. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "partition-key",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on partition key, answer the following: Why is the partition key important in Cosmos DB?",
+      "answer": "It determines data distribution and affects scalability and query efficiency.",
+      "explanation": "It determines data distribution and affects scalability and query efficiency. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "partition-key",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a hot partition?",
+      "answer": "A partition receiving disproportionate traffic that can limit performance.",
+      "explanation": "A partition receiving disproportionate traffic that can limit performance. This is a core concept within hot partition.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hot-partition",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing hot partition. What is a hot partition?",
+      "answer": "A partition receiving disproportionate traffic that can limit performance.",
+      "explanation": "The correct consideration is: A partition receiving disproportionate traffic that can limit performance. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hot-partition",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about hot partition: What is a hot partition?",
+      "answer": "A partition receiving disproportionate traffic that can limit performance.",
+      "explanation": "A partition receiving disproportionate traffic that can limit performance. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hot-partition",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on hot partition, answer the following: What is a hot partition?",
+      "answer": "A partition receiving disproportionate traffic that can limit performance.",
+      "explanation": "A partition receiving disproportionate traffic that can limit performance. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hot-partition",
+        "practice"
+      ]
+    },
+    {
+      "question": "What defines a logical partition?",
+      "answer": "All items sharing the same partition key value.",
+      "explanation": "All items sharing the same partition key value. This is a core concept within logical partition.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "logical-partition",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing logical partition. What defines a logical partition?",
+      "answer": "All items sharing the same partition key value.",
+      "explanation": "The correct consideration is: All items sharing the same partition key value. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "logical-partition",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about logical partition: What defines a logical partition?",
+      "answer": "All items sharing the same partition key value.",
+      "explanation": "All items sharing the same partition key value. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "logical-partition",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on logical partition, answer the following: What defines a logical partition?",
+      "answer": "All items sharing the same partition key value.",
+      "explanation": "All items sharing the same partition key value. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "logical-partition",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a benefit of hierarchical partition keys where supported?",
+      "answer": "They support more flexible large-scale distribution based on multiple partition levels.",
+      "explanation": "They support more flexible large-scale distribution based on multiple partition levels. This is a core concept within hierarchical partition keys.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hierarchical-partition-keys",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing hierarchical partition keys. What is a benefit of hierarchical partition keys where supported?",
+      "answer": "They support more flexible large-scale distribution based on multiple partition levels.",
+      "explanation": "The correct consideration is: They support more flexible large-scale distribution based on multiple partition levels. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hierarchical-partition-keys",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about hierarchical partition keys: What is a benefit of hierarchical partition keys where supported?",
+      "answer": "They support more flexible large-scale distribution based on multiple partition levels.",
+      "explanation": "They support more flexible large-scale distribution based on multiple partition levels. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hierarchical-partition-keys",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on hierarchical partition keys, answer the following: What is a benefit of hierarchical partition keys where supported?",
+      "answer": "They support more flexible large-scale distribution based on multiple partition levels.",
+      "explanation": "They support more flexible large-scale distribution based on multiple partition levels. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hierarchical-partition-keys",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a Request Unit in Azure Cosmos DB?",
+      "answer": "An abstract measure of the resources consumed to perform a database operation.",
+      "explanation": "An abstract measure of the resources consumed to perform a database operation. This is a core concept within ru.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ru",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing ru. What is a Request Unit in Azure Cosmos DB?",
+      "answer": "An abstract measure of the resources consumed to perform a database operation.",
+      "explanation": "The correct consideration is: An abstract measure of the resources consumed to perform a database operation. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ru",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about ru: What is a Request Unit in Azure Cosmos DB?",
+      "answer": "An abstract measure of the resources consumed to perform a database operation.",
+      "explanation": "An abstract measure of the resources consumed to perform a database operation. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ru",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on ru, answer the following: What is a Request Unit in Azure Cosmos DB?",
+      "answer": "An abstract measure of the resources consumed to perform a database operation.",
+      "explanation": "An abstract measure of the resources consumed to perform a database operation. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ru",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why estimate Request Unit consumption?",
+      "answer": "To plan throughput capacity and manage database costs.",
+      "explanation": "To plan throughput capacity and manage database costs. This is a core concept within ru budgeting.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ru-budgeting",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing ru budgeting. Why estimate Request Unit consumption?",
+      "answer": "To plan throughput capacity and manage database costs.",
+      "explanation": "The correct consideration is: To plan throughput capacity and manage database costs. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ru-budgeting",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about ru budgeting: Why estimate Request Unit consumption?",
+      "answer": "To plan throughput capacity and manage database costs.",
+      "explanation": "To plan throughput capacity and manage database costs. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ru-budgeting",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on ru budgeting, answer the following: Why estimate Request Unit consumption?",
+      "answer": "To plan throughput capacity and manage database costs.",
+      "explanation": "To plan throughput capacity and manage database costs. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ru-budgeting",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does provisioned throughput configure?",
+      "answer": "A selected number of Request Units per second available to a resource.",
+      "explanation": "A selected number of Request Units per second available to a resource. This is a core concept within provisioned throughput.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "provisioned-throughput",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing provisioned throughput. What does provisioned throughput configure?",
+      "answer": "A selected number of Request Units per second available to a resource.",
+      "explanation": "The correct consideration is: A selected number of Request Units per second available to a resource. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "provisioned-throughput",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about provisioned throughput: What does provisioned throughput configure?",
+      "answer": "A selected number of Request Units per second available to a resource.",
+      "explanation": "A selected number of Request Units per second available to a resource. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "provisioned-throughput",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on provisioned throughput, answer the following: What does provisioned throughput configure?",
+      "answer": "A selected number of Request Units per second available to a resource.",
+      "explanation": "A selected number of Request Units per second available to a resource. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "provisioned-throughput",
+        "practice"
+      ]
+    },
+    {
+      "question": "When is autoscale throughput useful?",
+      "answer": "When traffic varies and the system should adjust throughput within a configured range.",
+      "explanation": "When traffic varies and the system should adjust throughput within a configured range. This is a core concept within autoscale throughput.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "autoscale-throughput",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing autoscale throughput. When is autoscale throughput useful?",
+      "answer": "When traffic varies and the system should adjust throughput within a configured range.",
+      "explanation": "The correct consideration is: When traffic varies and the system should adjust throughput within a configured range. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "autoscale-throughput",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about autoscale throughput: When is autoscale throughput useful?",
+      "answer": "When traffic varies and the system should adjust throughput within a configured range.",
+      "explanation": "When traffic varies and the system should adjust throughput within a configured range. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "autoscale-throughput",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on autoscale throughput, answer the following: When is autoscale throughput useful?",
+      "answer": "When traffic varies and the system should adjust throughput within a configured range.",
+      "explanation": "When traffic varies and the system should adjust throughput within a configured range. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "autoscale-throughput",
+        "practice"
+      ]
+    },
+    {
+      "question": "When consider serverless Cosmos DB throughput?",
+      "answer": "For eligible intermittent workloads with low sustained traffic and pay-per-operation preferences.",
+      "explanation": "For eligible intermittent workloads with low sustained traffic and pay-per-operation preferences. This is a core concept within serverless.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "serverless",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing serverless. When consider serverless Cosmos DB throughput?",
+      "answer": "For eligible intermittent workloads with low sustained traffic and pay-per-operation preferences.",
+      "explanation": "The correct consideration is: For eligible intermittent workloads with low sustained traffic and pay-per-operation preferences. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "serverless",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about serverless: When consider serverless Cosmos DB throughput?",
+      "answer": "For eligible intermittent workloads with low sustained traffic and pay-per-operation preferences.",
+      "explanation": "For eligible intermittent workloads with low sustained traffic and pay-per-operation preferences. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "serverless",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on serverless, answer the following: When consider serverless Cosmos DB throughput?",
+      "answer": "For eligible intermittent workloads with low sustained traffic and pay-per-operation preferences.",
+      "explanation": "For eligible intermittent workloads with low sustained traffic and pay-per-operation preferences. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "serverless",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a point read in Cosmos DB?",
+      "answer": "Reading an item directly using its item ID and partition key.",
+      "explanation": "Reading an item directly using its item ID and partition key. This is a core concept within point read.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "point-read",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing point read. What is a point read in Cosmos DB?",
+      "answer": "Reading an item directly using its item ID and partition key.",
+      "explanation": "The correct consideration is: Reading an item directly using its item ID and partition key. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "point-read",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about point read: What is a point read in Cosmos DB?",
+      "answer": "Reading an item directly using its item ID and partition key.",
+      "explanation": "Reading an item directly using its item ID and partition key. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "point-read",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on point read, answer the following: What is a point read in Cosmos DB?",
+      "answer": "Reading an item directly using its item ID and partition key.",
+      "explanation": "Reading an item directly using its item ID and partition key. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "point-read",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why can point reads be cheaper than general queries?",
+      "answer": "They avoid query execution by directly locating a specific item.",
+      "explanation": "They avoid query execution by directly locating a specific item. This is a core concept within efficient reads.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "efficient-reads",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing efficient reads. Why can point reads be cheaper than general queries?",
+      "answer": "They avoid query execution by directly locating a specific item.",
+      "explanation": "The correct consideration is: They avoid query execution by directly locating a specific item. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "efficient-reads",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about efficient reads: Why can point reads be cheaper than general queries?",
+      "answer": "They avoid query execution by directly locating a specific item.",
+      "explanation": "They avoid query execution by directly locating a specific item. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "efficient-reads",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on efficient reads, answer the following: Why can point reads be cheaper than general queries?",
+      "answer": "They avoid query execution by directly locating a specific item.",
+      "explanation": "They avoid query execution by directly locating a specific item. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "efficient-reads",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why parameterize Cosmos DB SQL queries?",
+      "answer": "To separate supplied values from query logic and avoid manual string concatenation.",
+      "explanation": "To separate supplied values from query logic and avoid manual string concatenation. This is a core concept within parameterized query.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "parameterized-query",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing parameterized query. Why parameterize Cosmos DB SQL queries?",
+      "answer": "To separate supplied values from query logic and avoid manual string concatenation.",
+      "explanation": "The correct consideration is: To separate supplied values from query logic and avoid manual string concatenation. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "parameterized-query",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about parameterized query: Why parameterize Cosmos DB SQL queries?",
+      "answer": "To separate supplied values from query logic and avoid manual string concatenation.",
+      "explanation": "To separate supplied values from query logic and avoid manual string concatenation. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "parameterized-query",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on parameterized query, answer the following: Why parameterize Cosmos DB SQL queries?",
+      "answer": "To separate supplied values from query logic and avoid manual string concatenation.",
+      "explanation": "To separate supplied values from query logic and avoid manual string concatenation. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "parameterized-query",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a query continuation token?",
+      "answer": "A marker used to resume retrieval of additional query result pages.",
+      "explanation": "A marker used to resume retrieval of additional query result pages. This is a core concept within continuation token.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "continuation-token",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing continuation token. What is a query continuation token?",
+      "answer": "A marker used to resume retrieval of additional query result pages.",
+      "explanation": "The correct consideration is: A marker used to resume retrieval of additional query result pages. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "continuation-token",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about continuation token: What is a query continuation token?",
+      "answer": "A marker used to resume retrieval of additional query result pages.",
+      "explanation": "A marker used to resume retrieval of additional query result pages. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "continuation-token",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on continuation token, answer the following: What is a query continuation token?",
+      "answer": "A marker used to resume retrieval of additional query result pages.",
+      "explanation": "A marker used to resume retrieval of additional query result pages. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "continuation-token",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does a patch operation do?",
+      "answer": "Modifies selected properties of an item without replacing the whole document.",
+      "explanation": "Modifies selected properties of an item without replacing the whole document. This is a core concept within patch.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "patch",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing patch. What does a patch operation do?",
+      "answer": "Modifies selected properties of an item without replacing the whole document.",
+      "explanation": "The correct consideration is: Modifies selected properties of an item without replacing the whole document. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "patch",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about patch: What does a patch operation do?",
+      "answer": "Modifies selected properties of an item without replacing the whole document.",
+      "explanation": "Modifies selected properties of an item without replacing the whole document. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "patch",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on patch, answer the following: What does a patch operation do?",
+      "answer": "Modifies selected properties of an item without replacing the whole document.",
+      "explanation": "Modifies selected properties of an item without replacing the whole document. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "patch",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is the scope of a Cosmos DB transactional batch?",
+      "answer": "Multiple operations within the same logical partition that succeed or fail atomically.",
+      "explanation": "Multiple operations within the same logical partition that succeed or fail atomically. This is a core concept within transactional batch.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "transactional-batch",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing transactional batch. What is the scope of a Cosmos DB transactional batch?",
+      "answer": "Multiple operations within the same logical partition that succeed or fail atomically.",
+      "explanation": "The correct consideration is: Multiple operations within the same logical partition that succeed or fail atomically. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "transactional-batch",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about transactional batch: What is the scope of a Cosmos DB transactional batch?",
+      "answer": "Multiple operations within the same logical partition that succeed or fail atomically.",
+      "explanation": "Multiple operations within the same logical partition that succeed or fail atomically. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "transactional-batch",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on transactional batch, answer the following: What is the scope of a Cosmos DB transactional batch?",
+      "answer": "Multiple operations within the same logical partition that succeed or fail atomically.",
+      "explanation": "Multiple operations within the same logical partition that succeed or fail atomically. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "transactional-batch",
+        "practice"
+      ]
+    },
+    {
+      "question": "How are ETags useful?",
+      "answer": "They support conditional updates that detect conflicting item modifications.",
+      "explanation": "They support conditional updates that detect conflicting item modifications. This is a core concept within optimistic concurrency.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "optimistic-concurrency",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing optimistic concurrency. How are ETags useful?",
+      "answer": "They support conditional updates that detect conflicting item modifications.",
+      "explanation": "The correct consideration is: They support conditional updates that detect conflicting item modifications. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "optimistic-concurrency",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about optimistic concurrency: How are ETags useful?",
+      "answer": "They support conditional updates that detect conflicting item modifications.",
+      "explanation": "They support conditional updates that detect conflicting item modifications. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "optimistic-concurrency",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on optimistic concurrency, answer the following: How are ETags useful?",
+      "answer": "They support conditional updates that detect conflicting item modifications.",
+      "explanation": "They support conditional updates that detect conflicting item modifications. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "optimistic-concurrency",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does time to live control?",
+      "answer": "Automatic expiration and deletion of eligible items after a specified period.",
+      "explanation": "Automatic expiration and deletion of eligible items after a specified period. This is a core concept within ttl.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ttl",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing ttl. What does time to live control?",
+      "answer": "Automatic expiration and deletion of eligible items after a specified period.",
+      "explanation": "The correct consideration is: Automatic expiration and deletion of eligible items after a specified period. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ttl",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about ttl: What does time to live control?",
+      "answer": "Automatic expiration and deletion of eligible items after a specified period.",
+      "explanation": "Automatic expiration and deletion of eligible items after a specified period. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ttl",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on ttl, answer the following: What does time to live control?",
+      "answer": "Automatic expiration and deletion of eligible items after a specified period.",
+      "explanation": "Automatic expiration and deletion of eligible items after a specified period. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "ttl",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does the Cosmos DB change feed support?",
+      "answer": "Processing records of changes to items for downstream applications.",
+      "explanation": "Processing records of changes to items for downstream applications. This is a core concept within change feed.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "change-feed",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing change feed. What does the Cosmos DB change feed support?",
+      "answer": "Processing records of changes to items for downstream applications.",
+      "explanation": "The correct consideration is: Processing records of changes to items for downstream applications. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "change-feed",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about change feed: What does the Cosmos DB change feed support?",
+      "answer": "Processing records of changes to items for downstream applications.",
+      "explanation": "Processing records of changes to items for downstream applications. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "change-feed",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on change feed, answer the following: What does the Cosmos DB change feed support?",
+      "answer": "Processing records of changes to items for downstream applications.",
+      "explanation": "Processing records of changes to items for downstream applications. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "change-feed",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why use a change feed processor?",
+      "answer": "To distribute and checkpoint processing of change events.",
+      "explanation": "To distribute and checkpoint processing of change events. This is a core concept within change feed processor.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "change-feed-processor",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing change feed processor. Why use a change feed processor?",
+      "answer": "To distribute and checkpoint processing of change events.",
+      "explanation": "The correct consideration is: To distribute and checkpoint processing of change events. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "change-feed-processor",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about change feed processor: Why use a change feed processor?",
+      "answer": "To distribute and checkpoint processing of change events.",
+      "explanation": "To distribute and checkpoint processing of change events. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "change-feed-processor",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on change feed processor, answer the following: Why use a change feed processor?",
+      "answer": "To distribute and checkpoint processing of change events.",
+      "explanation": "To distribute and checkpoint processing of change events. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "change-feed-processor",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why customize an indexing policy?",
+      "answer": "To balance query performance against write overhead and storage cost.",
+      "explanation": "To balance query performance against write overhead and storage cost. This is a core concept within indexing policy.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "indexing-policy",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing indexing policy. Why customize an indexing policy?",
+      "answer": "To balance query performance against write overhead and storage cost.",
+      "explanation": "The correct consideration is: To balance query performance against write overhead and storage cost. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "indexing-policy",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about indexing policy: Why customize an indexing policy?",
+      "answer": "To balance query performance against write overhead and storage cost.",
+      "explanation": "To balance query performance against write overhead and storage cost. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "indexing-policy",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on indexing policy, answer the following: Why customize an indexing policy?",
+      "answer": "To balance query performance against write overhead and storage cost.",
+      "explanation": "To balance query performance against write overhead and storage cost. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "indexing-policy",
+        "practice"
+      ]
+    },
+    {
+      "question": "When may a composite index help?",
+      "answer": "For supported queries filtering or ordering by multiple properties.",
+      "explanation": "For supported queries filtering or ordering by multiple properties. This is a core concept within composite index.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "composite-index",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing composite index. When may a composite index help?",
+      "answer": "For supported queries filtering or ordering by multiple properties.",
+      "explanation": "The correct consideration is: For supported queries filtering or ordering by multiple properties. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "composite-index",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about composite index: When may a composite index help?",
+      "answer": "For supported queries filtering or ordering by multiple properties.",
+      "explanation": "For supported queries filtering or ordering by multiple properties. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "composite-index",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on composite index, answer the following: When may a composite index help?",
+      "answer": "For supported queries filtering or ordering by multiple properties.",
+      "explanation": "For supported queries filtering or ordering by multiple properties. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "composite-index",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do Cosmos DB query metrics help reveal?",
+      "answer": "Execution cost, indexing behavior, and areas for query optimization.",
+      "explanation": "Execution cost, indexing behavior, and areas for query optimization. This is a core concept within query diagnostics.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "query-diagnostics",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing query diagnostics. What do Cosmos DB query metrics help reveal?",
+      "answer": "Execution cost, indexing behavior, and areas for query optimization.",
+      "explanation": "The correct consideration is: Execution cost, indexing behavior, and areas for query optimization. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "query-diagnostics",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about query diagnostics: What do Cosmos DB query metrics help reveal?",
+      "answer": "Execution cost, indexing behavior, and areas for query optimization.",
+      "explanation": "Execution cost, indexing behavior, and areas for query optimization. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "query-diagnostics",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on query diagnostics, answer the following: What do Cosmos DB query metrics help reveal?",
+      "answer": "Execution cost, indexing behavior, and areas for query optimization.",
+      "explanation": "Execution cost, indexing behavior, and areas for query optimization. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "query-diagnostics",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why choose a consistency level carefully?",
+      "answer": "It balances freshness and ordering guarantees against availability and latency.",
+      "explanation": "It balances freshness and ordering guarantees against availability and latency. This is a core concept within consistency levels.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "consistency-levels",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing consistency levels. Why choose a consistency level carefully?",
+      "answer": "It balances freshness and ordering guarantees against availability and latency.",
+      "explanation": "The correct consideration is: It balances freshness and ordering guarantees against availability and latency. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "consistency-levels",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about consistency levels: Why choose a consistency level carefully?",
+      "answer": "It balances freshness and ordering guarantees against availability and latency.",
+      "explanation": "It balances freshness and ordering guarantees against availability and latency. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "consistency-levels",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on consistency levels, answer the following: Why choose a consistency level carefully?",
+      "answer": "It balances freshness and ordering guarantees against availability and latency.",
+      "explanation": "It balances freshness and ordering guarantees against availability and latency. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "consistency-levels",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does strong consistency guarantee in supported configurations?",
+      "answer": "Reads observe the most recently committed write.",
+      "explanation": "Reads observe the most recently committed write. This is a core concept within strong consistency.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "strong-consistency",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing strong consistency. What does strong consistency guarantee in supported configurations?",
+      "answer": "Reads observe the most recently committed write.",
+      "explanation": "The correct consideration is: Reads observe the most recently committed write. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "strong-consistency",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about strong consistency: What does strong consistency guarantee in supported configurations?",
+      "answer": "Reads observe the most recently committed write.",
+      "explanation": "Reads observe the most recently committed write. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "strong-consistency",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on strong consistency, answer the following: What does strong consistency guarantee in supported configurations?",
+      "answer": "Reads observe the most recently committed write.",
+      "explanation": "Reads observe the most recently committed write. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "strong-consistency",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does eventual consistency allow?",
+      "answer": "Replicas may temporarily return older data but converge when updates stop.",
+      "explanation": "Replicas may temporarily return older data but converge when updates stop. This is a core concept within eventual consistency.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "eventual-consistency",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing eventual consistency. What does eventual consistency allow?",
+      "answer": "Replicas may temporarily return older data but converge when updates stop.",
+      "explanation": "The correct consideration is: Replicas may temporarily return older data but converge when updates stop. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "eventual-consistency",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about eventual consistency: What does eventual consistency allow?",
+      "answer": "Replicas may temporarily return older data but converge when updates stop.",
+      "explanation": "Replicas may temporarily return older data but converge when updates stop. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "eventual-consistency",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on eventual consistency, answer the following: What does eventual consistency allow?",
+      "answer": "Replicas may temporarily return older data but converge when updates stop.",
+      "explanation": "Replicas may temporarily return older data but converge when updates stop. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "eventual-consistency",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is a common benefit of session consistency?",
+      "answer": "Read-your-writes behavior within the same client session.",
+      "explanation": "Read-your-writes behavior within the same client session. This is a core concept within session consistency.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "session-consistency",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing session consistency. What is a common benefit of session consistency?",
+      "answer": "Read-your-writes behavior within the same client session.",
+      "explanation": "The correct consideration is: Read-your-writes behavior within the same client session. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "session-consistency",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about session consistency: What is a common benefit of session consistency?",
+      "answer": "Read-your-writes behavior within the same client session.",
+      "explanation": "Read-your-writes behavior within the same client session. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "session-consistency",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on session consistency, answer the following: What is a common benefit of session consistency?",
+      "answer": "Read-your-writes behavior within the same client session.",
+      "explanation": "Read-your-writes behavior within the same client session. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "session-consistency",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why replicate Cosmos DB data across regions?",
+      "answer": "To improve locality, resilience, and availability for distributed users.",
+      "explanation": "To improve locality, resilience, and availability for distributed users. This is a core concept within multi-region.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "multi-region",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing multi-region. Why replicate Cosmos DB data across regions?",
+      "answer": "To improve locality, resilience, and availability for distributed users.",
+      "explanation": "The correct consideration is: To improve locality, resilience, and availability for distributed users. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "multi-region",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about multi-region: Why replicate Cosmos DB data across regions?",
+      "answer": "To improve locality, resilience, and availability for distributed users.",
+      "explanation": "To improve locality, resilience, and availability for distributed users. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "multi-region",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on multi-region, answer the following: Why replicate Cosmos DB data across regions?",
+      "answer": "To improve locality, resilience, and availability for distributed users.",
+      "explanation": "To improve locality, resilience, and availability for distributed users. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "multi-region",
+        "practice"
+      ]
+    },
+    {
+      "question": "What should Cosmos DB regional failover planning cover?",
+      "answer": "Preferred regions, read/write behavior, consistency, and application retry logic.",
+      "explanation": "Preferred regions, read/write behavior, consistency, and application retry logic. This is a core concept within failover.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "failover",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing failover. What should Cosmos DB regional failover planning cover?",
+      "answer": "Preferred regions, read/write behavior, consistency, and application retry logic.",
+      "explanation": "The correct consideration is: Preferred regions, read/write behavior, consistency, and application retry logic. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "failover",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about failover: What should Cosmos DB regional failover planning cover?",
+      "answer": "Preferred regions, read/write behavior, consistency, and application retry logic.",
+      "explanation": "Preferred regions, read/write behavior, consistency, and application retry logic. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "failover",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on failover, answer the following: What should Cosmos DB regional failover planning cover?",
+      "answer": "Preferred regions, read/write behavior, consistency, and application retry logic.",
+      "explanation": "Preferred regions, read/write behavior, consistency, and application retry logic. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "failover",
+        "practice"
+      ]
+    },
+    {
+      "question": "How should applications react to HTTP 429 responses?",
+      "answer": "Respect retry-after guidance and implement bounded retries with backoff.",
+      "explanation": "Respect retry-after guidance and implement bounded retries with backoff. This is a core concept within retries.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "retries",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing retries. How should applications react to HTTP 429 responses?",
+      "answer": "Respect retry-after guidance and implement bounded retries with backoff.",
+      "explanation": "The correct consideration is: Respect retry-after guidance and implement bounded retries with backoff. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "retries",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about retries: How should applications react to HTTP 429 responses?",
+      "answer": "Respect retry-after guidance and implement bounded retries with backoff.",
+      "explanation": "Respect retry-after guidance and implement bounded retries with backoff. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "retries",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on retries, answer the following: How should applications react to HTTP 429 responses?",
+      "answer": "Respect retry-after guidance and implement bounded retries with backoff.",
+      "explanation": "Respect retry-after guidance and implement bounded retries with backoff. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "retries",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why reuse Cosmos DB SDK client instances?",
+      "answer": "It improves connection reuse and avoids unnecessary resource overhead.",
+      "explanation": "It improves connection reuse and avoids unnecessary resource overhead. This is a core concept within sdk client.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "sdk-client",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing sdk client. Why reuse Cosmos DB SDK client instances?",
+      "answer": "It improves connection reuse and avoids unnecessary resource overhead.",
+      "explanation": "The correct consideration is: It improves connection reuse and avoids unnecessary resource overhead. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "sdk-client",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about sdk client: Why reuse Cosmos DB SDK client instances?",
+      "answer": "It improves connection reuse and avoids unnecessary resource overhead.",
+      "explanation": "It improves connection reuse and avoids unnecessary resource overhead. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "sdk-client",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on sdk client, answer the following: Why reuse Cosmos DB SDK client instances?",
+      "answer": "It improves connection reuse and avoids unnecessary resource overhead.",
+      "explanation": "It improves connection reuse and avoids unnecessary resource overhead. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "sdk-client",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why prefer managed identity to embedded Cosmos DB keys when supported?",
+      "answer": "It reduces secret management and supports identity-based access control.",
+      "explanation": "It reduces secret management and supports identity-based access control. This is a core concept within identity.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "identity",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing identity. Why prefer managed identity to embedded Cosmos DB keys when supported?",
+      "answer": "It reduces secret management and supports identity-based access control.",
+      "explanation": "The correct consideration is: It reduces secret management and supports identity-based access control. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "identity",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about identity: Why prefer managed identity to embedded Cosmos DB keys when supported?",
+      "answer": "It reduces secret management and supports identity-based access control.",
+      "explanation": "It reduces secret management and supports identity-based access control. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "identity",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on identity, answer the following: Why prefer managed identity to embedded Cosmos DB keys when supported?",
+      "answer": "It reduces secret management and supports identity-based access control.",
+      "explanation": "It reduces secret management and supports identity-based access control. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "identity",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does data-plane RBAC control in Cosmos DB?",
+      "answer": "Who can perform eligible data operations on Cosmos DB resources.",
+      "explanation": "Who can perform eligible data operations on Cosmos DB resources. This is a core concept within rbac.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "rbac",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing rbac. What does data-plane RBAC control in Cosmos DB?",
+      "answer": "Who can perform eligible data operations on Cosmos DB resources.",
+      "explanation": "The correct consideration is: Who can perform eligible data operations on Cosmos DB resources. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "rbac",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about rbac: What does data-plane RBAC control in Cosmos DB?",
+      "answer": "Who can perform eligible data operations on Cosmos DB resources.",
+      "explanation": "Who can perform eligible data operations on Cosmos DB resources. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "rbac",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on rbac, answer the following: What does data-plane RBAC control in Cosmos DB?",
+      "answer": "Who can perform eligible data operations on Cosmos DB resources.",
+      "explanation": "Who can perform eligible data operations on Cosmos DB resources. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "rbac",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why configure a private endpoint for a Cosmos DB account?",
+      "answer": "To access the database through private network connectivity.",
+      "explanation": "To access the database through private network connectivity. This is a core concept within private endpoint.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "private-endpoint",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing private endpoint. Why configure a private endpoint for a Cosmos DB account?",
+      "answer": "To access the database through private network connectivity.",
+      "explanation": "The correct consideration is: To access the database through private network connectivity. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "private-endpoint",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about private endpoint: Why configure a private endpoint for a Cosmos DB account?",
+      "answer": "To access the database through private network connectivity.",
+      "explanation": "To access the database through private network connectivity. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "private-endpoint",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on private endpoint, answer the following: Why configure a private endpoint for a Cosmos DB account?",
+      "answer": "To access the database through private network connectivity.",
+      "explanation": "To access the database through private network connectivity. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "private-endpoint",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why encrypt application data at rest and in transit?",
+      "answer": "To protect confidentiality of stored and transmitted information.",
+      "explanation": "To protect confidentiality of stored and transmitted information. This is a core concept within encryption.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "encryption",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing encryption. Why encrypt application data at rest and in transit?",
+      "answer": "To protect confidentiality of stored and transmitted information.",
+      "explanation": "The correct consideration is: To protect confidentiality of stored and transmitted information. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "encryption",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about encryption: Why encrypt application data at rest and in transit?",
+      "answer": "To protect confidentiality of stored and transmitted information.",
+      "explanation": "To protect confidentiality of stored and transmitted information. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "encryption",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on encryption, answer the following: Why encrypt application data at rest and in transit?",
+      "answer": "To protect confidentiality of stored and transmitted information.",
+      "explanation": "To protect confidentiality of stored and transmitted information. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "encryption",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why define backup and restore requirements for Cosmos DB?",
+      "answer": "To recover from supported accidental deletion or data-loss scenarios.",
+      "explanation": "To recover from supported accidental deletion or data-loss scenarios. This is a core concept within backup.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "backup",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing backup. Why define backup and restore requirements for Cosmos DB?",
+      "answer": "To recover from supported accidental deletion or data-loss scenarios.",
+      "explanation": "The correct consideration is: To recover from supported accidental deletion or data-loss scenarios. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "backup",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about backup: Why define backup and restore requirements for Cosmos DB?",
+      "answer": "To recover from supported accidental deletion or data-loss scenarios.",
+      "explanation": "To recover from supported accidental deletion or data-loss scenarios. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "backup",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on backup, answer the following: Why define backup and restore requirements for Cosmos DB?",
+      "answer": "To recover from supported accidental deletion or data-loss scenarios.",
+      "explanation": "To recover from supported accidental deletion or data-loss scenarios. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "backup",
+        "practice"
+      ]
+    },
+    {
+      "question": "What do vector embeddings represent in AI applications?",
+      "answer": "Numerical representations of semantic meaning used for similarity comparisons.",
+      "explanation": "Numerical representations of semantic meaning used for similarity comparisons. This is a core concept within vector embeddings.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "vector-embeddings",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing vector embeddings. What do vector embeddings represent in AI applications?",
+      "answer": "Numerical representations of semantic meaning used for similarity comparisons.",
+      "explanation": "The correct consideration is: Numerical representations of semantic meaning used for similarity comparisons. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "vector-embeddings",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about vector embeddings: What do vector embeddings represent in AI applications?",
+      "answer": "Numerical representations of semantic meaning used for similarity comparisons.",
+      "explanation": "Numerical representations of semantic meaning used for similarity comparisons. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "vector-embeddings",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on vector embeddings, answer the following: What do vector embeddings represent in AI applications?",
+      "answer": "Numerical representations of semantic meaning used for similarity comparisons.",
+      "explanation": "Numerical representations of semantic meaning used for similarity comparisons. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "vector-embeddings",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is vector search used for?",
+      "answer": "Retrieving items with embeddings similar to a query vector.",
+      "explanation": "Retrieving items with embeddings similar to a query vector. This is a core concept within vector search.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "vector-search",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing vector search. What is vector search used for?",
+      "answer": "Retrieving items with embeddings similar to a query vector.",
+      "explanation": "The correct consideration is: Retrieving items with embeddings similar to a query vector. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "vector-search",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about vector search: What is vector search used for?",
+      "answer": "Retrieving items with embeddings similar to a query vector.",
+      "explanation": "Retrieving items with embeddings similar to a query vector. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "vector-search",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on vector search, answer the following: What is vector search used for?",
+      "answer": "Retrieving items with embeddings similar to a query vector.",
+      "explanation": "Retrieving items with embeddings similar to a query vector. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "vector-search",
+        "practice"
+      ]
+    },
+    {
+      "question": "What does retrieval-augmented generation add to an AI application?",
+      "answer": "It retrieves relevant data and supplies it as grounding context for model generation.",
+      "explanation": "It retrieves relevant data and supplies it as grounding context for model generation. This is a core concept within rag.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "rag",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing rag. What does retrieval-augmented generation add to an AI application?",
+      "answer": "It retrieves relevant data and supplies it as grounding context for model generation.",
+      "explanation": "The correct consideration is: It retrieves relevant data and supplies it as grounding context for model generation. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "rag",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about rag: What does retrieval-augmented generation add to an AI application?",
+      "answer": "It retrieves relevant data and supplies it as grounding context for model generation.",
+      "explanation": "It retrieves relevant data and supplies it as grounding context for model generation. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "rag",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on rag, answer the following: What does retrieval-augmented generation add to an AI application?",
+      "answer": "It retrieves relevant data and supplies it as grounding context for model generation.",
+      "explanation": "It retrieves relevant data and supplies it as grounding context for model generation. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "rag",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why keep retrieval data trustworthy and current?",
+      "answer": "Outdated or irrelevant context can reduce answer accuracy.",
+      "explanation": "Outdated or irrelevant context can reduce answer accuracy. This is a core concept within grounding data.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "grounding-data",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing grounding data. Why keep retrieval data trustworthy and current?",
+      "answer": "Outdated or irrelevant context can reduce answer accuracy.",
+      "explanation": "The correct consideration is: Outdated or irrelevant context can reduce answer accuracy. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "grounding-data",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about grounding data: Why keep retrieval data trustworthy and current?",
+      "answer": "Outdated or irrelevant context can reduce answer accuracy.",
+      "explanation": "Outdated or irrelevant context can reduce answer accuracy. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "grounding-data",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on grounding data, answer the following: Why keep retrieval data trustworthy and current?",
+      "answer": "Outdated or irrelevant context can reduce answer accuracy.",
+      "explanation": "Outdated or irrelevant context can reduce answer accuracy. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "grounding-data",
+        "practice"
+      ]
+    },
+    {
+      "question": "How can Cosmos DB support an AI agent's memory?",
+      "answer": "Store conversation state, task context, and durable application records.",
+      "explanation": "Store conversation state, task context, and durable application records. This is a core concept within agent memory.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "agent-memory",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing agent memory. How can Cosmos DB support an AI agent's memory?",
+      "answer": "Store conversation state, task context, and durable application records.",
+      "explanation": "The correct consideration is: Store conversation state, task context, and durable application records. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "agent-memory",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about agent memory: How can Cosmos DB support an AI agent's memory?",
+      "answer": "Store conversation state, task context, and durable application records.",
+      "explanation": "Store conversation state, task context, and durable application records. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "agent-memory",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on agent memory, answer the following: How can Cosmos DB support an AI agent's memory?",
+      "answer": "Store conversation state, task context, and durable application records.",
+      "explanation": "Store conversation state, task context, and durable application records. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "agent-memory",
+        "practice"
+      ]
+    },
+    {
+      "question": "What should conversation-state design consider?",
+      "answer": "Partitioning, privacy, retention, and efficient retrieval by conversation or user.",
+      "explanation": "Partitioning, privacy, retention, and efficient retrieval by conversation or user. This is a core concept within conversation state.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "conversation-state",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing conversation state. What should conversation-state design consider?",
+      "answer": "Partitioning, privacy, retention, and efficient retrieval by conversation or user.",
+      "explanation": "The correct consideration is: Partitioning, privacy, retention, and efficient retrieval by conversation or user. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "conversation-state",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about conversation state: What should conversation-state design consider?",
+      "answer": "Partitioning, privacy, retention, and efficient retrieval by conversation or user.",
+      "explanation": "Partitioning, privacy, retention, and efficient retrieval by conversation or user. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "conversation-state",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on conversation state, answer the following: What should conversation-state design consider?",
+      "answer": "Partitioning, privacy, retention, and efficient retrieval by conversation or user.",
+      "explanation": "Partitioning, privacy, retention, and efficient retrieval by conversation or user. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "conversation-state",
+        "practice"
+      ]
+    },
+    {
+      "question": "What is the value of combining keyword and vector retrieval?",
+      "answer": "It can match both explicit terms and semantic similarity.",
+      "explanation": "It can match both explicit terms and semantic similarity. This is a core concept within hybrid retrieval.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hybrid-retrieval",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing hybrid retrieval. What is the value of combining keyword and vector retrieval?",
+      "answer": "It can match both explicit terms and semantic similarity.",
+      "explanation": "The correct consideration is: It can match both explicit terms and semantic similarity. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hybrid-retrieval",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about hybrid retrieval: What is the value of combining keyword and vector retrieval?",
+      "answer": "It can match both explicit terms and semantic similarity.",
+      "explanation": "It can match both explicit terms and semantic similarity. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hybrid-retrieval",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on hybrid retrieval, answer the following: What is the value of combining keyword and vector retrieval?",
+      "answer": "It can match both explicit terms and semantic similarity.",
+      "explanation": "It can match both explicit terms and semantic similarity. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "hybrid-retrieval",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why integrate operational Cosmos DB data with Microsoft Fabric?",
+      "answer": "To support analytical queries and insights without redesigning the transactional application.",
+      "explanation": "To support analytical queries and insights without redesigning the transactional application. This is a core concept within cosmos db and fabric.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cosmos-db-and-fabric",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing cosmos db and fabric. Why integrate operational Cosmos DB data with Microsoft Fabric?",
+      "answer": "To support analytical queries and insights without redesigning the transactional application.",
+      "explanation": "The correct consideration is: To support analytical queries and insights without redesigning the transactional application. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cosmos-db-and-fabric",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about cosmos db and fabric: Why integrate operational Cosmos DB data with Microsoft Fabric?",
+      "answer": "To support analytical queries and insights without redesigning the transactional application.",
+      "explanation": "To support analytical queries and insights without redesigning the transactional application. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cosmos-db-and-fabric",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on cosmos db and fabric, answer the following: Why integrate operational Cosmos DB data with Microsoft Fabric?",
+      "answer": "To support analytical queries and insights without redesigning the transactional application.",
+      "explanation": "To support analytical queries and insights without redesigning the transactional application. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cosmos-db-and-fabric",
+        "practice"
+      ]
+    },
+    {
+      "question": "What should be monitored in Cosmos DB workloads?",
+      "answer": "RU usage, throttling, latency, availability, storage, and query performance.",
+      "explanation": "RU usage, throttling, latency, availability, storage, and query performance. This is a core concept within telemetry.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "telemetry",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing telemetry. What should be monitored in Cosmos DB workloads?",
+      "answer": "RU usage, throttling, latency, availability, storage, and query performance.",
+      "explanation": "The correct consideration is: RU usage, throttling, latency, availability, storage, and query performance. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "telemetry",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about telemetry: What should be monitored in Cosmos DB workloads?",
+      "answer": "RU usage, throttling, latency, availability, storage, and query performance.",
+      "explanation": "RU usage, throttling, latency, availability, storage, and query performance. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "telemetry",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on telemetry, answer the following: What should be monitored in Cosmos DB workloads?",
+      "answer": "RU usage, throttling, latency, availability, storage, and query performance.",
+      "explanation": "RU usage, throttling, latency, availability, storage, and query performance. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "telemetry",
+        "practice"
+      ]
+    },
+    {
+      "question": "Why test real traffic patterns before finalizing a partition key?",
+      "answer": "An apparently reasonable key may create hotspots or expensive cross-partition queries.",
+      "explanation": "An apparently reasonable key may create hotspots or expensive cross-partition queries. This is a core concept within partition selection.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "partition-selection",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing partition selection. Why test real traffic patterns before finalizing a partition key?",
+      "answer": "An apparently reasonable key may create hotspots or expensive cross-partition queries.",
+      "explanation": "The correct consideration is: An apparently reasonable key may create hotspots or expensive cross-partition queries. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "partition-selection",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about partition selection: Why test real traffic patterns before finalizing a partition key?",
+      "answer": "An apparently reasonable key may create hotspots or expensive cross-partition queries.",
+      "explanation": "An apparently reasonable key may create hotspots or expensive cross-partition queries. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "partition-selection",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on partition selection, answer the following: Why test real traffic patterns before finalizing a partition key?",
+      "answer": "An apparently reasonable key may create hotspots or expensive cross-partition queries.",
+      "explanation": "An apparently reasonable key may create hotspots or expensive cross-partition queries. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "partition-selection",
+        "practice"
+      ]
+    },
+    {
+      "question": "What should be considered when optimizing Cosmos DB cost?",
+      "answer": "Throughput mode, indexing, partitioning, data volume, and query efficiency.",
+      "explanation": "Throughput mode, indexing, partitioning, data volume, and query efficiency. This is a core concept within cost tuning.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cost-tuning",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing cost tuning. What should be considered when optimizing Cosmos DB cost?",
+      "answer": "Throughput mode, indexing, partitioning, data volume, and query efficiency.",
+      "explanation": "The correct consideration is: Throughput mode, indexing, partitioning, data volume, and query efficiency. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cost-tuning",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about cost tuning: What should be considered when optimizing Cosmos DB cost?",
+      "answer": "Throughput mode, indexing, partitioning, data volume, and query efficiency.",
+      "explanation": "Throughput mode, indexing, partitioning, data volume, and query efficiency. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cost-tuning",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on cost tuning, answer the following: What should be considered when optimizing Cosmos DB cost?",
+      "answer": "Throughput mode, indexing, partitioning, data volume, and query efficiency.",
+      "explanation": "Throughput mode, indexing, partitioning, data volume, and query efficiency. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "cost-tuning",
+        "practice"
+      ]
+    },
+    {
+      "question": "What makes a Cosmos DB client resilient?",
+      "answer": "Regional awareness, retry logic, timeouts, and graceful handling of transient faults.",
+      "explanation": "Regional awareness, retry logic, timeouts, and graceful handling of transient faults. This is a core concept within resilient client.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "resilient-client",
+        "direct"
+      ]
+    },
+    {
+      "question": "In an Azure project, the team is reviewing resilient client. What makes a Cosmos DB client resilient?",
+      "answer": "Regional awareness, retry logic, timeouts, and graceful handling of transient faults.",
+      "explanation": "The correct consideration is: Regional awareness, retry logic, timeouts, and graceful handling of transient faults. Apply this while choosing or verifying the service configuration.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "resilient-client",
+        "scenario"
+      ]
+    },
+    {
+      "question": "An engineer asks about resilient client: What makes a Cosmos DB client resilient?",
+      "answer": "Regional awareness, retry logic, timeouts, and graceful handling of transient faults.",
+      "explanation": "Regional awareness, retry logic, timeouts, and graceful handling of transient faults. This helps check a design, implementation, or operational decision.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "resilient-client",
+        "review"
+      ]
+    },
+    {
+      "question": "For an exam practice review on resilient client, answer the following: What makes a Cosmos DB client resilient?",
+      "answer": "Regional awareness, retry logic, timeouts, and graceful handling of transient faults.",
+      "explanation": "Regional awareness, retry logic, timeouts, and graceful handling of transient faults. Confirm this behavior against project requirements and operational constraints.",
+      "language": "en",
+      "tags": [
+        "dp420",
+        "resilient-client",
+        "practice"
+      ]
+    }
+  ]
+}

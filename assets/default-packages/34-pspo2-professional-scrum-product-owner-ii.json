@@ -1,0 +1,2007 @@
+{
+  "format": "certif-buddy",
+  "schemaVersion": 1,
+  "title": "PSPO2 Professional Scrum Product Owner II",
+  "cards": [
+    {
+      "question": "What is the recommended approach to product discovery experiments in professional Scrum practice?",
+      "answer": "Design low-cost tests of risky product assumptions before scaling delivery.",
+      "explanation": "Fast learning protects investment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-discovery-experiments"
+      ]
+    },
+    {
+      "question": "A team wants to improve product discovery experiments. What principle should guide its next action?",
+      "answer": "Design low-cost tests of risky product assumptions before scaling delivery.",
+      "explanation": "Fast learning protects investment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-discovery-experiments"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product discovery experiments, what should practitioners emphasize?",
+      "answer": "Design low-cost tests of risky product assumptions before scaling delivery.",
+      "explanation": "Fast learning protects investment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-discovery-experiments"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product discovery experiments?",
+      "answer": "Design low-cost tests of risky product assumptions before scaling delivery.",
+      "explanation": "Fast learning protects investment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-discovery-experiments"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product discovery experiments?",
+      "answer": "Design low-cost tests of risky product assumptions before scaling delivery.",
+      "explanation": "Fast learning protects investment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-discovery-experiments"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product-market fit evidence in professional Scrum practice?",
+      "answer": "Use retention, repeated usage, and willingness to pay as evidence rather than launch excitement alone.",
+      "explanation": "Adoption without durable value is weak fit.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-market-fit-evidence"
+      ]
+    },
+    {
+      "question": "A team wants to improve product-market fit evidence. What principle should guide its next action?",
+      "answer": "Use retention, repeated usage, and willingness to pay as evidence rather than launch excitement alone.",
+      "explanation": "Adoption without durable value is weak fit.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-market-fit-evidence"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product-market fit evidence, what should practitioners emphasize?",
+      "answer": "Use retention, repeated usage, and willingness to pay as evidence rather than launch excitement alone.",
+      "explanation": "Adoption without durable value is weak fit.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-market-fit-evidence"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product-market fit evidence?",
+      "answer": "Use retention, repeated usage, and willingness to pay as evidence rather than launch excitement alone.",
+      "explanation": "Adoption without durable value is weak fit.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-market-fit-evidence"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product-market fit evidence?",
+      "answer": "Use retention, repeated usage, and willingness to pay as evidence rather than launch excitement alone.",
+      "explanation": "Adoption without durable value is weak fit.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-market-fit-evidence"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to stakeholder influence map in professional Scrum practice?",
+      "answer": "Identify decision makers, users, purchasers, and affected partners separately.",
+      "explanation": "Different stakeholders have different interests.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-influence-map"
+      ]
+    },
+    {
+      "question": "A team wants to improve stakeholder influence map. What principle should guide its next action?",
+      "answer": "Identify decision makers, users, purchasers, and affected partners separately.",
+      "explanation": "Different stakeholders have different interests.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-influence-map"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about stakeholder influence map, what should practitioners emphasize?",
+      "answer": "Identify decision makers, users, purchasers, and affected partners separately.",
+      "explanation": "Different stakeholders have different interests.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-influence-map"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding stakeholder influence map?",
+      "answer": "Identify decision makers, users, purchasers, and affected partners separately.",
+      "explanation": "Different stakeholders have different interests.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-influence-map"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for stakeholder influence map?",
+      "answer": "Identify decision makers, users, purchasers, and affected partners separately.",
+      "explanation": "Different stakeholders have different interests.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-influence-map"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to customer outcome segmentation in professional Scrum practice?",
+      "answer": "Measure value by target customer segment rather than relying only on blended averages.",
+      "explanation": "Aggregate metrics can conceal underserved groups.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "customer-outcome-segmentation"
+      ]
+    },
+    {
+      "question": "A team wants to improve customer outcome segmentation. What principle should guide its next action?",
+      "answer": "Measure value by target customer segment rather than relying only on blended averages.",
+      "explanation": "Aggregate metrics can conceal underserved groups.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "customer-outcome-segmentation"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about customer outcome segmentation, what should practitioners emphasize?",
+      "answer": "Measure value by target customer segment rather than relying only on blended averages.",
+      "explanation": "Aggregate metrics can conceal underserved groups.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "customer-outcome-segmentation"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding customer outcome segmentation?",
+      "answer": "Measure value by target customer segment rather than relying only on blended averages.",
+      "explanation": "Aggregate metrics can conceal underserved groups.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "customer-outcome-segmentation"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for customer outcome segmentation?",
+      "answer": "Measure value by target customer segment rather than relying only on blended averages.",
+      "explanation": "Aggregate metrics can conceal underserved groups.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "customer-outcome-segmentation"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to vision versus roadmap in professional Scrum practice?",
+      "answer": "Keep vision relatively enduring while adapting roadmap options to evidence.",
+      "explanation": "A roadmap should communicate intent, not guaranteed features.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "vision-versus-roadmap"
+      ]
+    },
+    {
+      "question": "A team wants to improve vision versus roadmap. What principle should guide its next action?",
+      "answer": "Keep vision relatively enduring while adapting roadmap options to evidence.",
+      "explanation": "A roadmap should communicate intent, not guaranteed features.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "vision-versus-roadmap"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about vision versus roadmap, what should practitioners emphasize?",
+      "answer": "Keep vision relatively enduring while adapting roadmap options to evidence.",
+      "explanation": "A roadmap should communicate intent, not guaranteed features.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "vision-versus-roadmap"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding vision versus roadmap?",
+      "answer": "Keep vision relatively enduring while adapting roadmap options to evidence.",
+      "explanation": "A roadmap should communicate intent, not guaranteed features.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "vision-versus-roadmap"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for vision versus roadmap?",
+      "answer": "Keep vision relatively enduring while adapting roadmap options to evidence.",
+      "explanation": "A roadmap should communicate intent, not guaranteed features.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "vision-versus-roadmap"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to portfolio trade-offs in professional Scrum practice?",
+      "answer": "Allocate investment across opportunities using strategic value, risk, and opportunity cost.",
+      "explanation": "Local feature priorities can conflict with portfolio strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "portfolio-trade-offs"
+      ]
+    },
+    {
+      "question": "A team wants to improve portfolio trade-offs. What principle should guide its next action?",
+      "answer": "Allocate investment across opportunities using strategic value, risk, and opportunity cost.",
+      "explanation": "Local feature priorities can conflict with portfolio strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "portfolio-trade-offs"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about portfolio trade-offs, what should practitioners emphasize?",
+      "answer": "Allocate investment across opportunities using strategic value, risk, and opportunity cost.",
+      "explanation": "Local feature priorities can conflict with portfolio strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "portfolio-trade-offs"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding portfolio trade-offs?",
+      "answer": "Allocate investment across opportunities using strategic value, risk, and opportunity cost.",
+      "explanation": "Local feature priorities can conflict with portfolio strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "portfolio-trade-offs"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for portfolio trade-offs?",
+      "answer": "Allocate investment across opportunities using strategic value, risk, and opportunity cost.",
+      "explanation": "Local feature priorities can conflict with portfolio strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "portfolio-trade-offs"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to evidence based management kva in professional Scrum practice?",
+      "answer": "Use Current Value, Unrealized Value, Time-to-Market, and Ability to Innovate as complementary lenses.",
+      "explanation": "One metric cannot explain business agility.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "evidence-based-management-kva"
+      ]
+    },
+    {
+      "question": "A team wants to improve evidence based management kva. What principle should guide its next action?",
+      "answer": "Use Current Value, Unrealized Value, Time-to-Market, and Ability to Innovate as complementary lenses.",
+      "explanation": "One metric cannot explain business agility.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "evidence-based-management-kva"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about evidence based management kva, what should practitioners emphasize?",
+      "answer": "Use Current Value, Unrealized Value, Time-to-Market, and Ability to Innovate as complementary lenses.",
+      "explanation": "One metric cannot explain business agility.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "evidence-based-management-kva"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding evidence based management kva?",
+      "answer": "Use Current Value, Unrealized Value, Time-to-Market, and Ability to Innovate as complementary lenses.",
+      "explanation": "One metric cannot explain business agility.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "evidence-based-management-kva"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for evidence based management kva?",
+      "answer": "Use Current Value, Unrealized Value, Time-to-Market, and Ability to Innovate as complementary lenses.",
+      "explanation": "One metric cannot explain business agility.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "evidence-based-management-kva"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to current value in professional Scrum practice?",
+      "answer": "Assess the value stakeholders receive today from the product.",
+      "explanation": "Current satisfaction and economic returns indicate present outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "current-value"
+      ]
+    },
+    {
+      "question": "A team wants to improve current value. What principle should guide its next action?",
+      "answer": "Assess the value stakeholders receive today from the product.",
+      "explanation": "Current satisfaction and economic returns indicate present outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "current-value"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about current value, what should practitioners emphasize?",
+      "answer": "Assess the value stakeholders receive today from the product.",
+      "explanation": "Current satisfaction and economic returns indicate present outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "current-value"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding current value?",
+      "answer": "Assess the value stakeholders receive today from the product.",
+      "explanation": "Current satisfaction and economic returns indicate present outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "current-value"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for current value?",
+      "answer": "Assess the value stakeholders receive today from the product.",
+      "explanation": "Current satisfaction and economic returns indicate present outcomes.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "current-value"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to unrealized value in professional Scrum practice?",
+      "answer": "Estimate potential future value from unmet needs and market opportunities.",
+      "explanation": "High unrealized value can motivate investment or experiments.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "unrealized-value"
+      ]
+    },
+    {
+      "question": "A team wants to improve unrealized value. What principle should guide its next action?",
+      "answer": "Estimate potential future value from unmet needs and market opportunities.",
+      "explanation": "High unrealized value can motivate investment or experiments.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "unrealized-value"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about unrealized value, what should practitioners emphasize?",
+      "answer": "Estimate potential future value from unmet needs and market opportunities.",
+      "explanation": "High unrealized value can motivate investment or experiments.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "unrealized-value"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding unrealized value?",
+      "answer": "Estimate potential future value from unmet needs and market opportunities.",
+      "explanation": "High unrealized value can motivate investment or experiments.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "unrealized-value"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for unrealized value?",
+      "answer": "Estimate potential future value from unmet needs and market opportunities.",
+      "explanation": "High unrealized value can motivate investment or experiments.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "unrealized-value"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to time-to-market in professional Scrum practice?",
+      "answer": "Examine how quickly value can be delivered and feedback incorporated.",
+      "explanation": "Fast market learning can be more useful than high output.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "time-to-market"
+      ]
+    },
+    {
+      "question": "A team wants to improve time-to-market. What principle should guide its next action?",
+      "answer": "Examine how quickly value can be delivered and feedback incorporated.",
+      "explanation": "Fast market learning can be more useful than high output.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "time-to-market"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about time-to-market, what should practitioners emphasize?",
+      "answer": "Examine how quickly value can be delivered and feedback incorporated.",
+      "explanation": "Fast market learning can be more useful than high output.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "time-to-market"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding time-to-market?",
+      "answer": "Examine how quickly value can be delivered and feedback incorporated.",
+      "explanation": "Fast market learning can be more useful than high output.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "time-to-market"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for time-to-market?",
+      "answer": "Examine how quickly value can be delivered and feedback incorporated.",
+      "explanation": "Fast market learning can be more useful than high output.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "time-to-market"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to ability to innovate in professional Scrum practice?",
+      "answer": "Identify obstacles preventing the organization from delivering new value.",
+      "explanation": "Technical debt and bureaucratic delays reduce innovation capacity.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "ability-to-innovate"
+      ]
+    },
+    {
+      "question": "A team wants to improve ability to innovate. What principle should guide its next action?",
+      "answer": "Identify obstacles preventing the organization from delivering new value.",
+      "explanation": "Technical debt and bureaucratic delays reduce innovation capacity.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "ability-to-innovate"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about ability to innovate, what should practitioners emphasize?",
+      "answer": "Identify obstacles preventing the organization from delivering new value.",
+      "explanation": "Technical debt and bureaucratic delays reduce innovation capacity.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "ability-to-innovate"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding ability to innovate?",
+      "answer": "Identify obstacles preventing the organization from delivering new value.",
+      "explanation": "Technical debt and bureaucratic delays reduce innovation capacity.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "ability-to-innovate"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for ability to innovate?",
+      "answer": "Identify obstacles preventing the organization from delivering new value.",
+      "explanation": "Technical debt and bureaucratic delays reduce innovation capacity.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "ability-to-innovate"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to hypothesis-driven roadmaps in professional Scrum practice?",
+      "answer": "Express roadmap items as problems and assumptions to validate.",
+      "explanation": "This preserves room to discover better solutions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "hypothesis-driven-roadmaps"
+      ]
+    },
+    {
+      "question": "A team wants to improve hypothesis-driven roadmaps. What principle should guide its next action?",
+      "answer": "Express roadmap items as problems and assumptions to validate.",
+      "explanation": "This preserves room to discover better solutions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "hypothesis-driven-roadmaps"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about hypothesis-driven roadmaps, what should practitioners emphasize?",
+      "answer": "Express roadmap items as problems and assumptions to validate.",
+      "explanation": "This preserves room to discover better solutions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "hypothesis-driven-roadmaps"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding hypothesis-driven roadmaps?",
+      "answer": "Express roadmap items as problems and assumptions to validate.",
+      "explanation": "This preserves room to discover better solutions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "hypothesis-driven-roadmaps"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for hypothesis-driven roadmaps?",
+      "answer": "Express roadmap items as problems and assumptions to validate.",
+      "explanation": "This preserves room to discover better solutions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "hypothesis-driven-roadmaps"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to experiment success criteria in professional Scrum practice?",
+      "answer": "Set measurable evidence thresholds before running a product experiment.",
+      "explanation": "Post-hoc success definitions introduce bias.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-success-criteria"
+      ]
+    },
+    {
+      "question": "A team wants to improve experiment success criteria. What principle should guide its next action?",
+      "answer": "Set measurable evidence thresholds before running a product experiment.",
+      "explanation": "Post-hoc success definitions introduce bias.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-success-criteria"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about experiment success criteria, what should practitioners emphasize?",
+      "answer": "Set measurable evidence thresholds before running a product experiment.",
+      "explanation": "Post-hoc success definitions introduce bias.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-success-criteria"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding experiment success criteria?",
+      "answer": "Set measurable evidence thresholds before running a product experiment.",
+      "explanation": "Post-hoc success definitions introduce bias.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-success-criteria"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for experiment success criteria?",
+      "answer": "Set measurable evidence thresholds before running a product experiment.",
+      "explanation": "Post-hoc success definitions introduce bias.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-success-criteria"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to cohort analysis in professional Scrum practice?",
+      "answer": "Compare behavior of user groups over time to understand retention and adoption.",
+      "explanation": "Cohorts reveal patterns concealed by totals.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cohort-analysis"
+      ]
+    },
+    {
+      "question": "A team wants to improve cohort analysis. What principle should guide its next action?",
+      "answer": "Compare behavior of user groups over time to understand retention and adoption.",
+      "explanation": "Cohorts reveal patterns concealed by totals.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cohort-analysis"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about cohort analysis, what should practitioners emphasize?",
+      "answer": "Compare behavior of user groups over time to understand retention and adoption.",
+      "explanation": "Cohorts reveal patterns concealed by totals.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cohort-analysis"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding cohort analysis?",
+      "answer": "Compare behavior of user groups over time to understand retention and adoption.",
+      "explanation": "Cohorts reveal patterns concealed by totals.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cohort-analysis"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for cohort analysis?",
+      "answer": "Compare behavior of user groups over time to understand retention and adoption.",
+      "explanation": "Cohorts reveal patterns concealed by totals.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cohort-analysis"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to opportunity solution tree in professional Scrum practice?",
+      "answer": "Connect a desired outcome to customer opportunities, potential solutions, and experiments.",
+      "explanation": "This keeps discovery anchored to impact.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "opportunity-solution-tree"
+      ]
+    },
+    {
+      "question": "A team wants to improve opportunity solution tree. What principle should guide its next action?",
+      "answer": "Connect a desired outcome to customer opportunities, potential solutions, and experiments.",
+      "explanation": "This keeps discovery anchored to impact.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "opportunity-solution-tree"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about opportunity solution tree, what should practitioners emphasize?",
+      "answer": "Connect a desired outcome to customer opportunities, potential solutions, and experiments.",
+      "explanation": "This keeps discovery anchored to impact.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "opportunity-solution-tree"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding opportunity solution tree?",
+      "answer": "Connect a desired outcome to customer opportunities, potential solutions, and experiments.",
+      "explanation": "This keeps discovery anchored to impact.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "opportunity-solution-tree"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for opportunity solution tree?",
+      "answer": "Connect a desired outcome to customer opportunities, potential solutions, and experiments.",
+      "explanation": "This keeps discovery anchored to impact.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "opportunity-solution-tree"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to stakeholder negotiation in professional Scrum practice?",
+      "answer": "Use transparent criteria and explicit trade-offs instead of treating all requests as commitments.",
+      "explanation": "Negotiation protects the Product Goal.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-negotiation"
+      ]
+    },
+    {
+      "question": "A team wants to improve stakeholder negotiation. What principle should guide its next action?",
+      "answer": "Use transparent criteria and explicit trade-offs instead of treating all requests as commitments.",
+      "explanation": "Negotiation protects the Product Goal.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-negotiation"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about stakeholder negotiation, what should practitioners emphasize?",
+      "answer": "Use transparent criteria and explicit trade-offs instead of treating all requests as commitments.",
+      "explanation": "Negotiation protects the Product Goal.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-negotiation"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding stakeholder negotiation?",
+      "answer": "Use transparent criteria and explicit trade-offs instead of treating all requests as commitments.",
+      "explanation": "Negotiation protects the Product Goal.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-negotiation"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for stakeholder negotiation?",
+      "answer": "Use transparent criteria and explicit trade-offs instead of treating all requests as commitments.",
+      "explanation": "Negotiation protects the Product Goal.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-negotiation"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to market opportunity costs in professional Scrum practice?",
+      "answer": "Include the cost of delayed learning and missed market windows in product choices.",
+      "explanation": "Economic impact varies over time.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "market-opportunity-costs"
+      ]
+    },
+    {
+      "question": "A team wants to improve market opportunity costs. What principle should guide its next action?",
+      "answer": "Include the cost of delayed learning and missed market windows in product choices.",
+      "explanation": "Economic impact varies over time.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "market-opportunity-costs"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about market opportunity costs, what should practitioners emphasize?",
+      "answer": "Include the cost of delayed learning and missed market windows in product choices.",
+      "explanation": "Economic impact varies over time.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "market-opportunity-costs"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding market opportunity costs?",
+      "answer": "Include the cost of delayed learning and missed market windows in product choices.",
+      "explanation": "Economic impact varies over time.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "market-opportunity-costs"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for market opportunity costs?",
+      "answer": "Include the cost of delayed learning and missed market windows in product choices.",
+      "explanation": "Economic impact varies over time.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "market-opportunity-costs"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product pricing tests in professional Scrum practice?",
+      "answer": "Test pricing hypotheses with customer evidence while considering value perception.",
+      "explanation": "Pricing is part of product strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-pricing-tests"
+      ]
+    },
+    {
+      "question": "A team wants to improve product pricing tests. What principle should guide its next action?",
+      "answer": "Test pricing hypotheses with customer evidence while considering value perception.",
+      "explanation": "Pricing is part of product strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-pricing-tests"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product pricing tests, what should practitioners emphasize?",
+      "answer": "Test pricing hypotheses with customer evidence while considering value perception.",
+      "explanation": "Pricing is part of product strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-pricing-tests"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product pricing tests?",
+      "answer": "Test pricing hypotheses with customer evidence while considering value perception.",
+      "explanation": "Pricing is part of product strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-pricing-tests"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product pricing tests?",
+      "answer": "Test pricing hypotheses with customer evidence while considering value perception.",
+      "explanation": "Pricing is part of product strategy.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-pricing-tests"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to release planning under uncertainty in professional Scrum practice?",
+      "answer": "Forecast based on evidence, risk, and changing scope rather than a rigid release checklist.",
+      "explanation": "Useful plans are revisable.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "release-planning-under-uncertainty"
+      ]
+    },
+    {
+      "question": "A team wants to improve release planning under uncertainty. What principle should guide its next action?",
+      "answer": "Forecast based on evidence, risk, and changing scope rather than a rigid release checklist.",
+      "explanation": "Useful plans are revisable.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "release-planning-under-uncertainty"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about release planning under uncertainty, what should practitioners emphasize?",
+      "answer": "Forecast based on evidence, risk, and changing scope rather than a rigid release checklist.",
+      "explanation": "Useful plans are revisable.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "release-planning-under-uncertainty"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding release planning under uncertainty?",
+      "answer": "Forecast based on evidence, risk, and changing scope rather than a rigid release checklist.",
+      "explanation": "Useful plans are revisable.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "release-planning-under-uncertainty"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for release planning under uncertainty?",
+      "answer": "Forecast based on evidence, risk, and changing scope rather than a rigid release checklist.",
+      "explanation": "Useful plans are revisable.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "release-planning-under-uncertainty"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to technical sustainability in professional Scrum practice?",
+      "answer": "Explicitly balance product growth with architecture, reliability, and delivery capacity.",
+      "explanation": "Unsustainable shortcuts erode future value.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "technical-sustainability"
+      ]
+    },
+    {
+      "question": "A team wants to improve technical sustainability. What principle should guide its next action?",
+      "answer": "Explicitly balance product growth with architecture, reliability, and delivery capacity.",
+      "explanation": "Unsustainable shortcuts erode future value.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "technical-sustainability"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about technical sustainability, what should practitioners emphasize?",
+      "answer": "Explicitly balance product growth with architecture, reliability, and delivery capacity.",
+      "explanation": "Unsustainable shortcuts erode future value.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "technical-sustainability"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding technical sustainability?",
+      "answer": "Explicitly balance product growth with architecture, reliability, and delivery capacity.",
+      "explanation": "Unsustainable shortcuts erode future value.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "technical-sustainability"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for technical sustainability?",
+      "answer": "Explicitly balance product growth with architecture, reliability, and delivery capacity.",
+      "explanation": "Unsustainable shortcuts erode future value.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "technical-sustainability"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to strategic abandonment in professional Scrum practice?",
+      "answer": "Stop experiments or products when evidence no longer supports expected value.",
+      "explanation": "Sunk cost is not a reason to continue.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "strategic-abandonment"
+      ]
+    },
+    {
+      "question": "A team wants to improve strategic abandonment. What principle should guide its next action?",
+      "answer": "Stop experiments or products when evidence no longer supports expected value.",
+      "explanation": "Sunk cost is not a reason to continue.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "strategic-abandonment"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about strategic abandonment, what should practitioners emphasize?",
+      "answer": "Stop experiments or products when evidence no longer supports expected value.",
+      "explanation": "Sunk cost is not a reason to continue.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "strategic-abandonment"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding strategic abandonment?",
+      "answer": "Stop experiments or products when evidence no longer supports expected value.",
+      "explanation": "Sunk cost is not a reason to continue.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "strategic-abandonment"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for strategic abandonment?",
+      "answer": "Stop experiments or products when evidence no longer supports expected value.",
+      "explanation": "Sunk cost is not a reason to continue.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "strategic-abandonment"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to backlog item economics in professional Scrum practice?",
+      "answer": "Order items by expected outcomes and learning relative to cost and risk.",
+      "explanation": "Backlog ordering requires continuous judgment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "backlog-item-economics"
+      ]
+    },
+    {
+      "question": "A team wants to improve backlog item economics. What principle should guide its next action?",
+      "answer": "Order items by expected outcomes and learning relative to cost and risk.",
+      "explanation": "Backlog ordering requires continuous judgment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "backlog-item-economics"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about backlog item economics, what should practitioners emphasize?",
+      "answer": "Order items by expected outcomes and learning relative to cost and risk.",
+      "explanation": "Backlog ordering requires continuous judgment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "backlog-item-economics"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding backlog item economics?",
+      "answer": "Order items by expected outcomes and learning relative to cost and risk.",
+      "explanation": "Backlog ordering requires continuous judgment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "backlog-item-economics"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for backlog item economics?",
+      "answer": "Order items by expected outcomes and learning relative to cost and risk.",
+      "explanation": "Backlog ordering requires continuous judgment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "backlog-item-economics"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to multiple team product ownership in professional Scrum practice?",
+      "answer": "Maintain one clear product strategy and Product Backlog across teams.",
+      "explanation": "Splitting product accountability creates conflicts.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "multiple-team-product-ownership"
+      ]
+    },
+    {
+      "question": "A team wants to improve multiple team product ownership. What principle should guide its next action?",
+      "answer": "Maintain one clear product strategy and Product Backlog across teams.",
+      "explanation": "Splitting product accountability creates conflicts.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "multiple-team-product-ownership"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about multiple team product ownership, what should practitioners emphasize?",
+      "answer": "Maintain one clear product strategy and Product Backlog across teams.",
+      "explanation": "Splitting product accountability creates conflicts.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "multiple-team-product-ownership"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding multiple team product ownership?",
+      "answer": "Maintain one clear product strategy and Product Backlog across teams.",
+      "explanation": "Splitting product accountability creates conflicts.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "multiple-team-product-ownership"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for multiple team product ownership?",
+      "answer": "Maintain one clear product strategy and Product Backlog across teams.",
+      "explanation": "Splitting product accountability creates conflicts.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "multiple-team-product-ownership"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to roadmap transparency in professional Scrum practice?",
+      "answer": "Differentiate committed objectives from speculative options in stakeholder communication.",
+      "explanation": "Trust requires honest uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "roadmap-transparency"
+      ]
+    },
+    {
+      "question": "A team wants to improve roadmap transparency. What principle should guide its next action?",
+      "answer": "Differentiate committed objectives from speculative options in stakeholder communication.",
+      "explanation": "Trust requires honest uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "roadmap-transparency"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about roadmap transparency, what should practitioners emphasize?",
+      "answer": "Differentiate committed objectives from speculative options in stakeholder communication.",
+      "explanation": "Trust requires honest uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "roadmap-transparency"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding roadmap transparency?",
+      "answer": "Differentiate committed objectives from speculative options in stakeholder communication.",
+      "explanation": "Trust requires honest uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "roadmap-transparency"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for roadmap transparency?",
+      "answer": "Differentiate committed objectives from speculative options in stakeholder communication.",
+      "explanation": "Trust requires honest uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "roadmap-transparency"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to north star metric limitations in professional Scrum practice?",
+      "answer": "Pair an overarching metric with guardrails for quality, retention, and harm.",
+      "explanation": "Optimizing a single metric can produce unintended effects.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "north-star-metric-limitations"
+      ]
+    },
+    {
+      "question": "A team wants to improve north star metric limitations. What principle should guide its next action?",
+      "answer": "Pair an overarching metric with guardrails for quality, retention, and harm.",
+      "explanation": "Optimizing a single metric can produce unintended effects.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "north-star-metric-limitations"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about north star metric limitations, what should practitioners emphasize?",
+      "answer": "Pair an overarching metric with guardrails for quality, retention, and harm.",
+      "explanation": "Optimizing a single metric can produce unintended effects.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "north-star-metric-limitations"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding north star metric limitations?",
+      "answer": "Pair an overarching metric with guardrails for quality, retention, and harm.",
+      "explanation": "Optimizing a single metric can produce unintended effects.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "north-star-metric-limitations"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for north star metric limitations?",
+      "answer": "Pair an overarching metric with guardrails for quality, retention, and harm.",
+      "explanation": "Optimizing a single metric can produce unintended effects.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "north-star-metric-limitations"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to user interviews in professional Scrum practice?",
+      "answer": "Ask about actual behavior and problems, not only opinions on hypothetical features.",
+      "explanation": "Observed behavior is more reliable for many decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "user-interviews"
+      ]
+    },
+    {
+      "question": "A team wants to improve user interviews. What principle should guide its next action?",
+      "answer": "Ask about actual behavior and problems, not only opinions on hypothetical features.",
+      "explanation": "Observed behavior is more reliable for many decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "user-interviews"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about user interviews, what should practitioners emphasize?",
+      "answer": "Ask about actual behavior and problems, not only opinions on hypothetical features.",
+      "explanation": "Observed behavior is more reliable for many decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "user-interviews"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding user interviews?",
+      "answer": "Ask about actual behavior and problems, not only opinions on hypothetical features.",
+      "explanation": "Observed behavior is more reliable for many decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "user-interviews"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for user interviews?",
+      "answer": "Ask about actual behavior and problems, not only opinions on hypothetical features.",
+      "explanation": "Observed behavior is more reliable for many decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "user-interviews"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to a/b testing ethics in professional Scrum practice?",
+      "answer": "Protect users and guard against adverse impacts while testing alternatives.",
+      "explanation": "Experimentation does not remove ethical duties.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "a-b-testing-ethics"
+      ]
+    },
+    {
+      "question": "A team wants to improve a/b testing ethics. What principle should guide its next action?",
+      "answer": "Protect users and guard against adverse impacts while testing alternatives.",
+      "explanation": "Experimentation does not remove ethical duties.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "a-b-testing-ethics"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about a/b testing ethics, what should practitioners emphasize?",
+      "answer": "Protect users and guard against adverse impacts while testing alternatives.",
+      "explanation": "Experimentation does not remove ethical duties.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "a-b-testing-ethics"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding a/b testing ethics?",
+      "answer": "Protect users and guard against adverse impacts while testing alternatives.",
+      "explanation": "Experimentation does not remove ethical duties.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "a-b-testing-ethics"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for a/b testing ethics?",
+      "answer": "Protect users and guard against adverse impacts while testing alternatives.",
+      "explanation": "Experimentation does not remove ethical duties.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "a-b-testing-ethics"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to leading versus lagging indicators in professional Scrum practice?",
+      "answer": "Track early signals alongside ultimate business outcomes.",
+      "explanation": "Leading signals speed feedback but need validation.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "leading-versus-lagging-indicators"
+      ]
+    },
+    {
+      "question": "A team wants to improve leading versus lagging indicators. What principle should guide its next action?",
+      "answer": "Track early signals alongside ultimate business outcomes.",
+      "explanation": "Leading signals speed feedback but need validation.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "leading-versus-lagging-indicators"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about leading versus lagging indicators, what should practitioners emphasize?",
+      "answer": "Track early signals alongside ultimate business outcomes.",
+      "explanation": "Leading signals speed feedback but need validation.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "leading-versus-lagging-indicators"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding leading versus lagging indicators?",
+      "answer": "Track early signals alongside ultimate business outcomes.",
+      "explanation": "Leading signals speed feedback but need validation.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "leading-versus-lagging-indicators"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for leading versus lagging indicators?",
+      "answer": "Track early signals alongside ultimate business outcomes.",
+      "explanation": "Leading signals speed feedback but need validation.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "leading-versus-lagging-indicators"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to innovation accounting in professional Scrum practice?",
+      "answer": "Measure validated learning and outcome movement rather than feature volume.",
+      "explanation": "Experiments should change decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "innovation-accounting"
+      ]
+    },
+    {
+      "question": "A team wants to improve innovation accounting. What principle should guide its next action?",
+      "answer": "Measure validated learning and outcome movement rather than feature volume.",
+      "explanation": "Experiments should change decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "innovation-accounting"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about innovation accounting, what should practitioners emphasize?",
+      "answer": "Measure validated learning and outcome movement rather than feature volume.",
+      "explanation": "Experiments should change decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "innovation-accounting"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding innovation accounting?",
+      "answer": "Measure validated learning and outcome movement rather than feature volume.",
+      "explanation": "Experiments should change decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "innovation-accounting"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for innovation accounting?",
+      "answer": "Measure validated learning and outcome movement rather than feature volume.",
+      "explanation": "Experiments should change decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "innovation-accounting"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product goal evolution in professional Scrum practice?",
+      "answer": "Change or abandon a Product Goal when the evidence warrants a new objective.",
+      "explanation": "Goals provide direction without denying new information.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-goal-evolution"
+      ]
+    },
+    {
+      "question": "A team wants to improve product goal evolution. What principle should guide its next action?",
+      "answer": "Change or abandon a Product Goal when the evidence warrants a new objective.",
+      "explanation": "Goals provide direction without denying new information.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-goal-evolution"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product goal evolution, what should practitioners emphasize?",
+      "answer": "Change or abandon a Product Goal when the evidence warrants a new objective.",
+      "explanation": "Goals provide direction without denying new information.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-goal-evolution"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product goal evolution?",
+      "answer": "Change or abandon a Product Goal when the evidence warrants a new objective.",
+      "explanation": "Goals provide direction without denying new information.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-goal-evolution"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product goal evolution?",
+      "answer": "Change or abandon a Product Goal when the evidence warrants a new objective.",
+      "explanation": "Goals provide direction without denying new information.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-goal-evolution"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to stakeholder alignment workshop in professional Scrum practice?",
+      "answer": "Use structured collaboration to build shared understanding of strategic trade-offs.",
+      "explanation": "The Product Owner keeps final accountability.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-alignment-workshop"
+      ]
+    },
+    {
+      "question": "A team wants to improve stakeholder alignment workshop. What principle should guide its next action?",
+      "answer": "Use structured collaboration to build shared understanding of strategic trade-offs.",
+      "explanation": "The Product Owner keeps final accountability.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-alignment-workshop"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about stakeholder alignment workshop, what should practitioners emphasize?",
+      "answer": "Use structured collaboration to build shared understanding of strategic trade-offs.",
+      "explanation": "The Product Owner keeps final accountability.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-alignment-workshop"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding stakeholder alignment workshop?",
+      "answer": "Use structured collaboration to build shared understanding of strategic trade-offs.",
+      "explanation": "The Product Owner keeps final accountability.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-alignment-workshop"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for stakeholder alignment workshop?",
+      "answer": "Use structured collaboration to build shared understanding of strategic trade-offs.",
+      "explanation": "The Product Owner keeps final accountability.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "stakeholder-alignment-workshop"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to value leakage in professional Scrum practice?",
+      "answer": "Investigate failures in onboarding, reliability, or retention that prevent realized benefits.",
+      "explanation": "More features may not solve poor adoption.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "value-leakage"
+      ]
+    },
+    {
+      "question": "A team wants to improve value leakage. What principle should guide its next action?",
+      "answer": "Investigate failures in onboarding, reliability, or retention that prevent realized benefits.",
+      "explanation": "More features may not solve poor adoption.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "value-leakage"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about value leakage, what should practitioners emphasize?",
+      "answer": "Investigate failures in onboarding, reliability, or retention that prevent realized benefits.",
+      "explanation": "More features may not solve poor adoption.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "value-leakage"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding value leakage?",
+      "answer": "Investigate failures in onboarding, reliability, or retention that prevent realized benefits.",
+      "explanation": "More features may not solve poor adoption.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "value-leakage"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for value leakage?",
+      "answer": "Investigate failures in onboarding, reliability, or retention that prevent realized benefits.",
+      "explanation": "More features may not solve poor adoption.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "value-leakage"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to outcome-driven backlog in professional Scrum practice?",
+      "answer": "Describe customer problems and desired outcomes, leaving room for different solutions.",
+      "explanation": "A feature list can prematurely restrict discovery.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "outcome-driven-backlog"
+      ]
+    },
+    {
+      "question": "A team wants to improve outcome-driven backlog. What principle should guide its next action?",
+      "answer": "Describe customer problems and desired outcomes, leaving room for different solutions.",
+      "explanation": "A feature list can prematurely restrict discovery.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "outcome-driven-backlog"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about outcome-driven backlog, what should practitioners emphasize?",
+      "answer": "Describe customer problems and desired outcomes, leaving room for different solutions.",
+      "explanation": "A feature list can prematurely restrict discovery.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "outcome-driven-backlog"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding outcome-driven backlog?",
+      "answer": "Describe customer problems and desired outcomes, leaving room for different solutions.",
+      "explanation": "A feature list can prematurely restrict discovery.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "outcome-driven-backlog"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for outcome-driven backlog?",
+      "answer": "Describe customer problems and desired outcomes, leaving room for different solutions.",
+      "explanation": "A feature list can prematurely restrict discovery.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "outcome-driven-backlog"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to cost of delay in professional Scrum practice?",
+      "answer": "Account for the economic impact of waiting before delivering value or learning.",
+      "explanation": "Time sensitivity can change ordering.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cost-of-delay"
+      ]
+    },
+    {
+      "question": "A team wants to improve cost of delay. What principle should guide its next action?",
+      "answer": "Account for the economic impact of waiting before delivering value or learning.",
+      "explanation": "Time sensitivity can change ordering.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cost-of-delay"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about cost of delay, what should practitioners emphasize?",
+      "answer": "Account for the economic impact of waiting before delivering value or learning.",
+      "explanation": "Time sensitivity can change ordering.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cost-of-delay"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding cost of delay?",
+      "answer": "Account for the economic impact of waiting before delivering value or learning.",
+      "explanation": "Time sensitivity can change ordering.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cost-of-delay"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for cost of delay?",
+      "answer": "Account for the economic impact of waiting before delivering value or learning.",
+      "explanation": "Time sensitivity can change ordering.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "cost-of-delay"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to experiment design in professional Scrum practice?",
+      "answer": "Use a clear hypothesis, target group, measure, and stopping rule.",
+      "explanation": "Poorly designed tests cannot justify decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-design"
+      ]
+    },
+    {
+      "question": "A team wants to improve experiment design. What principle should guide its next action?",
+      "answer": "Use a clear hypothesis, target group, measure, and stopping rule.",
+      "explanation": "Poorly designed tests cannot justify decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-design"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about experiment design, what should practitioners emphasize?",
+      "answer": "Use a clear hypothesis, target group, measure, and stopping rule.",
+      "explanation": "Poorly designed tests cannot justify decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-design"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding experiment design?",
+      "answer": "Use a clear hypothesis, target group, measure, and stopping rule.",
+      "explanation": "Poorly designed tests cannot justify decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-design"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for experiment design?",
+      "answer": "Use a clear hypothesis, target group, measure, and stopping rule.",
+      "explanation": "Poorly designed tests cannot justify decisions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "experiment-design"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product lifecycle in professional Scrum practice?",
+      "answer": "Adjust strategy as the product moves from discovery through growth and maturity.",
+      "explanation": "The best investment changes with product context.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-lifecycle"
+      ]
+    },
+    {
+      "question": "A team wants to improve product lifecycle. What principle should guide its next action?",
+      "answer": "Adjust strategy as the product moves from discovery through growth and maturity.",
+      "explanation": "The best investment changes with product context.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-lifecycle"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product lifecycle, what should practitioners emphasize?",
+      "answer": "Adjust strategy as the product moves from discovery through growth and maturity.",
+      "explanation": "The best investment changes with product context.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-lifecycle"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product lifecycle?",
+      "answer": "Adjust strategy as the product moves from discovery through growth and maturity.",
+      "explanation": "The best investment changes with product context.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-lifecycle"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product lifecycle?",
+      "answer": "Adjust strategy as the product moves from discovery through growth and maturity.",
+      "explanation": "The best investment changes with product context.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-lifecycle"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product strategy constraints in professional Scrum practice?",
+      "answer": "Identify nonnegotiable legal, ethical, and technical constraints early.",
+      "explanation": "Viable strategy fits its environment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-strategy-constraints"
+      ]
+    },
+    {
+      "question": "A team wants to improve product strategy constraints. What principle should guide its next action?",
+      "answer": "Identify nonnegotiable legal, ethical, and technical constraints early.",
+      "explanation": "Viable strategy fits its environment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-strategy-constraints"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product strategy constraints, what should practitioners emphasize?",
+      "answer": "Identify nonnegotiable legal, ethical, and technical constraints early.",
+      "explanation": "Viable strategy fits its environment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-strategy-constraints"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product strategy constraints?",
+      "answer": "Identify nonnegotiable legal, ethical, and technical constraints early.",
+      "explanation": "Viable strategy fits its environment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-strategy-constraints"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product strategy constraints?",
+      "answer": "Identify nonnegotiable legal, ethical, and technical constraints early.",
+      "explanation": "Viable strategy fits its environment.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-strategy-constraints"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to managing executive feature requests in professional Scrum practice?",
+      "answer": "Translate a demanded feature into the underlying outcome and examine alternatives.",
+      "explanation": "Authority does not validate product assumptions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "managing-executive-feature-requests"
+      ]
+    },
+    {
+      "question": "A team wants to improve managing executive feature requests. What principle should guide its next action?",
+      "answer": "Translate a demanded feature into the underlying outcome and examine alternatives.",
+      "explanation": "Authority does not validate product assumptions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "managing-executive-feature-requests"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about managing executive feature requests, what should practitioners emphasize?",
+      "answer": "Translate a demanded feature into the underlying outcome and examine alternatives.",
+      "explanation": "Authority does not validate product assumptions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "managing-executive-feature-requests"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding managing executive feature requests?",
+      "answer": "Translate a demanded feature into the underlying outcome and examine alternatives.",
+      "explanation": "Authority does not validate product assumptions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "managing-executive-feature-requests"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for managing executive feature requests?",
+      "answer": "Translate a demanded feature into the underlying outcome and examine alternatives.",
+      "explanation": "Authority does not validate product assumptions.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "managing-executive-feature-requests"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to continuous discovery cadence in professional Scrum practice?",
+      "answer": "Maintain regular customer learning alongside delivery work.",
+      "explanation": "Discovery cannot be delegated to an annual research phase.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "continuous-discovery-cadence"
+      ]
+    },
+    {
+      "question": "A team wants to improve continuous discovery cadence. What principle should guide its next action?",
+      "answer": "Maintain regular customer learning alongside delivery work.",
+      "explanation": "Discovery cannot be delegated to an annual research phase.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "continuous-discovery-cadence"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about continuous discovery cadence, what should practitioners emphasize?",
+      "answer": "Maintain regular customer learning alongside delivery work.",
+      "explanation": "Discovery cannot be delegated to an annual research phase.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "continuous-discovery-cadence"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding continuous discovery cadence?",
+      "answer": "Maintain regular customer learning alongside delivery work.",
+      "explanation": "Discovery cannot be delegated to an annual research phase.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "continuous-discovery-cadence"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for continuous discovery cadence?",
+      "answer": "Maintain regular customer learning alongside delivery work.",
+      "explanation": "Discovery cannot be delegated to an annual research phase.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "continuous-discovery-cadence"
+      ]
+    },
+    {
+      "question": "What is the recommended approach to product success narrative in professional Scrum practice?",
+      "answer": "Explain how evidence links delivered capabilities to customer and business outcomes.",
+      "explanation": "Storytelling should reflect data and uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-success-narrative"
+      ]
+    },
+    {
+      "question": "A team wants to improve product success narrative. What principle should guide its next action?",
+      "answer": "Explain how evidence links delivered capabilities to customer and business outcomes.",
+      "explanation": "Storytelling should reflect data and uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-success-narrative"
+      ]
+    },
+    {
+      "question": "When evaluating a decision about product success narrative, what should practitioners emphasize?",
+      "answer": "Explain how evidence links delivered capabilities to customer and business outcomes.",
+      "explanation": "Storytelling should reflect data and uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-success-narrative"
+      ]
+    },
+    {
+      "question": "What would be a sound coaching recommendation regarding product success narrative?",
+      "answer": "Explain how evidence links delivered capabilities to customer and business outcomes.",
+      "explanation": "Storytelling should reflect data and uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-success-narrative"
+      ]
+    },
+    {
+      "question": "Which statement best explains an effective practice for product success narrative?",
+      "answer": "Explain how evidence links delivered capabilities to customer and business outcomes.",
+      "explanation": "Storytelling should reflect data and uncertainty.",
+      "language": "en",
+      "tags": [
+        "pspo2",
+        "product-success-narrative"
+      ]
+    }
+  ]
+}

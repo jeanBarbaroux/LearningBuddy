@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy"
+    content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:">
+  <title>CertifBuddy</title>
+  <link rel="stylesheet" href="../shared.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <nav class="sidenav" aria-label="Navigation principale">
+    <div class="brand">CertifBuddy <span class="badge">v2</span></div>
+    <button class="nav-item" data-page="home" aria-current="page">Accueil</button>
+    <button class="nav-item" data-page="library">Bibliothèque</button>
+    <button class="nav-item" data-page="packages">Paquets</button>
+    <button class="nav-item" data-page="options">Options</button>
+  </nav>
+
+  <main>
+    <section id="page-home" class="page">
+      <h1>Accueil</h1>
+      <p class="muted">Votre compagnon de révision des certifications.</p>
+      <div class="card">
+        <h2>Assistant</h2>
+        <p id="assistant-status" class="status" role="status"></p>
+        <div class="actions">
+          <button id="assistant-toggle" class="primary"></button>
+          <button id="review-now">Révise maintenant</button>
+          <button id="companion-toggle"></button>
+        </div>
+      </div>
+      <div class="stats" aria-label="Statistiques">
+        <div class="stat"><span id="stat-packages" class="value">0</span><span class="label">paquets</span></div>
+        <div class="stat"><span id="stat-cards" class="value">0</span><span class="label">cartes</span></div>
+        <div class="stat"><span id="stat-due" class="value">0</span><span class="label">à revoir</span></div>
+        <div class="stat"><span id="stat-today" class="value">0</span><span class="label">révisées aujourd’hui</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="page-library" class="page" hidden>
+      <h1>Bibliothèque</h1>
+      <p class="muted">Paquets de certification fournis avec l’application.</p>
+      <ul id="library-list" class="list"></ul>
+    </section>
+
+    <section id="page-packages" class="page" hidden>
+      <h1>Paquets</h1>
+      <p class="muted">Les paquets cochés sont proposés par l’assistant.</p>
+      <div class="actions">
+        <button id="import-package" class="primary">Importer un fichier…</button>
+      </div>
+      <p id="import-result" role="status"></p>
+      <ul id="package-list" class="list"></ul>
+    </section>
+
+    <section id="page-options" class="page" hidden>
+      <h1>Options</h1>
+      <form id="options-form" class="card form">
+        <label>Pause entre deux séries (minutes)
+          <input id="option-interval" type="number" min="1" max="1440" required>
+        </label>
+        <label>Questions par série
+          <input id="option-questions" type="number" min="1" max="50" required>
+        </label>
+        <label class="checkbox">
+          <input id="option-wandering" type="checkbox">
+          Le compagnon se promène quand l’assistant est actif
+        </label>
+        <div class="actions">
+          <button type="submit" class="primary">Enregistrer</button>
+          <span id="options-result" role="status" class="muted"></span>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <script src="main.js"></script>
+</body>
+
+</html>
