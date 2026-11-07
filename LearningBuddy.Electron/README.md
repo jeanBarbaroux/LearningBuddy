@@ -72,7 +72,16 @@ Pour passer à un modèle glTF animé, il suffit de remplacer `CompanionAvatar` 
 ```text
 src/
   core/       logique métier pure, testée (aucune dépendance Electron)
-  main/       processus principal : fenêtres, zone de notification, IPC, stockage, contrôleur de révision
+  main/       processus principal, organisé par responsabilité
+    main.ts              amorçage Electron et instance unique
+    application.ts       composition des services et orchestration applicative
+    windows/             création, placement et interactions des fenêtres
+    ipcController.ts     validation et routage des messages IPC
+    tray.ts              zone de notification et menus contextuels
+    config.ts            constantes et chemins de ressources
+    validation.ts        validation des arguments entrants
+    library.ts, store.ts stockage local et bibliothèque
+    reviewController.ts  orchestration des révisions
   preload/    pont sécurisé (contextIsolation + sandbox) exposant window.learningBuddy
   shared/     contrat IPC typé
   renderer/   fenêtres main, companion (three.js/TSL) et bubble
