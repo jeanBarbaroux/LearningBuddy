@@ -1,0 +1,1971 @@
+{
+  "format": "learning-buddy",
+  "schemaVersion": 1,
+  "title": "Géographie — Capitales du monde (195 pays)",
+  "cards": [
+    {
+      "type": "Card",
+      "question": "Afghanistan ?",
+      "answer": "Kaboul",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Afrique du Sud ?",
+      "answer": "Pretoria",
+      "explanation": "Pretoria est la capitale administrative. Le Parlement siège au Cap et la Cour constitutionnelle à Bloemfontein.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Albanie ?",
+      "answer": "Tirana",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Algérie ?",
+      "answer": "Alger",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Allemagne ?",
+      "answer": "Berlin",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Andorre ?",
+      "answer": "Andorre-la-Vieille",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Angola ?",
+      "answer": "Luanda",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Antigua-et-Barbuda ?",
+      "answer": "Saint John’s",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Arabie saoudite ?",
+      "answer": "Riyad",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Argentine ?",
+      "answer": "Buenos Aires",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Arménie ?",
+      "answer": "Erevan",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Australie ?",
+      "answer": "Canberra",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Autriche ?",
+      "answer": "Vienne",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Azerbaïdjan ?",
+      "answer": "Bakou",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Bahamas ?",
+      "answer": "Nassau",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Bahreïn ?",
+      "answer": "Manama",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Bangladesh ?",
+      "answer": "Dacca (Dhaka)",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Barbade ?",
+      "answer": "Bridgetown",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Belgique ?",
+      "answer": "Bruxelles",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Belize ?",
+      "answer": "Belmopan",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Bénin ?",
+      "answer": "Porto-Novo",
+      "explanation": "Porto-Novo est la capitale officielle; Cotonou accueille le siège du gouvernement.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Bhoutan ?",
+      "answer": "Thimphou",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Biélorussie ?",
+      "answer": "Minsk",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Birmanie (Myanmar) ?",
+      "answer": "Naypyidaw",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Bolivie ?",
+      "answer": "Sucre",
+      "explanation": "Sucre est la capitale constitutionnelle; le gouvernement et le Parlement siègent à La Paz.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Bosnie-Herzégovine ?",
+      "answer": "Sarajevo",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Botswana ?",
+      "answer": "Gaborone",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Brésil ?",
+      "answer": "Brasilia",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Brunei ?",
+      "answer": "Bandar Seri Begawan",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Bulgarie ?",
+      "answer": "Sofia",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Burkina Faso ?",
+      "answer": "Ouagadougou",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Burundi ?",
+      "answer": "Gitega",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Cambodge ?",
+      "answer": "Phnom Penh",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Cameroun ?",
+      "answer": "Yaoundé",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Canada ?",
+      "answer": "Ottawa",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Cap-Vert ?",
+      "answer": "Praia",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Chili ?",
+      "answer": "Santiago",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Chine ?",
+      "answer": "Pékin",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Chypre ?",
+      "answer": "Nicosie",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Colombie ?",
+      "answer": "Bogota",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Comores ?",
+      "answer": "Moroni",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "République du Congo ?",
+      "answer": "Brazzaville",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Corée du Nord ?",
+      "answer": "Pyongyang",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Corée du Sud ?",
+      "answer": "Séoul",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Costa Rica ?",
+      "answer": "San José",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Côte d’Ivoire ?",
+      "answer": "Yamoussoukro",
+      "explanation": "Yamoussoukro est la capitale officielle; Abidjan demeure le principal centre économique et accueille plusieurs institutions.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Croatie ?",
+      "answer": "Zagreb",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Cuba ?",
+      "answer": "La Havane",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Danemark ?",
+      "answer": "Copenhague",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Djibouti ?",
+      "answer": "Djibouti",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Dominique ?",
+      "answer": "Roseau",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Égypte ?",
+      "answer": "Le Caire",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Salvador (El Salvador) ?",
+      "answer": "San Salvador",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Émirats arabes unis ?",
+      "answer": "Abou Dabi",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Équateur ?",
+      "answer": "Quito",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Érythrée ?",
+      "answer": "Asmara",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Espagne ?",
+      "answer": "Madrid",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Estonie ?",
+      "answer": "Tallinn",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Eswatini ?",
+      "answer": "Mbabane",
+      "explanation": "Mbabane est la capitale administrative; Lobamba est la capitale royale et législative.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "États-Unis ?",
+      "answer": "Washington, D.C.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Éthiopie ?",
+      "answer": "Addis-Abeba",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Fidji ?",
+      "answer": "Suva",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Finlande ?",
+      "answer": "Helsinki",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "France ?",
+      "answer": "Paris",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Gabon ?",
+      "answer": "Libreville",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Gambie ?",
+      "answer": "Banjul",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Géorgie ?",
+      "answer": "Tbilissi",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Ghana ?",
+      "answer": "Accra",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Grèce ?",
+      "answer": "Athènes",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Grenade ?",
+      "answer": "Saint George’s",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Guatemala ?",
+      "answer": "Guatemala (ville)",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": " Guinée ?",
+      "answer": "Conakry",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Guinée-Bissau ?",
+      "answer": "Bissau",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Guinée équatoriale ?",
+      "answer": "Ciudad de la Paz",
+      "explanation": "La capitale officielle a été transférée de Malabo à Ciudad de la Paz en janvier 2026.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Guyana ?",
+      "answer": "Georgetown",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "aïti ?",
+      "answer": "Port-au-Prince",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Honduras ?",
+      "answer": "Tegucigalpa",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Hongrie ?",
+      "answer": "Budapest",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Îles Marshall ?",
+      "answer": "Majuro",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Îles Salomon ?",
+      "answer": "Honiara",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Inde ?",
+      "answer": "New Delhi",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Indonésie ?",
+      "answer": "Jakarta",
+      "explanation": "Le transfert vers Nusantara est en cours; Jakarta reste le siège des principales fonctions gouvernementales pendant la transition.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Irak ?",
+      "answer": "Bagdad",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Iran ?",
+      "answer": "Téhéran",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Irlande ?",
+      "answer": "Dublin",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Islande ?",
+      "answer": "Reykjavik",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Israël ?",
+      "answer": "Jérusalem",
+      "explanation": "Israël considère Jérusalem comme sa capitale; le statut de la ville est contesté au niveau international.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Italie ?",
+      "answer": "Rome",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Jamaïque ?",
+      "answer": "Kingston",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Japon ?",
+      "answer": "Tokyo",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Jordanie ?",
+      "answer": "Amman",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Kazakhstan ?",
+      "answer": "Astana",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Kenya ?",
+      "answer": "Nairobi",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Kirghizistan ?",
+      "answer": "Bichkek",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Kiribati ?",
+      "answer": "Tarawa-Sud",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Koweït ?",
+      "answer": "Koweït",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Laos ?",
+      "answer": "Vientiane",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Lesotho ?",
+      "answer": "Maseru",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Lettonie ?",
+      "answer": "Riga",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Liban ?",
+      "answer": "Beyrouth",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Libéria ?",
+      "answer": "Monrovia",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Libye ?",
+      "answer": "Tripoli",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Liechtenstein ?",
+      "answer": "Vaduz",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Lituanie ?",
+      "answer": "Vilnius",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Luxembourg ?",
+      "answer": "Luxembourg",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Macédoine du Nord ?",
+      "answer": "Skopje",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Madagascar ?",
+      "answer": "Antananarivo",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Malaisie ?",
+      "answer": "Kuala Lumpur",
+      "explanation": "Kuala Lumpur est la capitale officielle; Putrajaya accueille une grande partie de l’administration fédérale.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Malawi ?",
+      "answer": "Lilongwe",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Maldives ?",
+      "answer": "Malé",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Mali ?",
+      "answer": "Bamako",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Malte ?",
+      "answer": "La Valette",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Maroc ?",
+      "answer": "Rabat",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Maurice ?",
+      "answer": "Port-Louis",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Mauritanie ?",
+      "answer": "Nouakchott",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Mexique ?",
+      "answer": "Mexico",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "États fédérés de Micronésie ?",
+      "answer": "Palikir",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Moldavie ?",
+      "answer": "Chișinău",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Monaco ?",
+      "answer": "Monaco",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Mongolie ?",
+      "answer": "Oulan-Bator",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Monténégro ?",
+      "answer": "Podgorica",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Mozambique ?",
+      "answer": "Maputo",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Namibie ?",
+      "answer": "Windhoek",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Nauru ?",
+      "answer": "Yaren (siège du gouvernement)",
+      "explanation": "Nauru n’a pas de capitale officielle; le district de Yaren accueille les principales institutions gouvernementales.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Népal ?",
+      "answer": "Katmandou",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Nicaragua ?",
+      "answer": "Managua",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Niger ?",
+      "answer": "Niamey",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Nigeria ?",
+      "answer": "Abuja",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Norvège ?",
+      "answer": "Oslo",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Nouvelle-Zélande ?",
+      "answer": "Wellington",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Oman ?",
+      "answer": "Mascate",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Ouganda ?",
+      "answer": "Kampala",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Ouzbékistan ?",
+      "answer": "Tachkent",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Pakistan ?",
+      "answer": "Islamabad",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Palaos ?",
+      "answer": "Ngerulmud",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Palestine ?",
+      "answer": "Jérusalem-Est",
+      "explanation": "Jérusalem-Est est revendiquée comme capitale; Ramallah accueille une partie des institutions administratives palestiniennes.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Panama ?",
+      "answer": "Panama",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Papouasie-Nouvelle-Guinée ?",
+      "answer": "Port Moresby",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Paraguay ?",
+      "answer": "Asunción",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Pays-Bas ?",
+      "answer": "Amsterdam",
+      "explanation": "Amsterdam est la capitale constitutionnelle; le gouvernement et le Parlement siègent à La Haye.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Pérou ?",
+      "answer": "Lima",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Philippines ?",
+      "answer": "Manille",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Pologne ?",
+      "answer": "Varsovie",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Portugal ?",
+      "answer": "Lisbonne",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Qatar ?",
+      "answer": "Doha",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "République centrafricaine ?",
+      "answer": "Bangui",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "République démocratique du Congo ?",
+      "answer": "Kinshasa",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "République dominicaine ?",
+      "answer": "Saint-Domingue",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "République tchèque ?",
+      "answer": "Prague",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Roumanie ?",
+      "answer": "Bucarest",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Royaume-Uni ?",
+      "answer": "Londres",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Russie ?",
+      "answer": "Moscou",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Rwanda ?",
+      "answer": "Kigali",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Saint-Christophe-et-Niévès ?",
+      "answer": "Basseterre",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Sainte-Lucie ?",
+      "answer": "Castries",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Saint-Marin ?",
+      "answer": "Saint-Marin",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Saint-Vincent-et-les-Grenadines ?",
+      "answer": "Kingstown",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Samoa ?",
+      "answer": "Apia",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "São Tomé-et-Príncipe ?",
+      "answer": "São Tomé",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Sénégal ?",
+      "answer": "Dakar",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Serbie ?",
+      "answer": "Belgrade",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Seychelles ?",
+      "answer": "Victoria",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Sierra Leone ?",
+      "answer": "Freetown",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Singapour ?",
+      "answer": "Singapour",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Slovaquie ?",
+      "answer": "Bratislava",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Slovénie ?",
+      "answer": "Ljubljana",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Somalie ?",
+      "answer": "Mogadiscio",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Soudan ?",
+      "answer": "Khartoum",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Soudan du Sud ?",
+      "answer": "Djouba",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Sri Lanka ?",
+      "answer": "Sri Jayawardenepura Kotte",
+      "explanation": "C’est la capitale législative; Colombo reste le principal centre économique et accueille plusieurs institutions gouvernementales.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Suède ?",
+      "answer": "Stockholm",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Suisse ?",
+      "answer": "Berne",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Suriname ?",
+      "answer": "Paramaribo",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Syrie ?",
+      "answer": "Damas",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Tadjikistan ?",
+      "answer": "Douchanbé",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Tanzanie ?",
+      "answer": "Dodoma",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Tchad ?",
+      "answer": "N’Djamena",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Thaïlande ?",
+      "answer": "Bangkok",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Timor-Leste ?",
+      "answer": "Dili",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Togo ?",
+      "answer": "Lomé",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Tonga ?",
+      "answer": "Nukuʻalofa",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Trinité-et-Tobago ?",
+      "answer": "Port-d’Espagne (Port of Spain)",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Tunisie ?",
+      "answer": "Tunis",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Turkménistan ?",
+      "answer": "Achgabat",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Turquie ?",
+      "answer": "Ankara",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Tuvalu ?",
+      "answer": "Funafuti",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Ukraine ?",
+      "answer": "Kyiv",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Uruguay ?",
+      "answer": "Montevideo",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Vanuatu ?",
+      "answer": "Port-Vila",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Vatican ?",
+      "answer": "Cité du Vatican",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Venezuela ?",
+      "answer": "Caracas",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Vietnam ?",
+      "answer": "Hanoï",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Yémen ?",
+      "answer": "Sanaa",
+      "explanation": "Sanaa est la capitale constitutionnelle; en raison du conflit, le gouvernement internationalement reconnu siège principalement à Aden.",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Zambie ?",
+      "answer": "Lusaka",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    },
+    {
+      "type": "Card",
+      "question": "Zimbabwe ?",
+      "answer": "Harare",
+      "language": "fr",
+      "tags": [
+        "géographie",
+        "capitales"
+      ]
+    }
+  ]
+}

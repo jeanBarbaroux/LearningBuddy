@@ -30,8 +30,16 @@ body {
 }
 
 .nav-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   text-align: left;
   border-color: transparent;
+}
+
+.nav-item svg {
+  display: block;
+  flex: 0 0 auto;
 }
 
 .nav-item[aria-current="page"] {
