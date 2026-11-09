@@ -1,0 +1,175 @@
+/* Magellan design tokens of the v1 (MagellanTokens.xaml), for the light and dark themes.
+   The theme is chosen by the main process and applied with <html data-theme="light|dark">. */
+
+@font-face {
+  font-family: "Inter";
+  src: url("../../assets/fonts/Inter-Variable.ttf") format("truetype");
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("../../assets/fonts/JosefinSans-Variable.ttf") format("truetype");
+  font-weight: 100 700;
+}
+
+:root {
+  /* Brand palette, identical in both themes */
+  --navy: #000082;
+  --midnight: #000038;
+  --cobalt: #2543b9;
+  --azure: #4a85f6;
+  --indigo: #4d30c6;
+  --indigo-light: #b9b4ff;
+  --saffron: #ffc33c;
+  --garnet: #ad1a48;
+  --garnet-light: #eaaabe;
+  --ochre: #ce893b;
+  --ochre-light: #fcc490;
+  --brand-gradient: linear-gradient(90deg, var(--navy), var(--cobalt), var(--azure));
+
+  /* Typography */
+  --font-body: "Inter", "Segoe UI Variable", "Segoe UI", system-ui, sans-serif;
+  --font-display: "Josefin Sans", var(--font-body);
+  --text-h3: 32px;
+  --text-h4: 24px;
+  --text-h5: 20px;
+  --text-h6: 18px;
+  --text-medium: 16px;
+  --text-control: 15px;
+  --text-small: 14px;
+  --text-xsmall: 12px;
+  --text-label: 11px;
+  --text-figure: 44px;
+
+  /* Spacing, radii and shadows */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --radius-small: 4px;
+  --radius: 8px;
+  --radius-large: 12px;
+  --radius-xlarge: 20px;
+  --radius-pill: 999px;
+  --shadow-small: 0 1px 4px rgb(13 13 18 / 10%);
+  --shadow-medium: 0 3px 12px rgb(13 13 18 / 12%);
+  --shadow-overlay: 0 8px 20px rgb(13 13 18 / 14%);
+  --control-height: 36px;
+}
+
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+  --canvas: #f6f8fb;
+  --surface: #ffffff;
+  --neutral-surface: #eef3f8;
+  --border: #d7dee8;
+  --border-card: #d7deea;
+  --track: #dbe2ec;
+  --text: #000038;
+  --text-secondary: #657085;
+  --inverse-surface: #000038;
+  --inverse-text: #ffffff;
+  --accent: #000082;
+  --accent-hover: #000038;
+  --accent-contrast: #ffffff;
+  --action-secondary: #2543b9;
+  --focus: #4a85f6;
+  --focus-halo: rgb(74 133 246 / 28%);
+  --field-border: #8792a6;
+  --nav-hover: rgb(0 0 56 / 8%);
+  --nav-pressed: rgb(0 0 56 / 14%);
+  --control-border: rgb(0 0 56 / 20%);
+  --control-border-strong: rgb(0 0 56 / 38%);
+  --pressed: #e3e9f2;
+  --disabled-surface: #eef3f8;
+  --disabled-text: rgb(0 0 56 / 38%);
+  --border-muted: rgb(0 0 56 / 11%);
+  --error: #ad1a48;
+  --error-contrast: #ffffff;
+  --error-surface: #f8e5eb;
+  --error-border: #e9b6c6;
+  --success: #0f7355;
+  --success-surface: #e2f1eb;
+  --success-border: #b3d9ca;
+  --info: #2543b9;
+  --info-surface: #e8ecfb;
+  --info-border: #c3cdf1;
+  --warning: #ce893b;
+  --warning-surface: #fdf1e3;
+  --warning-border: #f2cfa6;
+  --warning-text: #8a551f;
+  --selection: #ffe6b4;
+  --selection-subtle: #e8ecfb;
+  --tag-selected: #000038;
+  --tag-selected-hover: #000082;
+  --tag-selected-text: #ffffff;
+  --chart-unseen: #4d30c6;
+  --chart-series: #000082;
+  --chart-grid: #eef3f8;
+  --heatmap-0: #eef3f8;
+  --heatmap-1: #b9b4ff;
+  --heatmap-2: #4a85f6;
+  --heatmap-3: #2543b9;
+  --heatmap-4: #000082;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --canvas: #0a0b0d;
+  --surface: #141518;
+  --neutral-surface: #1a1a2e;
+  --border: #32354a;
+  --border-card: #32354a;
+  --track: #3b4252;
+  --text: #f0f0f0;
+  --text-secondary: #a0a0a0;
+  --inverse-surface: #000038;
+  --inverse-text: #f0f0f0;
+  --accent: #6f8cff;
+  --accent-hover: #8fa5ff;
+  --accent-contrast: #000038;
+  --action-secondary: #a8b6ff;
+  --focus: #9bb4ff;
+  --focus-halo: rgb(155 180 255 / 28%);
+  --field-border: #6b7487;
+  --nav-hover: rgb(240 240 240 / 8%);
+  --nav-pressed: rgb(240 240 240 / 14%);
+  --control-border: rgb(255 255 255 / 20%);
+  --control-border-strong: rgb(255 255 255 / 38%);
+  --pressed: #242a35;
+  --disabled-surface: rgb(255 255 255 / 10%);
+  --disabled-text: rgb(255 255 255 / 38%);
+  --border-muted: rgb(255 255 255 / 10%);
+  --error: #eaaabe;
+  --error-contrast: #000038;
+  --error-surface: #2f1119;
+  --error-border: #5e2234;
+  --success: #55c7a0;
+  --success-surface: #11291f;
+  --success-border: #22513f;
+  --info: #4a85f6;
+  --info-surface: #1c2448;
+  --info-border: #34407a;
+  --warning: #fcc490;
+  --warning-surface: #2e2210;
+  --warning-border: #5c4220;
+  --warning-text: #fcc490;
+  --selection: #ffc33c;
+  --selection-subtle: #1f2547;
+  --tag-selected: #6f8cff;
+  --tag-selected-hover: #8fa5ff;
+  --tag-selected-text: #000038;
+  --chart-unseen: #b9b4ff;
+  --chart-series: #a8b6ff;
+  --chart-grid: #24262c;
+  --heatmap-0: #1a1a2e;
+  --heatmap-1: #7d6be0;
+  --heatmap-2: #4a85f6;
+  --heatmap-3: #6f8cff;
+  --heatmap-4: #a8b6ff;
+}

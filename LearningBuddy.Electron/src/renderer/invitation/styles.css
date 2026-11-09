@@ -1,0 +1,29 @@
+html,
+body {
+  background: transparent;
+  height: 100%;
+  overflow: hidden;
+}
+
+.invitation {
+  height: calc(100% - 4px);
+  margin: 2px;
+  background: var(--surface);
+  border: 1px solid var(--border-card);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius-large);
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#invitation-text {
+  font-weight: 700;
+  font-size: var(--text-control);
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+}

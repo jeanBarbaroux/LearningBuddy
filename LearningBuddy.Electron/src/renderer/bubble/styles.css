@@ -1,79 +1,90 @@
+/* Review bubble: rounded panel with a tail pointing at the companion. The window background is
+   transparent; 12 px are kept on the companion side for the tail. */
+
 html,
 body {
-  margin: 0;
   background: transparent;
   overflow: hidden;
 }
 
-.bubble {
-  margin: 6px;
-  padding: 14px 16px 16px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-top: 4px solid var(--azure);
-  border-radius: 12px;
-  box-shadow: var(--shadow);
-  max-height: calc(100vh - 12px);
-  overflow-y: auto;
+body {
+  padding: 0 0 2px 12px;
 }
 
-header {
+body[data-side="left"] {
+  padding: 0 12px 2px 0;
+}
+
+.bubble {
+  --tail-y: 50%;
+  position: relative;
+  background: var(--surface);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-large);
+  box-shadow: var(--shadow-small);
+  max-height: 616px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Tail: a rotated square straddling the edge facing the companion. */
+.bubble::before {
+  content: "";
+  position: absolute;
+  top: calc(var(--tail-y) - 8px);
+  left: -8px;
+  width: 14px;
+  height: 14px;
+  background: var(--surface);
+  border-left: 1px solid var(--border-card);
+  border-bottom: 1px solid var(--border-card);
+  transform: rotate(45deg);
+}
+
+body[data-side="left"] .bubble::before {
+  left: auto;
+  right: -8px;
+  transform: rotate(-135deg);
+}
+
+.bubble-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 8px;
-  margin-bottom: 8px;
+  padding: 10px 10px 4px 16px;
 }
 
-.heading {
-  font-size: 12px;
-  color: var(--muted);
+.bubble-header h1 {
+  font-size: var(--text-h6);
 }
 
-.close {
-  border: none;
-  padding: 2px 8px;
-  background: transparent;
+.bubble-content {
+  padding: 4px 16px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: auto;
 }
 
 .question {
-  margin: 0 0 12px;
-  font-size: 15px;
+  font-size: var(--text-medium);
   font-weight: 600;
-  white-space: pre-wrap;
 }
 
-.answer,
-.explanation {
-  margin: 10px 0 0;
-  white-space: pre-wrap;
-}
-
-.answer {
-  padding: 10px 12px;
-  border-radius: 6px;
-  background: var(--azure-soft);
-}
-
-.explanation {
-  color: var(--muted);
-  font-size: 13px;
-}
-
-img {
-  display: block;
+.bubble-image {
   max-width: 100%;
-  margin: 8px 0;
-  border-radius: 6px;
+  max-height: 200px;
+  object-fit: contain;
+  border-radius: var(--radius);
 }
 
 .choices {
+  border: 0;
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
   gap: 6px;
-  margin: 0 0 8px;
-  padding: 0;
-  border: none;
 }
 
 .choice {
@@ -81,43 +92,109 @@ img {
   align-items: flex-start;
   gap: 8px;
   padding: 6px 8px;
-  border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-muted);
+  flex-wrap: wrap;
+  cursor: pointer;
 }
 
-.choice.correct-selected,
-.choice.correct-missed {
-  border-color: var(--success);
+.choice-text {
+  flex: 1;
+  overflow-wrap: anywhere;
 }
 
-.choice.correct-selected {
-  background: color-mix(in srgb, var(--success) 14%, transparent);
+.choice.correctSelected {
+  border-color: var(--success-border);
+  background: var(--success-surface);
 }
 
-.choice.incorrect-selected {
-  border-color: var(--danger);
-  background: color-mix(in srgb, var(--danger) 14%, transparent);
+.choice.incorrectSelected {
+  border-color: var(--error-border);
+  background: var(--error-surface);
+}
+
+.choice.correctMissed {
+  border-color: var(--warning-border);
+  background: var(--warning-surface);
+}
+
+.evaluation {
+  width: 100%;
+  font-size: var(--text-xsmall);
+  font-weight: 700;
+  padding-left: 26px;
+}
+
+.caption {
+  font-weight: 700;
+  color: var(--text-secondary);
+  font-size: var(--text-xsmall);
+  text-transform: uppercase;
+}
+
+.answer {
+  font-size: var(--text-control);
+}
+
+.explanation {
+  color: var(--text-secondary);
+}
+
+.answer-area {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.answer-area:empty {
+  display: none;
 }
 
 .actions {
   display: flex;
+  gap: 8px;
   flex-wrap: wrap;
+}
+
+.ratings {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: 6px;
-  margin-top: 14px;
 }
 
-.outcomes button {
-  flex: 1;
+.rating {
+  flex-direction: column;
+  gap: 0;
+  padding: 6px 4px;
+  min-height: 48px;
 }
 
-.outcome-again {
-  color: var(--danger);
+.level-change {
+  font-size: var(--text-label);
+  font-weight: 500;
+  opacity: 0.85;
 }
 
-.outcome-hard {
-  color: var(--warning);
+.rating-again {
+  background: var(--error-surface);
+  color: var(--error);
+  border-color: var(--error-border);
 }
 
-.outcome-good {
+.rating-hard {
+  background: var(--warning-surface);
+  color: var(--warning-text);
+  border-color: var(--warning-border);
+}
+
+.rating-good {
+  background: var(--success-surface);
   color: var(--success);
+  border-color: var(--success-border);
+}
+
+.rating-easy {
+  background: var(--info-surface);
+  color: var(--info);
+  border-color: var(--info-border);
 }

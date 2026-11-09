@@ -1,140 +1,18 @@
 <!doctype html>
 <html lang="fr">
 
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="Content-Security-Policy"
-    content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:">
+    content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'">
   <title>LearningBuddy</title>
-  <link rel="stylesheet" href="../shared.css">
+  <link rel="stylesheet" href="../styles/theme.css">
+  <link rel="stylesheet" href="../styles/components.css">
   <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-  <nav class="sidenav" aria-label="Navigation principale">
-    <div class="brand">LearningBuddy</div>
-    <button class="nav-item" data-page="home" aria-current="page">
-      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none"
-        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-        class="lucide lucide-house preview-icon">
-        <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8" />
-        <path
-          d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
-      </svg>
-      Accueil
-    </button>
-    <button class="nav-item" data-page="library">
-      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none"
-        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-        class="lucide lucide-library preview-icon">
-        <path d="m16 6 4 14" />
-        <path d="M12 6v14" />
-        <path d="M8 8v12" />
-        <path d="M4 4v16" />
-      </svg>
-      Bibliothèque
-    </button>
-    <button class="nav-item" data-page="packages">
-      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none"
-        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-        class="lucide lucide-layers preview-icon">
-        <path
-          d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z" />
-        <path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12" />
-        <path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17" />
-      </svg>
-      Paquets
-    </button>
-    <button class="nav-item" data-page="statistics">
-      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none"
-        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-        class="lucide lucide-chart-line preview-icon">
-        <path d="M3 3v16a2 2 0 0 0 2 2h16" />
-        <path d="m19 9-5 5-4-4-3 3" />
-      </svg>
-      Statistiques
-    </button>
-    <button class="nav-item" data-page="avatar">
-      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none"
-        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-        class="lucide lucide-user preview-icon">
-        <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" />
-        <circle cx="12" cy="7" r="4" />
-      </svg>
-      Avatar
-    </button>
-    <button class="nav-item" data-page="options">
-      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none"
-        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-        class="lucide lucide-settings preview-icon">
-        <path
-          d="M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915" />
-        <circle cx="12" cy="12" r="3" />
-      </svg>
-      Options
-    </button>
-  </nav>
-
-  <main>
-    <section id="page-home" class="page">
-      <h1>Accueil</h1>
-      <p class="muted">Votre compagnon de révision.</p>
-      <div class="card">
-        <h2>Assistant</h2>
-        <p id="assistant-status" class="status" role="status"></p>
-        <div class="actions">
-          <button id="assistant-toggle" class="primary"></button>
-          <button id="review-now">Révise maintenant</button>
-          <button id="companion-toggle"></button>
-        </div>
-      </div>
-      <div class="stats" aria-label="Statistiques">
-        <div class="stat"><span id="stat-packages" class="value">0</span><span class="label">paquets</span></div>
-        <div class="stat"><span id="stat-cards" class="value">0</span><span class="label">cartes</span></div>
-        <div class="stat"><span id="stat-due" class="value">0</span><span class="label">à revoir</span></div>
-        <div class="stat"><span id="stat-today" class="value">0</span><span class="label">révisées aujourd’hui</span>
-        </div>
-      </div>
-    </section>
-
-    <section id="page-library" class="page" hidden>
-      <h1>Bibliothèque</h1>
-      <p class="muted">Paquets fournis avec l’application.</p>
-      <ul id="library-list" class="list"></ul>
-    </section>
-
-    <section id="page-packages" class="page" hidden>
-      <h1>Paquets</h1>
-      <p class="muted">Les paquets cochés sont proposés par l’assistant.</p>
-      <div class="actions">
-        <button id="import-package" class="primary">Importer un fichier…</button>
-      </div>
-      <p id="import-result" role="status"></p>
-      <ul id="package-list" class="list"></ul>
-    </section>
-
-    <section id="page-options" class="page" hidden>
-      <h1>Options</h1>
-      <form id="options-form" class="card form">
-        <label>Pause entre deux séries (minutes)
-          <input id="option-interval" type="number" min="1" max="1440" required>
-        </label>
-        <label>Questions par série
-          <input id="option-questions" type="number" min="1" max="50" required>
-        </label>
-        <label class="checkbox">
-          <input id="option-wandering" type="checkbox">
-          Le compagnon se promène quand l’assistant est actif
-        </label>
-        <div class="actions">
-          <button type="submit" class="primary">Enregistrer</button>
-          <span id="options-result" role="status" class="muted"></span>
-        </div>
-      </form>
-    </section>
-  </main>
-
+  <div id="root"></div>
   <script src="main.js"></script>
 </body>
 

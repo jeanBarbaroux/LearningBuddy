@@ -1,16 +1,24 @@
-import { app, Menu, nativeImage, Tray, type BrowserWindow, type MenuItemConstructorOptions } from 'electron';
+// Notification area icon and the companion context menu (v1 CompanionTrayIcon, CompanionWindow menu).
+// Menus are rebuilt each time they open so that the countdown is always current.
+import { Menu, nativeImage, Tray, type BrowserWindow, type MenuItemConstructorOptions } from 'electron';
+import type { Language } from '../core/settings';
+import { text, type TextKey } from '../shared/i18n/i18n';
 import { APP_TITLE, iconPath } from './config';
 
 export interface TrayHost {
-  showMainWindow(): void;
-  reviewNow(): void;
-  setAssistantActive(active: boolean): void;
-  updateSettings(): void;
-  setCompanionVisible(visible: boolean): void;
+  readonly language: Language;
+  /** "Prochaine question dans 00:04:12." or null when there is nothing to show. */
+  countdownText(): string | null;
   readonly assistantActive: boolean;
   readonly companionVisible: boolean;
+  /** During a Teams meeting the companion cannot be shown. */
+  readonly canShowCompanion: boolean;
   readonly wanderingEnabled: boolean;
-  readonly menuWindow: BrowserWindow | null;
+  setCompanionVisible(visible: boolean): void;
+  toggleAssistant(): void;
+  showMainWindow(): void;
+  setWandering(enabled: boolean): void;
+  quit(): void;
 }
 
 export class TrayController {
@@ -21,43 +29,72 @@ export class TrayController {
   create(): void {
     this.tray = new Tray(nativeImage.createFromPath(iconPath()));
     this.tray.setToolTip(APP_TITLE);
-    this.tray.on('click', () => this.host.showMainWindow());
-    this.refresh();
+    // Left and right clicks open the same menu (v1).
+    const open = (): void => this.tray?.popUpContextMenu(this.trayMenu());
+    this.tray.on('click', open);
+    this.tray.on('right-click', open);
   }
 
-  refresh(): void {
-    this.tray?.setContextMenu(Menu.buildFromTemplate([
-      ...this.commonMenuItems(),
+  /** Balloon shown the first time the main window is closed. */
+  notify(message: string): void {
+    this.tray?.displayBalloon({ title: APP_TITLE, content: message, iconType: 'info' });
+  }
+
+  showCompanionMenu(window: BrowserWindow): void {
+    Menu.buildFromTemplate([
+      ...this.countdownItem(),
+      { label: this.t('HideCompanion'), click: () => this.host.setCompanionVisible(false) },
+      this.assistantItem(),
+      { label: this.t('ShowApplication'), click: () => this.host.showMainWindow() },
+      this.wanderingItem(),
+    ]).popup({ window });
+  }
+
+  destroy(): void {
+    this.tray?.destroy();
+    this.tray = null;
+  }
+
+  private trayMenu(): Menu {
+    const visible = this.host.companionVisible;
+    return Menu.buildFromTemplate([
+      ...this.countdownItem(),
+      {
+        label: this.t(visible ? 'HideCompanion' : 'ShowCompanion'),
+        enabled: visible || this.host.canShowCompanion,
+        click: () => this.host.setCompanionVisible(!visible),
+      },
       { type: 'separator' },
-      { label: 'Quitter', click: () => app.quit() },
-    ]));
-  }
-
-  private commonMenuItems(): MenuItemConstructorOptions[] {
-    return [
-      { label: 'Réviser maintenant', click: () => this.host.reviewNow() },
-      {
-        label: this.host.assistantActive ? 'Mettre l’assistant en pause' : 'Démarrer l’assistant',
-        click: () => this.host.setAssistantActive(!this.host.assistantActive),
-      },
-      {
-        label: 'Promenade du compagnon',
-        type: 'checkbox',
-        checked: this.host.wanderingEnabled,
-        click: () => this.host.updateSettings(),
-      },
-      {
-        label: this.host.companionVisible ? 'Masquer le compagnon' : 'Afficher le compagnon',
-        click: () => this.host.setCompanionVisible(!this.host.companionVisible),
-      },
+      this.assistantItem(),
+      { label: this.t('ShowApplication'), click: () => this.host.showMainWindow() },
       { type: 'separator' },
-      { label: 'Ouvrir LearningBuddy', click: () => this.host.showMainWindow() },
-    ];
+      this.wanderingItem(),
+      { type: 'separator' },
+      { label: this.t('ExitApplication'), click: () => this.host.quit() },
+    ]);
   }
 
-  showCompanionMenu(): void {
-    if (this.host.menuWindow) {
-      Menu.buildFromTemplate(this.commonMenuItems()).popup({ window: this.host.menuWindow });
-    }
+  private countdownItem(): MenuItemConstructorOptions[] {
+    const countdown = this.host.countdownText();
+    return countdown ? [{ label: countdown, enabled: false }, { type: 'separator' }] : [];
+  }
+
+  private assistantItem(): MenuItemConstructorOptions {
+    return {
+      label: this.t(this.host.assistantActive ? 'PauseAssistant' : 'ResumeAssistant'),
+      click: () => this.host.toggleAssistant(),
+    };
+  }
+
+  private wanderingItem(): MenuItemConstructorOptions {
+    const enabled = this.host.wanderingEnabled;
+    return {
+      label: this.t(enabled ? 'DisableCompanionWandering' : 'EnableCompanionWandering'),
+      click: () => this.host.setWandering(!enabled),
+    };
+  }
+
+  private t(key: TextKey): string {
+    return text(this.host.language, key);
   }
 }

@@ -1,15 +1,13 @@
-# LearningBuddy v2 — prototype Electron
+# LearningBuddy v2 — application Electron + React
 
-Base minimale d’une version Electron de LearningBuddy, avec un compagnon 3D rendu par
-[three.js](https://threejs.org/) (`WebGPURenderer`, repli automatique sur WebGL2) et des matériaux écrits en
-TSL (Three Shading Language).
-
-Le prototype est autonome (100 % TypeScript) et n’utilise pas les projets .NET. Les règles métier essentielles
-de `LearningBuddy.Core` ont été portées pour conserver les mêmes comportements.
+LearningBuddy est un assistant de révision par répétition espacée, avec des interfaces renderer réalisées
+en React. Un compagnon (un hibou 3D rendu avec
+[three.js](https://threejs.org/), `WebGPURenderer` avec repli WebGL2) reste sur le bureau et propose
+régulièrement des questions dans une bulle..
 
 ## Démarrage
 
-Prérequis : Node.js 22 ou plus récent.
+Prérequis : Node.js 22 ou plus récent, Windows (zone de notification, détection Teams).
 
 ```powershell
 cd LearningBuddy.Electron
@@ -18,82 +16,90 @@ npm start          # compile puis lance l’application
 npm run dev        # compile, lance et relance Electron après chaque modification
 ```
 
+## Créer l’installateur Windows
+
+Après l’installation des dépendances, générez l’installateur NSIS avec :
+
+```powershell
+npm run dist:win
+```
+
+La commande compile l’application puis place l’installateur `.exe` dans `release/`. L’assistant
+d’installation permet de choisir le dossier et crée des raccourcis Bureau et menu Démarrer. Les données
+de l’utilisateur restent dans `%APPDATA%\LearningBuddy\data`, même après la désinstallation.
+
 | Commande | Rôle |
 | --- | --- |
 | `npm start` | Compile (`dist/`) et lance Electron |
-| `npm run dev` | Compile, lance Electron et redémarre automatiquement après une modification de `src/` ou des paquets par défaut |
+| `npm run dev` | Relance automatiquement après une modification de `src/` ou de `../assets` |
 | `npm run typecheck` | Vérification TypeScript stricte |
-| `npm test` | Tests unitaires (Vitest) du cœur, du stockage et du contrôleur de révision |
-| `npm run test:e2e` | Tests de bout en bout de l’application réelle (Playwright + Electron) |
+| `npm test` | Tests unitaires (Vitest) : règles métier, stockage, services et contrôleur de révision |
+| `npm run test:e2e` | Scénarios de bout en bout sur l’application réelle (Playwright + Electron) |
+| `npm run dist:win` | Compile l’application et génère l’installateur NSIS dans `release/` |
 
-Lancement en arrière-plan (zone de notification uniquement) : `npx electron . --background`.
-La variable `LEARNING_BUDDY_USER_DATA` permet d’utiliser un profil isolé (utilisée par les tests).
+- `npx electron . --startup` démarre en arrière-plan (compagnon et icône de notification seulement), comme
+  au lancement de session Windows.
+- `LEARNING_BUDDY_USER_DATA` utilise un profil isolé ; `LEARNING_BUDDY_TEAMS_DETECTION=off` désactive la
+  détection Teams (utilisés par les tests).
+
+## Publier une version sur GitHub
+
+La pipeline crée une GitHub Release et y dépose l’installateur Windows lorsqu’un tag commençant par `v`
+est poussé. Le numéro du tag devient la version de l’application empaquetée ; les tags contenant un tiret,
+comme `v2.0.0-alpha.2`, sont publiés comme préversions.
+
+```powershell
+git tag v2.0.0-alpha.2
+git push origin v2.0.0-alpha.2
+```
 
 ## Fonctionnalités
 
-- **Fenêtre principale** : accueil (état de l’assistant, statistiques), bibliothèque des paquets fournis dans
-  `../assets/default-packages`, gestion des paquets (import d’un fichier JSON `learning-buddy`, sélection pour la
-  révision, suppression), options (pause entre séries, questions par série, promenade).
-- **Compagnon** : fenêtre transparente toujours au premier plan ; clic = réviser maintenant, glisser = déplacer
-  (position mémorisée), clic droit = menu ; les zones transparentes laissent passer les clics vers le bureau.
-- **Bulle de révision** placée à côté du compagnon : carte classique ou QCM, puis évaluation
-  À revoir / Difficile / Correct / Facile (raccourcis 1 à 4), « Passer », ou fermeture sans résultat (Échap).
-- **Zone de notification**, **instance unique**, fermeture de la fenêtre principale = masquage.
-- **Persistance locale** : un document JSON écrit de façon atomique dans le dossier `userData` d’Electron.
+| Espace | Contenu |
+| --- | --- |
+| **Accueil** | État de la session, démarrage/pause de l’assistant, question manuelle, réglages « Votre rythme » (par intervalle ou horaires fixes, délai de rappel), affichage et marche du compagnon |
+| **Bibliothèque** | Paquets fournis dans `../assets/default-packages` : recherche, aperçu des cartes, téléchargement |
+| **Paquets & questions** | Import JSON avec aperçu (correction ou exclusion de chaque carte), modèle JSON, sélection des paquets révisés, fréquences par paquet, export, renommage, suppression, gestion des cartes (recherche, filtre par niveau, éditeur avec QCM, images, langue, tags, niveau) |
+| **Statistiques** | Activité sur 52 semaines, indicateurs, état des cartes, autoévaluations, questions présentées et évolution des niveaux sur une période, pour tous les paquets ou un seul |
+| **Avatar** | Taille du compagnon et de la bulle (50–200 %), aperçu de la bulle |
+| **Options** | Langue (français, anglais), thème (système, clair, sombre), lancement au démarrage de Windows, masquage automatique après une série, pause pendant les réunions Teams |
 
-## Comportements conservés
+Hors de la fenêtre principale :
 
-| Comportement | Source .NET | Portage |
-| --- | --- | --- |
-| Niveaux et délais de révision, choix de la carte suivante (niveau le plus bas, rotation des paquets) | `ReviewScheduler` | `src/core/reviewScheduler.ts` |
-| Format d’import `learning-buddy` v1 et ses validations principales | `PackageImportParser` | `src/core/packageParser.ts` |
-| Priorités d’animation : disparition > apparition > sommeil > réaction > demande > déplacement > repos | `CompanionAnimationStateMachine` | `src/core/companionAnimationStateMachine.ts` |
-| Réactions : À revoir / Difficile → réfléchir ; Correct / Facile → célébrer | `CompanionCharacterStateMachine` | `src/core/avatarStoryboard.ts` |
-| Identifiants et durées des 8 animations du storyboard | `AvatarStoryboard` | `src/core/avatarStoryboard.ts` |
-| Promenade autonome, repos aléatoires, placement de la bulle | `CompanionWanderer`, `CompanionLayout` | `src/core/companionLayout.ts` |
-| Séries de questions et pause entre séries | `AssistantSession` | `src/core/assistantSession.ts` (simplifié) |
+- **Compagnon** : clic = question, glisser = déplacer (position mémorisée par écran), clic droit = menu,
+  promenade facultative, animations (apparition, sommeil quand l’assistant est arrêté, demande, réflexion
+  après « À revoir »/« Difficile », célébration après « Correct »/« Facile »).
+- **Bulle de révision** : question, image agrandissable, QCM à une ou plusieurs réponses, réponse,
+  explication avec liens, autoévaluation (raccourcis 1 à 4) avec changement de niveau, « Passer »,
+  « Mettre en pause », « Modifier la carte » ; la fermer (✕ ou Échap) termine sans résultat.
+- **Invitation** quand le compagnon est masqué : « Afficher », « Reporter N min », « Mettre en pause ».
+- **Zone de notification**, **instance unique**, fermeture de la fenêtre = masquage, veille et verrouillage
+  de session pris en compte, pause automatique pendant une réunion Teams.
 
-Comme dans la version WPF, le compagnon dort tant que l’assistant est en pause, y compris pendant une révision
-manuelle.
-
-## Compagnon 3D
-
-`src/renderer/companion/avatar.ts` construit un hibou procédural (aucun fichier de modèle). Les matériaux TSL
-combinent un dégradé de plumes bruité (`mx_noise_float`), une teinte d’humeur et un liseré de Fresnel dont
-l’intensité suit l’émotion. Chaque animation du storyboard (`idle`, `move`, `appear`, `disappear`, `request`,
-`think`, `celebrate`, `sleep`) est une pose procédurale ; les fins d’animations ponctuelles sont minutées à partir
-des durées du storyboard, indépendamment de la fréquence d’affichage.
-
-Pour passer à un modèle glTF animé, il suffit de remplacer `CompanionAvatar` en conservant ses méthodes `play`,
-`setQuestionDisplayed` et `hitTest` : la machine à états et le processus principal restent inchangés.
+Le format d’import est `learning-buddy` v1 ;
 
 ## Architecture
 
-```text
-src/
-  core/       logique métier pure, testée (aucune dépendance Electron)
-  main/       processus principal, organisé par responsabilité
-    main.ts              amorçage Electron et instance unique
-    application.ts       composition des services et orchestration applicative
-    windows/             création, placement et interactions des fenêtres
-    ipcController.ts     validation et routage des messages IPC
-    tray.ts              zone de notification et menus contextuels
-    config.ts            constantes et chemins de ressources
-    validation.ts        validation des arguments entrants
-    library.ts, store.ts stockage local et bibliothèque
-    reviewController.ts  orchestration des révisions
-  preload/    pont sécurisé (contextIsolation + sandbox) exposant window.learningBuddy
-  shared/     contrat IPC typé
-  renderer/   fenêtres main, companion (three.js/TSL) et bubble
-e2e/          scénarios Playwright sur l’application réelle
-```
+Le code est réparti entre les processus Electron et les règles métier. `core/` contient les règles sans
+accès à Electron; `shared/` contient des contrats et utilitaires partagés, ce n’est pas un processus.
+Le guide [ARCHITECTURE.md](ARCHITECTURE.md) explique le rôle de chaque dossier, le trajet d’une commande
+entre React et le processus principal, et les règles de dépendance à respecter.
 
-Les fenêtres utilisent `contextIsolation`, `sandbox`, une politique CSP stricte, et le processus principal valide
-l’origine et les arguments de chaque appel IPC.
+## Données locales
 
-## Non repris dans ce prototype
+Les données sont dans `%APPDATA%\LearningBuddy\data` (ou le profil de `LEARNING_BUDDY_USER_DATA`) :
 
-Planification à heures fixes, pause pendant les réunions Teams, invitation quand le compagnon est masqué,
-masquage automatique après une série, lancement au démarrage de Windows, éditeur de cartes, export, statistiques
-détaillées et chronologie, fréquences par paquet, choix et taille de l’avatar, interface anglaise, thèmes Magellan,
-migration des données SQLite de la v1 et empaquetage de l’installateur.
+| Fichier | Contenu |
+| --- | --- |
+| `settings.json` | Préférences |
+| `catalog.json` | Paquets et cartes (images en base64) |
+| `reviews.json` | État de révision de chaque carte et historique des présentations |
+
+Chaque fichier est écrit dans un fichier temporaire puis renommé ; une modification qui échoue est annulée
+en mémoire. Répondre à une question ne réécrit que `reviews.json`.
+
+## Différences avec la v1
+
+- Un seul avatar (le hibou 3D) : pas de choix d’apparence.
+- Les données SQLite de la v1 ne sont pas migrées : exportez vos paquets depuis la v1 puis importez-les.
+- Le lancement au démarrage de Windows n’est inscrit que pour l’application empaquetée.

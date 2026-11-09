@@ -1,4 +1,4 @@
-// Bundles the main process, the sandboxed preload and the three renderers into dist/.
+// Bundles the main process, the sandboxed preload and the renderers into dist/.
 import { build } from 'esbuild';
 import { cp, mkdir, rm } from 'node:fs/promises';
 import path from 'node:path';
@@ -6,12 +6,13 @@ import { fileURLToPath } from 'node:url';
 
 const root = path.dirname(fileURLToPath(import.meta.url));
 const dist = path.join(root, 'dist');
-const renderers = ['main', 'companion', 'bubble'];
+const assets = path.resolve(root, '..', 'assets');
+export const renderers = ['main', 'companion', 'bubble', 'invitation', 'image'];
 
 export async function buildApp() {
   await rm(dist, { recursive: true, force: true });
 
-  const common = { bundle: true, sourcemap: true, logLevel: 'warning', target: 'es2023' };
+  const common = { bundle: true, sourcemap: true, logLevel: 'warning', target: 'es2023', jsx: 'automatic' };
 
   await Promise.all([
     build({
@@ -47,9 +48,10 @@ export async function buildApp() {
     }
   }
 
-  await cp(path.join(root, 'src/renderer/shared.css'), path.join(dist, 'renderer/shared.css'));
+  await cp(path.join(root, 'src/renderer/styles'), path.join(dist, 'renderer/styles'), { recursive: true });
   await mkdir(path.join(dist, 'assets'), { recursive: true });
-  await cp(path.join(root, '../Assets/app.ico'), path.join(dist, 'assets/app.ico'));
+  await cp(path.join(assets, 'app.ico'), path.join(dist, 'assets/app.ico'));
+  await cp(path.join(assets, 'fonts'), path.join(dist, 'assets/fonts'), { recursive: true });
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {

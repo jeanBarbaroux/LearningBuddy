@@ -1,38 +1,30 @@
-// Sandboxed preload: exposes a narrow, typed API; renderers never get direct access to ipcRenderer.
+// Sandboxed preload: exposes a narrow bridge limited to the channels of the IPC contract; renderers never
+// get direct access to ipcRenderer.
 import { contextBridge, ipcRenderer } from 'electron';
-import { Channels, type LearningBuddyApi } from '../shared/ipc';
+import { Invoke, Push, Send, type LearningBuddyBridge, type Result } from '../shared/ipc';
 
-function subscribe<T>(channel: string, listener: (value: T) => void): void {
-  ipcRenderer.on(channel, (_event, value: T) => listener(value));
-}
+const invokeChannels = new Set<string>(Object.values(Invoke));
+const sendChannels = new Set<string>(Object.values(Send));
+const pushChannels = new Set<string>(Object.values(Push));
 
-const api: LearningBuddyApi = {
-  getState: () => ipcRenderer.invoke(Channels.getState),
-  onStateChanged: (listener) => subscribe(Channels.stateChanged, listener),
-  listLibrary: () => ipcRenderer.invoke(Channels.listLibrary),
-  downloadLibraryPackage: (id) => ipcRenderer.invoke(Channels.downloadLibraryPackage, id),
-  importPackageFile: () => ipcRenderer.invoke(Channels.importPackageFile),
-  deletePackage: (id) => ipcRenderer.invoke(Channels.deletePackage, id),
-  setPackageSelected: (id, selected) => ipcRenderer.invoke(Channels.setPackageSelected, id, selected),
-  setAssistantActive: (active) => ipcRenderer.invoke(Channels.setAssistantActive, active),
-  reviewNow: () => ipcRenderer.invoke(Channels.reviewNow),
-  updateSettings: (patch) => ipcRenderer.invoke(Channels.updateSettings, patch),
-  setCompanionVisible: (visible) => ipcRenderer.invoke(Channels.setCompanionVisible, visible),
+const bridge: LearningBuddyBridge = {
+  invoke: (channel, ...args) => {
+    if (!invokeChannels.has(channel)) {
+      return Promise.reject(new Error(`Canal inconnu : ${channel}`));
+    }
 
-  onCompanionState: (listener) => subscribe(Channels.companionState, listener),
-  onCompanionReaction: (listener) => subscribe(Channels.companionReaction, listener),
-  companionClick: () => ipcRenderer.send(Channels.companionClick),
-  companionContextMenu: () => ipcRenderer.send(Channels.companionContextMenu),
-  companionDragStart: () => ipcRenderer.send(Channels.companionDragStart),
-  companionDragMove: () => ipcRenderer.send(Channels.companionDragMove),
-  companionDragEnd: () => ipcRenderer.send(Channels.companionDragEnd),
-  companionHidden: () => ipcRenderer.send(Channels.companionHidden),
-  companionSetInteractive: (interactive) => ipcRenderer.send(Channels.companionSetInteractive, interactive),
-
-  onBubbleView: (listener) => subscribe(Channels.bubbleView, listener),
-  bubbleAnswer: (outcome) => ipcRenderer.send(Channels.bubbleAnswer, outcome),
-  bubbleClose: () => ipcRenderer.send(Channels.bubbleClose),
-  bubbleResize: (height) => ipcRenderer.send(Channels.bubbleResize, height),
+    return ipcRenderer.invoke(channel, ...args) as Promise<Result<unknown>>;
+  },
+  send: (channel, ...args) => {
+    if (sendChannels.has(channel)) {
+      ipcRenderer.send(channel, ...args);
+    }
+  },
+  on: (channel, listener) => {
+    if (pushChannels.has(channel)) {
+      ipcRenderer.on(channel, (_event, value: unknown) => listener(value));
+    }
+  },
 };
 
-contextBridge.exposeInMainWorld('learningBuddy', api);
+contextBridge.exposeInMainWorld('learningBuddy', bridge);

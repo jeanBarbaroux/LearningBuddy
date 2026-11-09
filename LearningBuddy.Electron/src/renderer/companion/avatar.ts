@@ -18,7 +18,7 @@ import {
   time,
   uniform,
 } from 'three/tsl';
-import { animationDurationMs, AvatarAnimation, type AvatarAnimationId } from '../../core/avatarStoryboard';
+import { animationDurationMs, AvatarAnimation, type AvatarAnimationId } from '../../core/companion/avatarStoryboard';
 
 const TAU = Math.PI * 2;
 
