@@ -1,6 +1,7 @@
-// The companion: a transparent, always-on-top window showing the 3D owl. Transparent pixels let the
+// The companion: a transparent, always-on-top window showing the 3D character. Transparent pixels let the
 // mouse through; the user can drag it (position saved per display) and it can wander on its own.
 import { BrowserWindow, screen, type Display } from 'electron';
+import type { AvatarCharacterId } from '../../core/companion/avatarCharacters';
 import type { CompanionReaction } from '../../core/companion/avatarStoryboard';
 import {
   canWander,
@@ -12,12 +13,18 @@ import {
 } from '../../core/companion/companionLayout';
 import type { ScreenPoint, ScreenRect } from '../../core/model';
 import type { CompanionPosition } from '../../core/settings';
-import { Push, type CompanionStateView } from '../../shared/ipc';
+import { Push, type CompanionPointerView, type CompanionStateView } from '../../shared/ipc';
 import { COMPANION_BASE_SIZE, hardenNavigation, rendererPage, secureWebPreferences } from '../config';
 
 export interface CompanionWindowHost {
   /** Conditions of the companion state machine and of wandering. */
-  companionConditions(): { paused: boolean; questionDisplayed: boolean; invitationDisplayed: boolean; wanderingAllowed: boolean };
+  companionConditions(): {
+    paused: boolean;
+    questionDisplayed: boolean;
+    invitationDisplayed: boolean;
+    wanderingAllowed: boolean;
+    character: AvatarCharacterId;
+  };
   savePosition(position: CompanionPosition): void;
   /** The window moved: the bubble follows it. */
   moved(): void;
@@ -34,6 +41,7 @@ export class CompanionWindow {
   private moving = false;
   private readonly wanderer = new CompanionWanderer();
   private lastWanderTick = Date.now();
+  private lastPointer: CompanionPointerView | null = null;
 
   constructor(private readonly host: CompanionWindowHost, sizePercent: number, saved: CompanionPosition | null) {
     this.size = sizeFor(sizePercent);
@@ -45,7 +53,7 @@ export class CompanionWindow {
       y: Math.round(this.position.y),
       show: false,
       frame: false,
-      transparent: false,
+      transparent: true,
       resizable: false,
       movable: false,
       minimizable: false,
@@ -99,6 +107,7 @@ export class CompanionWindow {
 
     this.visible = visible;
     if (visible) {
+      this.lastPointer = null;
       this.clampToScreen();
       this.window.showInactive();
     }
@@ -138,8 +147,33 @@ export class CompanionWindow {
       questionDisplayed: conditions.questionDisplayed,
       invitationDisplayed: conditions.invitationDisplayed,
       moving: this.moving,
+      character: conditions.character,
     };
     this.window.webContents.send(Push.companionState, state);
+  }
+
+  /** Sends the cursor and window positions when one of them changed, so the companion can look around. */
+  sendPointer(): void {
+    if (!this.visible || this.window.isDestroyed()) {
+      return;
+    }
+
+    const cursor = screen.getCursorScreenPoint();
+    const pointer: CompanionPointerView = {
+      cursorX: cursor.x,
+      cursorY: cursor.y,
+      centerX: Math.round(this.position.x + this.size / 2),
+      centerY: Math.round(this.position.y + this.size / 2),
+      size: this.size,
+    };
+    const last = this.lastPointer;
+    if (last && last.cursorX === pointer.cursorX && last.cursorY === pointer.cursorY
+      && last.centerX === pointer.centerX && last.centerY === pointer.centerY && last.size === pointer.size) {
+      return;
+    }
+
+    this.lastPointer = pointer;
+    this.window.webContents.send(Push.companionPointer, pointer);
   }
 
   // Dragging -----------------------------------------------------------------------------------------
@@ -148,6 +182,10 @@ export class CompanionWindow {
     const cursor = screen.getCursorScreenPoint();
     this.dragOffset = { x: cursor.x - this.position.x, y: cursor.y - this.position.y };
     this.wanderer.reset();
+    if (this.moving) {
+      this.moving = false;
+      this.sendState();
+    }
   }
 
   moveDrag(): void {
@@ -157,7 +195,10 @@ export class CompanionWindow {
 
     const cursor = screen.getCursorScreenPoint();
     const workArea = screen.getDisplayNearestPoint(cursor).workArea;
-    this.moveTo(clampToWorkArea(workArea, this.sizeRect(), { x: cursor.x - this.dragOffset.x, y: cursor.y - this.dragOffset.y }));
+    const next = clampToWorkArea(workArea, this.sizeRect(), { x: cursor.x - this.dragOffset.x, y: cursor.y - this.dragOffset.y });
+    if (next.x !== this.position.x || next.y !== this.position.y) {
+      this.moveTo(next);
+    }
   }
 
   endDrag(): void {
@@ -174,6 +215,12 @@ export class CompanionWindow {
     const now = Date.now();
     const elapsed = now - this.lastWanderTick;
     this.lastWanderTick = now;
+    if (this.dragOffset) {
+      // Follow the cursor even when no pointer event arrives (fast moves leaving the window).
+      this.moveDrag();
+      return;
+    }
+
     const conditions = this.host.companionConditions();
     const allowed = this.visible && canWander(!conditions.paused, conditions.questionDisplayed, this.isDragging, conditions.wanderingAllowed);
     let moved = false;

@@ -46,6 +46,24 @@ describe('CompanionAnimationStateMachine', () => {
     expect(machine.currentAnimationId).toBe('move');
   });
 
+  it('waits after the request while the question stays displayed', () => {
+    showAndSettle();
+    machine.setQuestionDisplayed(true);
+    machine.animationCompleted('request');
+    expect(machine.currentAnimationId).toBe('wait');
+    machine.setQuestionDisplayed(false);
+    expect(machine.currentAnimationId).toBe('idle');
+  });
+
+  it('dangles while dragged, even asleep, then goes back to its state', () => {
+    showAndSettle();
+    machine.setPaused(true);
+    machine.setDragging(true);
+    expect(machine.currentAnimationId).toBe('drag');
+    machine.setDragging(false);
+    expect(machine.currentAnimationId).toBe('sleep');
+  });
+
   it('gives reactions priority over request and returns afterwards', () => {
     showAndSettle();
     machine.setQuestionDisplayed(true);

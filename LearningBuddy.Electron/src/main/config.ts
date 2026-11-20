@@ -14,6 +14,8 @@ export const BUBBLE_GAP = 2;
 
 export const ASSISTANT_TICK_MS = 1000;
 export const WANDER_TICK_MS = 40;
+/** The companion follows the mouse with its eyes: cursor position is sent at most this often. */
+export const POINTER_TICK_MS = 33;
 
 export type RendererName = 'main' | 'companion' | 'bubble' | 'invitation' | 'image';
 

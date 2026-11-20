@@ -1,10 +1,12 @@
 import { useEffect, useRef, useState } from 'react';
+import { AVATAR_CHARACTER_INFO, type AvatarCharacterId } from '../../../core/companion/avatarCharacters';
 import { SettingsLimits } from '../../../core/settings';
 import type { AppStateView, PreferencesPatch } from '../../../shared/ipc';
 import { api } from '../../lib/api';
 import { errorMessage, t, tf } from '../../lib/i18n';
 import { Icon } from '../../react/Icon';
 import { state } from '../state';
+import { AvatarPreview } from './AvatarPreview';
 import { PageHeader } from './PageHeader';
 
 type SizeKey = 'avatarSizePercent' | 'bubbleSizePercent';
@@ -13,6 +15,7 @@ export function AvatarPage({ current, active }: { readonly current: AppStateView
   const [values, setValues] = useState<Record<SizeKey, string>>(() => sizeValues(current));
   const [messages, setMessages] = useState<Partial<Record<SizeKey, string>>>({});
   const [previewError, setPreviewError] = useState<string | null>(null);
+  const [characterError, setCharacterError] = useState<string | null>(null);
   const wasActive = useRef(false);
 
   useEffect(() => {
@@ -56,6 +59,13 @@ export function AvatarPage({ current, active }: { readonly current: AppStateView
     save(key, value);
   };
 
+  const chooseCharacter = (id: AvatarCharacterId): void => {
+    setCharacterError(null);
+    if (current.settings.avatarCharacter !== id) {
+      api.settings.updatePreferences({ avatarCharacter: id }).catch((error: unknown) => setCharacterError(errorMessage(error)));
+    }
+  };
+
   const togglePreview = async (): Promise<void> => {
     setPreviewError(null);
     try {
@@ -68,6 +78,30 @@ export function AvatarPage({ current, active }: { readonly current: AppStateView
   return (
     <section className="page" hidden={!active}>
       <PageHeader title={t('AvatarTitle')}/>
+      <div className="card">
+        <h2>{t('AvatarCharacterHeading')}</h2>
+        <p className="muted">{t('AvatarCharacterHint')}</p>
+        <div className="character-layout">
+          <AvatarPreview character={current.settings.avatarCharacter} active={active} />
+          <div className="character-options" role="radiogroup" aria-label={t('AvatarCharacterHeading')}>
+            {AVATAR_CHARACTER_INFO.map((info) => {
+              const selected = current.settings.avatarCharacter === info.id;
+              return (
+                <button key={info.id} type="button" role="radio" aria-checked={selected}
+                  className={selected ? 'character-option selected' : 'character-option'}
+                  onClick={() => chooseCharacter(info.id)}>
+                  <span className="character-emoji" aria-hidden="true">{info.emoji}</span>
+                  <span className="stack character-text">
+                    <span className="item-title">{t(info.name)}</span>
+                    <span className="muted small">{t(info.description)}</span>
+                  </span>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+        {characterError && <p className="field-error">{characterError}</p>}
+      </div>
       <div className="card">
         <h2>{t('AvatarSizeHeading')}</h2>
         <SizeRow label={t('AvatarSizeShortLabel')} accessibleLabel={t('AvatarSizeLabel')}

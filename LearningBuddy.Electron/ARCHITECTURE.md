@@ -7,10 +7,10 @@ différents côtés de l’application Electron.
 
 | Dossier | Responsabilité | Exemples |
 | --- | --- | --- |
-| `src/core/` | Règles métier et modèles indépendants de l’interface: cartes, révisions, statistiques, réglages et compagnon. | `review/reviewScheduler.ts`, `cards/cardContent.ts` |
+| `src/core/` | Règles métier et modèles indépendants de l’interface: cartes, paquets (format JSON, import, fréquences), révisions, statistiques, réglages et compagnon. | `review/reviewScheduler.ts`, `packages/packageFormat.ts` |
 | `src/main/` | Processus privilégié Electron: état de référence, orchestration, stockage, fichiers, fenêtres et intégrations Windows. | `application.ts`, `services/`, `data/`, `windows/` |
 | `src/preload/` | Petit pont sécurisé entre une page et Electron. Il expose seulement `window.learningBuddy`, jamais `ipcRenderer` directement. | `preload.ts` |
-| `src/renderer/` | Interfaces React dans le navigateur, une entrée par fenêtre. Aucun accès direct au système de fichiers ni à l’API Electron. | `main/pages/`, `bubble/`, `companion/`, `invitation/`, `image/` |
+| `src/renderer/` | Interfaces React dans le navigateur, une entrée par fenêtre. Aucun accès direct au système de fichiers ni à l’API Electron. | `main/pages/`, `bubble/`, `companion/`, `invitation/`, `image/`, `avatar/` |
 | `src/shared/` | Contrats et utilitaires sans accès à Electron, utilisés de part et d’autre de l’IPC. | `ipc.ts`, `i18n/`, `assistantStatus.ts` |
 
 Quelques repères complémentaires:
@@ -22,8 +22,12 @@ Quelques repères complémentaires:
 - `renderer/lib/api.ts` transforme le pont exposé par le preload en fonctions typées utilisables par React.
   Les composants communs sont dans `renderer/react/`; l’état et les pages de la fenêtre principale sont
   dans `renderer/main/`.
+- Le compagnon 3D est dans `renderer/avatar/`, partagé par la fenêtre du compagnon et l’aperçu de la
+  page Avatar: `characters/` construit chaque personnage, `choreography.ts` décrit les poses de chaque
+  animation et réaction, `CompanionAvatar.ts` les mélange et gère le rendu. Les règles testables (machine
+  à états, humeur, fatigue, micro-comportements, gestes de la souris) restent dans `core/companion/`.
 - `shared/ipc.ts` définit les canaux et les types échangés. Il importe certains types de `core/`; les
-  deux imports de `shared/i18n/texts.ts` depuis `core/` sont uniquement des imports de type, effacés à la
+  imports de `shared/i18n/texts.ts` depuis `core/` sont uniquement des imports de type, effacés à la
   compilation.
 
 ## Trajet d’une commande

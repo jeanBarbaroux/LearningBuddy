@@ -41,8 +41,8 @@
 AppPackages/
 publish/
 
-# NuGet
-**/packages/
+# NuGet (root folder only: src/core/packages/ is source code)
+/packages/
 *.nupkg
 *.snupkg
 *.nuget.g.props

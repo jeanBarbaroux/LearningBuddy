@@ -1,5 +1,6 @@
 // Contract between the main process and the windows: channel names, data exchanged and the bridge
 // exposed to every renderer as `window.learningBuddy` by the preload script.
+import type { AvatarCharacterId } from '../core/companion/avatarCharacters';
 import type { LocalizedMessage } from '../core/errors';
 import type { CardChoice, CardContent, CardType, RatingOutcome } from '../core/model';
 import type { DailyReviewSlot } from '../core/review/dailySchedule';
@@ -75,6 +76,7 @@ export const Push = {
   openCardEditor: 'app:open-card-editor',
   companionState: 'companion:state',
   companionReaction: 'companion:reaction',
+  companionPointer: 'companion:pointer',
   bubbleView: 'bubble:view',
   bubblePlacement: 'bubble:placement',
   imageView: 'image:view',
@@ -186,6 +188,7 @@ export interface PreferencesPatch {
   readonly launchAtStartup?: boolean;
   readonly autoHideCompanionAfterSeries?: boolean;
   readonly pauseDuringTeamsMeetings?: boolean;
+  readonly avatarCharacter?: AvatarCharacterId;
   readonly avatarSizePercent?: number;
   readonly bubbleSizePercent?: number;
 }
@@ -208,6 +211,17 @@ export interface CompanionStateView {
   readonly questionDisplayed: boolean;
   readonly invitationDisplayed: boolean;
   readonly moving: boolean;
+  readonly character: AvatarCharacterId;
+}
+
+/** Mouse cursor and companion window in screen coordinates (DIP), so the companion can follow both. */
+export interface CompanionPointerView {
+  readonly cursorX: number;
+  readonly cursorY: number;
+  /** Centre of the companion window. */
+  readonly centerX: number;
+  readonly centerY: number;
+  readonly size: number;
 }
 
 export interface BubbleCardView {

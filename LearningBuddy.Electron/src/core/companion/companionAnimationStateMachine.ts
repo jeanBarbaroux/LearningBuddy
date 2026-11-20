@@ -1,5 +1,6 @@
-// Port of LearningBuddy.Core/CompanionAnimationStateMachine.cs: resolves animation requests by priority
-// disappear > appear > sleep > reaction > request > move > idle.
+// Resolves animation requests by priority
+// disappear > appear > drag > sleep > reaction > request > move > wait > idle.
+// "wait" loops while a question or an invitation stays displayed after the request animation.
 import { AvatarAnimation, type AvatarAnimationId, type CompanionReaction } from './avatarStoryboard';
 
 export class CompanionAnimationStateMachine {
@@ -10,6 +11,7 @@ export class CompanionAnimationStateMachine {
   private questionDisplayed = false;
   private invitationDisplayed = false;
   private moving = false;
+  private dragging = false;
   private requestPending = false;
   private reaction: CompanionReaction | null = null;
 
@@ -84,6 +86,12 @@ export class CompanionAnimationStateMachine {
     this.resolve();
   }
 
+  /** The user is carrying the companion with the mouse. */
+  setDragging(isDragging: boolean): void {
+    this.dragging = isDragging;
+    this.resolve();
+  }
+
   /** Plays the reaction selected from the final, persisted review outcome. */
   setReaction(reaction: CompanionReaction | null): void {
     this.reaction = reaction;
@@ -109,7 +117,9 @@ export class CompanionAnimationStateMachine {
       case AvatarAnimation.Request:
         this.requestPending = false;
         break;
+      case AvatarAnimation.Sad:
       case AvatarAnimation.Think:
+      case AvatarAnimation.Happy:
       case AvatarAnimation.Celebrate:
         if (this.reaction === id) {
           this.reaction = null;
@@ -132,14 +142,18 @@ export class CompanionAnimationStateMachine {
       ? AvatarAnimation.Disappear
       : this.appearing
         ? AvatarAnimation.Appear
-        : this.paused
-          ? AvatarAnimation.Sleep
-          : this.reaction
-          ?? (this.requestPending
-            ? AvatarAnimation.Request
-            : this.moving
-              ? AvatarAnimation.Move
-              : AvatarAnimation.Idle);
+        : this.dragging
+          ? AvatarAnimation.Drag
+          : this.paused
+            ? AvatarAnimation.Sleep
+            : this.reaction
+            ?? (this.requestPending
+              ? AvatarAnimation.Request
+              : this.moving
+                ? AvatarAnimation.Move
+                : this.questionDisplayed || this.invitationDisplayed
+                  ? AvatarAnimation.Wait
+                  : AvatarAnimation.Idle);
     if (!forceRestart && this.currentAnimationId === id) {
       return;
     }

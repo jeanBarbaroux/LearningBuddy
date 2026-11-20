@@ -1,4 +1,5 @@
 // User preferences, their defaults and their limits (v1: app_settings table).
+import { DEFAULT_AVATAR_CHARACTER, isAvatarCharacter, type AvatarCharacterId } from './companion/avatarCharacters';
 import { LocalizedError } from './errors';
 import { validateDailySlots, type DailyReviewSlot } from './review/dailySchedule';
 
@@ -35,6 +36,7 @@ export interface AppSettings {
   readonly pauseDuringTeamsMeetings: boolean;
   readonly companionWanderingEnabled: boolean;
   readonly companionPosition: CompanionPosition | null;
+  readonly avatarCharacter: AvatarCharacterId;
   readonly avatarSizePercent: number;
   readonly bubbleSizePercent: number;
   /** The "still running in the notification area" notice is shown only once. */
@@ -57,6 +59,7 @@ export const DEFAULT_SETTINGS: AppSettings = {
   pauseDuringTeamsMeetings: true,
   companionWanderingEnabled: false,
   companionPosition: null,
+  avatarCharacter: DEFAULT_AVATAR_CHARACTER,
   avatarSizePercent: 100,
   bubbleSizePercent: 100,
   backgroundNoticeShown: false,
@@ -80,6 +83,7 @@ export function validateSettings(settings: AppSettings): AppSettings {
   const limits = SettingsLimits;
   check(LANGUAGES.includes(settings.language));
   check(THEME_PREFERENCES.includes(settings.theme));
+  check(isAvatarCharacter(settings.avatarCharacter));
   check(isIntegerIn(settings.intervalMinutes, limits.minIntervalMinutes, limits.maxIntervalMinutes));
   check(isIntegerIn(settings.questionsPerSeries, limits.minQuestionsPerSeries, limits.maxQuestionsPerSeries));
   check(isIntegerIn(settings.snoozeMinutes, limits.minSnoozeMinutes, limits.maxSnoozeMinutes));

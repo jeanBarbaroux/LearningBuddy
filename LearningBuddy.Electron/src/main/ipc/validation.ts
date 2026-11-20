@@ -1,4 +1,5 @@
 // Validation of the values received from the renderers: nothing coming through IPC is trusted.
+import { isAvatarCharacter } from '../../core/companion/avatarCharacters';
 import type { CardChoice, CardContent, ReviewOutcome } from '../../core/model';
 import { REVIEW_OUTCOMES } from '../../core/model';
 import { LANGUAGES, SettingsLimits, THEME_PREFERENCES, type Language, type ThemePreference } from '../../core/settings';
@@ -130,6 +131,11 @@ export function expectPreferences(value: unknown): PreferencesPatch {
     if (key in patch) {
       result[key] = expectBoolean(patch[key], key);
     }
+  }
+
+  if ('avatarCharacter' in patch) {
+    if (!isAvatarCharacter(patch.avatarCharacter)) throw new InvalidArgumentError('personnage');
+    result.avatarCharacter = patch.avatarCharacter;
   }
 
   for (const key of ['avatarSizePercent', 'bubbleSizePercent'] as const) {

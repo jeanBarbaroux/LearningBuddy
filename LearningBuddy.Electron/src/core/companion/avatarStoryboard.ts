@@ -1,14 +1,18 @@
-// Animation identifiers and timings of the approved storyboard (LearningBuddy.Core/AvatarStoryboard.cs).
-// The 3D avatar keeps the same identifiers and one-shot durations so the behaviour stays identical.
+// Animation identifiers, their durations and the reaction chosen for each review outcome.
+// One-shot animations report their completion to the state machine after `durationMs`.
 import type { ReviewOutcome } from '../model';
 
 export const AvatarAnimation = {
   Idle: 'idle',
   Move: 'move',
+  Drag: 'drag',
   Appear: 'appear',
   Disappear: 'disappear',
   Request: 'request',
+  Wait: 'wait',
   Think: 'think',
+  Sad: 'sad',
+  Happy: 'happy',
   Celebrate: 'celebrate',
   Sleep: 'sleep',
 } as const;
@@ -18,18 +22,23 @@ export type AvatarAnimationId = (typeof AvatarAnimation)[keyof typeof AvatarAnim
 export interface AvatarAnimationSpec {
   readonly id: AvatarAnimationId;
   readonly loop: boolean;
-  readonly frameDurationsMs: readonly number[];
+  /** Length of a one-shot animation, or of one cycle of a looping one. */
+  readonly durationMs: number;
 }
 
 export const AVATAR_ANIMATIONS: readonly AvatarAnimationSpec[] = [
-  { id: 'idle', loop: true, frameDurationsMs: [400, 200, 400, 150] },
-  { id: 'move', loop: true, frameDurationsMs: [100, 100, 100, 100] },
-  { id: 'appear', loop: false, frameDurationsMs: [60, 60, 80, 120] },
-  { id: 'disappear', loop: false, frameDurationsMs: [120, 80, 60, 40] },
-  { id: 'request', loop: false, frameDurationsMs: [100, 100, 180, 300] },
-  { id: 'think', loop: false, frameDurationsMs: [150, 250, 150, 350] },
-  { id: 'celebrate', loop: false, frameDurationsMs: [80, 100, 100, 160, 280] },
-  { id: 'sleep', loop: true, frameDurationsMs: [500, 500, 800, 1200] },
+  { id: 'idle', loop: true, durationMs: 3200 },
+  { id: 'move', loop: true, durationMs: 450 },
+  { id: 'drag', loop: true, durationMs: 1000 },
+  { id: 'appear', loop: false, durationMs: 900 },
+  { id: 'disappear', loop: false, durationMs: 650 },
+  { id: 'request', loop: false, durationMs: 1000 },
+  { id: 'wait', loop: true, durationMs: 4000 },
+  { id: 'think', loop: false, durationMs: 2000 },
+  { id: 'sad', loop: false, durationMs: 2600 },
+  { id: 'happy', loop: false, durationMs: 1600 },
+  { id: 'celebrate', loop: false, durationMs: 2600 },
+  { id: 'sleep', loop: true, durationMs: 4000 },
 ];
 
 export function findAnimation(id: AvatarAnimationId): AvatarAnimationSpec {
@@ -41,20 +50,32 @@ export function findAnimation(id: AvatarAnimationId): AvatarAnimationSpec {
   return spec;
 }
 
-/** Total length of one cycle of the animation, in milliseconds. */
 export function animationDurationMs(id: AvatarAnimationId): number {
-  return findAnimation(id).frameDurationsMs.reduce((sum, duration) => sum + duration, 0);
+  return findAnimation(id).durationMs;
 }
 
-export type CompanionReaction = typeof AvatarAnimation.Think | typeof AvatarAnimation.Celebrate;
+export const COMPANION_REACTIONS = [
+  AvatarAnimation.Sad,
+  AvatarAnimation.Think,
+  AvatarAnimation.Happy,
+  AvatarAnimation.Celebrate,
+] as const;
 
-/** Reaction played once a persisted outcome is known (CompanionCharacterStateMachine + storyboard mapping). */
+export type CompanionReaction = (typeof COMPANION_REACTIONS)[number];
+
+export function isCompanionReaction(value: unknown): value is CompanionReaction {
+  return typeof value === 'string' && (COMPANION_REACTIONS as readonly string[]).includes(value);
+}
+
+/** Reaction played once a persisted outcome is known: one distinct emotion per self-assessment. */
 export function reactionForOutcome(outcome: ReviewOutcome): CompanionReaction | null {
   switch (outcome) {
     case 'again':
+      return AvatarAnimation.Sad;
     case 'hard':
       return AvatarAnimation.Think;
     case 'good':
+      return AvatarAnimation.Happy;
     case 'easy':
       return AvatarAnimation.Celebrate;
     case 'passed':

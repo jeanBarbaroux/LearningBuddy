@@ -11,6 +11,7 @@ import {
   type BubblePlacementView,
   type BubbleView,
   type CardRow,
+  type CompanionPointerView,
   type CompanionStateView,
   type FileActionResult,
   type ImageView,
@@ -62,7 +63,7 @@ export const api = {
     onState: (listener: (state: AppStateView) => void) => on(Push.stateChanged, listener),
     onUiPreferences: (listener: (preferences: UiPreferences) => void) => on(Push.uiPreferences, listener),
     onOpenCardEditor: (listener: (cardId: string) => void) => on(Push.openCardEditor, listener),
-    /** Opens an http(s) link, or "other-resources" for the v1 wiki link. */
+    /** Opens an http(s) link in the default browser. */
     openExternal: (url: string) => call<void>(Invoke.openExternal, url),
   },
   assistant: {
@@ -110,6 +111,7 @@ export const api = {
   companionWindow: {
     onState: (listener: (state: CompanionStateView) => void) => on(Push.companionState, listener),
     onReaction: (listener: (reaction: CompanionReaction) => void) => on(Push.companionReaction, listener),
+    onPointer: (listener: (pointer: CompanionPointerView) => void) => on(Push.companionPointer, listener),
     click: () => bridge().send(Send.companionClick),
     contextMenu: () => bridge().send(Send.companionContextMenu),
     dragStart: () => bridge().send(Send.companionDragStart),

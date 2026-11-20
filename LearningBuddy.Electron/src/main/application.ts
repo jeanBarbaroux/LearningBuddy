@@ -2,12 +2,14 @@
 // commands called by the IPC router, the tray and the companion menu.
 import { app, BrowserWindow, dialog, nativeTheme, powerMonitor, shell } from 'electron';
 import path from 'node:path';
+import type { AvatarCharacterId } from '../core/companion/avatarCharacters';
 import type { CompanionReaction } from '../core/companion/avatarStoryboard';
 import { LocalizedError, type LocalizedMessage } from '../core/errors';
 import type { Card, CardContent, ReviewOutcome } from '../core/model';
 import { exportFileName } from '../core/packages/packageFormat';
 import { validateDailySlots } from '../core/review/dailySchedule';
 import { isIntegerIn, SettingsLimits, type CompanionPosition, type Language } from '../core/settings';
+import { isWebUrl } from '../core/text';
 import { countdownMenuText } from '../shared/assistantStatus';
 import { text, translate } from '../shared/i18n/i18n';
 import {
@@ -28,6 +30,7 @@ import { ReviewController, type ReviewControllerHost } from './assistant/reviewC
 import {
   ASSISTANT_TICK_MS,
   defaultPackagesDirectory,
+  POINTER_TICK_MS,
   teamsDetectionAllowed,
   WANDER_TICK_MS,
 } from './config';
@@ -109,6 +112,7 @@ export class LearningBuddyApplication implements ReviewControllerHost, TrayHost,
 
     this.timers.push(setInterval(() => this.controller.tick(), ASSISTANT_TICK_MS));
     this.timers.push(setInterval(() => this.companion.wanderTick(), WANDER_TICK_MS));
+    this.timers.push(setInterval(() => this.companion.sendPointer(), POINTER_TICK_MS));
     powerMonitor.on('lock-screen', () => this.controller.setLocked(true));
     powerMonitor.on('unlock-screen', () => this.controller.setLocked(false));
     powerMonitor.on('suspend', () => this.controller.suspendForSleep());
@@ -267,14 +271,28 @@ export class LearningBuddyApplication implements ReviewControllerHost, TrayHost,
     app.quit();
   }
 
+  /** Opens an http(s) link of a card in the default browser; any other scheme is refused. */
+  async openExternal(url: string): Promise<void> {
+    if (!isWebUrl(url)) {
+      throw new LocalizedError('ExternalLinkOpenFailedMessage', [url]);
+    }
+
+    try {
+      await shell.openExternal(url);
+    } catch (error) {
+      throw new LocalizedError('ExternalLinkOpenFailedMessage', [describeError(error)]);
+    }
+  }
+
   // CompanionWindowHost ------------------------------------------------------------------------------
 
-  companionConditions(): { paused: boolean; questionDisplayed: boolean; invitationDisplayed: boolean; wanderingAllowed: boolean } {
+  companionConditions(): { paused: boolean; questionDisplayed: boolean; invitationDisplayed: boolean; wanderingAllowed: boolean; character: AvatarCharacterId } {
     return {
       paused: this.controller.companionPaused,
       questionDisplayed: this.controller.questionDisplayed,
       invitationDisplayed: this.controller.isInvitationDisplayed,
       wanderingAllowed: this.settingsService.current.companionWanderingEnabled,
+      character: this.settingsService.current.avatarCharacter,
     };
   }
 

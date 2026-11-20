@@ -1,9 +1,9 @@
 # LearningBuddy v2 — application Electron + React
 
 LearningBuddy est un assistant de révision par répétition espacée, avec des interfaces renderer réalisées
-en React. Un compagnon (un hibou 3D rendu avec
+en React. Un compagnon 3D low-poly au choix (hibou, renard, chat ou robot, rendu avec
 [three.js](https://threejs.org/), `WebGPURenderer` avec repli WebGL2) reste sur le bureau et propose
-régulièrement des questions dans une bulle..
+régulièrement des questions dans une bulle.
 
 ## Démarrage
 
@@ -42,9 +42,12 @@ de l’utilisateur restent dans `%APPDATA%\LearningBuddy\data`, même après la 
 - `LEARNING_BUDDY_USER_DATA` utilise un profil isolé ; `LEARNING_BUDDY_TEAMS_DETECTION=off` désactive la
   détection Teams (utilisés par les tests).
 
-## Publier une version sur GitHub
+## Intégration continue et publication sur GitHub
 
-La pipeline crée une GitHub Release et y dépose l’installateur Windows lorsqu’un tag commençant par `v`
+Chaque push sur `main` et chaque pull request lancent la vérification de types, les tests unitaires et la
+compilation (`.github/workflows/ci.yml`).
+
+La pipeline de publication crée une GitHub Release et y dépose l’installateur Windows lorsqu’un tag commençant par `v`
 est poussé. Le numéro du tag devient la version de l’application empaquetée ; les tags contenant un tiret,
 comme `v2.0.0-alpha.2`, sont publiés comme préversions.
 
@@ -61,14 +64,20 @@ git push origin v2.0.0-alpha.2
 | **Bibliothèque** | Paquets fournis dans `../assets/default-packages` : recherche, aperçu des cartes, téléchargement |
 | **Paquets & questions** | Import JSON avec aperçu (correction ou exclusion de chaque carte), modèle JSON, sélection des paquets révisés, fréquences par paquet, export, renommage, suppression, gestion des cartes (recherche, filtre par niveau, éditeur avec QCM, images, langue, tags, niveau) |
 | **Statistiques** | Activité sur 52 semaines, indicateurs, état des cartes, autoévaluations, questions présentées et évolution des niveaux sur une période, pour tous les paquets ou un seul |
-| **Avatar** | Taille du compagnon et de la bulle (50–200 %), aperçu de la bulle |
+| **Avatar** | Choix du personnage avec aperçu 3D animé (essai des réactions), taille du compagnon et de la bulle (50–200 %), aperçu de la bulle |
 | **Options** | Langue (français, anglais), thème (système, clair, sombre), lancement au démarrage de Windows, masquage automatique après une série, pause pendant les réunions Teams |
 
 Hors de la fenêtre principale :
 
 - **Compagnon** : clic = question, glisser = déplacer (position mémorisée par écran), clic droit = menu,
-  promenade facultative, animations (apparition, sommeil quand l’assistant est arrêté, demande, réflexion
-  après « À revoir »/« Difficile », célébration après « Correct »/« Facile »).
+  promenade facultative. Animations : apparition (puis salut), sommeil quand l’assistant est arrêté,
+  demande puis attente (curieux, patient, puis impatient), une émotion par autoévaluation (tristesse puis
+  reprise après « À revoir », réflexion après « Difficile », joie après « Correct », fête après « Facile »),
+  balancement quand on le porte, marche orientée vers sa destination.
+  Personnalité : il suit la souris des yeux, cligne des yeux, s’occupe seul au repos (regarder autour,
+  bâiller, s’étirer, se toiletter, fredonner…), réagit au survol, aux caresses (mouvements lents), aux
+  chatouilles (mouvements rapides) et se vexe si on insiste ou si on le clique en boucle. Son humeur suit la
+  série de bonnes réponses, et il fatigue le soir et la nuit.
 - **Bulle de révision** : question, image agrandissable, QCM à une ou plusieurs réponses, réponse,
   explication avec liens, autoévaluation (raccourcis 1 à 4) avec changement de niveau, « Passer »,
   « Mettre en pause », « Modifier la carte » ; la fermer (✕ ou Échap) termine sans résultat.
@@ -76,7 +85,43 @@ Hors de la fenêtre principale :
 - **Zone de notification**, **instance unique**, fermeture de la fenêtre = masquage, veille et verrouillage
   de session pris en compte, pause automatique pendant une réunion Teams.
 
-Le format d’import est `learning-buddy` v1 ;
+## Format des paquets JSON
+
+Les paquets importés, exportés et fournis dans la bibliothèque utilisent le format `learning-buddy`, version 1
+(fichier UTF-8 de 50 Mio au plus). « Enregistrer un modèle » sur la page Paquets produit un exemple complet.
+
+```json
+{
+  "format": "learning-buddy",
+  "schemaVersion": 1,
+  "title": "Mon paquet",
+  "cards": [
+    { "type": "Card", "question": "Capitale de la France ?", "answer": "Paris", "language": "fr", "tags": ["géographie"] },
+    {
+      "type": "QCM",
+      "question": "Quels nombres sont pairs ?",
+      "choices": [{ "text": "1", "correct": false }, { "text": "2", "correct": true }],
+      "explanation": "Facultatif ; les liens http(s) et www. sont cliquables."
+    }
+  ]
+}
+```
+
+| Champ | Règle |
+| --- | --- |
+| `title` | 1 à 100 caractères |
+| `cards` | 1 à 5 000 cartes |
+| `type` | `Card` (par défaut) ou `QCM`, sans tenir compte de la casse |
+| `question` | Texte ; peut être omis ou vide si `image` est fourni |
+| `answer` | Obligatoire pour `Card` ; pour un `QCM`, reprend les bons choix s’il est omis |
+| `choices` | `QCM` uniquement : 2 à 10 choix distincts de 1 à 500 caractères, au moins un `correct: true` |
+| `image`, `answerImage` | PNG ou JPEG en base64, 4 Mio au plus, ou `null` |
+| `explanation`, `language` | Facultatifs ; `language` est une balise BCP 47 (`fr`, `en-US`…) |
+| `tags` | 20 au plus, de 1 à 64 caractères, doublons ignorés |
+
+Les propriétés inconnues ou dupliquées sont refusées ; le message d’erreur indique le chemin de la valeur
+fautive, par exemple `$.cards[2].answer`. Une question ou une réponse vide n’empêche pas l’ouverture du
+fichier : l’aperçu d’import permet de la corriger ou d’exclure la carte.
 
 ## Architecture
 
@@ -100,6 +145,6 @@ en mémoire. Répondre à une question ne réécrit que `reviews.json`.
 
 ## Différences avec la v1
 
-- Un seul avatar (le hibou 3D) : pas de choix d’apparence.
+- Quatre personnages au choix au lieu du hibou unique de la v1.
 - Les données SQLite de la v1 ne sont pas migrées : exportez vos paquets depuis la v1 puis importez-les.
 - Le lancement au démarrage de Windows n’est inscrit que pour l’application empaquetée.

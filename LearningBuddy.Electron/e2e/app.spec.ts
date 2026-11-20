@@ -84,7 +84,7 @@ test('reviews a series from a library package and the companion reacts', async (
   await expect(bubble.getByRole('button', { name: /Correct\s*Niv\. 0 → 1/ })).toBeVisible();
   await bubble.getByRole('button', { name: /Correct/ }).click();
 
-  await expect(companion.locator('body')).toHaveAttribute('data-animation', 'celebrate');
+  await expect(companion.locator('body')).toHaveAttribute('data-animation', 'happy');
   await expect(main.getByText(/Prochaine question dans 00:(09|10):/)).toBeVisible();
   await expect(companion.locator('body')).toHaveAttribute('data-animation', 'idle');
 
@@ -244,4 +244,14 @@ test('shows and hides the bubble preview from the Avatar page', async () => {
   await bubble.getByRole('button', { name: 'Révéler la réponse' }).click();
   await bubble.getByRole('button', { name: /Facile/ }).click();
   await expect(main.getByRole('button', { name: 'Aperçu de la bulle' })).toBeVisible();
+});
+
+test('chooses the companion character from the Avatar page', async () => {
+  const main = await windowFor('main');
+  const companion = await windowFor('companion');
+  await expect(companion.locator('body')).toHaveAttribute('data-character', 'owl');
+  await openPage(main, 'Avatar');
+  await main.getByRole('radio', { name: /Renard/ }).click();
+  await expect(main.getByRole('radio', { name: /Renard/ })).toHaveAttribute('aria-checked', 'true');
+  await expect(companion.locator('body')).toHaveAttribute('data-character', 'fox');
 });

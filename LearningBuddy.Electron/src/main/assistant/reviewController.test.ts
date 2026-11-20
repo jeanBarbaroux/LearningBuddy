@@ -70,13 +70,13 @@ describe('ReviewController', () => {
     const first = cardQuestion();
     expect(first).toBeDefined();
     review.answer('good');
-    expect(host.reactions).toEqual(['celebrate']);
+    expect(host.reactions).toEqual(['happy']);
     review.tick();
     const second = cardQuestion();
     expect(second).toBeDefined();
     expect(second).not.toBe(first);
     review.answer('again');
-    expect(host.reactions).toEqual(['celebrate', 'think']);
+    expect(host.reactions).toEqual(['happy', 'sad']);
     review.tick();
     expect(host.bubble).toBeNull();
     now += 10 * MINUTE;

@@ -33,6 +33,10 @@ jobs:
         working-directory: LearningBuddy.Electron
         run: npm ci
 
+      - name: Type check
+        working-directory: LearningBuddy.Electron
+        run: npm run typecheck
+
       - name: Run unit tests
         working-directory: LearningBuddy.Electron
         run: npm test
